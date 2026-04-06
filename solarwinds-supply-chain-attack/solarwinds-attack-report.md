@@ -141,7 +141,7 @@ The following table maps observed threat actor behaviors to MITRE ATT&CK techniq
 
 The diagram below provides a high‑level illustration of the attack path, commencing with the initial compromise of the SolarWinds build environment and culminating in the exfiltration of data from a victim's cloud services. The victim's Orion server is the key pivot point, serving as the conduit from the initial supply chain compromise to deep internal and cloud‑based access. The diagram shows the infiltration vector, the C2 communication channel, and the lateral movement path from the Orion server to critical assets such as a Domain Controller and ADFS server, and finally to cloud resources.
 
-![Diagram](screenshots/Diagram.png)
+![Diagram](Diagram.png)
 ---
 
 ## 6.0 Impact Analysis
