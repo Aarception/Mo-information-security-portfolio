@@ -1,6 +1,7 @@
 # 📁 Mo's Cybersecurity Portfolio Overview
 
-> This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.  
+This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
+
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 ---
@@ -12,7 +13,7 @@
 
 Contents:  
 - [solarwinds-attack-report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/solarwinds-supply-chain-attack/solarwinds-attack-report.md) — Full incident analysis  
-- [Diagram.png](https://github.com/Aarception/cybersecurity-portfolio/blob/main/solarwinds-supply-chain-attack/Diagram.png) — Network/attack path diagram  
+- [Diagram.png](https://github.com/Aarception/cybersecurity-portfolio/blob/main/solarwinds-supply-chain-attack/Diagram.png) — MITRE ATT&CK Matrix diagram  
 
 ---
 
