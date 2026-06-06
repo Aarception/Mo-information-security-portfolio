@@ -1,4 +1,4 @@
-# 📁 Mo's Cybersecurity Portfolio Overview
+# 📁 Mo's Information Security Portfolio Overview
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
 
