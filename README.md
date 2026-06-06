@@ -5,8 +5,33 @@ This repository contains incident‑driven cybersecurity case studies, penetrati
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 ---
+## 📜 1. Special Focus **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)**
+***Path:*** `/trust-infrastructure/`
 
-## 🧩 1. Case Studies
+
+
+ ◾ DCOTI → Inscription 
+   - **[Operational Trust Infrastructure](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/DCOTI_Neutral_Ledger_and_Framework_PA.PDF)** 
+        -  Neutral 🔸 Trust ledger
+        🎗️
+        - [Framework](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/DCOTI_Neutral_Ledger_and_Framework_PA.PDF)
+
+ ◾ RDA → Detection
+   -  **[Runtime Divergence Analysis](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/RDA_Runtime_Divergence_Analysis_Methodology_PA.PDF)**
+        -  Architecture 🔸 Coherence
+      📈
+        - [Methodology](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/RDA_Runtime_Divergence_Analysis_Methodology_PA.PDF)
+
+ ◾ VCI → Presentation
+   - **[Verified Credential Identifier](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/VCI_Verified_Credential_Identifier_Specification_PA.PDF)**
+       -  Identity 🔸 Verification
+      🤳
+       -  [Specification](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/VCI_Verified_Credential_Identifier_Specification_PA.PDF)
+ 
+
+
+
+## 🧩 2. Case Studies
 
 ### [SolarWinds Supply Chain Attack](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 **Path:** `/solarwinds-supply-chain-attack/`
@@ -17,7 +42,7 @@ Contents:
 
 ---
 
-## 🧩 2. Penetration Testing Workflows
+## 🧩 3. Penetration Testing Workflows
 
 ### [Metasploitable2 Penetration Testing](https://github.com/Aarception/cybersecurity-portfolio/tree/main/metasploitable2-penetration-testing)  
 **Path:** `/metasploitable2-penetration-testing/`
@@ -28,7 +53,7 @@ Contents:
 
 ---
 
-## 🧩 3. Technical Labs
+## 🧩 4. Technical Labs
 
 Hands‑on, reproducible exercises documenting analysis, exploitation, auditing, and system hardening.
 
@@ -50,7 +75,7 @@ All labs are located under:
 
 ---
 
-## 🧩 4. Shared Assets
+## 🧩 5. Shared Assets
 
 - [`/screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/screenshots) — Global screenshot directory  
 - Evidence captures embedded across labs and case studies  
@@ -58,7 +83,7 @@ All labs are located under:
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Assorted
 
 - [Expanding case study library](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 - [Strengthening evidence‑driven reporting](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs)  
