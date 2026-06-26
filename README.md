@@ -29,6 +29,11 @@ This repository contains incident‑driven cybersecurity case studies, penetrati
        -  [Specification](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/VCI_Verified_Credential_Identifier_Specification_PA.PDF)
  
 
+ ### [Normative Framework](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure/normative-framework.md)  ✒️
+**Path:** `/normative-framework/`
+
+On The Relationship Between Obligation and Representation:  📃
+- [normative-framework.md](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure/normative-framework.md) — The Basis for Integrity in The Digital Credential Ecosystem
 
 
 ## 🧩 2. Case Studies
