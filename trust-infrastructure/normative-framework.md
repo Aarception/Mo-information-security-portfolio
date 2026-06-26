@@ -52,7 +52,7 @@ Calibrated **disclosure requires** meaningful distinction between:
 
 > Where **no such integration exists,** representational framing should **correspond to functional equivalence.**
 
-### V. The Matter of Ambiguity in Governance
+### IV. The Matter of Ambiguity in Governance
 
 A structural reading of the dynamics reflected in this record identifies the condition of managing **Semantic Determinacy **. 
 
