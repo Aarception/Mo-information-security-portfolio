@@ -1,4 +1,7 @@
 # NORMATIVE FRAMEWORK
+
+---
+
 ## On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem
 **Date:** June 26, 2026
 
@@ -6,7 +9,7 @@
 
 ## I. Purpose
 
-### This appendix provides the normative framework through which the established findings should be interpreted. 
+- ### This appendix provides the normative framework through which the established findings should be interpreted. 
 
 It addresses **the obligations that arise** when representations of opportunity, alignment, or pathway participation concern **Reasonable Reliance** that presupposes some degree of corresponding **Operational Coherence** sufficient to sustain the meaning of the representation as it is reasonably understood.
 
@@ -14,8 +17,11 @@ The purpose is not evidentiary expansion, but interpretive clarification.
 
 It offers a **structured analytical framework** through which institutional communication, consumer interpretation, and operational architecture may be evaluated as a **single, unified, coherent system.**
 
+---
+
 ## II. Communication As a Feature
-The structural condition identified is **characteristic of a feature** in which there is communication regarding specific systemic alignments:
+
+- ### The structural condition identified is **characteristic of a feature** in which there is communication regarding specific systemic alignments:
 
 | Level of Operation | Mechanism |
 | :--- | :--- |
@@ -28,9 +34,11 @@ The structural condition identified is **characteristic of a feature** in which 
 
 It reflects a system in which opportunity **products are positioned** through narratives of recognition, access, and opportunity and their alignment and integration within opportunity **evaluative mechanisms.**
 
+---
+
 ## III. Normative Considerations of Reliance
 
-### The relevant normative standard is one of **Representational Correspondence**. 
+- ### The relevant normative standard is one of **Representational Correspondence**. 
 
 **When institutions communicate** employer recognition, hiring alignment, pathway participation, or opportunity proximity, **such representations should either:**
 
@@ -53,9 +61,11 @@ Calibrated **disclosure requires** meaningful distinction between:
 
 > Where **no such integration exists,** representational framing should **correspond to functional equivalence.**
 
+---
+
 ## IV. The Matter of Ambiguity in Governance
 
-### A structural reading of the dynamics reflected in this record identifies the condition of managing **Semantic Determinacy**. 
+- ### A structural reading of the dynamics reflected in this record identifies the condition of managing **Semantic Determinacy**. 
 
 > **Under such a condition, value may be generated through representations that are sufficiently broad to support aspirational interpretation, where operational determinacy may reflect independence from any specific functional mechanism.**
 
@@ -77,9 +87,11 @@ This is significant as a **matter of systems and structures,** and is necessary 
 
 > Representational integrity cannot be fully maintained unless functions can be identified for maintaining alignment between **Communication, Capability, and Coherence**.
 
+---
+
 ## V. Sustainable Trust And Economic Value
 
-### This appendix provides the normative framework through which the broader significance of the record may be understood. 
+- ### This appendix provides the normative framework through which the broader significance of the record may be understood. 
 
 The evidentiary material establishes the factual and procedural basis of the inquiry. This framework clarifies its **institutional relevance.**
 
