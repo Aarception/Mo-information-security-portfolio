@@ -36,7 +36,7 @@ On The Relationship Between Obligation and Representation:  ✍️
 - [normative-framework.md](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure/normative-framework.md) — The Basis for Integrity in The Digital Credential Ecosystem 🌐
 
 
-## 🧩 2. Case Studies
+## 📚 2. Case Studies
 
 ### [SolarWinds Supply Chain Attack](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 **Path:** `/solarwinds-supply-chain-attack/`
@@ -47,7 +47,7 @@ Contents:
 
 ---
 
-## 🧩 3. Penetration Testing Workflows
+## 💻 3. Penetration Testing Workflows
 
 ### [Metasploitable2 Penetration Testing](https://github.com/Aarception/cybersecurity-portfolio/tree/main/metasploitable2-penetration-testing)  
 **Path:** `/metasploitable2-penetration-testing/`
@@ -58,7 +58,7 @@ Contents:
 
 ---
 
-## 🧩 4. Technical Labs
+## 💾 4. Technical Labs
 
 Hands‑on, reproducible exercises documenting analysis, exploitation, auditing, and system hardening.
 
