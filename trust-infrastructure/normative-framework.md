@@ -1,9 +1,9 @@
 
-## <div align="center">Normative Framework</div>
+### <div align="center">NORMATIVE FRAMEWORK</div>
 
 ---
 
-# <div align="center">On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem
+## <div align="center">On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem
 **Date:** June 26, 2026</div>
 
 ---
