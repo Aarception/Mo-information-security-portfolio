@@ -3,7 +3,7 @@
 ***Praetor; not a greenhorn.***
 
 Consideration + Capital = Fecundity
-Consideration + (-Cost) = Frugality 
+Consideration + Cost = Frugality 
 
 Moral of the story: Frugality breeds scarcity, reduction, limitation, decline; Fecundity is PROSPERITY, production, expansion, growth!!
 
