@@ -2,8 +2,10 @@
 
 ***Praetor; not a greenhorn.***
 
+Consideration + Capital = Fecundity
+Consideration + (-Cost) = Frugality 
 
-Moral of the story: Frugality breeds scarcity; Fecundity is PROSPERITY.
+Moral of the story: Frugality breeds scarcity, reduction, limitation, decline; Fecundity is PROSPERITY, production, expansion, growth!!
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
 
