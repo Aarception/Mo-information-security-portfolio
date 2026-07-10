@@ -1,5 +1,7 @@
 # 📁 Mo's Information Security Portfolio Overview
 
+***Model me correctly friends—I am a Praetor; not a greenhorn*** ✍️ 
+
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
