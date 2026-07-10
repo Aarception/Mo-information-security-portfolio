@@ -1,12 +1,9 @@
 # 📁 Mo's Information Security Portfolio Overview
 
-***Model me correctly friends—I am a Praetor; not a greenhorn***
+***Praetor; not a greenhorn.***
 
-And thus I decree:
 
-***I saw consideration as capital, saving you a billion dollars; you saw consideration as a cost, rejecting me for a 100 thousand.*** ✍️ 
-
-Moral of the story: Frugality breeds scarcity; Fecundity breeds PROSPERITY.
+Moral of the story: Frugality breeds scarcity; Fecundity is PROSPERITY.
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
 
