@@ -8,8 +8,8 @@
 Moral of the story: You were the main opportunity.
 
 
-- Frugality breeds SCARCITY, reduction, limitation, decline; 
-- Fecundity is PROSPERITY, production, expansion, growth!!
+- Frugality breeds SCARCITY, reduction, limitation, minimization.
+- Fecundity is PROSPERITY, production, expansion, maximization!!
 
 Reality:
 
