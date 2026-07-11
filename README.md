@@ -5,11 +5,23 @@
 - *Consideration + Capital = Fecundity* 
 - *Consideration +   Cost    = Frugality*
 
-Moral of the story: 
+Moral of the story: You were the main opportunity.
+
 
 - Frugality breeds SCARCITY, reduction, limitation, decline; 
 - Fecundity is PROSPERITY, production, expansion, growth!!
 
+Reality:
+
+- February to April: Center of Opportunity
+- From May on: Not even the primary-source of Opportunity
+
+Modeling failed because of 'confirmation bias.' If thwre is a motive to capture, it is the opportunity of a "compliance mandate" with first-mover embedded privilege. This is trust-infrastructure. There can only be one, like GS1 in supply chains. Issuers can't build it & there is only a singular first mover privilege embedded in the compliance mandate's activation.
+
+Modeling failed because it presumed it was still the center of opportunity. It continues to fail, because it cannot accept it is not even necessary to achieving the business goal. 
+
+The strategy failed, because of the modeler's inability to model being the object of a relationship based on consideration, not dependency.
+---
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
