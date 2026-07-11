@@ -1,28 +1,7 @@
 # 📁 Mo's Information Security Portfolio Overview
 
 
-***Praetor; not a greenhorn.***
-
-- *Consideration + Capital = Fecundity* ⏳️ 
-- *Consideration +   Cost    = Frugality* ⌛️
-
-Moral of the story: the Mirror is Map.
-
-
-- Frugality = SCARCITY 🪫 reduction,➖️ limitation 📈 
-- Fecundity = PROSPERITY 🔋 production,💲 expansion 📊 
-
-Reality:
-
-- February to April: Opportunity-center
-- From May on: Opportunity-option
-  
-
-Modeling failed because of 'confirmation bias.' This is trust-infrastructure. There can only be one, like GS1 in supply chains. Issuers can't build it & there is only a singular first mover privilege embedded in the compliance mandate's activation.
-
-Modeling failed because it presumed it was still the center of opportunity. It continues to fail, because it cannot model it is not even necessary to achieving the business goal. 
-
-Modeling failed because of the modeler's inability to model being the object of a relationship based on consideration, not dependency.
+To model correctly, embrace being the object of a relationship based on consideration, not dependency.
 
 ---
 
