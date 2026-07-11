@@ -18,9 +18,9 @@ Reality:
 - From May on: Opportunity-option
   
 
-Modeling failed because of 'confirmation bias.' If thwre is a motive to capture, it is the opportunity of a "compliance mandate" with first-mover embedded privilege. This is trust-infrastructure. There can only be one, like GS1 in supply chains. Issuers can't build it & there is only a singular first mover privilege embedded in the compliance mandate's activation.
+Modeling failed because of 'confirmation bias.' This is trust-infrastructure. There can only be one, like GS1 in supply chains. Issuers can't build it & there is only a singular first mover privilege embedded in the compliance mandate's activation.
 
-Modeling failed because it presumed it was still the center of opportunity. It continues to fail, because it cannot accept it is not even necessary to achieving the business goal. 
+Modeling failed because it presumed it was still the center of opportunity. It continues to fail, because it cannot model it is not even necessary to achieving the business goal. 
 
 Modeling failed because of the modeler's inability to model being the object of a relationship based on consideration, not dependency.
 
