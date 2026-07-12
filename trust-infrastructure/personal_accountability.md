@@ -6,6 +6,6 @@ At what point does it stop being structural and starts implicating personal acco
 
 ---
 
-People will make mistakes. The whole purpose of redemption would be obsolete without it. Especially for someone who believes in restoration and making whole through consensus, rather than seeking punishment through retribution and coercion, I even value the capacity to identify being able to make a mistake and seek to redeem that capacity.
+People will make mistakes. The whole purpose of redemption would be obsolete without it. Especially for someone who believes in restoration and making whole through consensus, rather than seeking punishment through retribution and coercion, I even value the capacity to identify being able to make a mistake and seek to redeem that capability.
 
 TThere is still a little time. 
