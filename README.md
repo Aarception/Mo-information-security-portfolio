@@ -48,7 +48,7 @@ Structural Relationships
 
 There is 'game-theoretic' matrix.
 
-My methodology works.
+My methodology works well if you will wonder.
 
 ---
 
