@@ -25,32 +25,6 @@ THE CONVERSION TRAP
 
 Opportunity → Motive
 
-Transition from Quadrant 3 to Quadrant 4:
-
-- Dangle opportunity.
-  -  Capture motive.
-     -  Reclassify as "disgruntled."
-
-THE APOLOGIES
-
-Aha—the bait was taken.
-Dismiss as "disgruntled."
-
-Except, the Zrapper entered the Zrap.🙂
-
-Oubris is Ounting.🙂
-
-Self-Healing Structural Synergy 
-
- -  Quadrant 2 is mutually cut.
-    - Quadrant 1 counterbalances Quadrant 4.
-       - ☘️☘️☘️
-
-There is 'game-theoretic' matrix.
-
-My methodology works well if you were wondering.
-
-P.S. This has to be fixed. The only question is the choice between protagonist and antagonist.  I hope with you is protagonist, I have prepared for you as antagonist.
 
 ---
 
