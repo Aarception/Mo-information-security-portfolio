@@ -46,13 +46,9 @@ Structural Relationships
     - Quadrant 1 counterbalances Quadrant 4.
        - ☘️☘️☘️
 
-There is your matrix and game theory. 
+There is 'game-theoretic' matrix.
 
 My methodology works.
-
-I know legal is impressed. Very.
-
-Apologies to whoever was trying to clean up this mess back in April, before they find my integrity irritating. 
 
 ---
 
