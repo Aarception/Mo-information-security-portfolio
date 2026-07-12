@@ -54,6 +54,8 @@ I know legal is impressed. Very.
 
 Apologies to whoever was trying to clean up this mess back in April, before they find my integrity irritating. 
 
+---
+
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
