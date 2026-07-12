@@ -40,7 +40,7 @@ Except, the Zrapper entered the Zrap.🙂
 
 Oubris is Ounting.🙂
 
-Self-Healing Structural Relationships
+Self-Healing Structural Synergy 
 
  -  Quadrant 2 is mutually cut.
     - Quadrant 1 counterbalances Quadrant 4.
