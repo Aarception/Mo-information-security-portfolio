@@ -10,10 +10,10 @@ UPPERCASE RESEARCH — For Constructive Engagement
 | RESPONSIBILITY     | 1. M+, G−           | 2. M−, G−          |
 | DISCRETION         | 3. M+, G+           | 4. M−, G+          |
 
-1. REGULATION
-2. LAWSUIT
-3. WORK SAMPLE
-4. DISGRUNTLED
+1. Escalation 
+2. Complaint
+3. Work Sample
+4. Disgruntled 
 
 Consumer possesses Rights.
 Candidate seeks Privilege.
@@ -25,6 +25,9 @@ THE CONVERSION TRAP
 
 Opportunity → Motive
 
+2 is mutually cut, 1 and 4 rule each other out 
+
+☘️☘️☘️
 
 ---
 
