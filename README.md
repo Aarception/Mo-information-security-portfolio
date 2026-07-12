@@ -3,7 +3,7 @@
 
 To model correctly, embrace being the object of a relationship based on consideration, not dependency.
 
-UPPERCASE RESEARCH — For Constructive Engagement That Is Self-Healing
+UPPERCASE RESEARCH — For Constructive Engagement
 
 |                    | RIGHTS              | PRIVILEGE          |
 |--------------------|---------------------|--------------------|
@@ -40,7 +40,7 @@ Except, the Zrapper entered the Zrap.🙂
 
 Oubris is Ounting.🙂
 
-Structural Relationships
+Self-Healing Structural Relationships
 
  -  Quadrant 2 is mutually cut.
     - Quadrant 1 counterbalances Quadrant 4.
