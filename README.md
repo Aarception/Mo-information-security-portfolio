@@ -52,7 +52,6 @@ My methodology works well if you were wondering.
 
 P.S. This has to be fixed. The only question is the choice between protagonist and antagonist.  I hope with you is protagonist, I have prepared for you as antagonist.
 
-Values:Capitalism:Integrity
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
