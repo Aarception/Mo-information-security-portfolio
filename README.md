@@ -46,9 +46,9 @@ ANTI-CONVERSION
        Redirection: Conversion Trap
        Designing Opportunity: Holder>Issuer
 
-       Dangling opportunity, Designing motive
-       meet
-       Dangling motive, Designing opportunity
+  - Dangling opportunity, Designing motive
+  - ***meet*** 🤝
+  - Dangling motive, Designing opportunity 
 
 INTEGRITY IS ASSURANCE 
 
