@@ -37,14 +37,18 @@ Opportunity → Motive
 ANTI-CONVERSION
 
        Dangling Opportunity: Posting
-       Conversion: Holder to Issuer
-       Designing Motive: Disgruntled to Proprietor
+       Conversion: Holder>Issuer
+       Designing Motive: Disgruntled<Proprietor
 
-       Interception
+       INTERCEPTION 
    
        Dangling Motive: Apology
-       Redirection: Conversion 
-       Designing Opportunity: Holder to Issuer
+       Redirection: Conversion Trap
+       Designing Opportunity: Holder>Issuer
+
+       Dangling opportunity, Designing motive
+       meet
+       Dangling motive, Designing opportunity
 
 INTEGRITY IS ASSURANCE 
 
