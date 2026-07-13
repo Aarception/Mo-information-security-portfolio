@@ -3,12 +3,12 @@
 
 To model correctly, embrace being the object of a relationship based on consideration, not dependency.
 
-UPPERCASE RESEARCH — For Constructive Engagement
+For Constructive Engagement
 
 |                    | RIGHTS / Protected   | PRIVILEGE / Unprotected   |
 |--------------------|---------------------|--------------------|
-| RESPONSIBILITY / Dependent   | 1. M+, G−           | 2. M−, G−          |
-| DISCRETION  / Independent   | 3. M+, G+      | 4. M−, G+          |
+| RESPONSIBILITY / Dependent   | 1. M+, G− Holder>Issuer  | 2. M−, G− Claimant≠Issuer         |
+| DISCRETION  / Independent   | 3. M+, G+ Holder≈Proprietor    | 4. M−, G+  Claimant<Proprietor       |
 
 1. Escalation 
 2. Complaint
@@ -21,10 +21,12 @@ Candidate seeks Privilege.
 Issuer bears Responsibility.
 Institution exercises Discretion.
 
+
 THE CONVERSION TRAP
 
 Opportunity → Motive
 
+<
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
