@@ -5,10 +5,10 @@ To model correctly, embrace being the object of a relationship based on consider
 
 UPPERCASE RESEARCH — For Constructive Engagement
 
-|                    | RIGHTS              | PRIVILEGE          |
+|                    | RIGHTS / Protected   | PRIVILEGE / Unprotected   |
 |--------------------|---------------------|--------------------|
-| RESPONSIBILITY     | 1. M+, G−           | 2. M−, G−          |
-| DISCRETION         | 3. M+, G+           | 4. M−, G+          |
+| RESPONSIBILITY / Dependent   | 1. M+, G−           | 2. M−, G−          |
+| DISCRETION  / Independent   | 3. M+, G+      | 4. M−, G+          |
 
 1. Escalation 
 2. Complaint
@@ -24,10 +24,6 @@ Institution exercises Discretion.
 THE CONVERSION TRAP
 
 Opportunity → Motive
-
-2 is mutually cut, 1 and 4 rule each other out 
-
-☘️☘️☘️
 
 ---
 
