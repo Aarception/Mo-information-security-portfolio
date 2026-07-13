@@ -37,14 +37,14 @@ Opportunity → Motive
 ANTI-CONVERSION
 
        Dangling Opportunity: Posting
-       Conversion: Holder>Issuer
-       Designing Motive: Disgruntled<Proprietor
+       Conversion: Holder>Issuer→Claimant<Proprietor 
+       Designing Motive: Disgruntled
 
        INTERCEPTION 
    
        Dangling Motive: Apology
-       Redirection: Conversion Trap
-       Designing Opportunity: Holder>Issuer
+       Recursion: RDA Experimentation
+       Designing Opportunity: Accountability 
 
   - Dangling opportunity, Designing motive
   - ***meet*** 🤝
