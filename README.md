@@ -57,6 +57,8 @@ INTEGRITY IS ASSURANCE
     3. The Post-Submission Rider
     4. The Observation Logs
     5. Honesty, Transparency, Disclosure 
+
+You will like me more, the more you get to know me.🙂
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
