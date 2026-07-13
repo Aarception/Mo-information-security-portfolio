@@ -26,13 +26,13 @@ THE CONVERSION TRAP
 
 Opportunity → Motive
 
-Q1: M+, G-  → Holder > Issuer        → M>, G<
-Q2: M-, G-  → Claimant ≠ Issuer      → M≠, G≠
-Q3: M+, G+  → Holder ≈ Proprietor    → M≈, G≈
-Q4: M-, G+  → Claimant < Proprietor  → M<, G>
+    Q1: M+, G-  → Holder > Issuer        → M>, G<
+    Q2: M-, G-  → Claimant ≠ Issuer      → M≠, G≠
+    Q3: M+, G+  → Holder ≈ Proprietor    → M≈, G≈
+    Q4: M-, G+  → Claimant < Proprietor  → M<, G>
 
-Mo:     >  ≠  ≈  <   (descending)
-Google: <  ≠  ≈  >   (ascending)
+    M: >  ≠  ≈  <   (descending)
+    G: <  ≠  ≈  >   (ascending)
 
 🙂
 ---
