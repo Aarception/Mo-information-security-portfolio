@@ -15,11 +15,11 @@ For Constructive Engagement
 3. Work Sample
 4. Disgruntled 
 
-Consumer possesses Rights.
-Candidate seeks Privilege.
+       Consumer possesses Rights.
+       Candidate seeks Privilege.
 
-Issuer bears Responsibility.
-Institution exercises Discretion.
+       Issuer bears Responsibility.
+       Institution exercises Discretion.
 
 
 THE CONVERSION TRAP
@@ -58,7 +58,8 @@ INTEGRITY IS ASSURANCE
     4. The Observation Logs
     5. Honesty, Transparency, Disclosure 
 
-You will like me more, the more you get to know me.🙂
+
+### You will like me more, the more you get to know me.🙂
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
