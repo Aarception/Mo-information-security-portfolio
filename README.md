@@ -34,7 +34,17 @@ Opportunity → Motive
     M: >  ≠  ≈  <   (descending)
     G: <  ≠  ≈  >   (ascending)
 
-🙂
+ANTI-CONVERSION
+
+       Dangling Opportunity: Posting
+       Conversion: Holder to Issuer
+       Designing Motive: Disgruntled to Proprietor
+
+       Interception
+   
+       Dangling Motive: Apology
+       Redirection: Conversion 
+       Designing Opportunity: Holder to Issuer
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
