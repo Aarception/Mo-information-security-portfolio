@@ -1,7 +1,7 @@
 # 📁 Mo's Information Security Portfolio Overview
 
 
-LLooking to the future.
+Looking to the future.
 
 
 ---
