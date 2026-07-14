@@ -63,9 +63,15 @@ INTEGRITY IS ASSURANCE
 
 Having gained some production-experience in a low or trust-depleted international context, I realized the power of performance for establishing trust. An unwitnessed agreement is non-existent; the very act of trust-making must become a theatrical production. This is why I document everything. Memory must be inscribed or the truth doesn't exist. This inscription = ritual proof. It is what guarantees the the truth so trust can function. 
 
-Trust in my word is reinforced to capacity by the extent of their inscription. My promises have collateral. 
+Trust in this word is reinforced to capacity by the extent of their inscription. The promises have collateral. 
 
-I require one small trust-ensuring inscription. Could be a sentence. Could be from a non-official, temporary mask. Could be sent to encrypted address. The decision is made worth by the very production of it's purpose. 
+One small trust-ensuring inscription. Could be a sentence. Could be from a non-official, temporary mask. Could be sent to encrypted address. The decision is made worth by the very production of it's purpose. 
+
+Otherwise there is only cynical performance—
+
+—and for that, there is Governance By Theatrical Production.
+
+Acccountability performed in narrative, etiquette, and visual allegory.
 
 ---
 
