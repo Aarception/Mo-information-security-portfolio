@@ -1,6 +1,6 @@
 # 📁 Mo's Information Security Portfolio Overview
 
-Disclaimer: While RDA is attributable to M; M is not attributed to RDA.
+Disclaimer: While RDA is attributable; it is not attributed.
 
 ---
 
