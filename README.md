@@ -2,6 +2,8 @@
 
 Disclaimer: While RDA is attributable; it is not attributed.
 
+I hawe reeceived no indication that resolution is in sight nor is even a priority. As such, while the month of observation is still valid, I will start proceeding with regulatory submission as relevant.
+
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
