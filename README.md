@@ -2,6 +2,8 @@
 
 Immediate goal: Build a new, permanent, stand-alone Google Cybersecurity Certificate Design-Marketing Gap public repository for archiving.  The current material under trust-architecture will be frozen, while duplicated as part of their new, official repository. 
 
+Note: Since I have ruled out legal and civil claims, and have foreclosed further internal engagement as part of the July 9 Final Communications, Google if you would like to resolve this before the lapse of the final opportunity month for resolution, you are more than welcome. At the lapse of the stated time, procedure will trigger the submission of consumer, fiduciary, and governance obligations concerns to the FTC, 2 State offices including 2 AGs, the CFPB & the SEC, Depts of Labor & Education, and ESG board and investor inquiries. It is a very serious matter. My efforts at resolution reflect it. I hope the system rises to the occasion. It has been told so consistently it is a system, it has inertia, it cannot display agency, that the world's most agile institution has come to reflect it especially when we know the capacity for action behind the siloed structure is vastly different to the picture pushed forward. And you will excuse me with forgiveness for taking a familiar tone.
+
 Disclaimer: While RDA is attributable to M; M is not attributed to RDA.
 
 ---
