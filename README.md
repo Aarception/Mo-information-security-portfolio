@@ -5,7 +5,7 @@ Looking to the future.
 
 Immediate goal: Finish archiving. 
 
-Disclosure: While RDA is attributable to M; M is not attributed to RDA.
+Disclaimer: While RDA is attributable to M; M is not attributed to RDA.
 
 ---
 
