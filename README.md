@@ -5,6 +5,8 @@ Looking to the future.
 
 Immediate goal: Finish archiving. 
 
+Disclosure: While RDA is attributable to M; M is not attributed to RDA.
+
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
