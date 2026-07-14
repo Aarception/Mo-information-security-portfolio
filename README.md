@@ -2,7 +2,7 @@
 
 Disclaimer: While RDA is attributable; it is not attributed.
 
-I hawe reeceived no indication that resolution is in sight nor is even a priority. As such, while the month of observation is still valid, I will start proceeding with regulatory submission as relevant.
+I have received no indication that resolution is in sight nor is even a priority. As such, while the month of observation is still valid, I will start proceeding with regulatory submission as relevant.
 
 ---
 
