@@ -61,7 +61,7 @@ INTEGRITY IS ASSURANCE
 
 ### You will like me more, the more you get to know me.🙂
 
-Having gained some production-experience in a low or trust-depleted international context, I realized the power of performance for establishing trust. An unwitnessed agreement is non-existen; the very act of trust-making must become a theatrical production. This is why I document everything. Memory must be inscribed or the truth doesn't exist. This inscription = ritual proof. It is what guarantees the the truth so trust can function. 
+Having gained some production-experience in a low or trust-depleted international context, I realized the power of performance for establishing trust. An unwitnessed agreement is non-existent; the very act of trust-making must become a theatrical production. This is why I document everything. Memory must be inscribed or the truth doesn't exist. This inscription = ritual proof. It is what guarantees the the truth so trust can function. 
 
 Trust in my word is reinforced to capacity by the extent of their inscription. My promises have collateral. 
 
