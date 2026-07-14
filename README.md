@@ -6,6 +6,8 @@ Note: Since I have ruled out legal and civil claims, and have foreclosed further
 
 Disclaimer: While RDA is attributable to M; M is not attributed to RDA.
 
+Legal Disclaimer: Having ruled out litigation, I have not been under legal advice since March 15. Starting July 20, I will be soliciting legal  advice considering the potential regulatory steps possibly heading into. From March 15 until July 19, my communications should be considered without having been under the privilege of legal counsel.
+
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
