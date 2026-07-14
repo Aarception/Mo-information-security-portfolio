@@ -65,7 +65,7 @@ Having gained some production-experience in a low or trust-depleted internationa
 
 Trust in my word is reinforced to capacity by the extent of their inscription. My promises have collateral. 
 
-I require one small trust-ensuring inscription by email. Could be a sentence. Could be from a non-official, temporary mask. Could be sent to encrypted address. This decision would be made worthy by the very production of it's purpose. 
+I require one small trust-ensuring inscription by email. Could be a sentence. Could be from a non-official, temporary mask. Could be sent to encrypted address. The decision is made worth by the very production of it's purpose. 
 
 ---
 
