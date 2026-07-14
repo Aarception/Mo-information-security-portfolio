@@ -1,9 +1,6 @@
 # 📁 Mo's Information Security Portfolio Overview
 
-
-Looking to the future.
-
-Immediate goal: Finish archiving. 
+Immediate goal: Build a new, permanent, stand-alone Google Cybersecurity Certificate Design-Marketing Gap public repository for archiving.  The current material under trust-architecture will be frozen, while duplicated as part of their new, official repository. 
 
 Disclaimer: While RDA is attributable to M; M is not attributed to RDA.
 
