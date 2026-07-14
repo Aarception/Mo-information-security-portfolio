@@ -73,6 +73,8 @@ Otherwise there is only cynical performance—
 
 Acccountability performed in narrative, etiquette, and visual allegory.
 
+## The recurring fractal question: Why was the opportunity structured in a way that produced an expectation without corresponding operational support?
+
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
