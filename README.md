@@ -63,9 +63,10 @@ INTEGRITY IS ASSURANCE
 
 Having gained some production-experience in a low or trust-depleted international context, I realized the power of performance for establishing trust. An unwitnessed agreement is non-existen; the very act of trust-making must become a theatrical production. This is why I document everything. Memory must be inscribed or the truth doesn't exist. This inscription = ritual proof. It is what guarantees the the truth so trust can function. 
 
-Trust in my word is reinforced to capacity by the extent of their inscription. My promises have collateral.
+Trust in my word is reinforced to capacity by the extent of their inscription. My promises have collateral. 
 
 I require one small trust-ensuring inscription by email. Could be a sentence. Could be from a non-official, temporary mask. Could be sent to encrypted address. 
+
 ---
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
