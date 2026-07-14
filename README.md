@@ -1,7 +1,7 @@
 # 📁 Mo's Information Security Portfolio Overview
 
 
-To model correctly, embrace being the object of a relationship based on consideration, not dependency.
+LLooking to the future.
 
 
 ---
@@ -10,7 +10,6 @@ This repository contains incident‑driven cybersecurity case studies, penetrati
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
---
 
 ## 📜 1. Special Focus **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)** 🤝
 ***Path:*** `/trust-infrastructure/`
