@@ -77,7 +77,9 @@ Acccountability performed in narrative, etiquette, and visual allegory.
 
 Yes, I remain open to accessibility. That represents the best possible outcome. I have always said I want a mutually-agreeable resolution. However, I have pivoted from unsolicited internal engagement and am now preparing for the procedural escalation that will trigger as time continues to elapse.
 
-TTo understand how the one month terminal opportunity coukd be for the institution of my respect; one would have to model being the object of a relationship based on consideration.
+Even so, it is possible this git page could be discovered at any second by an interested party with a lot less consideration and a lot more intent to act with the knowledge. A number of acquaintances are already aware and any one of them could tip media, legal, or academia. It already contains the complete components of a brief.
+
+TTo understand how the one month terminal opportunity coukd be for the institution of my respect; one would have to model being the object of a relationship based on consideration
 
 ---
 
