@@ -30,7 +30,7 @@ To the one or two people in GWG who believe it is better for them individually i
 
 Be sensible.  I insist. Be sensible. 
 
--
+---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
