@@ -10,8 +10,6 @@ Next Step: Organize 270+ page dossier demonstrating hypothesis generation, contr
 
 ---
 
-This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
-
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 
@@ -69,6 +67,9 @@ Contents:
 ---
 
 ## 💾 4. Technical Labs
+
+
+This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
 
 Hands‑on, reproducible exercises documenting analysis, exploitation, auditing, and system hardening.
 
