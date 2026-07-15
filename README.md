@@ -6,7 +6,7 @@ Disclaimer: While RDA is attributable; it is not attributed.
 Next Step: Organize 270+ page dossier demonstrating hypothesis generation, controlled testing, data collection, legal/regulatory mapping, ethics/standards, risk and compliance auditing, with remediation design into a polished, published portfolio on Medium, Substack, and an academic preprint for EdTech leadership, adherents,  and wider concerned ecosystem.
 
 
-***Public Notice: To ensure the integrity of the digital credential ecosystem and support broader ESG commitments to equitable workforce access, the methodological frameworks (RDA, DCOTI, VCI) and their incubation materials are being archived as public goods for researchers, regulators, and industry practitioners.***
+***Public Notice: To ensure the integrity of the digital trust infrastructure, the methodological frameworks (RDA, DCOTI, VCI) and their incubation materials are being archived as public goods for researchers, regulators, and industry practitioners.***
 
 ---
 
