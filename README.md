@@ -38,6 +38,8 @@ I continueto to hope this resolves reasonably and becomes about redeeming [Trust
  
 ̶T̶o̶d̶a̶y̶'̶s̶ ̶P̶o̶s̶t̶i̶n̶g̶:̶ ̶M̶a̶y̶ ̶1̶3̶ ̶M̶a̶r̶k̶e̶t̶i̶n̶g̶ ̶O̶b̶s̶e̶r̶v̶a̶t̶i̶o̶n̶
 
+Claim: "We put our users first."
+Verdict: If that is true, then this concern would have been resolved with commendation, and remediation.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
