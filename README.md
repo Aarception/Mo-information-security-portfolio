@@ -15,7 +15,7 @@ This repository contains incident‑driven cybersecurity case studies, penetrati
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 
-## 📜 1. Special Focus **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)** 🤝
+## 📜 1. Open-Source Contribution to Digital **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)** And Workforce ESG 🤝
 ***Path:*** `/trust-infrastructure/`
 
 
