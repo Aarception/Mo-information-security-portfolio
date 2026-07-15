@@ -1,4 +1,4 @@
-# 📁 Mo's Information Security Portfolio Overview
+# 📁 Information Security Architecture & Trust Infrastructure Research
 
 Disclaimer: While RDA is attributable; it is not attributed.
 
@@ -13,7 +13,7 @@ Next Step: Organize 270+ page dossier demonstrating hypothesis generation, contr
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 
-## 📜 1. Open-Source Contribution to Digital **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)** And Workforce ESG 🤝
+## 📜 1. Open-Source Contribution to Digital **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)** Infrastructure Research🤝
 ***Path:*** `/trust-infrastructure/`
 
 
