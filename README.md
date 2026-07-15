@@ -24,9 +24,9 @@ I come from a long line of diplomats. I am not a pacifist. Model me accordingly 
 
 To the one or two people in GWG who believe it is better for them individually if this matter becomes an institution/system level vs. external escalation rather than resolved internally with possible individual impact, I wish to disabuse you of some assumptions:
 
-1. The response to the inquiry is now just as important as the original inquiry
-2. The ESG frame is entirely about individual decision-making
-3. The choice is between punitive externalization vs redemptive internalization
+1. The response to the inquiry is now just as important as the original inquiry, '&amp'
+2. the ESG frame is entirely about individual decision-making, '&amp'
+3. the choice is between punitive externalization vs redemptive internalization.
 
 Be sensible.  I insist. Be sensible. 
 
