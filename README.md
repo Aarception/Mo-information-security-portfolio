@@ -32,7 +32,7 @@ Be sensible.  I insist. Be sensible.
 
 Finally, I am exasperated, not escalating. Clarification =/= Condemnation. 
 
-I continueto to hope this resolves reasonably and becomes about redeeming [Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure) 🫂
+I continueto to hope this resolves reasonably and becomes about redeeming [Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure) 🎗
 
 ---
 
@@ -47,7 +47,7 @@ I continueto to hope this resolves reasonably and becomes about redeeming [Trust
  ◾ DCOTI → Inscription 
    - **[Operational Trust Infrastructure](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/DCOTI_Neutral_Ledger_and_Framework_PA.PDF)** 
         -  Neutral 🔸 Trust ledger
-        🎗️
+        ⭐️
         - [Framework](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/DCOTI_Neutral_Ledger_and_Framework_PA.PDF)
 
  ◾ RDA → Detection
