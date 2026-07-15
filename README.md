@@ -40,7 +40,9 @@ I continue to hope this resolves reasonably and becomes about redeeming [Trust](
 
     Claim: "We put our users first."
     Verdict: If true, this concern would have been resolved 
-    with commendation, and remediation.
+    with commendation, and remediation, and not rebuffed
+    with containment, and  refusal; being very reasonable
+    even correct, and right.
 
 ---
 
