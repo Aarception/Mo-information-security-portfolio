@@ -30,6 +30,10 @@ To the one or two people in GWG who believe it is better for them individually i
 
 Be sensible.  I insist. Be sensible. 
 
+Finally, I am exasperated, not escalating. Clarification =/= Condemnation. 
+
+I continueto to hope this resolves reasonably and becomes about redeeming [Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure) 🫂
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
