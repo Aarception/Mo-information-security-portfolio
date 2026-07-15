@@ -8,6 +8,9 @@ Next Step: Organize 270+ page dossier demonstrating hypothesis generation, contr
 
 ***Public Notice: To ensure the integrity of the digital trust infrastructure, the methodological frameworks (RDA, DCOTI, VCI) and their incubation materials are being archived as public goods for researchers, regulators, and industry practitioners.***
 
+Promises were conditional on mutually-agreeable resolution. Otherwise they are unearned entitlements. 
+
+Today's Posting: May 13 Marketing Observation
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
