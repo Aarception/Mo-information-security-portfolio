@@ -39,7 +39,7 @@ I continue to hope this resolves reasonably and becomes about redeeming [Trust](
 ̶T̶o̶d̶a̶y̶'̶s̶ ̶P̶o̶s̶t̶i̶n̶g̶:̶ ̶M̶a̶y̶ ̶1̶3̶ ̶M̶a̶r̶k̶e̶t̶i̶n̶g̶ ̶O̶b̶s̶e̶r̶v̶a̶t̶i̶o̶n̶
 
  
-***Note: Legitimate postings require approved headcount with an active hiring manager and defined business need; otherwise, this notice should be deemed unusual enough to warrant internal verification of institutional postings. It is important for institutional handling of this issue come to reflect 'coordinated consensus' in the interest of fairness to all involved parties.***
+***Note: Legitimate postings require approved headcount with an active hiring manager and defined business need; otherwise, this notice should be deemed unusual enough to warrant internal verification of institutional postings. It is important for institutional handling of this issue reflect 'coordinated consensus' in the interest of fairness to all involved parties.***
 
 ---
 
