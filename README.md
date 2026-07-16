@@ -10,7 +10,7 @@ The playbook, if one was ever wondering, is simple: precision, tact, diplomacy, 
 
     I. Detect a possible design anomaly.
 
-    II. Preserve evidence before escalation.
+    II. Calibrate proportional evidence disclosure.
 
     III. Separate personal outcome from systemic issue.
 
