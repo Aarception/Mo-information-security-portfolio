@@ -6,7 +6,8 @@ I hope this issue should be treated with the utmost seriousness and responsibili
 
 To resolution 🤝
 
-The playbook, ifl
+The playbook that is my personal methodology is quite simple and ordinary. It is precision, tact, diplomacy, integrity, and trust.
+    
     I. Detect a possible design anomaly.
 
     II. Calibrate proportional evidence disclosure.
