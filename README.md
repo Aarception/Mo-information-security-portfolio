@@ -8,7 +8,7 @@ To resolution 🤝
 
 The playbook, if one was ever wondering, is simple: precision, tact, diplomacy, integrity, patience.
 
-    I. Detect a possible structural mismatch.
+    I. Detect a possible design anomaly.
 
     II. Preserve evidence before escalation.
 
