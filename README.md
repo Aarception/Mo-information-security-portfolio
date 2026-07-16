@@ -4,12 +4,13 @@ I come from a long line of diplomats. I am not an activist, nor am I a pacifist.
 
 My speciality is Consilience Engineering. *E Pluribus Unum.*
 
-***Concern: It is important for institutional handling of this issue reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties.***
-
 
 Note: Having gained some international travel experience in a low or trust-depleted international context, I realized the power of performance for establishing trust. An unwitnessed agreement is nonexistent,  and what is non-existent cannot be proven true; the very act of trust-making itself must become a theatrical production. This is why I document everything. Memory must be inscribed or it doesn't exist. This inscription = ritual proof. It is what guarantees the truth so trust can function.
 
 Trust in my word is reinforced to capacity by the extent of their inscription. My memory registry is the guarantee that ensures my trust.
+
+
+***Concern: It is important for institutional handling of this issue reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties. And for this concern to be considered unusual enough to warrant internal need for institutional verification of sanctioned allowance regarding this matter.***
 
 ---
 
