@@ -10,7 +10,7 @@ Note: Having gained some international travel experience in a low or trust-deple
 Trust in my word is reinforced to capacity by the extent of their inscription. My memory registry is the guarantee that ensures my trust.
 
 
-***Concern: It is important that the institutional handling of this issue to reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties. And for this concern to be considered unusual enough to warrant internal need for institutional verification of sanctioned allowance regarding this matter.***
+***Concern: It is important that the institutional handling of this issue come to reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties. And for this concern to be considered unusual enough to warrant internal need for institutional verification of sanctioned allowance regarding this matter.***
 
 ---
 
