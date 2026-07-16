@@ -12,7 +12,7 @@ The playbook, if one was ever wondering, is simple: precision, tact, diplomacy, 
 
     II. Calibrate proportional evidence disclosure.
 
-    III. Separate personal outcome from systemic issue.
+    III. Separate personal liabilities from systemic issue.
 
     IV. Offer correction pathways.
 
