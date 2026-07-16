@@ -21,6 +21,7 @@ The playbook, if one was ever wondering, is simple: precision, tact, diplomacy, 
     VI. Analyze response design.
 
 That is all.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
