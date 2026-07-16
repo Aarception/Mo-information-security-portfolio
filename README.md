@@ -1,6 +1,6 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-Hope for the best, prepare for the worst. 
+Hope for the best, prepare for the worst. The single maxim at the heart of the entire interlude.
 
 Legal, academic, education, labor, and civil rights assessments and discussions being meticulously mapped out and planned. 
 
