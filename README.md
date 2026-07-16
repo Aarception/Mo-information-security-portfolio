@@ -1,4 +1,4 @@
-⁰o⅞up# 📁 Information Security Architecture & Trust Infrastructure Research
+# 📁 Information Security Architecture & Trust Infrastructure Research
 
 The single maxim at the heart of the entire interlude.
 
