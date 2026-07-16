@@ -2,7 +2,7 @@
 
 I come from a long line of diplomats. I am not an activist, nor am I a pacifist. Tact and restraint are calibrated and precise. Model me accordingly, if you must.
 
-***Concern: It is important for institutional handling of this issue come to reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties.***
+***Concern: It is important for institutional handling of this issue reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties.***
 
 ---
 
