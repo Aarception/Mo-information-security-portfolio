@@ -1,4 +1,4 @@
-# 📁 Information Security Architecture & Trust Infrastructure Research
+⁰o⅞up# 📁 Information Security Architecture & Trust Infrastructure Research
 
 The single maxim at the heart of the entire interlude.
 
@@ -6,19 +6,18 @@ I hope this issue should be treated with the utmost seriousness and responsibili
 
 To resolution 🤝
 
-The playbook, if one was ever wondering, is simple: precision, tact, diplomacy, integrity, patience.
-
+The playbook, ifl
     I. Detect a possible design anomaly.
 
     II. Calibrate proportional evidence disclosure.
 
     III. Separate personal liabilities from systemic issue.
 
-    IV. Offer correction pathways.
+    IV. Contribute to dignified response design. 
 
-    V. Maintain confidentiality.
+    V. Maintain confidentiality and trust. 
 
-    VI. Analyze response design.
+    VI. Step back and give space for resolution.
 
 That is all.
 
