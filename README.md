@@ -44,6 +44,8 @@ I continue to hope this resolves reasonably and becomes about redeeming [Trust](
     with containment, and  refusal; being very reasonable
     even correct, and right.
 
+***Note: Legitimate postings require approved headcount with an active hiring manager and defined business need; otherwise, this notice should be deemed unusual enough to warrant internal verification of institutional postings.***
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
