@@ -1,5 +1,10 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
+Hope for the best, prepare for the worst. 
+
+Legal, academic, education, labor, and civil rights assessments and discussions being meticulously mapped out and planned. 
+
+There are convergences emergent from the level of documentation that is arguably rarely seen.
 
 I hope this issue should be treated with the utmost seriousness and responsibility.
 
