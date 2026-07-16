@@ -1,10 +1,5 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-Consideration is of two kinds.
-
-1. The kind one doesn't want, even as they receive it.
-2. And the kind one won't receive,  even as they will want it.
-   
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
