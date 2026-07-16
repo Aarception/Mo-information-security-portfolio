@@ -26,12 +26,14 @@ Finally, I am exasperated, not escalating. Clarification =/= Condemnation.
 
 I continue to hope this resolves reasonably and becomes about redeeming [Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure) 🎗
 
+Note: The following was drafted and is hereby withdrawn in favor of continued good faith engagement.
+
  ̶P̶r̶o̶m̶i̶s̶e̶s̶ ̶w̶e̶r̶e̶ ̶c̶o̶n̶d̶i̶t̶i̶o̶n̶a̶l̶ ̶o̶n̶ ̶m̶u̶t̶u̶a̶l̶l̶y̶-̶a̶g̶r̶e̶e̶a̶b̶l̶e̶ ̶r̶e̶s̶o̶l̶u̶t̶i̶o̶n̶.̶ ̶O̶t̶h̶e̶r̶w̶i̶s̶e̶ ̶t̶h̶e̶y̶ ̶a̶r̶e̶ ̶u̶n̶e̶a̶r̶n̶e̶d̶ ̶e̶n̶t̶i̶t̶l̶e̶m̶e̶n̶t̶s̶
  
 ̶T̶o̶d̶a̶y̶'̶s̶ ̶P̶o̶s̶t̶i̶n̶g̶:̶ ̶M̶a̶y̶ ̶1̶3̶ ̶M̶a̶r̶k̶e̶t̶i̶n̶g̶ ̶O̶b̶s̶e̶r̶v̶a̶t̶i̶o̶n̶
 
  
-***Note: Legitimate postings require approved headcount with an active hiring manager and defined business need; otherwise, this notice should be deemed unusual enough to warrant internal verification of institutional postings. It is important for institutional handling of this issue come to reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties.***
+***Concern: Legitimate postings require approved headcount with an active hiring manager and defined business need; otherwise, this notice should be deemed unusual enough to warrant internal verification of institutional postings. It is important for institutional handling of this issue come to reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties.***
 
 ---
 
