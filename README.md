@@ -9,7 +9,7 @@ I come from a long line of diplomats. I am not an activist, nor am I a pacifist.
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 
-## 📜 1. Open-Source Contribution to Digital **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)** Infrastructure Research🤝
+## 📜 1. Digital **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)** Infrastructure Research🤝
 ***Path:*** `/trust-infrastructure/`
 
 
@@ -33,11 +33,7 @@ I come from a long line of diplomats. I am not an activist, nor am I a pacifist.
        -  [Specification](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/VCI_Verified_Credential_Identifier_Specification_PA.PDF)
  
 
- ### [Normative Framework](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure/normative-framework.md)  ⚖️
-**Path:** `/normative-framework/`
 
-On The Relationship Between Obligation and Representation:  ✍️
-- [normative-framework.md](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure/normative-framework.md) — The Basis for Integrity in The Digital Credential Ecosystem 🌐
 
 
 ## 📚 2. Case Studies
