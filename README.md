@@ -11,6 +11,7 @@ I hope this issue should be treated with the utmost seriousness and responsibili
 Tact and restraint is calibrated & precise—& proportional to what is at stake.
 
 To resolution 🥂 
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
