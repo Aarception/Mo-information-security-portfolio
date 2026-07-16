@@ -2,6 +2,8 @@
 
 I come from a long line of diplomats. I am not an activist, nor am I a pacifist. Tact and restraint are calibrated and precise. Model me accordingly, if you must.
 
+My superpower is Consilience Engineering. *E Pluribus Unum.*
+
 ***Concern: It is important for institutional handling of this issue reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties.***
 
 ---
