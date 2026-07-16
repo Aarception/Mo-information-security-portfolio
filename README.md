@@ -1,39 +1,6 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-Disclaimer: While RDA is attributable; it is not attributed.
-
-
-Next Step: Organize 270+ page dossier demonstrating hypothesis generation, controlled testing, data collection, legal/regulatory mapping, ethics/standards, risk and compliance auditing, with remediation design into a polished, published portfolio on Medium, Substack, and an academic preprint for EdTech leadership, adherents,  and wider concerned ecosystem.
-
-
-***Public Notice: To ensure the integrity of the digital trust infrastructure, the methodological frameworks (RDA, DCOTI, VCI) and their incubation materials are being archived as public goods for researchers, regulators, and industry practitioners.***
-
-Promises were conditional on mutually-agreeable resolution. Otherwise they are unearned entitlements. 
-
-Today's Posting: May 13 Marketing Observation
-
-Is that how you would like me to act? Play loose with my principles and better character? I mean let's pause rationally here. Suppose I am unpalatable, because I am the one who discovered the "issue"—well, I have not applied since Final Communication, have I? Alright, so you get that, then what is the resolution because I see no movement on anything. You are not moving on the issue, nor are you specifically responding to to my own reasonable request for redress. The May 13 observation remains documented but unpublished. Its publication is not my preference. My preference remains the resolution we have both had months to achieve
-
-You have had months of opportunity to observe my operation. I don't produce sloppy work. I do not even produce commensurate. I produce Consilience Engineering. I produce 10 layers of recursive Iteration. Why do you imagine support, program, Pops, legal, and pr were simultaneously drafted membership in resolution? If this escalates, it will not be about motive. It will be about responsibility, rights, duty, obligation, commitment; it will not be about a product, it will be about equitable workforce, public policy, civil rights, '&amp' algorithmic disparate impact. Social Media is not the Significant Metric here. It will be about the fact the majority of the injury disproportionately affect the least of these.
-
-I wish to spare everyone that ugliness. I have not seen any interest from the other side that says this consideration is shared. 
-
-If it was shared, mutually-agreeable resolution would have been reached by now.
-
-I come from a long line of diplomats, and employ precision and differentiation.  Even towards the other aisle, I exercise calibrated restraint. Model me accordingly if that has been a problem. 
-
-Finally, I am exasperated, not escalating. Clarification =/= Condemnation. 
-
-I continue to hope this resolves reasonably and becomes about redeeming [Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure) 🎗
-
-Note: The following was drafted and is hereby withdrawn in favor of continued good faith engagement.
-
- ̶P̶r̶o̶m̶i̶s̶e̶s̶ ̶w̶e̶r̶e̶ ̶c̶o̶n̶d̶i̶t̶i̶o̶n̶a̶l̶ ̶o̶n̶ ̶m̶u̶t̶u̶a̶l̶l̶y̶-̶a̶g̶r̶e̶e̶a̶b̶l̶e̶ ̶r̶e̶s̶o̶l̶u̶t̶i̶o̶n̶.̶ ̶O̶t̶h̶e̶r̶w̶i̶s̶e̶ ̶t̶h̶e̶y̶ ̶a̶r̶e̶ ̶u̶n̶e̶a̶r̶n̶e̶d̶ ̶e̶n̶t̶i̶t̶l̶e̶m̶e̶n̶t̶s̶
- 
-̶T̶o̶d̶a̶y̶'̶s̶ ̶P̶o̶s̶t̶i̶n̶g̶:̶ ̶M̶a̶y̶ ̶1̶3̶ ̶M̶a̶r̶k̶e̶t̶i̶n̶g̶ ̶O̶b̶s̶e̶r̶v̶a̶t̶i̶o̶n̶
-
- 
-***Concern: Legitimate postings require approved headcount with an active hiring manager and defined business need; otherwise, this notice should be deemed unusual enough to warrant internal verification of institutional postings. It is important for institutional handling of this issue come to reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties.***
+***Concern: It is important for institutional handling of this issue come to reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties.***
 
 ---
 
