@@ -12,6 +12,7 @@ Trust in my word is reinforced to capacity by the extent of their inscription. M
 
 ***Concern: It is important that the institutional handling of this issue come to reflect 'coordination' and 'consensus' in the interest of fairness to all involved parties. And for this concern to be considered unusual enough to warrant internal need for institutional verification of sanctioned allowance regarding it.***
 
+I will not be applying again. 
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
