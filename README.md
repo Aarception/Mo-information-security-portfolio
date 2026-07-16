@@ -6,6 +6,21 @@ I hope this issue should be treated with the utmost seriousness and responsibili
 
 To resolution 🤝
 
+The playbook, if one was ever wondering, is simple: precision, tact, diplomacy, integrity, patience.
+
+    I. Detect a possible structural mismatch.
+
+    II. Preserve evidence before escalation.
+
+    III. Separate personal outcome from systemic issue.
+
+    IV. Offer correction pathways.
+
+    V. Maintain confidentiality.
+
+    VI. Analyze response design.
+
+That is all.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
