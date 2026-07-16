@@ -20,7 +20,7 @@ I wish to spare everyone that ugliness. I have not seen any interest from the ot
 
 If it was shared, mutually-agreeable resolution would have been reached by now.
 
-I come from a long line of diplomats, and employ precision and differentiation, even towards the other aisle, exercising calibrated restraint. Model me accordingly if that has been a problem. 
+I come from a long line of diplomats, and employ precision and differentiation.  Even towards the other aisle, I exercise calibrated restraint. Model me accordingly if that has been a problem. 
 
 Finally, I am exasperated, not escalating. Clarification =/= Condemnation. 
 
