@@ -1,9 +1,5 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-The single maxim at the heart of the entire interlude.
-
-I hope this issue should be treated with the utmost seriousness and responsibility.
-
 To resolution 🤝
 
 The playbook that is my personal methodology is quite simple and ordinary. It is precision, tact, diplomacy, integrity, and trust.
