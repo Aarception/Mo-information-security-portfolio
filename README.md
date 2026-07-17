@@ -22,6 +22,11 @@ The playbook that is my personal methodology is quite simple and ordinary. It is
 
 That is all.
 
+Emergent: The Birth of a New Theory of Institutional Truth-Making
+
+![Wireshark Launch](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Theory_of_Institutional_Truth_Making.png)
+
+Truth-Making Without Liability Consequentialism
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
