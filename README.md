@@ -6,7 +6,7 @@ My speciality  —> Consilience Engineering
 
 I am your strategist's strategist. If I am your border guard, you will be impenetrable.
 
-Naturally Corporate. Relax the profile. 100% guaranteed by Diplomacy.
+Naturally Corporate. Relax the profile. 100% guaranteed by Diplomacy. Comportment is my shadow.
 
     I. Detect a possible design anomaly.
 
