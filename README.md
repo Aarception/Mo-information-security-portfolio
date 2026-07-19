@@ -4,7 +4,9 @@ My differentiator —> Coup d'œil
 
 My speciality  —> Consilience Engineering 
 
-I am your strategist's strategist
+I am your strategist's strategist. If I am your border guard, you will be impenetrable.
+
+I would love to feel invited.
 
     I. Detect a possible design anomaly.
 
