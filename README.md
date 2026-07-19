@@ -1,6 +1,6 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
-
-To resolution 🤝
+ 
+To a deal 🤝
 
 The playbook that is my personal methodology is quite simple and ordinary. It is precision, tact, diplomacy, integrity, and trust.
     
@@ -28,7 +28,7 @@ Truth-Making Without Liability Consequentialism
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 
-## 📜 1. The Valuation **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)**
+## 📜 1. The ZERO-KNOWLEDGE PROOF **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)**
 ***Path:*** `/trust-infrastructure/`
 
 
