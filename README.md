@@ -28,7 +28,7 @@ Truth-Making Without Liability Consequentialism
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 
-## 📜 1. The ZERO-KNOWLEDGE PROOF **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)**
+## 📜 1. The VCI Digital **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)**
 ***Path:*** `/trust-infrastructure/`
 
 
