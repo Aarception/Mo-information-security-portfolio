@@ -4,7 +4,9 @@ My differentiator —> Coup d'œil
 
 My speciality  —> Consilience Engineering 
 
-I am your strategist's strategist. If I am your border guard, you will be impenetrable.
+AI's entire value proposition rests on being a consilience system.
+
+Not multi-disciplinary, but interdisciplinary—I am your strategist's strategist. If I am your border guard, you will be impenetrable.
 
 Naturally Corporate. Relax the profile. 100% guaranteed by Diplomacy. Comportment is my shadow.
 
