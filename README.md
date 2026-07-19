@@ -1,9 +1,11 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
  
-To a deal 🤝
+My differentiator —> Coup d'œil
 
-The playbook that is my personal methodology is quite simple and ordinary. It is precision, tact, diplomacy, integrity, and trust.
-    
+My speciality  —> Consilience Engineering 
+
+I am your strategist's strategist
+
     I. Detect a possible design anomaly.
 
     II. Calibrate proportional evidence disclosure.
