@@ -28,22 +28,9 @@ Truth-Making Without Liability Consequentialism
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 
-## 📜 1. Digital **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)** Infrastructure Research🤝
+## 📜 1. The Valuation **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)**
 ***Path:*** `/trust-infrastructure/`
 
-
-
- ◾ DCOTI → Inscription 
-   - **[Operational Trust Infrastructure](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/DCOTI_Neutral_Ledger_and_Framework_PA.PDF)** 
-        -  Neutral 🔸 Trust ledger
-        ⭐️
-        - [Framework](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/DCOTI_Neutral_Ledger_and_Framework_PA.PDF)
-
- ◾ RDA → Detection
-   -  **[Runtime Divergence Analysis](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/RDA_Runtime_Divergence_Analysis_Methodology_PA.PDF)**
-        -  Architecture 🔸 Coherence
-      📈
-        - [Methodology](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/RDA_Runtime_Divergence_Analysis_Methodology_PA.PDF)
 
  ◾ VCI → Presentation
    - **[Verified Credential Identifier](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/VCI_Verified_Credential_Identifier_Specification_PA.PDF)**
