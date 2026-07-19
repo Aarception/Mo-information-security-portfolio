@@ -6,7 +6,7 @@ My speciality  —> Consilience Engineering
 
 I am your strategist's strategist. If I am your border guard, you will be impenetrable.
 
-Qualities are a fit, but the Profile  isn't
+Qualities are a fit, but the Profile  isn't [no period, intentionally]
 
 It can look like multi-disciplinary, but it's really interdisciplinary.🤝
 
