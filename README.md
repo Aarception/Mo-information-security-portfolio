@@ -24,9 +24,16 @@ Naturally Corporate. Relax the profile. 100% guaranteed by Diplomacy. Comportmen
 
 That is all.
 
-Emergent: The Birth of a New Theory of Institutional Truth-Making
+Emergent: The Birth of a New𝘦𝘳 Theory of Institutional Truth-Making
 
-![Wireshark Launch](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Theory_of_Institutional_Truth_Making.png)
+![Truth-Making](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/Newer_Theory_of_Institutional_Truth_Making.png)
+
+
+
+
+E̶m̶e̶r̶g̶e̶n̶t̶:̶ ̶T̶h̶e̶ ̶B̶i̶r̶t̶h̶ ̶o̶f̶ ̶a̶ ̶N̶e̶w̶ ̶T̶h̶e̶o̶r̶y̶ ̶o̶f̶ ̶I̶n̶s̶t̶i̶t̶u̶t̶i̶o̶n̶a̶l̶ ̶T̶r̶u̶t̶h̶-̶M̶a̶k̶i̶n̶g̶
+
+![Truth-Making](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Theory_of_Institutional_Truth_Making.png)
 
 Truth-Making Without Liability Consequentialism
 ---
