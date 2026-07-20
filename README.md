@@ -1,8 +1,8 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
  
-In the next two (2) years, there will be a 'cambrian-explosion'-like development of expanded, updated, and/or new regulation regarding almost every facet of tech companies' business operations. Many will come to discover they are not as agile as they were during their IPO-outing. The quick adoption of ai without fully appreciating the legal and social ramifications (human superstition is still much more closer to the book burning Witch trials era than it is to Star Trek) will force the creation of entirely novel new roles tasked with bridging silos and uniting disparate pieces of liability that, apart, may not signal vulnerability, but once merged by external auditing, will add up to risk estimates in the high-end of 9-figures. Colorado's new ai affirmative obligations precedent is a bellweather.
+Affirmative.
 
-A strategist's strategist. Once the border guard, will make it impenetrable
+  To value the honor, is to recognize the privilege. I am at service, with honesty, responsibility,  and integrity. 
 
      I. Detect a possible design anomaly.
 
