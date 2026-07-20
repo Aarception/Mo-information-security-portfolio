@@ -24,7 +24,7 @@ Naturally Corporate. 100% guaranteed by Diplomacy. Comportment is my shadow. I f
 
 That is all.
 
-Emergent: The Birth of a New𝘦𝘳 Theory of Institutional Truth-Making
+A New𝘦𝘳 Theory of Institutional Truth-Making
 
 ![Truth-Making](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/Newer_Theory_of_Institutional_Truth_Making.png)
 
