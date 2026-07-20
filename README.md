@@ -8,7 +8,9 @@ AI's entire value proposition rests on being a consilience system.
 
 Not multi-disciplinary, but interdisciplinary—I am your strategist's strategist. If I am your border guard, you will be impenetrable.
 
-Naturally Corporate. 100% guaranteed by Diplomacy. Comportment is my shadow. I find it highly unbecoming to make assumptions about an untailored fit.
+Naturally Corporate. 100% guaranteed by Diplomacy. Comportment is my shadow. 
+
+I find it highly unbecoming to make assumptions about an untailored fit.
 
     I. Detect a possible design anomaly.
 
