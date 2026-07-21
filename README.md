@@ -1,8 +1,6 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
- 
-Bell'weather' intention: Very Credibly Impactful period of disruption is afoot.
 
-A decision will have to be traversed by the morrow.
+ 🤝
 
      I. Detect a possible design anomaly.
 
