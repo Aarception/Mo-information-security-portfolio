@@ -1,6 +1,6 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
- 🤝
+Sustainablility is the heart, Security is the mind. A mind is a terrible thing to waste. Especially if it is alive.
 
      I. Detect a possible design anomaly.
 
