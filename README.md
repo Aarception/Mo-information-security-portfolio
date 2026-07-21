@@ -13,6 +13,10 @@ And:
 
 Rather than a problem to solve, think of me as 'A Great Return, Is Worth The Effort.'
 
+How do we minimize liability? ❌️🪫📈
+
+How do we preserve assurance? 💲🔋📊
+
     Detect a possible design anomaly.
 
     II. Calibrate proportional evidence disclosure.
