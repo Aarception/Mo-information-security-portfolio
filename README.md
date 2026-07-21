@@ -1,6 +1,6 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-Sustainablility is the heart, Security is the mind. A heart is preserved, the mind should be preserved. Grazie.
+Sustainablility is the heart, Security is the mind. A heart is preserved, the mind is preservation. Grazie.
 
      I. Detect a possible design anomaly.
 
