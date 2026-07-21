@@ -1,7 +1,7 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-Spatial analytical Perimeter Mapping, area of operations field 
-iintelligence surveying
+Spatial Analysis Perimeter Mapping, area of operations field 
+intelligence surveying
 
 ![This kind of mapping](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260721_034412.png)
 
