@@ -1,5 +1,11 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
+Spatial analytical Perimeter Mapping, area of operations field 
+iintelligence surveying
+
+![This kind of mapping](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260721_034412.png)
+
+Live—> https://www.google.com/maps/d/u/2/edit?mid=1tt49ibhCCcTqsFUn1lac3COpp7FNqWo&usp=sharing
 
 1. There is a coherent signature 
 2. Opportunities are dynamic.
