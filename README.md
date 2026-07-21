@@ -7,6 +7,8 @@ intelligence surveying
 
 Live—> https://www.google.com/maps/d/u/2/edit?mid=1tt49ibhCCcTqsFUn1lac3COpp7FNqWo&usp=sharing
 
+I have learned my value lies in conceptual rather than physical boundary or security delineation.
+
 1. There is a coherent signature 
 2. Opportunities are dynamic.
 3. The VP GPE&C is 🔑 to 🤝
