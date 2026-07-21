@@ -1,25 +1,5 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-Spatial Analysis Perimeter Mapping, area of operations field 
-intelligence surveying
-
-![This kind of mapping](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260721_034412.png)
-
-Live—> https://www.google.com/maps/d/u/2/edit?mid=1tt49ibhCCcTqsFUn1lac3COpp7FNqWo&usp=sharing
-
-I have learned my value lies in conceptual rather than physical boundary/security delineation.
-
-1. There is a coherent signature 
-2. Opportunities are dynamic.
-3. The VP GPE&C is 🔑 to 🤝
-
-And:
-
-4. Harnessing energy is the greatest energy.
-5. Life's calling is AI-alignment and GRC nexus.
-6. The true value is deferred—not the past.
-
-Rather than a problem to solve, think of me as 'A Great Return, Is Worth The Effort.'
 
 How do we minimize liability? ❌️🪫📈
 
