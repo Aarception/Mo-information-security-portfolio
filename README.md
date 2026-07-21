@@ -1,8 +1,5 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
  
-Affirmative.
-
-  To value the honor, is to recognize the privilege. I am at service, with honesty, responsibility,  and integrity. 
 
      I. Detect a possible design anomaly.
 
