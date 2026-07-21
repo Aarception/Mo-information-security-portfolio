@@ -11,7 +11,7 @@ And:
 5. Life's calling is AI-alignment and GRC nexus.
 6. The true value is deferred—not the past.
 
-Rather than a problem to solve, think 'The Greatest Investment, Is A Reward Deferred.'
+Rather than a problem to solve, think of me as 'The Greatest Investment, Is A Reward Deferred.'
 
     Detect a possible design anomaly.
 
