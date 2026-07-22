@@ -9,9 +9,7 @@ Modeling improvement, STA,MCI. ✔️
 
 If they are to do this, then give very opportunity for improvement and capability-building within that scope. Also mentorship. Will become such an integral part of TI, the designation will be "institutional competitive advantage asset.'
 
-Also, VCI = GS1 = National Clearinghouse. 
-
-Correct modeling + Fair valuation = 🤝
+🙂
 
     I. Detect a possible design anomaly.
 
