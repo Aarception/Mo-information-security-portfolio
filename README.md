@@ -7,7 +7,7 @@ How do we preserve assurance? 💲🔋📊
 
 Unfortunately, I have found it challenging to reconstitute the trust of A/15, especially given the resemblance between the After.Dignity and the Before.Consideration.Era playbooks. 
 
-However, as assurance, the J/17 position was permanent.
+However, as assurance, the J/17 position is permanent.
 
 
     I. Detect a possible design anomaly.
