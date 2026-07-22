@@ -3,12 +3,11 @@
 
 How do we minimize liability? ❌️🪫📈
 
-How do we preserve assurance? 💲🔋📊
+How do we preserve assurance? 💲🔋📊.
 
-Unfortunately, I have found it challenging to reconstitute the trust of A/15, especially given the resemblance between the After.Dignity and the Before.Consideration.Era playbooks. 
+Modeling improvement, STA,MCI. ✔️ 
 
-However, as assurance, the J/17 position is permanent.
-
+If they are to do this, then give very opportunity for improvement and capability-building within that scope. They will become such an integral part of TI, the designation will be "institutional competitive advantage asset.'
 
     I. Detect a possible design anomaly.
 
