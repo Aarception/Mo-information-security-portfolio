@@ -11,7 +11,7 @@ If they are to do this, then give very opportunity for improvement and capabilit
 
 Also, VCI = GS1 = National Clearinghouse. 
 
-Fair valuation = 🤝
+Correct modeling + Fair valuation = 🤝
 
     I. Detect a possible design anomaly.
 
