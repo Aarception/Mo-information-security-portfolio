@@ -1,15 +1,12 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
+As a senior in high school, I applied and was successfully sselected for the Gates Scholarship—except, with a caveat. The scholarship fund was so impressed by my personal statement, they suspected it was plagiarized though they could not prove it. All detection returned in the negative.  Through my high school counselor, they arranged for her to drive me in person from Seattle to Bellevue, WA across Lake Washington.  I was led into a room with desks. paper, and pens. I had forfeited all electronic devices including my phobe. I was told to produce another personal statement. Less than a day later, my counselor informed me the scholarship had been released as my reward. I never received an apology and nor did I desire one. It was my first professional insight about trust and capacity. I hope there is trust in my capacity, but if there isn't, my capacity will draw trust just the same.
 
-How do we minimize liability? ❌️🪫📈
+Gates Scholarship 1: GS1
+Verified Credential Identifier 2: VCI2
+🫠
 
-How do we preserve assurance? 💲🔋📊.
-
-Modeling improvement, STA,MCI. ✔️ 
-
-If they are to do this, then give very opportunity for improvement and capability-building within that scope. Also mentorship. Will become such an integral part of TI, the designation will be "institutional competitive advantage asset.'
-
-🙂
+To a 🤝
 
     I. Detect a possible design anomaly.
 
