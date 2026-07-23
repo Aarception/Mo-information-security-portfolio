@@ -14,6 +14,8 @@ Detect, Calibrate, Qualify, Validate, Maintain, Preserve.
 
     VI. PRESERVE space for resolution.
 
+Survey, Inventory, Assign, Plant, Root, Conserve.
+
 That is all.
 
 A New𝘦𝘳 Theory of Institutional Truth-Making
