@@ -10,7 +10,7 @@ Let me now process the negative space:
 
     1.) Headcount/requisition is a rigorously controlled planning and budgeting process.
     2.) At certain levels, board approval is mandatory.
-    3.) July 1st outcrop playbook
+    3.) 1 and 2 require at minimum 2 weeks, otherwise July 1st outcrop playbook
 
 
 Trust is amazing. It seems the inability to sustain trust is a two street, except dignity could have been processed just the same as liability.
