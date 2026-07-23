@@ -1,18 +1,18 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-🤝
+Detect, Calibrate, Qualify, Validate, Maintain, Preserve.
 
-    I. Detect a possible design anomaly.
+    I. DETECT possible design anomaly.
 
-    II. Calibrate proportional evidence disclosure.
+    II. CALIBRATE proportional evidence disclosure.
 
-    III. Separate personal liabilities from systemic issue.
+    III. QUALIFY systemic from personal liabilities.
 
-    IV. Contribute to dignified response design. 
+    IV. VALIDATE dignified response design. 
 
-    V. Maintain confidentiality and trust. 
+    V. MAINTAIN confidentiality and trust. 
 
-    VI. Step back and give space for resolution.
+    VI. PRESERVE space for resolution.
 
 That is all.
 
