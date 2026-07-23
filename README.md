@@ -13,7 +13,7 @@ Let me now process the negative space:
     3.) July 1st outcrop playbook
 
 
-Trust is amazing. It seems the inability to sustain trust is a two street, except dignity could have been processed just the as liability.
+Trust is amazing. It seems the inability to sustain trust is a two street, except dignity could have been processed just the same as liability.
 
 If that is the case, I withdrew in Jn/17 to relieve the institution from the burden of my candidacy. Ju/6 was controlled application testing to confirm the result.
 
