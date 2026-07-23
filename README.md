@@ -2,11 +2,9 @@
 
 Dignity Is Destiny. Otherwise, there is Disorder.
 
-I will always protect Institutional Dignity, even when I would like reflected back what structurally is impossible. 
+I will always protect Institutional Dignity, including when I would like reflected back what structurally is impossible. 
 
-Including when requisitions may not always be tied to active headcount.
-
-Even when requisitions are not always tied to active headcount, Dignity is not a Transactional Tactic, it can be Deliberately Designed.
+Even when requisitions may not always be tied to active headcount, Dignity is not a Transactional Tactic, it can be Deliberately Designed.
 
 The evidence for the proposition is the consistency across months, across multiple forms of response (and non-response), across circumstantial highs and lows, etc. An adaptive approach would have reacted tactically to transactional leverage. Dignity refused to adapt, because it was designed to be deliberate.
 
