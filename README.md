@@ -8,11 +8,11 @@ It is now a week. If responsive is assumed the system state:
 
 Let me now process the negative space:
 
-    1.) Headcount/requisition is a rigorously controlled planning 
-    and budgeting process.
+    1.) Headcount/requisition is a rigorously controlled 
+       planning and budgeting process.
     2.) At certain levels, board approval is mandatory.
     3.) 1 and 2 require at minimum 2 weeks to escape the 
-    strategic bespoke inference of July 1st outcrop playbook
+        strategic bespoke inference of July 1st outcrop playbook
 
 Which means the post Jl/17 + Jl/1 outcrop + the A/8 development = strategic.
 
