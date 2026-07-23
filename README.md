@@ -1,6 +1,6 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-Dignity Is Destiny.
+Dignity Is Destiny. I will always Dignify the Institution, even when I would like reflected back what structurally is impossible. 
 
 Detect, Calibrate, Qualify, Validate, Maintain, Preserve.
 
