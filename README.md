@@ -17,7 +17,7 @@ Which means the post Jl/17 + Jl/1 outcrop + the A/8 development = strategic.
 
 Trust is amazing. It seems the inability to sustain trust is a two street, except dignity could have been processed just the same as liability.
 
-If that is the case, I withdrew in Jn/17 to relieve the institution from the burden of my candidacy. Jl/6 was controlled application testing to confirm the result.
+If that is the case, I withdrew on Jn/17 to relieve the institution from the burden of my candidacy. Jl/6 was controlled application testing to confirm the result.
 
 Jl/17 was genuine closing of a loop, which  oddly solidified the controlled testing decision of the Jl/1 outcrop.
 
