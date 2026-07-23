@@ -1,5 +1,6 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
+
 Detect, Calibrate, Qualify, Validate, Maintain, Preserve.
 
     I. DETECT possible design anomaly.
@@ -14,7 +15,6 @@ Detect, Calibrate, Qualify, Validate, Maintain, Preserve.
 
     VI. PRESERVE space for resolution.
 
-Survey, Inventory, Assign, Plant, Root, Conserve.
 
 That is all.
 
