@@ -4,11 +4,11 @@ Let me take you at your word, CTO.
 
 I know the value of VCI: $X00M in recurring annual revenue. The question is: why am I not all over it? The answer is: (1) not at your expense, (2) not at the expense of all the trust I see from subscribers in the discussion group, and (3) not through divisiveness and social fracture. Those things are just as valuable to me.
 
-I might as well have been born a Seattleite, but my heritage, and some of my professional experience, come from the most failed state on the face of the earth, where the trust-depletion is accentuated ratger profoundly, if not ironically, by the socio-cultural homogeneity. 
+I might as well have been born a Seattleite, but my heritage, and some of my professional experience, come from the most failed state on the face of the earth, where the trust-depletion is accentuated rather profoundly, if not ironically, by the socio-cultural homogeneity. 
 
 Similarity is not security, and diversity is not division. 
 
-Trust is security; trust-depletion is division. 
+Trust-structure is security; trust-depletion is division. 
 
 Bringing something to fruition at the expense of U.S. socio-economic trust structure would be untenable for an American interested in protecting social cohesion. This is why I value the role played by institutional legitimacy and believe in restoration and remediation rather than punishment and retribution.
 
