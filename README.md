@@ -1,8 +1,8 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-I have come to understand very well that valence is unintelligible, because vector is the spoken capability—but only because there has been enough documentation to provide for a reasonable enough basis for the observation.
+I have come to understand very well that valence is unintelligible, because vector is the preferred tongue—but only because there has been enough documentation to provide for a reasonable enough basis for the observation.
 
-Let us make a deal. I think it is very obvious the extent to which my partiality has been successfully extracted. 
+More seriously, let us make a deal. I think it is very obvious the extent to which my partiality has been successfully extracted. 
 
 Intelligence. GRC. Intuition. Strategy. Perception. Growth. Merited. 
 
