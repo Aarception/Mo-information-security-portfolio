@@ -1,7 +1,5 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-I guess I will have to prove you wrong after all.
-
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
