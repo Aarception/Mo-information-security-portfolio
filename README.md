@@ -17,7 +17,7 @@ Let me now process the negative space:
 Which means the post Jl/17 + Jl/1 outcrop + the A/8 development = strategic.
 
 
-Trust is amazing. It seems the inability to sustain trust is a two street, except dignity could have been processed just the same as liability.
+Trust is amazing. It seems the inability to sustain trust is a two-way street, except dignity could have been processed just the same as liability.
 
 If that is the case, I withdrew on Jn/17 to relieve the institution from the burden of my candidacy. Jl/6 was controlled application testing to confirm the result.
 
