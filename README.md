@@ -2,8 +2,6 @@
 
 I have come to understand very well that valence is unintelligible, because vector is the preferred tongue—but only because there has been enough documentation to provide for a reasonable enough basis for the observation.
 
-More seriously, let us make a deal. I think it is very obvious the extent to which my partiality has been successfully extracted. 
-
 Intelligence. GRC. Intuition. Strategy. Perception. Growth. Merited. 
 
 In hindsight, there is enough material and observation to make one the longest and most meaningfully interviewed opportunity in institutional history.
