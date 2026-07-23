@@ -15,9 +15,9 @@ Let me now process the negative space:
 
 Trust is amazing. It seems the inability to sustain trust is a two street, except dignity could have been processed just the same as liability.
 
-If that is the case, I withdrew in Jn/17 to relieve the institution from the burden of my candidacy. Ju/6 was controlled application testing to confirm the result.
+If that is the case, I withdrew in Jn/17 to relieve the institution from the burden of my candidacy. Jl/6 was controlled application testing to confirm the result.
 
-Ju 17 was genuine closing of a loop, which  oddly solidified the controlled testing decision of the Ju/1 outcrop.
+Jl/17 was genuine closing of a loop, which  oddly solidified the controlled testing decision of the Jl/1 outcrop.
 
 if this was a genuine response by the institution, then at least it can now definitively qualify I was never an adversary, or with grievance, or pressuring an advantage through the concern.
 
