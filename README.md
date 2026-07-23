@@ -2,15 +2,15 @@
 
 It is now a week. If responsive is assumed the system state:
 
-1.) Roles have been been observed.
-2.) Functions diverse.
-3.) Incentives have been varied.
+    1.) Roles have been been observed.
+    2.) Functions diverse.
+    3.) Incentives have been varied.
 
 Let me now process the negative space:
 
-1.) Headcount/requisition is a rigorously controlled planning and budgeting process.
-2.) At certain levels, board approval is mandatory.
-3.) July 1st outcrop playbook
+    1.) Headcount/requisition is a rigorously controlled planning and budgeting process.
+    2.) At certain levels, board approval is mandatory.
+    3.) July 1st outcrop playbook
 
 
 Trust is amazing.
