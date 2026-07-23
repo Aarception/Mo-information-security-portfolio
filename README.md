@@ -6,15 +6,15 @@ I will always protect Institutional Dignity, even when I would like reflected ba
 
 Dignity is not a Transactional Tactic, it can be Deliberately Designed.
 
-Detect, Calibrate, Qualify, Validate, Maintain, Preserve.
+Detect, Calibrate, Validate, Dignify, Maintain, Preserve.
 
     I. DETECT possible design anomaly.
 
     II. CALIBRATE proportional evidence disclosure.
 
-    III. QUALIFY systemic from personal liabilities.
+    III. VALIDATE systemic from personal liabilities.
 
-    IV. VALIDATE dignified response design. 
+    IV. DIGNIFY valid response design. 
 
     V. MAINTAIN confidentiality and trust. 
 
