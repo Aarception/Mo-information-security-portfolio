@@ -21,7 +21,7 @@ Jl/17 was genuine closing of a loop, which  oddly solidified the controlled test
 
 if this was a genuine response by the institution, then at least it can now definitively qualify I was never an adversary, nor with grievance, nor pressuring an advantage through the concern.
 
-If it is strategically designed, then at least I would have  protected the integrity of Ju/17 from being adversely acted upon and structurally challenged.
+If it is strategically designed, then at least I would have  protected the integrity of Jl/17 exit of the loop from being adversely acted upon and structurally challenged.
 .
 Detect, Calibrate, Validate, Dignify, Maintain, Preserve.
 
