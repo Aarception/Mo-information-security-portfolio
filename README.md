@@ -13,9 +13,16 @@ Let me now process the negative space:
     3.) July 1st outcrop playbook
 
 
-Trust is amazing.
+Trust is amazing. It seems the inability to sustain trust is a two street, except dignity could have been processed just the as liability.
 
+If that is the case, I withdrew in Jn/17 to relieve the institution from the burden of my candidacy. Ju/6 was controlled application testing to confirm the result.
 
+Ju 17 was genuine closing of a loop, which  oddly solidified the controlled testing decision of the Ju/1 outcrop.
+
+if this was a genuine response by the institution, then at least it can now definitively qualify I was never an adversary, or with grievance, or pressuring an advantage through the concern.
+
+If it is strategically designed, then at least I would have  protected the integrity of Ju/17 from being adversely acted upon and structurally challenged.
+.
 Detect, Calibrate, Validate, Dignify, Maintain, Preserve.
 
     I. DETECT possible design anomaly.
