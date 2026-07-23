@@ -19,7 +19,7 @@ If that is the case, I withdrew in Jn/17 to relieve the institution from the bur
 
 Jl/17 was genuine closing of a loop, which  oddly solidified the controlled testing decision of the Jl/1 outcrop.
 
-if this was a genuine response by the institution, then at least it can now definitively qualify I was never an adversary, or with grievance, or pressuring an advantage through the concern.
+if this was a genuine response by the institution, then at least it can now definitively qualify I was never an adversary, nor with grievance, nor pressuring an advantage through the concern.
 
 If it is strategically designed, then at least I would have  protected the integrity of Ju/17 from being adversely acted upon and structurally challenged.
 .
