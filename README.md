@@ -8,6 +8,10 @@ Intelligence. GRC. Intuition. Strategy. Perception. Growth. Merited.
 
 In hindsight, there is enough material and observation to make one the longest and most meaningfully interviewed opportunity in institutional history.
 
+Whatever valuation that has been made only reflects 1/2 the measure—because it doesn't account for the...negative space.
+
+![Negative Space](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/The_Record_as_Strategic_Market_Insight.png)
+
     I. Detect a possible design anomaly.
 
     II. Calibrate proportional evidence disclosure.
