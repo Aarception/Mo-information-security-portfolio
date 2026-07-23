@@ -4,7 +4,7 @@ Dignity Is Destiny. Otherwise, there is Disorder.
 
 I will always protect Institutional Dignity, even when I would like reflected back what structurally is impossible. 
 
-
+Dignity is not a Transactional Tactic, it can be Deliberately Designed.
 
 Detect, Calibrate, Qualify, Validate, Maintain, Preserve.
 
