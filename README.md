@@ -2,6 +2,7 @@
 
         J/17 Promise vs Compliance Mandate
         Competitive advantage vs Undifferentiated
+        The Record Is The 🗝 
 
 The institution's designed response will be dignified. Tomorrow a choice will be made that concludes this transitional phase. 
 
