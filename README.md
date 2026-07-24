@@ -29,6 +29,9 @@ I would like to establish something for the record. I was a customer who had a c
 The institution's designed response will be dignified. Today a choice will be made that concludes this transitional phase. 
 
 Potentially Emergent Insight: There is no program team. It is just executive marketing portfolio—at the highest level. Everything was processed through support, because it is not a program—it is a purely commercial project. The only problem is society, government, and the moral-intellectual guardrails of civilization (academia, social causes, etc) will have an apoplectic fit. I still do not comprehend the decision-making process that got in to this mess, except to assume it had to have been a mistake. That is I have taken it upon myself to protect what is at stake if the very target of my original concern was constrained by liability consequentialism.
+
+I was modeled wrong, because I was sheepdog modeled as the jackal.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
