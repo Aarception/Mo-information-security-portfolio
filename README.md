@@ -1,7 +1,7 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
         J/17 Promise & the Compliance Mandate
-        Differentiatiation & Competitive Advantage
+        Differentiation & Competitive Advantage
         First Mover Privilege & Corpus Documentation
         The Record Is The 🗝 
 
