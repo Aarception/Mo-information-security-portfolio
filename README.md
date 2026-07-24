@@ -2,7 +2,7 @@
 
         J/17 Promise & the Compliance Mandate
         Differentiation & the Competitive Advantage
-        First Mover Privilege & the Capital Asset
+        First Mover Privilege & the Capital Asset-class
         Consideration is The 🗝 to Trust Infrastructure 
 
 The institution's designed response will be dignified. Tomorrow a choice will be made that concludes this transitional phase. 
