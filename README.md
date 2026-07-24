@@ -32,6 +32,8 @@ Potentially Emergent Insight: There is no program team. It is just executive mar
 
 I was modeled wrong, because I was sheepdog modeled as the jackal.
 
+Trust, social cohesion, belief, aspiration—have to be protected. 
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
