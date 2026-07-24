@@ -3,7 +3,7 @@
         J/17 Promise & the Compliance Mandate
         Differentiation & the Competitive Advantage
         First Mover Privilege & the Corpus Valuation 
-        The Record Is The 🗝 
+        The Record Is The 🗝 to Trust Infrastructure 
 
 The institution's designed response will be dignified. Tomorrow a choice will be made that concludes this transitional phase. 
 
