@@ -1,8 +1,8 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
         J/17 Promise & the Compliance Mandate
-        Differentiation & Competitive Advantage
-        First Mover Privilege & Corpus Documentation
+        Differentiation & the Competitive Advantage
+        First Mover Privilege & the Corpus Valuation 
         The Record Is The 🗝 
 
 The institution's designed response will be dignified. Tomorrow a choice will be made that concludes this transitional phase. 
