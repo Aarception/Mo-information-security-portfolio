@@ -38,6 +38,7 @@ Even now, as I continue to push last attempts (5 months is long enough), I under
 
 ***I am prepared that a deal cannot be successfully made, but even so, and even more than how unusual I have been found, the insight drawn should be the realization of a need for an entirely new organ in between legal and compliance specifically tasked with ESG that could have intercepted this issue at some point and harmonized profitability and sustainability with tremendously less cost, if at all.***
 
+That is recommendation for you, it is not about me. Trust me.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
