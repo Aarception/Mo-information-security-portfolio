@@ -7,7 +7,7 @@ I would like to establish something for the record. I was a customer who had a c
         First Mover Privilege & the Capital Asset-class
         Consideration is The 🗝 to Trust Infrastructure 
 
-The institution's designed response will be dignified. Tomorrow a choice will be made that concludes this transitional phase. 
+The institution's designed response will be dignified. Today a choice will be made that concludes this transitional phase. 
 
 Potentially Emergent Insight: Extraordinary depth and range and scale.
 
