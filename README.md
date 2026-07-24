@@ -2,7 +2,6 @@
 
 The refusal to offer a Token of Trust has received the refusal to countenance an application.
 
-It looks like 
 ## Birth of a New Theory of Proof More Durable than a  Contract: Documented Behavior As Proof
 | Category              | Mechanism                   | Record Evidence            |
 | --------------------- | ----------------------------------------- | ----------------------------------------- |
