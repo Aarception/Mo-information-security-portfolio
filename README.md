@@ -34,6 +34,9 @@ I was modeled wrong, because I was sheepdog modeled as the jackal.
 
 Trust, social cohesion, belief, aspiration—have to be protected. 
 
+Even now, as I continue to push last attempts (5 months is long enough), I understand full well I am still being modeled wrong. I have been modeled wrong from the very first message and it has been to opportunity advantage. This time, there is a lot more stake.
+
+I am prepared that a deal cannot be successfully made, but even so, and even more than how unusual I have been found, I want you to recognize you need an entirely new organ in between legal and compliance specifically tasked with ESG that could have intercepted this issue at some point and harmonized profitability and sustainability.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
