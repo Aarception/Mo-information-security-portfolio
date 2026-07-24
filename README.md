@@ -5,7 +5,7 @@
 
 The institution's designed response will be dignified. Tomorrow a choice will be made that concludes this transitional phase. 
 
-Potentially Emergent Insight: Without using  any identifiers except light modeling, coherent signature does not accurately best reflect the voice(s)  There is stakeholder deep regard, peripheral disaffection (katagelasticism?), brass diplomacy, operational disassociation, and tasked/diverted affectuation. It is extraordinary the emitted capacity for valence differentiation is rather extraordinary for presumably vector-based entity. 
+Potentially Emergent Insight: Without using  any identifiers except light modeling, coherent signature does not accurately best reflect the voice(s)  There is stakeholder designed regard, peripheral disaffection (katagelasticism?), brass diplomacy, operational disassociation, and tasked/diverted affectuation. It is extraordinary the emitted capacity for valence differentiation is rather extraordinary for presumably vector-based entity. 
 
 ---
 
