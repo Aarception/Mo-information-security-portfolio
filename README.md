@@ -10,7 +10,8 @@
 | Pressure| Rejected | 5/4, Candidacy Disclosure |
 | Tactical |    Rejected  | 5/4, Post-Submission Rider  |
 | Disgruntled | Rejected       | 6/15, App. Closure Request  |
-| Entitlement | Rejected    | 7/15, Unconditional Loop Exit    |
+| Self-Interested | Rejected   | 7/9, 0 interest terms continuance  |
+| Entitlement | Rejected    | 7/17 Unconditional Loop Exit    |
 
 Token of Trust: Redundantly post your best consideration. This will be the differentiator.
 
