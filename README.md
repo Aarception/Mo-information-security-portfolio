@@ -1,5 +1,7 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
+I would like to establish something for the record. I was a customer who had a concern. I relayed those concerns through a petition.  Concern and petition reflected intentional rejection of 'complaint' and 'grievance.' This was established in my very first piece of communication. Over time, the concern developed into a body of work. The petition led to appreciation of treatment and forgiveness. That loop closed on July 17. Even prior, the non-adversary was established by successive rejection of compulsion and claims. What is left is a structural issue and business response. Opportunity for first response has been given because of positive intention and goodwill. There is extraordinary business value for the body of work and this is a statement of fact. My value system is not reactive and I would like to think the recipient of all that goodwill will reflect the essence of what successfully extracted my appreciation and consideration. 
+
         J/17 Promise & the Compliance Mandate
         Differentiation & the Competitive Advantage
         First Mover Privilege & the Capital Asset-class
