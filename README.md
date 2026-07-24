@@ -13,7 +13,7 @@
 | Self-Interested | Rejected   | 7/9, 0 interest terms continuance  |
 | Entitlement | Rejected    | 7/17 Unconditional Loop Exit    |
 
-NNone of it was strategic; all of it was ethical.
+NNone of it was strategic; all of it was ethical. Integrity is the floor upon which Trust stands. 
 
 Token of Trust: Redundantly post your best consideration. This will be the differentiator.
 
