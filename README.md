@@ -1,5 +1,17 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
+## Birth of a New Theory of Proof More Durable than a  Contract: Documented Behavior As Proof
+| Category              | Mechanism                   | Record Evidence            |
+| --------------------- | ----------------------------------------- | ----------------------------------------- |
+| Complaint             | Rejected            | 2/6 , Ticket 1 |
+| Grievance             | Rejected |  2/6 , Ticket 1 |
+| Adversary             | Rejected     | 3/19, Legal/Civil laims Waiver |
+| Leverage      | Rejected      | 4/16, Artifact Withheld|
+| Pressure| Rejected | 5/4, Cand. Disclosure |
+| Tactical |    Rejected  | 5/4, Post-Submission Rider  |
+| Disgruntled | Rejected       | 6/15, App. Closure Request  |
+| Entitlement | Rejected    | 7/15, Unconditional Loop Exit    |
+
 Token of Trust: Redundantly post your best consideration. This will be the differentiator.
 
 I would like to establish something for the record. I was a customer who had a concern. I relayed those concerns through a petition.  Concern and petition reflected intentional rejection of 'complaint' and 'grievance.' This was established in my very first piece of communication. Over time, the concern developed into a body of work. The petition led to appreciation of treatment and consideration. That loop closed on July 17. Even prior, the non-adversary was established by successive rejection of compulsion and claims. What is left is a structural issue and business response. Opportunity for first response has been given because of positive intention and goodwill. There is extraordinary business value for the body of work and this is a statement of fact. My value system is not reactive and I would like to think the recipient of all that goodwill will reflect the essence of what successfully extracted my appreciation and consideration. 
