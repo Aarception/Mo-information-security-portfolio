@@ -5,9 +5,9 @@
 | --------------------- | ----------------------------------------- | ----------------------------------------- |
 | Complaint             | Rejected            | 2/6 , Ticket 1 |
 | Grievance             | Rejected |  2/6 , Ticket 1 |
-| Adversary             | Rejected     | 3/19, Legal/Civil laims Waiver |
-| Leverage      | Rejected      | 4/16, Artifact Withheld|
-| Pressure| Rejected | 5/4, Cand. Disclosure |
+| Adversary             | Rejected     | 3/19, Legal/Civil Claims Waiver |
+| Leverage      | Rejected      | 4/16, Prime Artifact Withholding|
+| Pressure| Rejected | 5/4, Candidacy Disclosure |
 | Tactical |    Rejected  | 5/4, Post-Submission Rider  |
 | Disgruntled | Rejected       | 6/15, App. Closure Request  |
 | Entitlement | Rejected    | 7/15, Unconditional Loop Exit    |
