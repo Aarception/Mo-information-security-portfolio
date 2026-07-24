@@ -10,7 +10,7 @@
 | Pressure| Rejected | 5/4, Candidacy Disclosure |
 | Tactical |    Rejected  | 5/4, Post-Submission Rider  |
 | Disgruntled | Rejected       | 6/15, App. Closure Request  |
-| Self-Interested | Rejected   | 7/9, 0 interest terms continuance  |
+| Self-Interested | Rejected   | 7/9, 0-interest continuance to 8/8  |
 | Entitlement | Rejected    | 7/17 Unconditional Loop Exit    |
 
 NNone of it was strategic; all of it was ethical. Integrity is the floor upon which Trust stands. 
