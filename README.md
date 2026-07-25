@@ -1,5 +1,5 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
-###### *"The stone appears to harbor a hidden core; its graceful roots resemble a reclining form."*
+###### *"The stone appears to harbor a hidden core; its charming roots resemble a crouching form."*
 
 ---
 
