@@ -6,21 +6,7 @@
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
 
-## 📜 1. The VCI Digital **[Trust](https://github.com/Aarception/cybersecurity-portfolio/tree/main/trust-infrastructure)**
-***Path:*** `/trust-infrastructure/`
-
-
- ◾ VCI → Presentation
-   - **[Verified Credential Identifier](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/VCI_Verified_Credential_Identifier_Specification_PA.PDF)**
-       -  Identity 🔸 Verification
-      🤳
-       -  [Specification](https://github.com/Aarception/cybersecurity-portfolio/blob/main/trust-infrastructure/VCI_Verified_Credential_Identifier_Specification_PA.PDF)
- 
-
-
-
-
-## 📚 2. Case Studies
+## 📚 1. Case Studies
 
 ### [SolarWinds Supply Chain Attack](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 **Path:** `/solarwinds-supply-chain-attack/`
@@ -31,7 +17,7 @@ Contents:
 
 ---
 
-## 💻 3. Penetration Testing Workflows
+## 💻 2. Penetration Testing Workflows
 
 ### [Metasploitable2 Penetration Testing](https://github.com/Aarception/cybersecurity-portfolio/tree/main/metasploitable2-penetration-testing)  
 **Path:** `/metasploitable2-penetration-testing/`
@@ -42,7 +28,7 @@ Contents:
 
 ---
 
-## 💾 4. Technical Labs
+## 💾 3. Technical Labs
 
 
 This repository contains incident‑driven cybersecurity case studies, penetration‑testing workflows, and reproducible technical labs.
@@ -67,7 +53,7 @@ All labs are located under:
 
 ---
 
-## 🧩 5. Shared Assets
+## 🧩 4. Shared Assets
 
 - [`/screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/screenshots) — Global screenshot directory  
 - Evidence captures embedded across labs and case studies  
@@ -75,7 +61,7 @@ All labs are located under:
 
 ---
 
-## 🎯 Assorted
+## 🎯 5. Assorted
 
 - [Expanding case study library](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 - [Strengthening evidence‑driven reporting](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs)  
