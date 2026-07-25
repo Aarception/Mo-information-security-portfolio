@@ -1,6 +1,7 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-##### *'To be Humble, Is To Be Effective.'*
+##### Security doesn’t minimize liability. 🪫
+#### Security preserves assurance. 🔋
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
