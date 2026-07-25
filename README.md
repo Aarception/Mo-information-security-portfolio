@@ -1,6 +1,7 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-I tried.
+To have regret is to not have tried.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
