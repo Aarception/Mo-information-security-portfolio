@@ -1,4 +1,4 @@
-# 📁 Mo's Information Security Learning, Projects, snd Portfolio 
+# 📁 Mo's Information Security Learning, Projects, and Portfolio 
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
