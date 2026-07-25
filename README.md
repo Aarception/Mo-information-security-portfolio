@@ -1,6 +1,5 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-Application: TPM-SSO.
 
 ---
 
