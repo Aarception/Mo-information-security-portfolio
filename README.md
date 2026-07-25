@@ -1,6 +1,4 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
-###### *"The stone appears to harbor a hidden core; its charming roots resemble a crouching form."*
-
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
