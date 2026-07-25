@@ -1,15 +1,14 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-##### Security doesn’t minimize liability. 🪫
-#### Security preserves assurance. 🔋
+#####  Confidentiality. Integrity.  Availability 🔱
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
-## 🪞. Security Architecture 🗺
+## 0. Security Architecture 🗺
 
 ### [Mapping As The Foundation of Security](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260721_034412.png)
-**Purpose:** `Trust Starts With Knowledge of the Perimeter`
+**Purpose:** `Trust Starts With Knowledge of the Perimeter` 📍
 
 ![mapl](trust-infrastructure/IMG_20260721_034412.png) 
 
