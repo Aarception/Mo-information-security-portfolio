@@ -5,7 +5,7 @@
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
-## 0. Security Architecture 🗺
+## 🪞 0. Security Architecture 🗺
 
 ### [Mapping As The Foundation of Security](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260721_034412.png)
 **Purpose:** `Trust Starts With Knowledge of the Perimeter`
