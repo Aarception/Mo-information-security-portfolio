@@ -1,6 +1,6 @@
 # 📁 Information Security Architecture & Trust Infrastructure Research
 
-To have regret is to not have tried.
+To have regret is to not have tried. I know you tried within your capacity as well.  Trust Infrastructure is waiting for something  bigger than this actual issue and the manner it weighs on me implicitly reflects I know what it is.
 
 ---
 
