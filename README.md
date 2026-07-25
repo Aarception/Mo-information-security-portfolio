@@ -1,6 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-
+##### *'To be Humble, Is To Be Effective.'*
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
