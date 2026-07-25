@@ -1,6 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
+###### *"The stone appears to harbor a hidden core; its graceful roots resemble a reclining form."*
 
-#####  Confidentiality. Integrity.  Availability 🔱
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
