@@ -1,6 +1,7 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-Applied: TPM-SSO.
+Application: TPM-SSO.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
