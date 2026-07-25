@@ -7,8 +7,8 @@
 
 ## 0. Security Architecture 🗺
 
-### [The Foundation of Security](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260721_034412.png)
-**Purpose:** `Perimeter Mapping As Redundancy Assurance`
+### [Mapping As The Foundation of Security](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260721_034412.png)
+**Purpose:** `Trust Starts With Knowledge of the Perimeter`
 
 ![mapl](trust-infrastructure/IMG_20260721_034412.png) 
 
