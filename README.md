@@ -1,6 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-#### My strongest asset is the ability to perceive architecture from incomplete structures and convert scattered observations into a coherent operating model. 
+#### I wonder why that one tbey will ask.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
