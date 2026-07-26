@@ -1,4 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
+
+#### Can organizational epistemic security be measured as the rate at which weak signals are converted into durable institutional knowledge?
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
