@@ -1,6 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-#### Gratitude Is My Superpower.🔋
+##### *'Ability to command respect and influence senior technical leaders (e.g., Directors/VPs) across disparate product areas without direct organizational authority.'*
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
