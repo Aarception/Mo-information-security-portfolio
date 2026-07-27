@@ -1,6 +1,7 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-Note: If you ever become confused by me, explicitly choose against the negative inference. I speak diplomacy, not dishonesty. 
+Note: If you ever become confused by me, explicitly choose against the negative inference. I speak diplomacy, not dishonesty.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
