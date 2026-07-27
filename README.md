@@ -1,6 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-#### Gratitude Is My Superpower.
+#### Gratitude Is My Superpower.🔋
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
