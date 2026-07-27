@@ -1,6 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-##### Whoami: I am honest, value integrity, and practice consideration. It has given me capacity, capability, and effectiveness. Most of all, it has fused my judgement with measurement and restraint.
+###### Whoami: I am honest, value integrity, and practice consideration. It has given me capacity, capability, and effectiveness. Most of all, it has fused my judgement with measurement and restraint.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
