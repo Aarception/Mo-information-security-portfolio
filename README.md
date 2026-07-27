@@ -4,7 +4,7 @@
 ###### This is an observation I would have written privately, but now shared in real time. 
 ###### Attachments: July 16th 8:19 a.m maintenance, search comparisons.
 
-###### Negative Space: #118013944949285574.
+###### Negative Space: #
 
 ---
 
