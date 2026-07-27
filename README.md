@@ -1,7 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-##### Note: If you ever become confused by me, explicitly choose against the negative inference. I speak diplomacy, not dishonesty.
-
+#####: Whoami: I am honest, value integrity, and practice consideration. It has given me capacity, capability, and effectiveness. Most of all, it has fused my judgement with measurement and restraint.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
