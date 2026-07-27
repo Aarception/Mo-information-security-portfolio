@@ -1,6 +1,8 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-##### *'Ability to command respect and influence senior technical leaders (e.g., Directors/VPs) across disparate product areas without direct organizational authority.'*
+###### *'Ability to command respect and influence senior technical leaders (e.g., Directors/VPs) across disparate product areas without direct organizational authority.'*
+
+#### -That's whom I want to be.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
