@@ -1,20 +1,20 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-Among the world's archetypes are two: the Wadaad & the Waranle. They are mutually corrosive and when not harmonized, conflict forms. 
+Among the world's archetypes are two: the Wadad & the Waranle. They are mutually corrosive and when not harmonized, conflict forms. 
 
 The Waranle is the Spearman, he carries control, takes what he sees through compulsion and operates through conflict, coercion,  and cynicism. 
 
-The Wadaad is the Jurist, he carries rationality, makes whole through restoration, and operates through restraint, reason, and reflection.
+The Wadad is the Jurist, he carries rationality, makes whole through restoration, and operates through restraint, reason, and reflection.
 
-TThe Wadaad without the Waranle is lawlessness and defenselessness.
+TThe Wadad without the Waranle is lawlessness and defenselessness.
 
-The Waranle without the Wadaad is tyranny and subjugation.
+The Waranle without the Wadad is tyranny and subjugation.
 
 The Wadaad submitted to the Waranle is authoritarianism and ethical drift.
 
-Bringing the excesses of the Waranle under the permanent, dominant control of the Wadaad is harmony and restorative.
+Bringing the excesses of the Waranle under the permanent, dominant control of the Wadad is harmony and restorative.
 
-PR is part of the Wadaad faction in any corporate enterprise. Legal is the chief of the Waranle faction.
+PR is part of the Wadad faction in any corporate enterprise. Legal is the chief of the Waranle faction.
 
 I am a Wadaad who wields a Waranle arm.
 
@@ -78,7 +78,7 @@ I will not go to a lawyer. I will go to the University of Washington. I will go 
 >   
 Yet, the issue is still here and I am modeled as the inverse.
 >
-I am going to the University of Washington. I am a Wadaad with Waranle arms and I know how to starve the Waranle out of fuel. The University is the ultimate Wadaad ministry. Perhaps the institution will then be encouraged by wisdom to send the Wadaads back out.
+I am going to the University of Washington. I am a Wadad jurist with Waranle arms and I know how to starve the Waranle out of fuel. The University is the ultimate Wadad ministry. Perhaps the institution will then be encouraged by wisdom to send the Wadads back out.
 
 ---
 
