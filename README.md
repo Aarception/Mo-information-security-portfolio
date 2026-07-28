@@ -1,4 +1,4 @@
-# 📁 Mo's Information Security Learning, Projects, and Portfolio 
+up# 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 ###### Trust Infrastructure Research with original Git timestamps migration: https://github.com/Aarception/Trust_Infrastructure
 
@@ -18,7 +18,10 @@
 ![26th](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260728_005517.png)
 ![26th](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260728_010013.png)
 
-##### I cannot help but think what it must have looked like when Benjamin Franklin imagined the future Bill of Rights while the King's representatives strategized about how to best defend Tea collection
+##### I cannot help but think what it must have looked like when Benjamin Franklin imagined the future Bill of Rights while the King's representatives strategized about how to best defend Tea collection. 
+
+The institution treated me with consideration at Skill support. 
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
