@@ -78,7 +78,7 @@ I will not go to a lawyer. I will go to the University of Washington. I will go 
 >   
 Yet, the issue is still here and I am modeled as the inverse.
 >
-I am going to the University of Washington. I am a Wadaad with Waranle arms and I know how to starve the Waranle out of fuel. The University is the ultimate Wadaad ministry. Perhaps the institution will send the Wadaads back out.
+I am going to the University of Washington. I am a Wadaad with Waranle arms and I know how to starve the Waranle out of fuel. The University is the ultimate Wadaad ministry. Perhaps the institution will be encouraged by wisdom to send the Wadaads back out.
 
 ---
 
