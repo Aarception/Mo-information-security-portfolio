@@ -1,9 +1,5 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-###### Meta Statement: Afan called, Method answered. Mo watched as Silo listened.
-
-###### -Coup d'œil 
-
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
