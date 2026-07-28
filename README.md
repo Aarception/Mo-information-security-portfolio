@@ -6,7 +6,7 @@
 
 ##### As a result, the promises I made and the recognition I paid to the institution are still in effect.
 
-##### Signal Integrity Alignment turns to the Market.
+##### Signal Integrity Alignment turns to the Market: https://github.com/Aarception/Signal_Integrity_Alignment
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
