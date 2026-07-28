@@ -28,7 +28,7 @@ I apologize for the last update. It was inflammatory and inappropriate.
 
 I will not go to a lawyer. I will go to the University of Washington. I will go and seek academic perspective for reviewing 450+ pages of primary sourced record and first get a sense of everything in it. This is more productive.
 
-1. Support: 2/6-4/5
+1. Support: 2/6-5/4
 2. Routing: 2/26-
 3. Program: 3/1-
 4. Legal: 3/25-
