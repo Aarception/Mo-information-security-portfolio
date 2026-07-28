@@ -2,7 +2,8 @@
 
 
 
-##### I think it is time I accepted the idea of seeking legal advice. It is not lost on me what I have on my hands. I gave the institution maximum possible benefit of the doubt and gifted consideration because of liability consequentialism.The cover-up attempts are even worse than the original. It is worse legally, is corrosive for personal accountability, and is poisonous to the ESG commitments. I don't know why those choices were made, but they were made. This is last night after my below public statement. Somebody calculate the natural odds of July 16 and last night immediately succeeding my comments about the Career portal without even taking into consideration the search degradation? 
+##### I think it is time I accepted the idea of seeking legal advice. It is not lost on me what I have on my hands. I gave the institution maximum possible benefit of the doubt and gifted consideration because of liability consequentialism.The cover-up attempts are even worse than the original. It is worse legally, is corrosive for personal accountability, and is poisonous to the ESG commitments. I don't know why those choices were made, but they were made. This is last night after my below public statement. Somebody calculate the natural odds of July 16 and last night immediately succeeding my comments about the Career portal without even taking into consideration the search degradation? There must a Threat Intelligence team on me. 🤔 That would be extremely disappointing.
+
 ![Maintenance July 28](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260728_120455.png)
 
 
