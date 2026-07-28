@@ -72,9 +72,9 @@ I will not go to a lawyer. I will go to the University of Washington. I will go 
 2. First response
 3. Liability-free full consideration
 >Dignified Treatment Guarantee 
->1. 3/19: Waiver of personal claims
->2. 6/25: Fair Treatment offer
->3. 7/17: Consideration offer
+1. 3/19: Waiver of personal claims
+2. 6/25: Fair Treatment offer
+3. 7/17: Consideration offer
 >   
 Yet, the issue is still here and I am modeled as the inverse.
 >
