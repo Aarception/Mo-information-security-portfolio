@@ -12,8 +12,11 @@
 
 ##### But this is a separate issue about the candidacy. There are 5 other signal gaps to deal with and the first is the original signal integrity alignment which will soon receive a Market answer.
 
-##### This is farewell to indirect communication. 
+##### This is farewell to indirect communication.
 
+![26th](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260728_005658.png)
+![26th](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260728_005517.png)
+![26th](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260728_010013.png)
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
