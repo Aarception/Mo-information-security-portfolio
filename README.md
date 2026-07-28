@@ -2,7 +2,7 @@
 
 ###### Trust Infrastructure Research has been moved: https://github.com/Aarception/Trust_Infrastructure
 
-##### My statement about July 16 was a response to the Mandiant speech act. I wanted to withdraw, but the portal does not allow it(*). I appreciate the return and thank you for relieving me of the burden. My consideration of Juky 17th has been matched.
+##### My statement about July 16 was a response to the Mandiant speech act. I wanted to withdraw, but the portal does not allow it(*). I appreciate the return and thank you for the opportunity. My consideration of July 17th cannot be superseded.
 
 ##### As a result, the promises I made and the recognition I paid to the institution are still in effect.
 
