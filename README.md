@@ -2,6 +2,8 @@
 
 ###### Trust Infrastructure Research with original Git timestamps migration: https://github.com/Aarception/Trust_Infrastructure
 
+##### I think it is time I accepted the idea of seeking legal advice. It is not lost on me what I have on my hands. I gave the institution maximum possible benefit of the doubt and gifted consideration. The cover-up attempts are even worse than the original. It is worse legally, is corrosive for personal accountability, and is poisonous to the ESG commitments. I don't know why those choices were made, but they were made.
+
 ##### My statement about July 16 was mentioned, because  I wanted to withdraw, but the portal does not allow it(*). I thank you for the opportunity. My consideration of July 17th stands.
 
 ###### Signal Integrity Alignment [with original Git timestamps & Prior Art] turns to the Market: https://github.com/Aarception/Signal_Integrity_Alignment
