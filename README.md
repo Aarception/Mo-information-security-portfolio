@@ -1,12 +1,12 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-###### Trust Infrastructure Research has been moved: https://github.com/Aarception/Trust_Infrastructure
+###### Trust Infrastructure Research with original Git timestamps migration: https://github.com/Aarception/Trust_Infrastructure
 
 ##### My statement about July 16 was a response to the Mandiant speech act. I wanted to withdraw, but the portal does not allow it(*). I appreciate the return and thank you for the opportunity. My consideration of July 17th cannot be superseded.
 
 ##### As a result, the promises I made and the recognition I paid to the institution are still in effect.
 
-###### Signal Integrity Alignment turns to the Market: https://github.com/Aarception/Signal_Integrity_Alignment
+###### Signal Integrity Alignment [with original Git timestamps & Prior Art] turns to the Market: https://github.com/Aarception/Signal_Integrity_Alignment
 
 ##### * *Coup d'œil: Why did I say will not embarrass? It is very unusual thing to say. For the same reason I said—in mid February—during the 1st ticket, the conceptualization is paramount statement. And there is no question today about what the record is. Similarly, I said I will not embarrass, because from 4/8 and counting, I saw a scandal that cannot be lineitemed, but with cost that is not institutional, but structural and personnel. The structural will affect the entire market. I would not be surprised if there is birth of unprecedented candidate rights including mandated requisition processing standards, the ability to withdraw, disclaimer statements about process updates, fiduciary standards about headcount and posting, disparate treatment standards beyond identity issues, right to fair processing and treatment uniformity, etc. The record is too documented and too convergent. My restraint has been proportional to the responsibility. I will not embarrass given that the record is saturated with embarrassing treatmentent. Finally, I cannot help but think what it must have looked like when Benjamin Franklin imagined the future Bill of Rights while the King's representatives strategized about how to best defend Tea collection. I predict a scandal—the only reason it hasn't happened yet is because I despise the idea of martyrdom. It remains to be seen how long I can keep this record under wraps. I am not the only one with access to it and my personal wishes have just been enough to prevent a patronizing preemption. I know the record has won supporters from within and I am sorry if this disappoints you. We are all disappointed.*
 
