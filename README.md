@@ -12,7 +12,7 @@
 
 ##### But this is a separate issue about the candidacy. There are 5 other signal gaps to deal with and the first is the original signal integrity alignment which will soon receive a Market answer.
 
-##### I will not write another word directed inwards.
+##### This is farewell to indirect communication. 
 
 ---
 
