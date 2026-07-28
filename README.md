@@ -26,7 +26,7 @@ That grass here has become respect, civility, understanding, constructive engage
 
 I apologize for the last update. It was inflammatory and inappropriate. 
 
-I will not go to a lawyer. I will go to thw University of Washington. I will go and seek academic perspective for reviewing 450+ pages of primary sourced record and first get a sense of everything in it. This is more productive.
+I will not go to a lawyer. I will go to the University of Washington. I will go and seek academic perspective for reviewing 450+ pages of primary sourced record and first get a sense of everything in it. This is more productive.
 
 ---
 
