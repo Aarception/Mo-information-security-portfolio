@@ -6,8 +6,8 @@
 
 ![Maintenance July 28](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/IMG_20260728_120455.png)
 
-0.01% Natural odds
->95% Reactive
+    0.01% Natural odds
+    >95% Reactive
 
 
 
