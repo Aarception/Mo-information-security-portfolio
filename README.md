@@ -22,7 +22,7 @@ At some point, a decision was made to let Legal control the exchange on the othe
 
 I learned a proverb in my international experience: When two elephants wrestle, the grass gets trampled.
 
-That grass here has become respect, civility, understanding, constructive engagement, and resolution.
+That grass here has become respect, civility, understanding, constructive engagement, restraint, reason, and resolution.
 
 I apologize for the last update. It was inflammatory and inappropriate. 
 
