@@ -28,45 +28,46 @@ I apologize for the last update. It was inflammatory and inappropriate.
 
 I will not go to a lawyer. I will go to the University of Washington. I will go and seek academic perspective for reviewing 450+ pages of primary sourced record and first get a sense of everything in it. This is more productive.
 
+>6 Boundary Failures
 1. Support: 2/6-5/4
 2. Routing: 2/26-
 3. Program: 3/1-
 4. Legal: 3/25-
 5. PR: 4/11-
 6. POps: 4/15
->
+> POps Controlled Testing
 1. 4/15: Certificate + Audit (Behavior Responsive)
 2. 7/6: Audit (Behavior responsive)
 3. 7/26: Certificate (Behavior responsive)
->
-1. 3/17: 3 Answers
+> Signal Gap Consensus
+1. 3/17: Institutional Answers
 2. 3/19: Mechanical Impossibility
-3. 4/16: Partner
->
-1. 3/2: Program Awareness
+3. 4/16: Partner Confirmation 
+>Governance Silence
+1. 3/1: Program Awareness
 2. 3/25: Legal Awareness
 3. 4/10: PR Awareness
->
+>Complete Knowledge 
 1. 5/7: Audit submitted
 2. 5/8: Evidence dubmitted
 3. 6/1: Trust Infrastructure submitted
->
+>Responsive Actions
 1. 5/13 Correlation 
 2. 7/16 Correlation 
 3. 7/28: Correlation
->
+>3 Party Architecture 
 1. Institution
 2. Job Board
 3. Learning Platform
->
+>Generous Opportunity for Resolution 
 1. 3/19: Knowledge point
 2. 4/7: Resolution point
 3. 7/8: Final point
->
+>Knowledge of Defensive Liabilities 
 1. 2/13: Constructive Knowledge Doctrine re:Silo
 2. 2/26: Segmentation After Purchase re:Point of Sale
 3. 6/29: What Is At Stake: ESG Portfolio framing
->
+>No Liability Resolution Offers
 1. 20-day resolution
 2. First response
 3. Liability-free full consideration
