@@ -7,6 +7,8 @@
 ##### As a result, the promises I made and the recognition I paid to the institution are still in effect.
 
 ##### Signal Integrity Alignment turns to the Market: https://github.com/Aarception/Signal_Integrity_Alignment
+
+##### * *Coup d'œil: Why did I say will not embarrass? It is very unusual thing to say. For the same reason I said—in mid February—during the 1st ticket, the conceptualization is paramount statement. And there is no question today about what the record is. Similarly, I said I will not embarrass, because from 4/8 and counting, I saw a scandal that cannot be lineitemed, but with cost that is not institutional, but structural and personnel. The structural will affect the entire market. I would not be surprised if there is birth of unprecedented candidate rights including mandated requisition processing standards, the ability to withdraw, disclaimer statements about process updates, fiduciary standards about headcount and posting. The record is too documented and too convergent. My restraint has been proportional to the responsibility.*
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
