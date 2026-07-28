@@ -2,7 +2,7 @@
 
 ###### Trust Infrastructure Research with original Git timestamps migration: https://github.com/Aarception/Trust_Infrastructure
 
-##### My statement about July 16 was a response to the TIG speech act. I wanted to withdraw, but the portal does not allow it(*). I appreciate the return and thank you for the opportunity. My consideration of July 17th cannot be superseded.
+##### My statement about July 16 was mentioned, because  I wanted to withdraw, but the portal does not allow it(*). I appreciate the return and thank you for the opportunity. My consideration of July 17th cannot be superseded.
 
 ##### As a result, the promises I made and the recognition I paid to the institution are still in effect.
 
