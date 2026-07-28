@@ -6,7 +6,7 @@ The Waranle is the Spearman, he carries control, takes what he sees through comp
 
 The Wadaad is the Jurist, he carries rationality, makes whole through restoration, and operates through restraint, reason, and reflection.
 
-TThe Wadaad without the Waranle is lawlessness and anarchy.
+TThe Wadaad without the Waranle is lawlessness and defenselessness.
 
 The Waranle without the Wadaad is tyranny and subjugation.
 
