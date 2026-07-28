@@ -1,6 +1,30 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-Watergate.
+Among the world's archetypes are two: the Wadaad & the Waranle. They are mutually corrosive and when not harmonized, conflict forms. 
+
+The Waranle is the Spearman, he carries control, takes what he sees through compulsion and operates through conflict, coercion,  and cynicism. 
+
+The Wadaad is the Jurist, he carries rationality, makes whole through restoration, and operates through restraint, reason, and reflection.
+
+TThe Wadaad without the Waranle is lawlessness and anarchy.
+
+The Waranle without the Wadaad is tyranny and subjugation.
+
+The Wadaad submitted to the Waranle is authoritarianism and ethical drift.
+
+Bringing the excesses of the Waranle under the permanent, dominant control of the Wadaad is harmony and restorative.
+
+PR is part of the Wadaad faction in any corporate enterprise. Legal is the chief of the Waranle faction.
+
+I am a Wadaad who wields a Waranle arm.
+
+At some point, a decision was made to let Legal control the exchange on the other side. So Waranle arms have been brandished against the Waranle.
+
+I learned a proverb in my international experience: When two elephants wrestle, the grass gets trampled.
+
+That grass here has become respect, civility, understanding, constructive engagement, and resolution.
+
+I apologize for the last update. It was inflammatory and inappropriate. 
 
 ---
 
