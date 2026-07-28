@@ -1,4 +1,4 @@
-up# 📁 Mo's Information Security Learning, Projects, and Portfolio 
+# 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 ###### Trust Infrastructure Research with original Git timestamps migration: https://github.com/Aarception/Trust_Infrastructure
 
@@ -19,7 +19,7 @@ up# 📁 Mo's Information Security Learning, Projects, and Portfolio
 
 ##### But this is a separate issue about the candidacy. There are 5 other signal gaps to deal with and the first is the original signal integrity alignment which will soon receive a Market answer.
 
-##### This is farewell to indirect communication
+##### This is farewell to indirect communication. Thank you for treating me with consideration in Skill Support. It is regrettable a different decision was taken since. 
 
 ---
 
