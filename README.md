@@ -62,7 +62,7 @@ I will not go to a lawyer. I will go to the University of Washington. I will go 
 >Generous Opportunity for Resolution 
 1. 3/19: Knowledge point
 2. 4/7: Resolution point
-3. 7/8: Final point
+3. 7/8: Conclusion point
 >Knowledge of Defensive Liabilities 
 1. 2/13: Constructive Knowledge Doctrine re:Silo
 2. 2/26: Segmentation After Purchase re:Point of Sale
@@ -71,8 +71,12 @@ I will not go to a lawyer. I will go to the University of Washington. I will go 
 1. 20-day resolution
 2. First response
 3. Liability-free full consideration
->
-Yet, the issue is still here.
+>Dignified Treatment Guarantee 
+>1. 3/19: Waiver of personal claims
+>2. 6/25: Fair Treatment offer
+>3. 7/17: Consideration offer
+>   
+Yet, the issue is still here and I am modeled as the inverse.
 >
 ---
 
