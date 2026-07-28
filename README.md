@@ -10,7 +10,7 @@ TThe Wadad without the Waranle is lawlessness and defenselessness.
 
 The Waranle without the Wadad is tyranny and subjugation.
 
-The Wadaad submitted to the Waranle is authoritarianism and ethical drift.
+The Wadad submitted to the Waranle is authoritarianism and ethical drift.
 
 Bringing the excesses of the Waranle under the permanent, dominant control of the Wadad is harmony and restorative.
 
