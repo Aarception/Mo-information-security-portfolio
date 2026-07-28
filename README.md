@@ -1,5 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
+###### Trust Infrastructure Research has been moved: https://github.com/Aarception/Trust_Infrastructure
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
