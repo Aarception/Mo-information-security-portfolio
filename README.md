@@ -2,6 +2,8 @@
 
 July 17 is binding. Total confidentiality. All terms apply. All promises are permanent. I trust that the institution knows what to do.
 
+I will not be applying, but I am building VCI.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
