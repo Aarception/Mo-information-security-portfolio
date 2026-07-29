@@ -21,18 +21,19 @@ If your relational account is overdrawn, then you are in relational Arrears with
 You either apply for bankruptcy, making extraordinary adjustments to standard operations, or your Creditor is with the legitimacy to take extraordinary measures.
 ~~~
 Among the world's archetypes are two: the Wadad & the
-Waranle. They are mutually corrosive and when not harmonized,
-conflict forms.
+Waranle. They are mutually corrosive and when not
+harmonized, conflict forms.
 
-1.) The Waranle is the Spearman, he carries control, takes
-what he sees through compulsion and operates through conflict,
-coercion, and cynicism.
+1.) The Waranle is the Spearman, he carries control,
+takes what he sees through compulsion and operates
+through conflict, coercion, and cynicism.
 
-B.) The Wadad is the Jurist, he carries rationality, makes
-whole through restoration, and operates through restraint,
-reason, and reflection.
+B.) The Wadad is the Jurist, he carries rationality,
+makes whole through restoration, and operates through
+restraint, reason, and reflection.
 
-¹ The Waranle without the Wadad is tyranny and subjugatioon.
+¹ The Waranle without the Wadad is tyranny and
+subjugatioon.
 
 ² The Wadad without the Waranle is lawlessness and
 defenselessness.
@@ -40,8 +41,9 @@ defenselessness.
 ¹ The Wadad submitted to the Waranle is authoritarianism
 and ethical drift.
 
-² Bringing the excesses of the Waranle under the permanent,
-dominant control of the Wadad is harmony and restorative.
+² Bringing the excesses of the Waranle under the
+permanent, dominant control of the Wadad is harmony
+and restorative.
 
 PR is part of the Wadad wing in any corporate enterprise.
 Legal is the chief of the Waranle faction.
@@ -49,11 +51,11 @@ Legal is the chief of the Waranle faction.
 I am a Wadaad who wields a Waranle arm for defense.
 
 At some point, a decision was made to let Legal control
-the exchange on the other side. So my Waranle arms have been
-brandished against the Waranle.
+the exchange on the other side. So my Waranle arms have
+been brandished against the Waranle.
 
-I learned a proverb in my international experience: When
-two elephants wrestle, the grass gets trampled.
+I learned a proverb in my international experience:
+When two elephants wrestle, the grass gets trampled.
 
 That grass here has become respect, civility, reason,
 understanding, constructive engagement, restraint, and
