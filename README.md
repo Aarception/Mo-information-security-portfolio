@@ -58,8 +58,8 @@ I learned a proverb in my international experience:
 When two elephants wrestle, the grass gets trampled.
 
 That grass here has become respect, civility, reason,
-understanding, constructive engagement, restraint, and
-resolution
+understanding, constructive engagement, restraint,
+resolution; and, most of all — Consideration. 
 
 ~~~
 ---
