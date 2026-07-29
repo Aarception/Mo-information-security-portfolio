@@ -10,7 +10,7 @@ I came with a concern and I made a choice to prevent the transformation of that 
 
 That is the greatest consideration under the circumstance. The choice ultimately belongs to you.
 
-I will finally offer this as a token of trust. I understand the threat is not the certificate. The threat is Search primarily and Gemini secondarily. Do you know how I know? Because those were the 1st and 2nd places I came across Career Certificates.  I have understood the full scale of liabilities since March. I never disclosed it, because I understood the disproportionate scale of that knowledge. Imagine that I have known the impact for Search and I have protected the ability to mitigate that risk and I have been treated like an adversary. Liability consequentialism is a liability.
+I will finally offer this as a token of trust. I understand the threat is not the certificate. The threat is Search primarily and Gemini secondarily. Do you know how I know? Because those were the 1st and 2nd places I came across Career Certificates.  I have understood the full scale of liabilities since March. I never disclosed it, because I understood the disproportionate scale of that knowledge. Imagine that I have known the impact for Search and having protected the ability to mitigate that risk, I have been treated like an adversary. Liability consequentialism is a liability.
 
 ---
 
