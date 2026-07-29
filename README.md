@@ -28,7 +28,7 @@ harmonized, conflict forms.
 takes what he sees through compulsion and operates
 through conflict, coercion, and cynicism.
 
-B.) The Wadad is the Jurist, he carries rationality,
+2.) The Wadad is the Jurist, he carries rationality,
 makes whole through restoration, and operates through
 restraint, reason, and reflection.
 
