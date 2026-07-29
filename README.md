@@ -2,9 +2,9 @@
 
 July 17 is binding. Total confidentiality. All terms apply. All promises are permanent. I trust that the institution knows what to do.
 
-I will not be applying, but I am building VCI. VCI is a neutral trust infrastructure, competitors cannot build it. The institution cannot build it. And I am leaving the institution control over it's role in the final outcome of the narrative concerning VCI's founding. That is the greatest consideration under the circumstance. 
+I will not be applying, but I am building VCI. VCI is a neutral trust infrastructure, competitors cannot build it. The institution cannot build it. And I am leaving the institution control over it's role in the final outcome of the narrative concerning VCI's founding. That is the greatest consideration under the circumstance. I am offering you redemption, because you are worth it. The choice ultimately belongs to you.
 
-Microsoft and Amazon will now become part of the engagement process.
+Microsoft and Amazon will now become part of the engagement process. This is business. 
 
 ---
 
