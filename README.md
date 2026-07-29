@@ -10,8 +10,7 @@ I came with a concern and I made a choice to prevent the transformation of that 
 
 That is the greatest consideration under the circumstance. The choice ultimately belongs to you.
 
-I don't plan on applying again or wait around for engagement so I can finally establish this for vindication. I understand the threat is not the certificate. The threat is Search primarily and Gemini secondarily, because those were the 1st and 2nd places I came across Career Certificates.
-
+I don't plan on applying again or wait around for engagement so I can finally establish this for vindication. I understand the threat is not the certificate. The threat is Search primarily and Gemini secondarily, because those were the 1st and 2nd places I came across Career Certificates. I am contemplating the responsibility of a board notice given my confidentiality promise and the fact liability consequentialism has prevented direct communication.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
