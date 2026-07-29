@@ -2,10 +2,13 @@
 
 July 17 is binding. Total confidentiality. All terms apply. All promises are permanent. I trust that the institution knows what to do.
 
-I will not be applying, but I am building VCI. VCI is a neutral trust infrastructure, competitors cannot build it. The institution cannot build it. And I am leaving the institution control over it's role in the final outcome of the narrative concerning VCI's founding. That is the greatest consideration under the circumstance. I am offering you redemption, because you are worth it. The choice ultimately belongs to you.
+I will not be applying, but I am building VCI. VCI is a neutral trust infrastructure, competitors cannot build it. The institution cannot build it. And I am leaving the institution control over it's role in the final outcome of the narrative concerning VCI's founding. 
 
 Microsoft and Amazon will now become part of the engagement process. This is business. The market will do the work that Legal consequentialism prevented us from doing through dialogue.
 
+I came with a concern and I made a choice to prevent the transformation of that concern into grievance, but instead into structural infrastructure. I am giving you the choice to prevent the transformation of non-engagement into competitive disadvantage, and instead to a redemptive redeeming legacy.
+
+That is the greatest consideration under the circumstance. The choice ultimately belongs to you.
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
