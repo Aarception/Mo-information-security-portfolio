@@ -4,7 +4,8 @@ July 17 is binding. Total confidentiality. All terms apply. All promises are per
 
 I will not be applying, but I am building VCI. VCI is a neutral trust infrastructure, competitors cannot build it. The institution cannot build it. And I am leaving the institution control over the final outcome of the narrative concerning VCI's founding. That is the greatest consideration under the circumstance. 
 
-Microsoft and Amazon will now become part of the engagement process. 
+Microsoft and Amazon will now become part of the engagement process.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
