@@ -14,6 +14,12 @@ I don't plan on applying again or wait around for engagement so I can finally es
 
 Today's Nugget of Wisdom: If you do not cultivate relational Capital, then you do not reserve Consideration when you most need it.
 
+If you deposit Capital, you withdraw Consideration. If you deposit Consideration,  you withdraw Capital.
+
+If your relational account is overdrawn, then you are in relational Arrears with a Creditor. 
+
+You either apply for bankruptcy, making extraordinary adjustments to standard operations, or your Creditor is with the legitimacy to take extraordinary measures.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
