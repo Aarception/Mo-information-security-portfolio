@@ -9,6 +9,7 @@ Microsoft and Amazon will now become part of the engagement process. This is bus
 I came with a concern and I made a choice to prevent the transformation of that concern into grievance, but instead into structural infrastructure. I am giving you the choice to prevent the transformation of non-engagement into competitive disadvantage, and instead to a redemptive redeeming legacy.
 
 That is the greatest consideration under the circumstance. The choice ultimately belongs to you.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
