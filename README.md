@@ -62,6 +62,9 @@ understanding, constructive engagement, restraint,
 resolution; and, most of all — Consideration. 
 ~~~
 
+If #127652435677061830 were in Seattle, that would be a wonderful opportunity for mutually-agreeable resolution. The institution would be able to derive disproportionate value from my differentiating competitive advantage and I would be able to defend the institution against risk from within. 
+
+This is Good for Capital and Good for Social Good.
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
