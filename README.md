@@ -10,7 +10,7 @@ I came with a concern and I made a choice to prevent the transformation of that 
 
 That is the greatest consideration under the circumstance. The choice ultimately belongs to you.
 
-I don't plan on applying again or wait around for engagement so I can finally establish this for vindication. I understand the threat is not the certificate. The threat is Search primarily and Gemini secondarily, because those were the 1st and 2nd places I came across Career Certificates.  I have understood the full scale of liabilities since March. I never disclosed it, because of the disproportionate scale of that knowledge. 'II. Calibrated evidence disclosure.' Imagine that I have known the impact for Search and having protected the ability to mitigate that risk, I have been treated like an adversary. I took out your certificate because I trusted the brand and I wanted to work for you. I had no interest to extract money from you nor have you punished. At every moment I was treated to reactive strategization even when it should have become very obvious I had been vastly incorrectly modeled. Everything I touch becomes a discovery. I cannot touch something and not find a discovery. Liability consequentialism is a liability. I hope I contribute to the discovery here that institutional truth-making does not always have to be submitted to liability consequentialism.
+I don't plan on applying again or wait around for engagement so I can finally establish this for vindication. I understand the threat is not the certificate. The threat is Search primarily and Gemini secondarily, because those were the 1st and 2nd places I came across Career Certificates.
 
 ---
 
