@@ -12,6 +12,8 @@ That is the greatest consideration under the circumstance. The choice ultimately
 
 I don't plan on applying again or wait around for engagement so I can finally establish this for vindication. I understand the threat is not the certificate. The threat is Search primarily and Gemini secondarily, because those were the 1st and 2nd places I came across Career Certificates. I am contemplating the responsibility of a board notice given my confidentiality constraints and the fact liability consequentialism has prevented direct communication. A board has duty of care that cannot be obstructed by non-engagement. They have a legal obligation to receive material risk information. I will prepare a board notice in the form of risk intelligence.
 
+Today's Nugget of Wisdom: If you do not cultivate relational Capital, then you do not reserve Consideration when you most need it.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
