@@ -70,10 +70,10 @@ The Risk Intelligence report is completed in line with my operating requirements
 
 I will set it aside for review tomorrow and possible adjustment if it becomes relevant.
 
-|           | **Section**                                     | **Contents**                                                                                                                              |
+|           | ***Section***                                     | ***Contents***                                                                                                                              |
 | :-------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **I.**    | Statement                                       | Declaration of purpose |
-| **II.**   | Fiduciary Framework                             | Board duty of care under Delaware law & *Caremark*                                         |
+| **II.**  | Fiduciary Framework                             | Board duty of care under Delaware law & *Caremark*                                         |
 | **III.**  | Risk Taxonomy & Materiality Assessment          | Enterprise risk classification         |
 | **IV.**   | Qualifications                                  | Author standing to submit                    |
 | **V.**    | Liability Architecture & Regulatory Horizon     | Socio-politico-juridical review of emerging laws, rules, and standards       |
