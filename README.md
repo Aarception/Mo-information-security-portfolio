@@ -1,16 +1,6 @@
-9# 📁 Mo's Information Security Learning, Projects, and Portfolio 
+# 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-July 17 is binding. Total confidentiality. All terms apply. All promises are permanent. I trust that the institution knows what to do.
-
-I will not be applying, but I am building VCI. VCI is a neutral trust infrastructure, competitors cannot build it. The institution cannot build it. And I am leaving the institution control over it's role in the final outcome of the narrative concerning VCI's founding. 
-
-Microsoft and Amazon will now become part of the engagement process. This is business. The market will do the work that Legal consequentialism prevented us from doing through dialogue.
-
-I came with a concern and I made a choice to prevent the transformation of that concern into grievance, but instead into structural infrastructure. I am giving you the choice to prevent the transformation of non-engagement into competitive disadvantage, and instead to a redemptive redeeming legacy.
-
-That is the greatest consideration under the circumstance. The choice ultimately belongs to you.
-
-I don't plan on applying again or wait around for engagement so I can finally establish this for vindication. I understand the threat is not the certificate. The threat is Search primarily and Gemini secondarily, because those were the 1st and 2nd places I came across Career Certificates. I am contemplating the responsibility of a board notice given my confidentiality constraints and the fact liability consequentialism has prevented direct communication. A board has duty of care that cannot be obstructed by non-engagement. They have a legal obligation to receive material risk information. I will prepare a board notice in the form of risk intelligence.
+I am contemplating the responsibility of a board notice given my confidentiality constraints and the fact liability consequentialism has prevented direct communication. A board has duty of care that cannot be obstructed by non-engagement. They have a legal obligation to receive material risk information. I will prepare a board notice in the form of risk intelligence.
 
 ### ***Update***
 
@@ -30,12 +20,6 @@ The Risk Intelligence report is completed in line with my operating requirements
 | **VIII.** | Strategic Options & Remediation                 | Ranked framework for responding to identified compliance needs assessment     |
 | **IX.**   | Recommendations                                 | Ranked recommendation steps according to immediate priority & feasibility         |
 
-1. This is Risk Intelligence. It has nothing to do with concerns or petitions or personal issues.
-2. It is in-line with the constraints and promises made on July 17 and prior.
-3. It is made relevant by lack of engagement.
-4. It is confidential and internal.
-
-I am a Compliance professional. I know what needs to be done.
 
 I will set it aside for review tomorrow and possible adjustment if it becomes relevant.
 
