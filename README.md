@@ -4,7 +4,7 @@ I am contemplating the responsibility of a board notice given my confidentiality
 
 ### ***Update***
 
-The Risk Intelligence report is completed in line with my operating requirements for completing what needs to be done within the same day, if possible. 
+The Risk Intelligence report has been drafted. 
 
 
 
