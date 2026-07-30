@@ -35,6 +35,8 @@ The Risk Intelligence report is completed in line with my operating requirements
 3. It is made relevant by lack of engagement.
 4. It is confidential and internal.
 
+I am a Compliance professional. I know what needs to be done.
+
 I will set it aside for review tomorrow and possible adjustment if it becomes relevant.
 
 ---
