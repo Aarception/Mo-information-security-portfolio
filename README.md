@@ -1,54 +1,5 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-Yesterday was a test. The institution is the world's greatest organizer of information. It has all the information possible concerning the value of what I provided and gave as a gift. Without condition or transaction. 
-
-I made sure I couldn't personally benefit from what I'd found. I didn't ask for money. I didn't ask for a settlement. I didn't try to punish anyone. I didn't ask for a quid pro quo.
-
-I handed the whole thing over as a gift, and on July 17, I sacrificed my own value-dependent position—the most costliest signal I could send—just to free the institution from its own liability.
-
-I asked for nothing.
-
-After that, I applied to join because I thought I could actually help. Not to cash in on a transaction. Not to claim an entitlement. Just to contribute. 
-
-The observations I shared weren't strategic. They were real and they explain the experience. And yet, I do not even attribute blame to the institution, because of what liability consequentialism helps me understand about the choices for the institution. 
-
-So let me say this: DeVry had 100,000 subscribers and was fined $100M for just the methodology. If was value-trading, a $100,000 position would not be the object of my trade.
-
-The institution owes me nothing and whatever it received from me was unilaterally and unconditionally a gift out of my own accord without even requirement for recognition. 
-
-I applied,  because I felt I had something to contribute and if the institution ever wanted to solicit my services, it would be because it found my services valuable.
-
----
-I am contemplating the responsibility of a board notice given my confidentiality constraints and the fact liability consequentialism has prevented direct communication. A board has duty of care that cannot be obstructed by non-engagement. They have a legal obligation to receive material risk information. I will prepare a board notice in the form of risk intelligence.
-
-### ***Update***
-
-The Vertically Integrated Distribution Stack Risk Intelligence report has been drafted. 
-
-Ads 
-🔄
-SE 
-🔄
-GE 
-🔄 
-CC
-
-
-|           | ***Section***                                     | ***Contents***                                                                                                                              |
-| :-------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **I.**    | Statement                                       | Declaration of purpose |
-| **II.**  | Fiduciary Framework                             | Board duty of care under Delaware law & *Caremark*                                         |
-| **III.**  | Risk Taxonomy & Materiality Assessment          | Enterprise risk classification         |
-| **IV.**   | Qualifications                                  | Author standing to submit                    |
-| **V.**    | Liability Architecture & Regulatory Horizon     | Socio-politico-juridical review of emerging laws, rules, and standards       |
-| **VI.**   | Compliance Requirements & Governance Indicators | Compliance risk & vulnerability assessment                   |
-| **VII.**  | Action Items & Board Oversight                  | Specific inquiries required to inform and satisfy oversight obligations |
-| **VIII.** | Strategic Options & Remediation                 | Ranked framework for responding to identified compliance needs assessment     |
-| **IX.**   | Recommendations                                 | Ranked recommendation steps according to immediate priority & feasibility         |
-
-
-I will set it aside for review tomorrow and possible adjustment if it becomes relevant.
-
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
@@ -57,7 +8,7 @@ I will set it aside for review tomorrow and possible adjustment if it becomes re
 
 ### [SolarWinds Supply Chain Attack](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 **Path:** `/solarwinds-supply-chain-attack/`
-
+⬛️◼️▪️
 Contents:  
 - [solarwinds-attack-report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/solarwinds-supply-chain-attack/solarwinds-attack-report.md) — Full incident analysis  
 - [Diagram.png](https://github.com/Aarception/cybersecurity-portfolio/blob/main/solarwinds-supply-chain-attack/Diagram.png) — MITRE ATT&CK Matrix diagram  
