@@ -1,4 +1,4 @@
-# 📁 Mo's Information Security Learning, Projects, and Portfolio 
+9# 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 July 17 is binding. Total confidentiality. All terms apply. All promises are permanent. I trust that the institution knows what to do.
 
@@ -70,7 +70,7 @@ The Risk Intelligence report is completed in line with my operating requirements
 
 I will set it aside for review tomorrow and possible adjustment if it becomes relevant.
 
-|           | **Section**                                     | **Brevity Explanation**                                                                                                                                 |
+|           | **Section**                                     | **Contents**                                                                                                                              |
 | :-------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **I.**    | Statement                                       | Declaration of purpose |
 | **II.**   | Fiduciary Framework                             | Board duty of care under Delaware law & *Caremark*                                         |
