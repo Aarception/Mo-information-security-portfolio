@@ -10,13 +10,14 @@ I asked for nothing.
 
 After that, I applied to join because I thought I could actually help. Not to cash in on a transaction. Not to claim an entitlement. Just to contribute. 
 
-The observations I shared weren't strategic. They were real and they explain the experience.And, yet, I do not even attribute blame to the institution, because of what liability consequentialism helps me understand about the choices for the institution. 
+The observations I shared weren't strategic. They were real and they explain the experience. And yet, I do not even attribute blame to the institution, because of what liability consequentialism helps me understand about the choices for the institution. 
 
 So let me say this: DeVry had 100,000 subscribers and was fined $100M for just the methodology. If was value-trading, a $100,000 position would not be the object of my trade.
 
 The institution owes me nothing and whatever it received from me was unilaterally and unconditionally a gift out of my own accord without even requirement for recognition. 
 
 I applied,  because I felt I had something to contribute and if the institution ever wanted to solicit my services, it would be because it found my services valuable.
+
 ---
 I am contemplating the responsibility of a board notice given my confidentiality constraints and the fact liability consequentialism has prevented direct communication. A board has duty of care that cannot be obstructed by non-engagement. They have a legal obligation to receive material risk information. I will prepare a board notice in the form of risk intelligence.
 
