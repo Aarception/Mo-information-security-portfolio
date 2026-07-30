@@ -12,59 +12,7 @@ That is the greatest consideration under the circumstance. The choice ultimately
 
 I don't plan on applying again or wait around for engagement so I can finally establish this for vindication. I understand the threat is not the certificate. The threat is Search primarily and Gemini secondarily, because those were the 1st and 2nd places I came across Career Certificates. I am contemplating the responsibility of a board notice given my confidentiality constraints and the fact liability consequentialism has prevented direct communication. A board has duty of care that cannot be obstructed by non-engagement. They have a legal obligation to receive material risk information. I will prepare a board notice in the form of risk intelligence.
 
-Today's Nugget of Wisdom: If you do not cultivate relational Capital, then you do not reserve Consideration when you most need it.
-
-If you deposit Capital, you withdraw Consideration. If you deposit Consideration,  you withdraw Capital.
-
-If your relational account is overdrawn, then you are in relational Arrears with a Creditor. 
-
-You either apply for bankruptcy, making extraordinary adjustments to standard operations, or your Creditor is with the legitimacy to take extraordinary measures.
-~~~
-Among the world's archetypes are two: the Wadad & the
-Waranle. They are mutually corrosive and when not
-harmonized, conflict forms.
-
-1.) The Waranle is the Spearman, he carries control,
-takes what he sees through compulsion and operates
-through conflict, coercion, and cynicism.
-
-2.) The Wadad is the Jurist, he carries rationality,
-makes whole through restoration, and operates through
-restraint, reason, and reflection.
-
-¹ The Waranle without the Wadad is tyranny and
-subjugatioon.
-
-² The Wadad without the Waranle is lawlessness and
-defenselessness.
-
-¹ The Wadad submitted to the Waranle is authoritarianism
-and ethical drift.
-
-² Bringing the excesses of the Waranle under the
-permanent, dominant control of the Wadad is harmony
-and restorative.
-
-PR is part of the Wadad wing in any corporate enterprise.
-Legal is the chief of the Waranle faction.
-
-I am a Wadaad who wields a Waranle arm for defense.
-
-At some point, a decision was made to let Legal control
-the exchange on the other side. So my Waranle arms have
-been brandished against the Waranle.
-
-I learned a proverb in my international experience:
-When two elephants wrestle, the grass gets trampled.
-
-That grass here has become respect, civility, reason,
-understanding, constructive engagement, restraint,
-resolution; and, most of all — Consideration. 
-~~~
-
-If #127652435677061830 were in Seattle, that would be a wonderful opportunity for mutually-agreeable resolution. The institution would be able to derive disproportionate value from my differentiating competitive advantage and I would be able to disproportionately defend the institution against risk from within. 
-
-This is Good for Capital and is Good for Social Good.
+### ***Update***
 
 The Risk Intelligence report is completed in line with my operating requirements for completing what needs to be done within the same day, if possible. 
 
