@@ -9,6 +9,8 @@ Now Coursera's 🔎 begins. ✍️
 
 I think I will lease RDA to standards agencies. 
 
+Thank you for that message. 🙏🎗
+
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
