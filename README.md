@@ -13,6 +13,16 @@ A Diplomat does everything possible to prevent a Dispute unless and until they a
 'The greatest human Folly is to turn a Friend into a Foe — that is truly unfortunate.'
 
 -Mo
+
+I am going to break habit to contextual cost and responsibility, 
+
+Cost: The immediate, not the rolling, financial coast is $1.5B
+Responsibility: Containment or Board Notice that creates instantaneous derivative suit exposure 
+
+I don't want anything from you, neither a job nor a single dollar and all my offers of contribution have already been rejected without even the dignity of consideration. I have nothing to lose. 
+
+Yet I have been modeled as not the adversary, and not treated like one, without moddeling the cost of treating me to adversarialism.
+
 ~~~
 
 An excerpt from my hobby writing, an introduction of fantasy writing using the cultural lores picked up from niche international experience that I may become mindful of introducing at some point to wider audience.
