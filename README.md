@@ -16,6 +16,7 @@ The GHA, whose form during my successful engagement peculiarly diverged from the
 
 *VCI is a private, intellectual property project that is also a neutral, trust primitive. It cannot be competitor built, own, or even sponsored. It cannot even be a start-up or a vender tool. Were I affiliated with an institution, there could be development or additional opportunity for a closer relationship between institution and VCI, through Mo, than with  market competitors, but as it is, the entire purpose of its usefulness rests on neutrality and independence from competitors. Mo =/= VCI and VCI =/= Mo. Mo can be affiliated with whomever he wants, VCI cannot be affiliated to any competitor. 
 
+I find this role very interesting #87479764016603846, Policy Specialist, Policy Enablement and Delivery, and would have applied in the past when I was more naive about the state of my structural banishment by the institution — unfortunately.
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
