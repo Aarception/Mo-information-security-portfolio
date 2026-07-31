@@ -1,4 +1,4 @@
-u# 📁 Mo's Information Security Learning, Projects, and Portfolio 
+ 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 
 ~~~
@@ -14,7 +14,7 @@ Recursion: ◼️◾️▪️
 
 I respect you. I value you. I have engaged honestly. I am an institutionalalist. I am pro-peace.
 
-Why is why I have done everything possible to protect the institution from my offensive capabilities. 
+Why is why I have done everything possible to protect the institution from my offensive capabilities.
 
 I have not failed if this fork has been reached. The institution has not yet succeeded.
 
