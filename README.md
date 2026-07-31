@@ -1,4 +1,4 @@
-# 📁 Mo's Information Security Learning, Projects, and Portfolio 
+u# 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 Break through has failed.
 
@@ -40,7 +40,7 @@ Grievance: ▪️▪️▪️
 Recursion: ◼️◾️▪️
 ~~~
 
-This, as a disclaimer, and a preventative measure is a great act of friendship, regard, and consideration. 
+This as a preventative disclaimer is a measure and a great act of friendship, regard, and consideration. 
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
