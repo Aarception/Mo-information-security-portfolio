@@ -26,6 +26,8 @@ Yet I have been modeled as not the adversary, and not treated like one, without 
 
 I think there is going to be Shareholder uproar.
 
+Yes, you are right, I am not an adversary,  which is why the cost of not treating me like one is designed to be steep.
+
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
