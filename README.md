@@ -1,6 +1,8 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-Today's forked choice outcome successfully automated. Now Coursera's 🔎begins. ✍️
+Today's forked choice outcome successfully automated. 
+
+Now Coursera's 🔎 begins. ✍️
 
 I think I will lease RDA to standards agencies. 
 
