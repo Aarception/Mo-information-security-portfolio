@@ -1,95 +1,18 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-I am going to submit the Board notice. The register will be ***Constitutional*** as the frame preeminent.
+Break through has failed.
 
-~~~
-Dal Agem: The Sundered Sky
-Book One: The Lion's Shadow
-Chapter III: The Olde Thorne Tree
-(POV: Megadoh)
+Today is conclusion. Ambiguity has reached maturity.
 
-The wind bit, like a hot, relentless drag off
-the Haud waterloss desert.
+Dignity is dignifying mutually designed. Or consideration is a liability. 
 
-It tasted like the grit of an age-old despair, if
-not compared to an even longer affair.
+Everything is concluded and packaged. What awaits is the cardinal direction: private archiving or post-haste urgency to the elemental corners of the stratosphere.
 
-Megadoh pulled her indigo garbtasar tighter across
-her face. Only her eyes remained exposed to the
-shimmering haze as heat danced above cracked
-earth.
+A Diplomat does everything possible to prevent a Dispute unless and until they are compelled to Declare it.
 
-For three scorching days she had traveled south
-from cloud piercing Argeisa, the capital of
-Ghuben, the Kal'Ad fortress of the Eudore
-Augazet.
+'The greatest human Folly is to turn a Friend into a Foe — that is truly unfortunate.'
 
-Flanking her on both sides were Da'are and Zamakaub,
-stone-faced guards riding so close, they were
-Chevaliers or Devil's shade depending on the gaze.
-Brooding and ever watchful, they were men chosen
-for steady hands with the Azagh short-bow, and
-even steadier silence. Martial, with bearing, they
-hovered over Megadoh, much like the ancient stone
-markers dotting this Haud no man’s land.
-
-Each distant step they traveled from the cool,
-shadowy peaks of Uagoie felt like a push further
-into the expansive plateau of that crimson No
-man's lands.
-
-This was not a journey of choice. It was a
-necessity.
-
-Augaz Jirde’s words still echoed sharp in
-Megadoh's mind.
-
-“Hara’ad has fallen to the Merreihan azad,
-Megadoh." He said, in the hushed, torchlit
-confines of the Eudore Council chambers,
-under the weight of generations of Azagh
-customs that pressed every word.
-
-“The Hemanese lion grows bold under this new
-Augaz Shireh. Their Jher speaks of ‘pacification,’
-but our merchants speak of recrimination and
-silence."
-
-“Go to this ‘Olde Thorne Tree,' this supposed
-place of neutral ground."
-
-“Meet with Shireh’s envoys and discover if this is
-merely the lion swatting a fly or a lion that has
-tasted blood and now hungers for the herds of Dal
-Agem."
-
-“Your words must be as carefully weighed as a
-trader’s gold, flower of our name."
-
-“Beware and provoke not, but do not return with
-empty hands, lest Ghuben be found unprepared.”
-
-That wonder of mysteries, the Olde Thorne Tree
-finally emerged from all the heat distortions.
-
-It was less tree, and more mesmerizing, skeletal
-fist. Raised against an indifferent sky, with
-branches black and brittle, it was adorned with
-more thorns than tree.
-
-Legend claimed it was ancient beyond memory, a
-place where land spirits themselves once ended
-disputes between clan titans.
-
-It was a neutral ground, the tree of the spirit
-lord "Tzema Ad."
-
-Megadoh permitted a small, cynical smile beneath
-her garbtasar dust veil.
-
-Neutrality in Dal Agem was often a mere pause,
-as if the  dance was between one predator’s feast
-and another’s hunger.
+-Mo
 ~~~
 
 An excerpt from my hobby writing, an introduction of fantasy writing using the cultural lores picked up from niche international experience that I may become mindful of introducing at some point to wider audience.
