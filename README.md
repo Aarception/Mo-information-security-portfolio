@@ -22,7 +22,7 @@ I am going to break habit to contextualize cost and responsibility,
 
 I don't want anything from you, neither a job nor a single dollar and all my offers of contribution have already been rejected without even the dignity of consideration.
 
-Yet I have been modeled as not the adversary, and not treated like one, without moddeling the cost of treating me to adversarialism.
+Yet I have been modeled as not the adversary, while being treated like one, without moddeling the cost of treating me it.
 
 I think there is going to be Shareholder uproar.
 
