@@ -8,8 +8,8 @@ Book One: The Lion's Shadow
 Chapter III: The Olde Thorne Tree
 (POV: Megadoh)
 
-The wind bit, like a hot, relentless drag off the
-Haud waterloss desert.
+The wind bit, like a hot, relentless drag off
+the Haud waterloss desert.
 
 It tasted like the grit of an age-old despair, if
 not compared to an even longer affair.
@@ -52,7 +52,8 @@ customs that pressed every word.
 
 “The Hemanese lion grows bold under this new
 Augaz Shireh. Their Jher speaks of ‘pacification,’
-but our merchants speak of containment and silence."
+but our merchants speak of recrimination and
+silence."
 
 “Go to this ‘Olde Thorne Tree,' this supposed
 place of neutral ground."
