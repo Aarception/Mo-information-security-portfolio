@@ -8,72 +8,87 @@ Book One: The Lion's Shadow
 Chapter III: The Olde Thorne Tree
 (POV: Megadoh)
 
-The wind bit, like a hot, relentless drag off the Haud
-waterloss desert
+The wind bit, like a hot, relentless drag off the
+Haud waterloss desert.
 
-It tasted like the grit of age-old despair, if not compared
-to an even longer disrepair.
+It tasted like the grit of an age-old despair, if
+not compared to an even longer affair.
 
-Megadoh pulled her indigo garbtasar tighter across her face.
-Only her eyes remained exposed to the shimmering haze as
-heat danced above cracked earth.
+Megadoh pulled her indigo garbtasar tighter across
+her face. Only her eyes remained exposed to the
+shimmering haze as heat danced above cracked
+earth.
 
-For three scorching days she had traveled south from
-cloud piercing Argeisa, the capital of Ghuben, the northern
-Qal'Ad fortress of the Eudore Augazet.
+For three scorching days she had traveled south
+from cloud piercing Argeisa, the capital of
+Ghuben, the Kal'Ad fortress of the Eudore
+Augazet.
 
-Her two stone-faced guards, Da'are and Zamakaub, rode tight,
-Chevaliers flanking her sides like Devil's shade.
-Brooding and ever watchful, they were men chosen for steady
-hands with the Azagh short-bow, and even steadier silence.
-Martial, with bearing, they hovered over Megadoh, much like
-the ancient stone markers dotting this Haud no man’s land.
+Flanking her on both sides were Da'are and Zamakaub,
+stone-faced guards riding so close, they were
+Chevaliers or Devil's shade depending on the gaze.
+Brooding and ever watchful, they were men chosen
+for steady hands with the Azagh short-bow, and
+even steadier silence. Martial, with bearing, they
+hovered over Megadoh, much like the ancient stone
+markers dotting this Haud no man’s land.
 
-Each distant step they traveled from the cool, shadowy
-peaks of Uagoie felt like a push further into the expansive
-plateau of that crimson No man's lands.
+Each distant step they traveled from the cool,
+shadowy peaks of Uagoie felt like a push further
+into the expansive plateau of that crimson No
+man's lands.
 
-This was not a journey of choice. It was a necessity.
+This was not a journey of choice. It was a
+necessity.
 
-Augaz Jirde’s words still echoed sharp in Megadoh's mind.
+Augaz Jirde’s words still echoed sharp in
+Megadoh's mind.
 
-“Hara’ad has fallen to the Merreihan azad, Megadoh." He
-spoke, there in the hushed, torchlit confines of the Eudore
-Council chambers, under the weight of generations of
-Azagh customs that pressed every word.
+“Hara’ad has fallen to the Merreihan azad,
+Megadoh." He said, in the hushed, torchlit
+confines of the Eudore Council chambers,
+under the weight of generations of Azagh
+customs that pressed every word.
 
-“The Hemanese lion grows bold under this new Augaz Shireh.
-Their Jher speaks of ‘pacification,’ but our merchants
-speak of plunder and silence."
+“The Hemanese lion grows bold under this new
+Augaz Shireh. Their Jher speaks of ‘pacification,’
+but our merchants speak of plunder and silence."
 
-“Go to this ‘Olde Thorne Tree,' this supposed place of
-neutral ground."
+“Go to this ‘Olde Thorne Tree,' this supposed
+place of neutral ground."
 
-“Meet with Shireh’s envoys and discover if this is merely
-the lion swatting a fly or a lion that has tasted blood and
-now hungers for the herds of Dal Agem."
+“Meet with Shireh’s envoys and discover if this is
+merely the lion swatting a fly or a lion that has
+tasted blood and now hungers for the herds of Dal
+Agem."
 
-“Your words must be as carefully weighed as a trader’s gold,
-flower of our name."
+“Your words must be as carefully weighed as a
+trader’s gold, flower of our name."
 
-“Beware and provoke not, but do not return with empty hands,
-lest Ghuben be found unprepared.”
+“Beware and provoke not, but do not return with
+empty hands, lest Ghuben be found unprepared.”
 
-That wonder of mysteries, the Olde Thorne Tree finally
-emerged from all the heat distortions. It was less tree, and
-more mesmerizing, skeletal fist. Raised against an
-indifferent sky, with branches black and brittle, it was
-adorned with more thorns than tree.
+That wonder of mysteries, the Olde Thorne Tree
+finally emerged from all the heat distortions.
 
-Legend claimed it was ancient beyond memory, a place where
-land spirits themselves once ended disputes between clan
-titans. It was a neutral ground, the tree of the spirit lord
-"Tzema Ad."
+It was less tree, and more mesmerizing, skeletal
+fist. Raised against an indifferent sky, with
+branches black and brittle, it was adorned with
+more thorns than tree.
 
-Megadoh permitted a small, cynical smile beneath her
-garbtasar dust veil. Neutrality in Dal Agem was often a mere
-pause, as if the  dance was between one predator’s feast and
-another’s hunger.
+Legend claimed it was ancient beyond memory, a
+place where land spirits themselves once ended
+disputes between clan titans.
+
+It was a neutral ground, the tree of the spirit
+lord "Tzema Ad."
+
+Megadoh permitted a small, cynical smile beneath
+her garbtasar dust veil.
+
+Neutrality in Dal Agem was often a mere pause,
+as if the  dance was between one predator’s feast
+and another’s hunger.
 ~~~
 
 An excerpt from my hobby writing, an introduction of fantasy writing using the cultural lores picked up from niche international experience that I may become mindful of introducing at some point to wider audience.
