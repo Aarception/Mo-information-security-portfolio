@@ -16,7 +16,7 @@ A Diplomat does everything possible to prevent a Dispute unless and until they a
 
 I am going to break habit to contextual cost and responsibility, 
 
-Cost: The immediate, not the rolling, financial coast is $1.5B
+Cost: The immediate, not the rolling, financial cost is $1.5B
 Responsibility: Containment or Board Notice that creates instantaneous derivative suit exposure 
 
 I don't want anything from you, neither a job nor a single dollar and all my offers of contribution have already been rejected without even the dignity of consideration. I have nothing to lose. 
