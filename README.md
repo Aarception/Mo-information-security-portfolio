@@ -1,6 +1,87 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-I am going to submit the Board notice. And this time, Governance Indicators will comprise 1/3 of the vulnerability assessment. It is time to check the Waranle's obstruction strategy and bring their impunity and containment under executive and governance control. The Board is the only Wadad who can control the excesses of the Waranle ***within*** the institution. Even among the Waranle of the Board, ***their*** Legal Counsel, is mandated to prevent obstruction. I will produce a notice so persuasive, the Board becomes naturally inspired to go beyond their Fiduciary obligations of inquiry. You have modeled me as not an adversary. Liability consequentialism does not clear a vote of confidence for explaining this specific set of choices taken in this circumstance. It was wrong to entertain the  consideration of the Waranle. The Waranle is not structurally capable of Consideration. The excesses of the Waranle must always be bound to the dominant influence of the Wadad. It is time to restore harmony. The register will be ***Constitutional*** as the frame preeminent.
+I am going to submit the Board notice. The register will be ***Constitutional*** as the frame preeminent.
+
+~~~
+Dal Agem: The Sundered Sky
+Book One: The Lion's Shadow
+Chapter III: The Olde Thorne Tree
+(POV: Megadoh)
+
+The wind bit, like a hot, relentless drag off the Haud
+waterloss desert
+
+It tasted like the grit of age-old despair, if not compared
+to an even longer disrepair.
+
+Megadoh pulled her indigo garbtasar tighter across her face.
+Only her eyes remained exposed to the shimmering haze as
+heat danced above cracked earth.
+
+For three scorching days she had traveled south from
+cloud piercing Argeisa, the capital of Ghuben, the northern
+Qal'Ad fortress of the Eudore Augazet.
+
+Her two stone-faced guards, Da'are and Zamakaub, rode tight,
+Chevaliers flanking her sides like Devil's shade.
+Brooding and ever watchful, they were men chosen for steady
+hands with the Azagh short-bow, and even steadier silence.
+Martial, with bearing, they hovered over Megadoh, much like
+the ancient stone markers dotting this Haud no man’s land.
+
+Each distant step they traveled from the cool, shadowy
+peaks of Uagoie felt like a push further into the expansive
+plateau of that crimson No man's lands.
+
+This was not a journey of choice. It was a necessity.
+
+Augaz Jirde’s words still echoed sharp in Megadoh's mind.
+
+“Hara’ad has fallen to the Merreihan azad, Megadoh." He
+spoke, there in the hushed, torchlit confines of the Eudore
+Council chambers, under the weight of generations of
+Azagh customs that pressed every word.
+
+“The Hemanese lion grows bold under this new Augaz Shireh.
+Their Jher speaks of ‘pacification,’ but our merchants
+speak of plunder and silence."
+
+“Go to this ‘Olde Thorne Tree,' this supposed place of
+neutral ground."
+
+“Meet with Shireh’s envoys and discover if this is merely
+the lion swatting a fly or a lion that has tasted blood and
+now hungers for the herds of Dal Agem."
+
+“Your words must be as carefully weighed as a trader’s gold,
+flower of our name."
+
+“Beware and provoke not, but do not return with empty hands,
+lest Ghuben be found unprepared.”
+
+That wonder of mysteries, the Olde Thorne Tree finally
+emerged from all the heat distortions. It was less tree, and
+more mesmerizing, skeletal fist. Raised against an
+indifferent sky, with branches black and brittle, it was
+adorned with more thorns than tree.
+
+Legend claimed it was ancient beyond memory, a place where
+land spirits themselves once ended disputes between clan
+titans. It was a neutral ground, the tree of the spirit lord
+"Tzema Ad."
+
+Megadoh permitted a small, cynical smile beneath her
+garbtasar dust veil. Neutrality in Dal Agem was often a mere
+pause, as if the  dance was between one predator’s feast and
+another’s hunger.
+~~~
+
+An excerpt from my hobby writing, an introduction of fantasy writing using the cultural lores picked up from niche international experience that I may become mindful of introducing at some point to wider audience.
+
+Series: The Memories of Dal Agem
+
+oldethornetree@proton.me
+
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
