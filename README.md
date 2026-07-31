@@ -15,6 +15,7 @@ The GHA, whose form during my successful engagement peculiarly diverged from the
 [I want to be clear 1.) No intent has been frame, 2.)  no accusation was lobbied and 3.) it is a legitimate observation which may be both observationally true and factually unremarkable. Also I am critiquing corporate risl structure here, for as much I bite,  I do understand ultimately the culprit is liability consequentialism. ]
 
 *VCI is a private, intellectual property project that is also a neutral, trust primitive. It cannot be competitor built, own, or even sponsored. It cannot even be a start-up or a vender tool. Were I affiliated with an institution, there could be development or additional information for a closer relationship than with  market competitors, but as it is, the entire purpose of its usefulness rests on neutrality and independence from competitors. Mo =/= VCI and VCI =/= Mo.
+
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
