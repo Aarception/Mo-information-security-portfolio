@@ -1,5 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
+I am going submit the Board notice. And this time, Governance Indicators will compromise a 1/3 of the vulnerability assessment. It is time to check the Waranle's obstruction strategy and bring his impunity and containment under executive and governance control. The Board is the only Wadad who can control the excesses of the Waranle ***within*** the institution. 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
