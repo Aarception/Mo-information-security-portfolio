@@ -20,7 +20,7 @@ I am going to break habit to contextualize cost and responsibility,
     Responsibility: Containment or Board Notice that births
     instantaneously the risk for derivative suit exposure 
 
-I don't want anything from you, neither a job nor a single dollar and all my offers of contribution have already been rejected without even the dignity of consideration. I have nothing to lose. 
+I don't want anything from you, neither a job nor a single dollar and all my offers of contribution have already been rejected without even the dignity of consideration.
 
 Yet I have been modeled as not the adversary, and not treated like one, without moddeling the cost of treating me to adversarialism.
 
