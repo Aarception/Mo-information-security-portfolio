@@ -2,6 +2,9 @@
 
 Today's forked choice outcome successfully automated. 
 
+
+In junior high, one of my favorite instructors was a very accented, Greek-born teacher who loved to teach using jeopardy style questions at least one day per week. On one such day, as soon as we were to begin, he looked straight towards my way and said "Mo, today you will take my place as Alex Trebek." Almost immediately a chorus of concurrence rang out across the class. I looked around rather surprised, and then became mildly self-conscious realizing the effect my passion had on my classmates. Later, our teacher whispered, in his very Greek inflection "Your speed finding the correct answers can be intimidating."
+
 Now Coursera's 🔎 begins. ✍️
 
 I think I will lease RDA to standards agencies. 
