@@ -14,7 +14,7 @@ A Diplomat does everything possible to prevent a Dispute unless and until they a
 
 -Mo
 
-I am going to break habit to contextual cost and responsibility, 
+I am going to break habit to contextualize cost and responsibility, 
 
     Cost: The immediate (🚫 rolling) financial cost is $1.5B
     Responsibility: Containment or Board Notice that births
