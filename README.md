@@ -52,7 +52,7 @@ customs that pressed every word.
 
 “The Hemanese lion grows bold under this new
 Augaz Shireh. Their Jher speaks of ‘pacification,’
-but our merchants speak of plunder and silence."
+but our merchants speak of containment and silence."
 
 “Go to this ‘Olde Thorne Tree,' this supposed
 place of neutral ground."
