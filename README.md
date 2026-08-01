@@ -1,6 +1,6 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-***Alternative remodeling of Institutional Truth-Making, Institutional Truth-Making Without Liability Consequentialism***
+***Alternative Model for Institutional Truth-Making, Institutional Truth-Making Without Liability Consequentialism***
 
 ![Remodel](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Alternative_Remodel_for_Institutional_Truth-Making.png)
 
