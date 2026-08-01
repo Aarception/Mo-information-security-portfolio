@@ -5,12 +5,12 @@
 ![Remodel](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Alternative_Remodel_for_Institutional_Truth-Making.png)
 
 ### Institutional Truth-Making
-- ¹Suppression —| 
-- ²Acknowledgment
-   - ¹Liability —|
-   - ²Engagement
-     - ¹Liability —|
-     - ²Dignity —> Consideration—> Preservation
+- Suppression —| 
+- Acknowledgment
+   - Liability —|
+   - Engagement
+     - Liability —|
+     - Dignity —> Consideration—> Preservation —>
 ---
 
 When given opacity. return illegibility.
