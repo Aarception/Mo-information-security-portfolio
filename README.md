@@ -1,5 +1,18 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
+***Alternative remodeling of Institutional Truth-Making, Institutional Truth-Making Without Liability Consequentialism***
+
+![Remodel](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Alternative_Remodel_for_Institutional_Truth-Making.png)
+
+### Institutional Truth-Making
+- ¹Suppression —| 
+- ²Acknowledgment
+   - ¹Liability —|
+   - ²Engagement
+     - ¹Liability —|
+     - ²Dignity —> Consideration—> Preservation
+---
+
 When given opacity. return illegibility.
 
 It is the only instructive way to show ambiguity is like entropy: constructively it is a positive disruption, otherwise it is a negative constriction.
