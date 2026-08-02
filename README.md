@@ -27,20 +27,20 @@ as a Consumer
 2.) On May 04, 2026, I made a promise not to pursue
 personal legal and civil claims against the Institution
 as an Applicant 
-3.) On June 25, 2026, I made a promise to not embarrass
-the Institution, i.e. express untrue, untoward,
-unreasonable motive or behavior 
+3.) On June 25, 2026, I made a promise not to
+treat the Institution to indignity, i.e. express
+untrue, untoward, unreasonable motive or behavior 
 4.) On July 17, 2026, I unilaterally dissolved the
-audit as a record and foreclose external escalation as
-an option in recognition of the Institution's considerate
-treatment of my inquiry as much as liability consequentialism
-could allow.
+audit as a record and foreclose external escalation
+optionalitu n recognition of the Institution's
+considerate treatment of my inquiry in as much
+made possible by liability cconsequentialim.
 5.) Today August 02, 2026, I unilaterally close the
 inquiry as a record and foreclose further internal
-escalation as an option in expansion of the consideration
-offer of July 17, the provision of information being
-resolved an unconditional gift to the institution,
-to which it defines relevance.
+escalation optionality in expansion of the consideration
+offer of July 17, whereby the provision of information being
+resolved to an unconditional gift of the institution,
+to which it privileges relevance.
 ~~~
 ### Regarding the Process as a Market Product: 
 ***'Dataset'***
