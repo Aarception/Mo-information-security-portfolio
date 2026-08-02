@@ -1,4 +1,4 @@
-#  📁 Mo's Information Security Learning, Projects, and Portfolio 
+i#  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 
 ***Alternative Model for Institutional Truth-Making, Institutional Truth-Making Without Liability Consequentialism***
@@ -73,7 +73,7 @@ The GHA, whose form during my successful engagement peculiarly diverged from the
 
 I find this role very interesting #87479764016603846, Policy Specialist, Policy Enablement and Delivery, and would have applied in the past when I was more naive about the state of my structural banishment by the institution — unfortunately.
 
-² It was not lost on me that, were I to be asked to qualitatively and strategically assess the GHA as presented to me, controlling for all other variables as they were, I would say 3/5 of the focus concerned assessing not just my integrity, loyalty, and professionalism, but specifically my latent capacity to present an ***insider threat.*** If this perception is any more remarkable my own subjective anecdotal experience, than that means by the very fact of having passed the GHA, the institution would have its own scientifically-desigbed measurement to sustain confidence beyond a reasonable doubt I am a clean, honest, professional.
+² It was not lost on me that, were I to be asked to qualitatively and strategically assess the GHA as presented to me, controlling for all other variables as they were, I would say 3/5 of the focus concerned assessing not just my integrity, loyalty, and professionalism, but specifically my latent capacity to present an ***insider threat.*** If this perception is any more remarkable than my own subjective anecdotal experience, than that means by the very fact of having passed the GHA, the institution would have its own scientifically-designed measurement to sustain confidence beyond a reasonable doubt that I am a clean, honest, professional.
 
 
 ---
