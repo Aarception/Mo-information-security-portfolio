@@ -32,9 +32,9 @@ treat the Institution to indignity, i.e. express
 untrue, untoward, unreasonable motive or behavior 
 4.) On July 17, 2026, I unilaterally dissolved the
 audit as a record and foreclose external escalation
-optionalitu n recognition of the Institution's
+optionality in recognition of the Institution's
 considerate treatment of my inquiry in as much
-made possible by liability cconsequentialim.
+made possible by liability consequentialism.
 5.) Today August 02, 2026, I unilaterally close the
 inquiry as a record and foreclose further internal
 escalation optionality in expansion of the consideration
