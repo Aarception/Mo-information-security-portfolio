@@ -18,7 +18,7 @@ When given opacity. return illegibility.
 
 It is the only instructive way to show ambiguity is like entropy: constructively it is a positive disruption, otherwise it is a negative constriction.
 
-### Regarding the Product as a Legal Production: 
+### Regarding the Production as a Legal Product: 
 ***'Record'***
 ~~~
 1.) On March 19, 2006, I made a promise not to pursue
@@ -42,7 +42,7 @@ offer of July 17, the provision of information being
 resolved an unconditional gift to the institution,
 to which it defines relevance.
 ~~~
-### Regarding the Product as a Market Production: 
+### Regarding the Process as a Market Product: 
 ***'Dataset'***
 ~~~
 What is left is the labor of my production, the
