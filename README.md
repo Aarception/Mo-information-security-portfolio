@@ -38,9 +38,9 @@ made possible by liability cconsequentialim.
 5.) Today August 02, 2026, I unilaterally close the
 inquiry as a record and foreclose further internal
 escalation optionality in expansion of the consideration
-offer of July 17, whereby the provision of information* being
-resolved to an unconditional gift of the institution,
-to which it privileges relevance.
+offer of July 17, whereby the provision of information,
+excepting the 'Dataset,' being resolved to an unconditional
+gift of the institution, excepting ownership, but including read, and write upon permission, to which it privileges relevance.
 ~~~
 ### Regarding the Process as a Market Product: 
 ***'Dataset'***
@@ -71,6 +71,7 @@ shared online, emphasizes, among other qualities, deftness with ambiguity. But h
 I think there is something wrong with corporate risk structure architecturally if my openness to resolution has not been able to be taken advantage of in this circumstance. There is structural malady here. The system is not efficient. This is rather profound. 🤔 
 
 I find this role very interesting #87479764016603846, Policy Specialist, Policy Enablement and Delivery, and would have applied in the past when I was more naive about the state of my structural banishment by the institution — unfortunately
+
 
 
 ##### ¹ VCI is a private, intellectual property project that is also a neutral, trust primitive. It cannot be competitor built, owned, or even sponsored. It cannot even be a start-up or a vender tool. Were I affiliated with an institution, there could be development or additional opportunity for a closer relationship between institution and VCI, through Mo, than with  market competitors, but as it is, the entire purpose of its usefulness rests on neutrality and independence from competitors. Mo =/= VCI and VCI =/= Mo. Mo can be affiliated with whomever he wants, VCI cannot be affiliated to any competitor. 
