@@ -65,7 +65,7 @@ Obviously this first requires the complete abdication of resolution, where, in s
 The GHA, whose form during my successful engagement peculiarly diverged² from the form most corroborated by average experience³
 shared online, emphasizes, among other qualities, deftness with ambiguity. But here, the stunning incapability for exhibiting any deftness for ambiguity even at the expense of self-interest is the very cause of my profound realization that there is incapacity of kind to warrant the suspicion of structural malady. There is serious inefficiency here. The risk structure is sick.🤔
 
-I think there is something wrong⁴ with corporate risk structure architecturally if my openness to resolution has not been able to be taken advantage of in this circumstance. There is structural malady here. The system is not efficient. This is rather profound. 🤔 
+I think there is something wrong with corporate risk structure architecturally if my openness to resolution has not been able to be taken advantage of in this circumstance.⁴ There is structural malady here. The system is not efficient. This is rather profound. 🤔 
 
 
 ###### ¹ VCI is a private, intellectual property project that is also a neutral, trust primitive. It cannot be competitor built, own, or even sponsored. It cannot even be a start-up or a vender tool. Were I affiliated with an institution, there could be development or additional opportunity for a closer relationship between institution and VCI, through Mo, than with  market competitors, but as it is, the entire purpose of its usefulness rests on neutrality and independence from competitors. Mo =/= VCI and VCI =/= Mo. Mo can be affiliated with whomever he wants, VCI cannot be affiliated to any competitor. 
