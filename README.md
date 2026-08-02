@@ -21,38 +21,43 @@ It is the only instructive way to show ambiguity is like entropy: constructively
 ### Regarding the Product as a Legal Production: 
 ***'Record'***
 ~~~
-1.) On March 19, 2006, I made a promise not to pursue personal
-legal and civil claims against the Institution as a Consumer 
-2.) On May 05, 2026, I made a promise not to pursue personal
-legal and civil claims against the Institution as an Applicant 
+1.) On March 19, 2006, I made a promise not to pursue
+personal legal and civil claims against the Institution
+as a Consumer 
+2.) On May 05, 2026, I made a promise not to pursue
+personal legal and civil claims against the Institution
+as an Applicant 
 3.) On June 25, 2026, I made a promise to not embarrass
-the Institution, i.e. express untrue, untoward, unreasonable
-motive or behavior 
-4.) On July 17, 2026, I unilaterally dissolved the audit as a
-record and foreclose external escalation as an option in
-recognition of the Institution's considerate treatment of
-my inquiry as much as liability consequentialism could allow.
-5.) Today August 02, 2026, I unilaterally close the inquiry
-as a record and foreclose further internal escalation as an
-option in expansionof  the consideration offer of July 17,
-the provision of information being resolved an unconditional
-gift to the institution, to which it defines relevance.
+the Institution, i.e. express untrue, untoward,
+unreasonable motive or behavior 
+4.) On July 17, 2026, I unilaterally dissolved the
+audit as a record and foreclose external escalation as
+an option in recognition of the Institution's considerate
+treatment of my inquiry as much as liability consequentialism
+could allow.
+5.) Today August 02, 2026, I unilaterally close the
+inquiry as a record and foreclose further internal
+escalation as an option in expansionof  the consideration
+offer of July 17, the provision of information being
+resolved an unconditional gift to the institution,
+to which it defines relevance.
 ~~~
 ### Regarding the Product as a Market Production: 
 ***'Dataset'***
 ~~~
-What is left is the labor of my production, the research
-materials, methodology, proprietary intellectual property
-as a competitive market asset. I have a 500-page compliance
-and risk dataset, produced from open source proprietary
-institutional intelligence of the greatest value. A radically
-efficient compliance and risk oriented methodology in which
-any single individual can expertly audit any credentialing
-program or related services with speed and effect. A
-developing primitive that could potentially scale far beyond
-credential signals.* I may just open a 'boutique' Compliance
-service that differentiates from the competition through
-regulatory expertise. ✔️
+What is left is the labor of my production, the
+research materials, methodology, proprietary
+intellectual property as a competitive market asset.
+I have a 500-page compliance and risk dataset, produced
+from open source proprietary institutional intelligence
+of the greatest value. A radically efficient compliance
+and risk oriented methodology in which any single
+individual can expertly audit any credentialing program
+or related services with speed and effect. A developing
+primitive that could potentially scale far beyond
+credential signals.* I may just open a 'boutique'
+Compliance service that differentiates from the
+competition through regulatory expertise. ✔️
 ~~~
 
 Obviously this first requires the complete abdication of resolution, where, in such a case, the failure would leave me with the full burden of custody for resolving the  disconnect between such previously made promises, as it would be, and the necessary need for alternative considerations that would become pertinent resultant from having to countenance the need to expore such new avenues, modes, methods, and their trajectories for resolution.
