@@ -21,7 +21,7 @@ It is the only instructive way to show ambiguity is like entropy: constructively
 ### Regarding the Production as a Legal Product: 
 ***'Record'***
 ~~~
-1.) On March 19, 2006, I made a promise not to pursue
+1.) On March 19, 2026, I made a promise not to pursue
 personal legal and civil claims against the Institution
 as a Consumer 
 2.) On May 05, 2026, I made a promise not to pursue
