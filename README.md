@@ -69,15 +69,11 @@ The GHA, whose form during my successful engagement peculiarly diverged from the
 I find this role very interesting #87479764016603846, Policy Specialist, Policy Enablement and Delivery, and would have applied in the past when I was more naive about the state of my structural banishment by the institution — unfortunately.
 
 
-###### ¹ [I want to be clear 1.) No intent has been frame, 2.)  no accusation was lobbied and 3.) it is a legitimate observation which may be both observationally true and factually unremarkable. Also I am critiquing corporate risl structure here, for as much I bite,  I do understand ultimately the culprit is liability consequentialism. ]
+###### ¹ [I want to be clear 1.) No intent has been framed, 2.)  no accusation was lobbied and 3.) it is a legitimate observation which may be both observationally true and factually unremarkable. Also I am critiquing corporate risk structure here, for as much I bite,  I do understand ultimately the culprit is liability consequentialism. ]
 
 ###### ² It was not lost on me that, were I to be asked to qualitatively and strategically assess the GHA as presented to me, controlling for all other variables as they were, I would say 3/5 of the focus concerned assessing not just my integrity, loyalty, and professionalism, but specifically my latent capacity to present an ***insider threat.*** If this perception is any more remarkable than my own subjective anecdotal experience, than that means by the very fact of having passed the GHA, the institution would have its own scientifically-designed measurement to sustain confidence beyond a reasonable doubt that I am a clean, honest, professional.
 
 ###### *VCI is a private, intellectual property project that is also a neutral, trust primitive. It cannot be competitor built, own, or even sponsored. It cannot even be a start-up or a vender tool. Were I affiliated with an institution, there could be development or additional opportunity for a closer relationship between institution and VCI, through Mo, than with  market competitors, but as it is, the entire purpose of its usefulness rests on neutrality and independence from competitors. Mo =/= VCI and VCI =/= Mo. Mo can be affiliated with whomever he wants, VCI cannot be affiliated to any competitor. 
-
-
-.
-
 
 
 
