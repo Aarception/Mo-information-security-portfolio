@@ -54,9 +54,9 @@ I have a 500-page compliance and risk dataset, produced
 from open source proprietary institutional intelligence
 of the greatest value. A trust infrastructure composed of
 3 specifications that fully respond and close any
-credential trust infrastructure signal propagation.A
-radically efficient complianceand risk oriented
-methodology in which any singleindividual can expertly
+credential trust infrastructure signal propagation gap.
+A radically efficient compliance and risk oriented
+methodology in which any single individual can expertly
 audit any credentialing program or related services with
 speed and effect. A developing primitive that could
 potentially scale far beyond credential signals.¹ I may
