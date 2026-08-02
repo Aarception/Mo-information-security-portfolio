@@ -19,7 +19,7 @@ When given opacity. return illegibility.
 It is the only instructive way to show ambiguity is like entropy: constructively it is a positive disruption, otherwise it is a negative constriction.
 
 ### Regarding the Production as an LSJ Product: 
-***'Record'***
+[Consumer] ***'Record'*** 
 ~~~
 1.) On March 19, 2026, I made a promise not to pursue
 personal legal and civil claims against the Institution
@@ -45,7 +45,7 @@ ownership, but including read, and write upon
 permission, to which it privileges relevance.
 ~~~
 ### Regarding the Process as a Market Product: 
-***'Dataset'***
+[Capital] ***'Dataset'***
 ~~~
 What is left is the labor of my production, the
 research materials, methodology, proprietary
