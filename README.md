@@ -23,13 +23,17 @@ Obviously this first requires the complete abdication of resolution, where, in s
 
 I think there is something wrong with corporate risk structure architecturally if my openness to resolution has not been able to be taken advantage of in this circumstance. There is structural malady here. The system is not efficient. This is rather profound. 🤔 
 
-The GHA, whose form during my successful engagement peculiarly diverged from the form most corroborated by average experiences shared online, emphasizes, among other qualities, deftness with ambiguity. But here, the stunning incapability for exhibiting any deftness for ambiguity even at the expense of self-interest is the very cause of my profound realization that there is incapacity of kind to warrant the suspicion of structural malady. There is serious inefficiency here. The risk structure is sick.🤔
+The GHA, whose form during my successful engagement peculiarly diverged from the form most corroborated by average experiences shared online¹², emphasizes, among other qualities, deftness with ambiguity. But here, the stunning incapability for exhibiting any deftness for ambiguity even at the expense of self-interest is the very cause of my profound realization that there is incapacity of kind to warrant the suspicion of structural malady. There is serious inefficiency here. The risk structure is sick.🤔
 
-[I want to be clear 1.) No intent has been frame, 2.)  no accusation was lobbied and 3.) it is a legitimate observation which may be both observationally true and factually unremarkable. Also I am critiquing corporate risl structure here, for as much I bite,  I do understand ultimately the culprit is liability consequentialism. ]
+¹ [I want to be clear 1.) No intent has been frame, 2.)  no accusation was lobbied and 3.) it is a legitimate observation which may be both observationally true and factually unremarkable. Also I am critiquing corporate risl structure here, for as much I bite,  I do understand ultimately the culprit is liability consequentialism. ]
 
 *VCI is a private, intellectual property project that is also a neutral, trust primitive. It cannot be competitor built, own, or even sponsored. It cannot even be a start-up or a vender tool. Were I affiliated with an institution, there could be development or additional opportunity for a closer relationship between institution and VCI, through Mo, than with  market competitors, but as it is, the entire purpose of its usefulness rests on neutrality and independence from competitors. Mo =/= VCI and VCI =/= Mo. Mo can be affiliated with whomever he wants, VCI cannot be affiliated to any competitor. 
 
+
 I find this role very interesting #87479764016603846, Policy Specialist, Policy Enablement and Delivery, and would have applied in the past when I was more naive about the state of my structural banishment by the institution — unfortunately.
+
+² It was not lost on me that, were I to be asked to qualitatively and strategically assess the GHA as presented to me, controlling for all other variables as they were, I would say 3/5 of the focus concerned assessing not just my integrity, loyalty, and professionalism, but specifically my latent capacity to present an ***insider threat.*** If this perception is any more remarkable my own subjective anecdotal experience, than that means by the very fact of having passed the GHA, the institution would have its own scientifically-desigbed measurement to sustain confidence beyond a reasonable doubt I am a clean, honest, professional.
+
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
