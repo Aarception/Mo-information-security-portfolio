@@ -40,7 +40,9 @@ inquiry as a record and foreclose further internal
 escalation optionality in expansion of the consideration
 offer of July 17, whereby the provision of information,
 excepting the 'Dataset,' being resolved to an unconditional
-gift of the institution, excepting ownership, but including read, and write upon permission, to which it privileges relevance.
+gift of the institution, excepting ownership, but
+including read, and write upon permission, to which
+it privileges relevance.
 ~~~
 ### Regarding the Process as a Market Product: 
 ***'Dataset'***
