@@ -24,7 +24,7 @@ It is the only instructive way to show ambiguity is like entropy: constructively
 1.) On March 19, 2026, I made a promise not to pursue
 personal legal and civil claims against the Institution
 as a Consumer 
-2.) On May 05, 2026, I made a promise not to pursue
+2.) On May 04, 2026, I made a promise not to pursue
 personal legal and civil claims against the Institution
 as an Applicant 
 3.) On June 25, 2026, I made a promise to not embarrass
