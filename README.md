@@ -37,7 +37,7 @@ considerate treatment of my inquiry in as much
 made possible by liability consequentialism.
 5.) Today August 02, 2026, I unilaterally close the
 inquiry as a record and foreclose further internal
-escalation optionality in expansion of the consideration
+escalation optionality in extension of the consideration
 offer of July 17, whereby the provision of information,
 excepting the 'Dataset,' being resolved to an
 unconditional gift of the institution, excepting
