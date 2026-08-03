@@ -1,4 +1,4 @@
-i#  📁 Mo's Information Security Learning, Projects, and Portfolio 
+#  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 
 ***Alternative Model for Institutional Truth-Making, Institutional Truth-Making Without Liability Consequentialism***
