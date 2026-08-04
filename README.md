@@ -1,18 +1,6 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-I tried. 
 
-I suspect that the institution  will come to provision an autopsy of its risk structure and implement future recommendations resulting from having abdicated from the fiduciary responsibility incentivized by the privileged opportunity to first intercept and rationally resolve the question of joint ownership of trust, especially given how amenable and partisan I was toward the institution. 
-
-The playbook, especially after the full, recursive masterpiece of the Dataset is public, will be an object of internal scorn.
-
-This is a pure Market prediction and Coup D'œil. 🙃
-
-I can say this now: liability consequentialism was an insight developed from my understanding that the institution never stopped treating me like an adversary and it was only way I could rationalize that logic given the fact I never once viewed myself as an adversary of the institution.  Even now I am burdened with the question of how to resolve the refused promises in a way respects institutional dignity. 
-
-This is a radical perception, but I perceive the institution may have scaled too fast for relative organizational bureaucracy and this may even be a secret structural vulnerability of modern tech companies. It is possible that my issue is a canary in a coal mine about the 'maturization' process of that disconnect. Where there is maturization...insolvency is not far behind.  The risk structure may already be there. 💡
-
- Application with OpenAI using 1 page redacted work sample ✔️ 
  
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
