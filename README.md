@@ -2,18 +2,8 @@
 
 
 *'Effective communication is often overstated, yet underappreciated so I want to pause here and intervene on this point'*
-~~~
 
-When given opacity. return illegibility.
-
-It is the only instructive way
-to show ambiguity is like entropy:
-constructively it is a positive disruption,
-otherwise it is a negative constriction.
-
-
-~~~
-
+I don't have a habit of inquiring about, nor go looking after, gifts that have been given, especially if they were gifts of consideration.
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
