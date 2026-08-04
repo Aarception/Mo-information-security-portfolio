@@ -8,7 +8,7 @@
 
 ### [SolarWinds Supply Chain Attack](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 **Path:** `/solarwinds-supply-chain-attack/`
-⬛️◼️▪️
+
 Contents:  
 - [solarwinds-attack-report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/solarwinds-supply-chain-attack/solarwinds-attack-report.md) — Full incident analysis  
 - [Diagram.png](https://github.com/Aarception/cybersecurity-portfolio/blob/main/solarwinds-supply-chain-attack/Diagram.png) — MITRE ATT&CK Matrix diagram  
