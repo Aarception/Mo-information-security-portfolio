@@ -6,9 +6,9 @@ The institution answered my three questions on March 17.
 
 That was the last time the institution directly engaged on the issue.
 
-One courageous act of genuine engagement caused the institution to shut down, because of the presumption of becoming entrapped in a legal liability whereas I became inspired me to protect the institution from said legal liability as a result of that courage act.
+One courageous act of genuine engagement caused the institution to shut down, because of the presumption of becoming entrapped in a legal liability whereas I became inspired to protect the institution from said legal liability as a result of that courage act.
 
-The recognition of consideration on Juky 17 was entirely based on that same single courageous act on March 17.
+The recognition of consideration on July 17 was entirely founded on that same single courageous act of March 17.
 
 oldethornetree@proton.me
 
