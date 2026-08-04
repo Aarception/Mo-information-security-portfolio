@@ -1,6 +1,14 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-I tried.
+I tried. 
+
+I suspect that the institution  will come to provision an autopsy of its risk structure and implement future recommendations resulting from having abdicated from the fiduciary responsibility incentivized by the privileged opportunity to first intercept and rationally resolve the question of joint ownership of trust, especially given how amenable and partisan I was toward the institution. 
+
+The playbook, especially after the full, recursive masterpiece is public, will be an object of internal scorn.
+
+This is a pure Market prediction and Coup D'œil. 🙃
+
+I can say this now: liability consequentialism was an insight developed from my understanding that the institution never stopped treating me like an adversary and it was only way I could rationalize that logic given the fact I never once viewed myself as an adversary of the institution. 
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
