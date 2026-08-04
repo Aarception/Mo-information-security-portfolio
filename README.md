@@ -1,163 +1,20 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 
-***Alternative Model for Institutional Truth-Making, Institutional Truth-Making Without Liability Consequentialism***
-
-![Remodel](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Alternative_Remodel_for_Institutional_Truth-Making.png)
-
-### Institutional Truth-Making
-- Suppression —| 
-- Acknowledgment
-   - Liability —|
-   - Engagement
-     - Liability —|
-     - Dignity —> Consideration—> Preservation —>
----
+*'Effective communication is often overstated, yet underappreciated so I want to pause here and intervene on this point'*
+~~~
 
 When given opacity. return illegibility.
 
-It is the only instructive way to show ambiguity is like entropy: constructively it is a positive disruption, otherwise it is a negative constriction.
+It is the only instructive way
+to show ambiguity is like entropy:
+constructively it is a positive disruption,
+otherwise it is a negative constriction.
 
-### Regarding the Production as an LSJ Product: 
-[Consumer] ***'Record'*** 
-~~~
-1.) On March 19, 2026, I made a promise not to pursue
-personal legal and civil claims against the Institution
-as a Consumer 
-2.) On May 04, 2026, I made a promise not to pursue
-personal legal and civil claims against the Institution
-as an Applicant 
-3.) On June 25, 2026, I made a promise not to
-treat the Institution to indignity, i.e. express
-untrue, untoward, unreasonable motive or behavior 
-4.) On July 17, 2026, I unilaterally dissolved the
-audit as a record and foreclose external escalation
-optionality in recognition of the Institution's
-considerate treatment of my inquiry in as much
-made possible by liability consequentialism.
-5.) Today August 02, 2026, I unilaterally close the
-inquiry as a record and foreclose further internal
-escalation optionality in extension of the consideration
-offer of July 17, whereby the provision of information,
-excepting the 'Dataset,' being resolved to an
-unconditional gift of the institution, excepting
-ownership, but including read, and write upon
-permission, to which it privileges relevance.
-~~~
-### Regarding the Process as a Market Product: 
-[Capital] ***'Dataset'***
-~~~
-What is left is the labor of my production, the
-research materials, methodology, proprietary
-intellectual property as a competitive market asset.
-I have a 500-page compliance and risk dataset, produced
-from open source proprietary institutional intelligence
-of the greatest value. A trust infrastructure composed of
-3 specifications that fully respond and close any
-credential trust infrastructure signal propagation gap.
-A radically efficient compliance and risk oriented
-methodology in which any single individual can expertly
-audit any credentialing program or related services with
-speed and effect. A developing primitive that could
-potentially scale far beyond credential signals.¹ I may
-just open a 'boutique' Compliance service that
-differentiates from the competition through regulatory
-expertise. ✔️
+
 ~~~
 
-Obviously this first requires the complete abdication of resolution,
-to which, in such a case, said failure would leave me with the full burden of custody for resolving the  disconnect between such previously made promises, as it would be, and the necessary need for alternative considerations that would become pertinent resultant from having to countenance the need to expore such new avenues, modes, methods, and their trajectories for resolution.
 
-The GHA, whose form during my successful engagement peculiarly diverged² from the form most corroborated by average experience³
-shared online, emphasizes, among other qualities, deftness with ambiguity. But here, the stunning incapability for exhibiting any deftness for ambiguity even at the expense of self-interest is the very cause of my profound realization that there is incapacity of kind to warrant the suspicion of structural malady. There is serious inefficiency here. The risk structure is sick.🤔
-
-I think there is something wrong with corporate risk structure architecturally if my openness to resolution has not been able to be taken advantage of in this circumstance. There is structural malady here. The system is not efficient. This is rather profound. 🤔 
-
-Who am I and what do I have to offer: Imagine 5 reports given to 5 individuals at the same time in the same succession in the same order with the task to read and present any insights that may result from the process. The purpose of the experiment being the ability to infer the underlying connective thread, without having identified that goal. Some individuals may never quite settle on the link while others might eventually grow closer with time. I will instantaneously compress the 5 reports, cognitively almost automatically, possibly even prior to the first completed reading, and immediately infer, not just the original purpose of the experiment, i.e. the connective thread, but will identify an overall, single presiding axiom that situates the connective thread and identifies its place among an expanded assortment of connective threads. So, for example, let me compress everything into this simple axiom: *'One is a very ***valuable*** ***nutrient*** for the flower bed; one is not an ***antigen.'**** ⁴
-
-This role, with opportunity for growth and space for inordinate specialized skill development, would probably be the greatest use of full capabilities to maximum institutional advantage: #123324367068111558, Staff Security Engineer, Product Security Engineering, Cloud CISO, alas if still naive about the state of the structural banishment by the institution — unfortunately
-
-##### ¹ VCI is a private, intellectual property project that is also a neutral, trust primitive. It cannot be competitor built, owned, or even sponsored. It cannot even be a start-up or a vender tool. Were I affiliated with an institution, there could be development or additional opportunity for a closer relationship between institution and VCI, through Mo, than with  market competitors, but as it is, the entire purpose of its usefulness rests on neutrality and independence from competitors. Mo =/= VCI and VCI =/= Mo. Mo can be affiliated with whomever he wants, VCI cannot be affiliated to any competitor. 
-##### ² I want to be very clear that 1.) no intent has been framed, 2.)  no accusation has been lobbied and 3.) it is a legitimate observation which may be both observationally true and factually unremarkable. Also I am critiquing corporate risk structure here, for as much I bite,  I do understand ultimately the culprit is liability consequentialism. 
-
-##### ³ It was not lost on me that, were I to be solicited for a qualitative and strategic assessment of the GHA as presented to me, controlling for all other variables as they were, I would say 3/5 of the focus concerned assessing not just my integrity, loyalty, and professionalism, but specifically the latent capacity to present an ***insider threat.*** If this perception is any more remarkable than my own subjective anecdotal experience, than that means by the very fact of having passed the GHA, the institution would have its own scientifically-designed measurement to sustain confidence beyond a reasonable doubt that I am a clean, honest professional.
-
-##### ⁴ A direct evidence for this proposition, which, by being shared now rather than having been leveraged during engagement, is confirmation of integrity rather than strategy, is the interception of the Global Interview Support agent's loop-in of the then assigned recruiter on June the 2nd. Regardless of the circumstance, and my own then subjective inclinations derived from limited observation established in record concerning that circumstance, I recognized, explicitly and implicitly, it would not do to 'adverserially' use procedure against the recruiter or the institution. So, despite the fact and against personal interest, I intercepted the liability created by the loop-in with the deconstruction: it does not require recruiter input at this time. The negative space: confirmation of relevance and value of the GIS verification escalation patch of 4/28.
-
-## Simulated Observation Log
-
-If I were asked for the single, or two, most important sentences in the experience, I would immediately recommend the following, in order of precedence:
-
- - *'Effective communication is often overstated, yet underappreciated so I want to pause here and intervene on this point'*
-
-
- - *'Furthermore, I believe in proactive communication and engagement for problem solving.*
-
-Because of this reason, I will use this moment as a public example of an observation log, including the full scale of frank, candid, forthright plain-speaking, which will be unedited naturally.
-~~~
-Having exited the consumer track, I dissolved
-every pathway that could logically be connected to
-grievance through the instantiation of 5
-commitment-devices that have no precedent in game
-theory or negotiating leverage. I unilaterally
-disclaimed entitlement from consumer rights, from
-employment law, from social justice activist
-theory, from right to petition outside the
-institution, and the right to petition within the
-institution. There is no grievance, because there
-was never a complaint, and now there is no
-petition. I have ceased being a consumer in
-relation to any engagement with institution.
-
-There is only the production of my labor whose
-valuation will be settled by the free Market upon
-entry.
-
-This is dependent on the dissolution of trustship,
-considering I have binding ethical constraints in
-the form of considerations and promises made as
-concessions in support of resolution. A failure to
-resolve would leave me with the full burden of
-custody for adjudicating the fallout from such
-refusal of trust and the necessary process for
-dissolving that trust, including preventing waste
-and conversion to market asset.
-
-Trust and accountability are not expendable tools
-of leverage against the corporation. They are
-binding ethical constraints regardless of the
-state of legal codes in existence applying to the
-individual in such a circumstance.
-
-Promises made are promises where every reasonable
-effort must be made to be Promises Kept.
-
-Thrice before, I applied with the institution in
-the interest of contribution, while documenting
-the process and carrying out an honest experiment,*
-as this was concurrent with the consumer track.
-The results and experience are contained in the
-dataset, where appropriate, and yet, while that
-track has been dissolved, the lessons learned
-exist for informing whatever relevance that can be
-extracted for modifying future behavior.
-
-The entire process has reached conclusion, and yet
-the facts of my current observations activate
-deterrence as informed by the experience
-established from the lessons learned of the
-dataset.
-
-The question concerns the state of inspiring
-increased assurance in the ability to be confident
-about the signal:noise ratio regarding
-institutional interest in retaining joint
-ownership of trust, and how to prevent abdication
-of duty to prevent waste in the event there is
-reached the declaration point re:abdication of
-resolution.
-~~~
-##### * 1.) App + 'audit' + 'credential,' 2.) App + 'audit' - 'credential,' 3.) App + 'credential' - 'audit'
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
