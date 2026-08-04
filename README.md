@@ -6,7 +6,7 @@ I now declare the institution has refused to retain joint custody of trust, whic
 
 All promises made regarding the 'Record' stand, as the Consumer inquiry has been dissolved. 
 
-All materials used henceforth can only be sourced from the 'Dataset.'
+All materials used henceforth can only be sourced from the 'Dataset,' as they are Market intelligence.
 
 This satisfies the courtesy to extend Official Notice.
 
