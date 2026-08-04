@@ -1,17 +1,5 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-I am going to send a board notice. I will also file a contribution with the FTC. I will also offer a segment of the dataset as AI training material. I will also publish an academic article on the novel discovery of 'Motive Entrapment.' Finally, I will submit the six boundary gap taxonomy to a legal review.
-
-I now declare the institution has refused to retain joint custody of trust, which means I now recognize there is an abdication to resolve.
-
-All promises made regarding the 'Record' stand, as the Consumer inquiry has been dissolved. 
-
-All materials used henceforth can only be sourced from the 'Dataset,' as they are Market intelligence.
-
-This satisfies the courtesy to extend Official Notice.
-
-**THE AXIOM: The tragedy in this circumstance, of which is the basis for the position that the risk structure is inefficient, is that the Institution feared the liability created by grievance so much so that it could only recognize grievance, and yet, when it could not find it present, engaged in what subjectively presented to be a preoccupation with the manufacture of it, thereby engineering the very adversary necessary for sustaining the inefficient risk structure.**
-
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
