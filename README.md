@@ -1,10 +1,5 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-
-*'Effective communication is often overstated, yet underappreciated so I want to pause here and intervene on this point'*
-
-I don't have a habit of inquiring about, nor go looking after, gifts that have been given, especially if they were gifts of consideration.
-
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
