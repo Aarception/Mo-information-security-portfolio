@@ -134,7 +134,7 @@ effort must be made to be Promises Kept.
 
 Thrice before, I applied with the institution in
 the interest of contribution, while documenting
-the process and carrying out an honest experiment,
+the process and carrying out an honest experiment,*
 as this was concurrent with the consumer track.
 The results and experience are contained in the
 dataset, where appropriate, and yet, while that
@@ -157,7 +157,7 @@ of duty to prevent waste in the event there is
 reached the declaration point re:abdication of
 resolution.
 ~~~
-
+##### * 1.) App + 'audit' + 'credential,' 2.) App + 'audit' - 'credential,' 3.) App + 'credential' - 'audit'
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
