@@ -1,7 +1,16 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
+Do you know why I ruled out personal legal claims on March 19?
 
- 
+The institution answered my three questions on March 17.
+
+That was the last time the institution directly engaged on the issue.
+
+One courageous act of genuine engagement caused the institution to shut down, because of the presumption of becoming entrapped in a legal liability whereas I became inspired me to protect the institution from said legal liability.
+
+oldethornetree@proton.me
+
+Take a chance. You have the world to gain.
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
