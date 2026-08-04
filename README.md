@@ -12,7 +12,7 @@ I can say this now: liability consequentialism was an insight developed from my 
 
 This is a radical perception, but I perceive the institution may have scaled too fast for relative organizational bureaucracy and this may even be a secret structural vulnerability of modern tech companies. It is possible that my issue is a canary in a coal mine about the 'maturization' process of that disconnect. Where there is maturization...insolvency is not far behind.  The risk structure may already be there. 💡
 
- Application with OpenAI using 1 page redaction work sample ✔️ 
+ Application with OpenAI using 1 page redacted work sample ✔️ 
  
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
