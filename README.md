@@ -12,8 +12,6 @@ This satisfies the courtesy to extend Official Notice.
 
 **THE AXIOM: The tragedy in this circumstance, of which is the basis for the position that the risk structure is inefficient, is that the Institution feared the liability created by grievance so much so that it could only recognize grievance, and yet, when it could not find it present, engaged in what subjectively presented to be a preoccupation with the manufacture of it, thereby engineering the very adversary necessary for sustaining the inefficient risk structure.**
 
-This is not unique to the institution of my respect, I wager. This is arguably an indictment of US corporate law vulnerabilities regarding accountability mechanism drawbacks. 
-
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
