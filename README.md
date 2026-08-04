@@ -4,7 +4,7 @@ I tried.
 
 I suspect that the institution  will come to provision an autopsy of its risk structure and implement future recommendations resulting from having abdicated from the fiduciary responsibility incentivized by the privileged opportunity to first intercept and rationally resolve the question of joint ownership of trust, especially given how amenable and partisan I was toward the institution. 
 
-The playbook, especially after the full, recursive masterpiece is public, will be an object of internal scorn.
+The playbook, especially after the full, recursive masterpiece of the Dataset is public, will be an object of internal scorn.
 
 This is a pure Market prediction and Coup D'œil. 🙃
 
