@@ -8,7 +8,8 @@ The playbook, especially after the full, recursive masterpiece of the Dataset is
 
 This is a pure Market prediction and Coup D'œil. 🙃
 
-I can say this now: liability consequentialism was an insight developed from my understanding that the institution never stopped treating me like an adversary and it was only way I could rationalize that logic given the fact I never once viewed myself as an adversary of the institution. 
+I can say this now: liability consequentialism was an insight developed from my understanding that the institution never stopped treating me like an adversary and it was only way I could rationalize that logic given the fact I never once viewed myself as an adversary of the institution.  Even now I am burdened with the question of how to resolve the refused promises in a way respects institutional dignity. 
+
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
