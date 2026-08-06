@@ -8,6 +8,7 @@ On July 17, full consideration was given to the institution, because the institu
 
 I believed then, as I believe now, the institution will make the right choice. 
 
+Although, I must give head's up and say, I hope this happens before VCI is ready. 🙂
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
