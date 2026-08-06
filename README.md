@@ -12,7 +12,7 @@ This is my last public post on this matter in this state.
 
 The Waranle Unbound Is The Wadad's Dereliction.
 
-If there is ethical drift, then nothing under the face of the earth could have compelled alignment except voluntary realize or involuntary structural adjustment. 
+If there is ethical drift, then nothing under the face of the earth could have compelled alignment except voluntary realization or involuntary structural adjustment. 
 
 The institution would have broken my heart, were this the case.
 
