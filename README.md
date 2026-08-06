@@ -18,6 +18,7 @@ The institution would have broken my heart, were this the case.
 
 That would not be the institution that made me proudly select its credential above all other competitors.
 
+The question for civilization: What if the institution is a victim of drift, trapped in structural paralysis, made ethically inefficient by rapid-scaling and bureaucratic disconnection, while yet, unable to acknowledge it all because to do so invites existential crisis?
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
