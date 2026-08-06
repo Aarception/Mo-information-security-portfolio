@@ -6,15 +6,11 @@ I think there is a question about Ethical drift, which sharply reconfigures the 
 
 ### The question for civilization: What if the institution is a victim of rapid-scaling trapped in structural paralysis, made ethically inefficient by drift and bureaucratic disconnection, while yet, unable to acknowledge it all because to do so invites existential crisis?
 
-My application, after having passed the GHA, with an assigned recruiter, being met with the treatment I received for 8 weeks, without a single word directed to me, until I compelled closure is a primary example of ethical drift. 
-
-I will never litigate against the institution, having already promised, but I will request an apology if I am ever solicited for public or official comment.
-
 Ethical drift will be the 6th public contribution, in public argument to Congress.
 
 - Board Notice, Governance
 - FTC Contribution, Regulation
-- AI training material, Technology
+- AI training material*, Technology
 - Motive Entrapment,  Academic
 - 6 Boundary Gap taxonomy, Legal
 - Ethical Drift, Public Policy 
@@ -25,6 +21,7 @@ The Board Notice will be submitted today. And the rest will be submitted in that
 
 //end
 
+###### 3,241 pages composed of selections from +500-page dataset, supplementary material, and primary-source artifacts with historical comparisons, quantitative lexical and semantic computations.
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
