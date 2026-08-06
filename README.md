@@ -10,6 +10,19 @@ My application, after having passed the GHA, with an assigned recruiter, being m
 
 I will never litigate against the institution, having already promised, but I will request an apology if I am ever solicited for public or official comment.
 
+Ethical drift will be the 6th public contribution, in public argument to Congress.
+
+- Board Notice, Governance
+- FTC Contribution, Regulation
+- AI training material, Technology
+- Motive Entrapment,  Academic
+- 6 Boundary Gap taxonomy, Legal
+- Ethical Drift, Public Policy 
+
+Work starts now.
+
+//end
+
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
