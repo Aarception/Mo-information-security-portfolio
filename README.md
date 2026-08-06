@@ -1,5 +1,6 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
+![Conclusion](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Motive_Entrapment.png)
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
