@@ -8,7 +8,6 @@ On July 17, full consideration was given to the institution, because the institu
 
 I believed then, as I believe now, the institution will make the right choice. 
 
-Although, I must give head's up and say, I hope this happens before VCI is ready. 🙂
 
 Finally, let me say this. If I have forgiven the Consumer track, then I should be forgiven by the Executive who provisioned R&D Analyst role and believes I steamrolled them in late April and early May. It is time to forgive given what you have come to find out about my personality. I am unusual, but honorable.
 
