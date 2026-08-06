@@ -27,7 +27,7 @@ AXIOM: Ethical Drift: When there is structural incentive to pathologize accounta
 
 ##### ¹In such a case, where the State is the only monopoly on legitimate rights enforcement, Ethical Drift, and its execution through Motive Entrapment and the Conversion Trap, may require a Legal remedy, to prevent any ability, besides the State, that can convert rights into privilege. 
 
-###### ²VCI cures the structural incentive for Ethical Drift in Credentialing by removing the responsibility for signal propagation entirely outside the 3-party relationship: neutral trust infrastructure, THE COMPLIANCE MANDATE TO RESTORE TRUST.
+##### ²VCI cures the structural incentive for Ethical Drift in Credentialing by removing the responsibility for signal propagation entirely outside the 3-party relationship: neutral trust infrastructure, THE COMPLIANCE MANDATE TO RESTORE TRUST.
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
