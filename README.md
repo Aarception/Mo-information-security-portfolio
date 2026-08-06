@@ -1,5 +1,11 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
+It is important to understand no accusation has been lobbied nor any claim stated. 
+
+The purpose of experimentation is attempt at addressing the fact that intellectual curiosity has been triggered by observation. 
+
+These are contributions for potential research, investigation, and/or discovery, if there is ever relevance.
+
 ![Conclusion](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Motive_Entrapment.png)
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
