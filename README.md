@@ -6,7 +6,7 @@ The purpose of experimentation is attempt at addressing the fact that intellectu
 
 These are contributions for potential research, investigation, and/or discovery, if there is ever relevance.
 
-***When, and if that happens, any financial benefit that results from this material, including the Market intelligence, the entirety of the 'Dataset,' excepting the 3 intellectual specifications, but includingany proceeds from publication, engagement, regulatory contribution, etc, will be donated to reskilling/retooling Charities.***
+***When, and if that happens, any financial benefit that results from this material, including the Market intelligence, the entirety of the 'Dataset,' excepting the 3 intellectual specifications, but including any proceeds from publication, engagement, regulatory contribution, etc, will be donated to reskilling/retooling Charities with verifiable commitments.***
 
 ![Conclusion](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Motive_Entrapment.png)
 ---
