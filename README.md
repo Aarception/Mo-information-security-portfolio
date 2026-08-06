@@ -1,8 +1,12 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-Frozen from this point on.
+That is not how this works. There will be no board submission, nor am FTC contribution. 
 
-![Truth-Making](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Board_Notice_Vertical_Risk.png)
+My opportunity prospect is independent and disparate. 
+
+on July 17, full consideration was given to the institution,  because the institution is worthy of that consideration. 
+
+I believed then, as I believe now, the institution will make the right choice. 
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
