@@ -2,6 +2,8 @@
 
 Frozen from this point on.
 
+![Truth-Making](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Board_Notice_Vertical_Risk.png)
+
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
