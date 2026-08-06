@@ -1,5 +1,7 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
+Frozen from this point on.
+
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
