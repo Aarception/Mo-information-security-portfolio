@@ -21,7 +21,7 @@ Ethical drift will be the 6th public contribution, in public argument to Congres
 
 Work starts now.
 
-The Board Notice will be submitted today.
+The Board Notice will be submitted today. And the rest will be submitted in that order by the end of next week.
 
 //end
 
