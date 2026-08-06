@@ -35,6 +35,8 @@ In the board letter, I will recommend hiring outside counsel to investigate the 
 
 I would like to come to find out the question of the response conduct, because it is not rational, responsible behavior from any reasonable point of view.
 
+Do you know what? Let me get legal counsel. 
+
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
