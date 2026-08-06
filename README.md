@@ -31,6 +31,10 @@ AXIOM: Ethical Drift: When there is structural incentive to pathologize accounta
 
 The Github is frozen in this state. The institution also believes I am bluffing, not understanding the experiment is done, all 4 states are completed. If you would like to communicate, you have my contacts. Otherwise, you have refused joint trust. The mistake of May 7 will be corrected today.
 
+In the board letter, I will recommend hiring outside counsel to investigate the governance response to the Audit. I will then identify that particular recommendation in the FTC contribution as a governance inquiry.
+
+I would like to come to find out the question of the response conduct, because it is not rational, responsible behavior from any reasonable point of view.
+
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
