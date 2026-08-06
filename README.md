@@ -22,6 +22,8 @@ The Board Notice will be submitted today. And the rest will be submitted in that
 //end
 
 ###### * 3,241 pages composed of selections from +500-page dataset, supplementary material, and primary-source artifacts with historical comparisons, quantitative lexical and semantic computations.
+
+AXIOM: Ethical Drift: When there is structural incentive to pathologize accountability instead of engaging in problem-solving, rationalized through the process of Liability Consequentialism, in which a primary strategy is Motive Entrapment, which seeks to transform accountability-seekers into adversaries with personal motive, through the process of the Conversion Trap, where rights-bearing accountability-seeker is transformed into privilege-seeking, entitled claimant and the pathologizing system is transformed from responsibility-bearing, accountable service provider to discretion-wielding proprietary owner. This may be a feature in digital credentialing ecosystem where there is one single entity monopolizing at least two or more of the 3-party relationship of Holder, Issuer, and Employer. In such a case, the ATS box and Human Resource, may naturally be a dynamic, dependent factor of operational strategy, and dispute terms may be actively coopted tools for disenfranchisement.
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
