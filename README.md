@@ -8,6 +8,8 @@ These are contributions for potential research, investigation, and/or discovery,
 
 ***When, and if that happens, any financial benefit that results from this material, including the Market intelligence, the entirety of the 'Dataset,' excepting the 3 intellectual specifications, but including any proceeds from publication, engagement, regulatory contribution, etc, will be donated to reskilling/retooling Charities with verifiable commitments.***
 
+I am now in the most important competition of my life: the faster, and more effective my contribution to society, the more quickly, and consequential my contribution in support of verifying commitments to aspirants of reskilling and retooling programs.
+
 Stewardship Is Care, Which is Whole.
 
 ![Conclusion](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Motive_Entrapment.png)
