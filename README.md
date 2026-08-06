@@ -21,7 +21,7 @@ The Board Notice will be submitted today. And the rest will be submitted in that
 
 //end
 
-###### 3,241 pages composed of selections from +500-page dataset, supplementary material, and primary-source artifacts with historical comparisons, quantitative lexical and semantic computations.
+###### * 3,241 pages composed of selections from +500-page dataset, supplementary material, and primary-source artifacts with historical comparisons, quantitative lexical and semantic computations.
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
 
