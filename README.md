@@ -1,4 +1,4 @@
-⁶#  📁 Mo's Information Security Learning, Projects, and Portfolio 
+#  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 That is not how this works. There will be no board submission, nor an FTC contribution. 
 
