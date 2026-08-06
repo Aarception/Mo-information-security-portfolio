@@ -4,13 +4,19 @@ I think there is a question about Ethical drift, which sharply reconfigures the 
 
 ***As a result, any financial benefit that results from this material, including the Market intelligence, the entirety of the 'Dataset,' excepting the 3 intellectual specifications, but including any proceeds from publication, engagement, regulatory contribution, etc, will be donated to reskilling/retooling Charities with verifiable commitments.***
 
-But conversely, the entirely goal has now evolved from procedure to adjustment.
+But conversely, the entirely goal has now evolved from folliwing procedure to questioning adjustment.
 
 This is a rather profound and unsettling contemplation.
 
 This is my last public post on this matter in this state.
 
 The Waranle Unbound Is The Wadad's Dereliction.
+
+If there is ethical drift, then nothing under the face of the earth could have compelled alignment except voluntary realize or involuntary structural adjustment. 
+
+The institution would have broken my heart, were this the case.
+
+That would not be the institution that made me proudly select its credential above all other competitors.
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
