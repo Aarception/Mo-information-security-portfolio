@@ -2,7 +2,15 @@
 
 ### The 1 billion judgement against Meta is really about scaling AI, without scaling governance. It is a precedent.
 
-Since the day someone made a decision to answer my three questions and someone at Legal released it, I have been trying to honor that consideration and spare the institution the indignity of being gnashed at from every side—but there is so much that could be done by one party especially when the other party expressed what observed to be a preoccupation with procedural delegitimization, namely motive entrapment, attempting to pathologize the fact that, yes, one has ambition and was seeking opportunity—I mean that is the *reason* for having taken out the credential to begin with ironically enough. 
+Since the day someone made a decision to answer my three questions and someone at Legal released it, I have been trying to honor that consideration and spare the institution the indignity of being gnashed at from every side—but there is so much that could be done by one party especially when the other party expressed what observed to be a preoccupation with procedural delegitimization, namely motive entrapment, attempting to pathologize the fact that, yes, one has ambition and was seeking opportunity—I mean that is the *reason* for having taken out the credential to begin with ironically enough. There is extreme inefficiency in tech risk structure. Maybe the problem is the fact paying the fines at that level isn't really impactful. Maybe additional costs have to be thought of to deter the level of recurring inertia. 
+
+For example, Meta is being judged for child welfare. Well besides the fine, make Meta take up  social responsibility concerning child welfare that then keeps them under a consent decree on the issue.
+
+On this issue regarding credential, make the credential not just liable for fines, but with structural responsibility for making whole regarding the impacted. So, for example, make the credentialer liable for giving a mandated portion of their roles to impacted along with guaranteeing the infrastructure of credentialing and this would be for a period of 10 years.
+
+The purpose of penalization is to deter which means the penalty must be set not just above the compliance cost, but above the compliance cost DIVIDED BY the probability of detection. If detection probability is low, the penalty must be higher. If the cost of compliance is 400 million and the judgement is 250 million, why would there be compliance? 1 billion is less than 1% of the budgets.
+
+Profound 💡 I am going to argue an entirely new theory of accountability on such matters, the STRUCTURAL WHOLENESS MODEL.
 
 Update: I will pause at Washington state submissions today.  I will complete CA Ag submissions by Monday morning at the latest.
 
