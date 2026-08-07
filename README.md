@@ -2,6 +2,16 @@
 
 The one thing the institution learned well from my interaction is rather interesting: the process of Truth-Making as Theatrical Production. The problem is the theatrical production is the packaging, which cannot produce the product, the production. Learning has been a two-way street: I have increased my understanding of the usefulness of "plausible deniability."
 
+Today, I activated accountability, because I fully acknowledged the supreme insight extracted from the extraction of my aspiration: 
+
+"We want you to feel supported enough to remain enrolled, to remain hopeful, to remain in our ecosystem...but not supported enough to actually succeed through our channels, because that would require structural changes we have not made."
+
+Good for you, and what about the inducement at the point of sale? 
+
+This is un-American and in-decent.
+
+So Uncle Sam, has to be called on.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
