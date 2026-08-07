@@ -4,9 +4,9 @@ The one thing the institution learned well from my interaction is rather interes
 
 Today, I activated accountability, because I fully acknowledged the supreme insight extracted from the extraction of my aspiration: 
 
-"We want you to feel supported enough to remain enrolled, to remain hopeful, to remain in our ecosystem...but not supported enough to actually succeed through our channels, because that would require structural changes we have not made."
+"We want you to feel supported enough to remain enrolled, to remain hopeful, to remain in our ecosystem...but not supported enough to actually succeed through our channels, because we have put as a roadblock the condition that we would require structural changes that we have not made."
 
-Good for you, and what about the inducement at the point of sale? 
+That's great, and what about the inducement at the point of sale? 
 
 This is un-American and in-decent.
 
