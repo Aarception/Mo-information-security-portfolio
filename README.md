@@ -1,6 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-The Arc of Moral Universe Is Long, But It Bends Toward Justice.
+The Arc of The Moral Universe Is Long, But It Bends Toward Justice.
 
 For May 13.
 
