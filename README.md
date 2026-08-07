@@ -1,15 +1,14 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-That is not how this works. There will be no board submission, nor an FTC contribution. 
+Because Google is still writing this after all this time, I have to accept I was enabling the continuance of the Design-Marketing Gap.
 
-My opportunity prospect is independent and disparate. 
+"Use CareerCircle’s exclusive job board to connect directly with employers looking to hire Google Career Certificate graduates."
 
-On July 17, full consideration was given to the institution, because the institution is worthy of that consideration. 
+Google has bet on the respect and admiration I, and probably many others, have for Google to continue to have that untruth still up.
 
-I believed then, as I believe now, the institution will make the right choice. 
+I was wrong to wait this long, although because I did, I was able to audit and discovery so much more.
 
-
-Finally, let me say this. If I have forgiven the Consumer track, then I should be forgiven by the Executive who provisioned R&D Analyst role and believes I steamrolled them in late April and early May. It is time to forgive given what you have come to find out about my personality. I am unusual, but honorable.
+Tomorrow is Accountability Day.
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
