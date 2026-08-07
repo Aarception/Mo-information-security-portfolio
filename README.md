@@ -10,7 +10,7 @@ That's great, and what about the inducement at the point of sale?
 
 This is un-American and in-decent.
 
-So Uncle Sam, has to be called on.
+So...Uncle Sam has to be called on.
 
 ---
 
