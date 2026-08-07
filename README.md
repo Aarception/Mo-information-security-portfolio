@@ -12,6 +12,20 @@ This is un-American and in-decent.
 
 So...Uncle Sam has to be called on.
 
+And I have not even expanded on the fact Gemini was the source of my first introduction to the "Career Certificates" and "Employer Consortium." And search was the second entity that I received more information. In fact, I did not utilize a non-institutional source now that I realize. Imagine then:
+
+1. Gemini-Google
+2. Search-Google
+3. Ads-Google
+4. GCC Issuer-Google
+5. Employer Consortium-Google
+6. Job Board-Through Google
+7. Application-Google
+
+8. And even as the events of 4/8 show, as confirmed by Coursera support, the Coursera platform-Google
+
+I have a thought, like particular storylines in the Game of Thrones converging upon a bigger narrative, this is fundamentally about the anti-trust issue with the DOJ, where this story in all its particular details is part of the different streams which will converge upon the realization of "Google is too big not to be broken up." I mean imagine Google without Search? There is no Google. Yet, we see right here the problem of a VERTICAL DISTRIBUTION STACK.
+
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
