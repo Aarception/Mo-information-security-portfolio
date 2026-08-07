@@ -1,5 +1,11 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio
 
+It would be nice to see Stewardship, because once you have waded into the aspiration business, you have voluntarily gotten into the Stewardship business.
+
+You cannot get into the medical field, and not have entered the healing business. 
+
+It is like lungs and the business of breathing.
+
 Update: Washington State AG submissions completed ✔️ 
 More to go
 
