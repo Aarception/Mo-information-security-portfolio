@@ -12,7 +12,7 @@ This is un-American and in-decent.
 
 So...Uncle Sam has to be called on.
 
-And I have not even expanded on the fact Gemini was the source of my first introduction to the "Career Certificates" and "Employer Consortium." And search was the second entity that I received more information. In fact, I did not utilize a non-institutional source now that I realize. Imagine then:
+And I have not even expanded on the fact Gemini was the source of my first introduction to the "Career Certificates" and "Employer Consortium." And search as the second source of further information. In fact, I did not utilize a non-institutional source now that I realize. Imagine then:
 
 1. Gemini-Google
 2. Search-Google
