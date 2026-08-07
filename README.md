@@ -2,6 +2,8 @@
 
 ### The 1 billion judgement against Meta is really about scaling AI, without scaling governance. It is a precedent.
 
+Since the day someone made a decision to answer my three questions and someone at Legal released it, I have been trying to honor that consideration and spare the institution the indignity of being gnashed at from every side—but there is so much that could be done by one party especially when the other party expressed what observed to be a preoccupation with procedural delegitimization, namely motive entrapment, attempting to pathologize the fact that, yes, one has ambition and was seeking opportunity—I mean that is the *reason* for having taken out the credential to begin with ironically enough. 
+
 Update: I will pause at Washington state submissions today.  I will complete CA Ag submissions by Monday morning at the latest.
 
 To the Institution: Human beings are different from every other life form on earth, because of the ability to communicate effectively, becoming as specialized to develop language. When you design to erase communication in relation to another human, this is what becomes inevitable. 
