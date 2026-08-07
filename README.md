@@ -12,6 +12,8 @@ This is un-American and in-decent.
 
 So...Uncle Sam has to be called on.
 
+BTW I am not inferring motive, clearly that was satire, but the point is about missing structural coupling.
+
 And I have not even expanded on the fact Gemini was the source of my first introduction to the "Career Certificates" and "Employer Consortium." And search as the second source of further information. In fact, I did not utilize a non-institutional source now that I realize. Imagine then:
 
 
