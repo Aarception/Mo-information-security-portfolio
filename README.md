@@ -43,7 +43,7 @@ And I have not even expanded on the fact Gemini was the source of my first intro
 
       ↓ 7. PeopleOperations/ATS-Google
 
-  Learning platform infrastructure
+  Learning platform
  
      ↓ 8. And as the events of 4/28 show, the notification changes, as confirmed by support, the platform-Google decision-maker.
 
