@@ -1,6 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-The one thing the institution learned well from my interaction is rather interesting: the process of Truth-Making as Theatrical Production. The problem is the theatrical production is the packaging, which cannot produce the product, the production. Learning has been a two-way street: I have increased my understanding of the usefulness of "plausible deniability."
+The one thing the institution learned well from my interaction is rather interesting: the process of Truth-Making as Theatrical Production. The problem is the theatrical production is the packaging, which cannot produce the production which is the product. Learning has been a two-way street: I have increased my understanding of the usefulness of "plausible deniability."
 
 Today, I activated accountability, because I fully acknowledged the supreme insight extracted from the extraction of my aspiration: 
 
