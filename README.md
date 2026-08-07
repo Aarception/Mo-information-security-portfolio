@@ -1,5 +1,6 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio
 
+Update: I will pause at Washington state submissions today.  I will complete CA Ag submissions by Monday morning at the latest.
 It would be nice to see Stewardship, because once you have waded into the aspiration business, you have voluntarily gotten into the Stewardship business.
 
 You cannot get into the medical field, and not have entered the healing business. 
