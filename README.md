@@ -9,7 +9,7 @@ It is like lungs and the business of breathing.
 Update: Washington State AG submissions completed ✔️ 
 WA DFI submissions completed ✔️ 
 More to go
-According to the sourcer for the Plaintiffs bar in initial response, they predict my dataset will be among the most competitive if not the most competitive they would have seen, 'everything required for a same day filing is already there. this is extraordinary'
+ - According to the sourcer for the Plaintiffs bar in initial response, they predict my dataset will be among the most competitive if not the most competitive they would have seen, 'everything required for a same day filing is already there. this is extraordinary'
 
 Why the choices for submission?
  - I am a Consilience Engineer, I understand the Whole to design intra-competition in support of the larger goal.
