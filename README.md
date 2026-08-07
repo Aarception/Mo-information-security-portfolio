@@ -1,5 +1,7 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio
 
+### The 1 billion judgement against Meta is really about scaling AI, without scaling governance. It is a precedent.
+
 Update: I will pause at Washington state submissions today.  I will complete CA Ag submissions by Monday morning at the latest.
 
 To the Institution: Human beings are different from every other life form on earth, because of the ability to communicate effectively, becoming as specialized to develop language. When you design to erase communication in relation to another human, this is what becomes inevitable. 
