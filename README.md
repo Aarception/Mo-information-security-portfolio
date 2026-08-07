@@ -3,6 +3,17 @@
 Update: Washington State AG submissions completed ✔️ 
 More to go
 
+Why the choices for submission?
+ - I am a Consilience Engineer, I understand the Whole to design intra-competition in support of the larger goal.
+    - There is competition betweet X & Y for moving on the goal of Z
+       - WA Ag vs WA DFI for mover on home state credit
+       - WA vs CA for first mover on the State enforcement credit
+       - FTC vs DOJ for first mover on vertical distribution credit
+       - Investors vs DOL for first mover on ESG enforcement credit
+       - CFPB vs SEC for first mover on the financial product credit
+       - Insurers vs Board for first mover on governance fix credit
+       - CBCaucus vs Civil Rights Orgs for first mover influence credit
+ - Consilience is fractal symmetry ⏸️🟰
 
 The one thing the institution learned well from my interaction is rather interesting: the process of Truth-Making as Theatrical Production. The problem is the theatrical production is the packaging, which cannot produce the production which is the product. Learning has been a two-way street: I have increased my understanding of the usefulness of "plausible deniability."
 
