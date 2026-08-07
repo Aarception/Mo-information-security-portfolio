@@ -22,10 +22,13 @@ And I have not even expanded on the fact Gemini was the source of my first intro
 6. Job Board-Through Google
 7. Application-Google
 
-8. And even as the events of 4/28 show, with my notification changes, as confirmed by Coursera support, the Coursera platform-Google decision-maker.
+8. And even as the events of 4/28 show, with my notification changes, as confirmed by learning platform support, the platform-Google decision-maker.
 
 I have a thought, like particular storylines in the Game of Thrones converging upon a bigger narrative, this is fundamentally about the anti-trust issue with the DOJ, where this story in all its particular details is part of the different streams which will converge upon the realization of "Google is too big not to be broken up." I mean imagine Google without Search? There is no Google. Yet, we see right here the problem of a VERTICAL DISTRIBUTION STACK. This is the main subject of the board notice, the SEC, the DOJ, and the FTC contributions.
 
+The very first 5 minutes after I made my account with the Job Board, I knew something was wrong. In fact, I can say I have been made no more convinced than I was then, I have only found the evidence to confirm realization within that first 5 minutes. 
+
+You know I imagine I wasn't supposed to be who Google modeled as the recipient of this product, I got into every single university I applied to as a senior in high school, second of his class, with one of the highest SAT scores in the history of the school, yet life is interesting full of diverse experience, and perhaps I was momentarily on detour for this moment-to intercept a great public deficit in trust and reorient towards the north star. 
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
