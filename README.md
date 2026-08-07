@@ -28,7 +28,7 @@ I have a thought, like particular storylines in the Game of Thrones converging u
 
 The very first 5 minutes after I made my account with the Job Board, I knew something was wrong. In fact, I can say I have been made no more convinced than I was then, having only found the evidence since to confirm the realization within that first 5 minutes. 
 
-You know I imagine I wasn't supposed to be who Google modeled as the recipient of this product, I got into every single university I applied to as a senior in high school, second of his class, with one of the highest SAT scores in the history of the school, yet life is interesting full of diverse experience, and perhaps I was momentarily on detour for this moment-to intercept a great public deficit in trust and reorient towards the north star. 
+You know I imagine I wasn't supposed to be who Google modeled as the recipient of this product, given that I got into every single university I applied to as a senior in high school, second of his class, with one of the highest SAT scores in the history of the school, yet life is interesting full of diverse experience, and perhaps I was momentarily on detour for this moment-to intercept a great public deficit in trust and reorient towards the north star. 
 
 ---
 
