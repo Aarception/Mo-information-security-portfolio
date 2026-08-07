@@ -1,14 +1,5 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-Because Google is still writing this after all this time, I have to accept I was enabling the continuance of the Design-Marketing Gap.
-
-"Use CareerCircle’s exclusive job board to connect directly with employers looking to hire Google Career Certificate graduates."
-
-Google has bet on the respect and admiration I, and probably many others, have for Google to continue to have that untruth still up.
-
-I was wrong to wait this long, although because I did, I was able to audit and discovery so much more.
-
-Tomorrow is Accountability Day.
 
 ---
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
