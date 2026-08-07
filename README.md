@@ -7,6 +7,7 @@ You cannot get into the medical field, and not have entered the healing business
 It is like lungs and the business of breathing.
 
 Update: Washington State AG submissions completed ✔️ 
+WA DFI submissions completed ✔️ 
 More to go
 
 Why the choices for submission?
