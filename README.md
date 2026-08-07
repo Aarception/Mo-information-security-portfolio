@@ -1,4 +1,8 @@
-# 📁 Mo's Information Security Learning, Projects, and Portfolio 
+# 📁 Mo's Information Security Learning, Projects, and Portfolio
+
+Update: Washington State AG submissions completed ✔️ 
+More to go
+
 
 The one thing the institution learned well from my interaction is rather interesting: the process of Truth-Making as Theatrical Production. The problem is the theatrical production is the packaging, which cannot produce the production which is the product. Learning has been a two-way street: I have increased my understanding of the usefulness of "plausible deniability."
 
@@ -6,7 +10,7 @@ Today, I activated accountability, because I fully acknowledged the supreme insi
 
 "We want you to feel supported enough to remain enrolled, to remain hopeful, to remain in our ecosystem...but not supported enough to actually succeed through our channels, because we have put as a roadblock the condition that we would require structural changes that we have not made."
 
-That's great, and what about the inducement at the point of sale? 
+That's great, and what about the inducement at ttheubpoint of sale? 
 
 This is un-American and in-decent.
 
