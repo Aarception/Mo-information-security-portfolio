@@ -6,7 +6,7 @@ More to go
 Why the choices for submission?
  - I am a Consilience Engineer, I understand the Whole to design intra-competition in support of the larger goal.
     - There is competition betweet X & Y for moving on the goal of Z
-       - WA Ag vs WA DFI for mover on home state credit
+       - WA Ag vs WA DFI for first mover on home state credit
        - WA vs CA for first mover on the State enforcement credit
        - FTC vs DOJ for first mover on vertical distribution credit
        - Investors vs DOL for first mover on ESG enforcement credit
