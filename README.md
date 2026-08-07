@@ -1,9 +1,5 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio 
 
-The Arc of The Moral Universe Is Long, But It Bends Toward Justice.
-
-For May 13.
-
 ---
 
 > *Each artifact emphasizes evidence‑based reporting, operational discipline, and clear documentation.*
