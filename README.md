@@ -2,6 +2,8 @@
 
 Update: I will pause at Washington state submissions today.  I will complete CA Ag submissions by Monday morning at the latest.
 
+To the Institution: Human beings are different from every other life form on earth, because of the ability to communicate effectively becoming as specialized as developing language. When you design to erase communication in relation to another human, this is what becomes inevitable. 
+
 It would be nice to see Stewardship, because once you have waded into the aspiration business, you have voluntarily gotten into the Stewardship business.
 
 You cannot get into the medical field, and not have entered the healing business. 
