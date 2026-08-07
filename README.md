@@ -1,5 +1,7 @@
 # 📁 Mo's Information Security Learning, Projects, and Portfolio
 
+Update: It would be the world's greatest irony. To reject proactive communication, voluntary problem solving, refuse such openness to resolution, and then make possible the compliance mandate that compels involuntary acceptance of a much stronger remedy, perhaps from the same entity subjected to containment. The question then would be what was gained for what was lost
+
 ### The 1 billion judgement against Meta is really about scaling AI, without scaling governance. It is a precedent.
 
 Since the day someone made a decision to answer my three questions and someone at Legal released it, I have been trying to honor that consideration and spare the institution the indignity of being gnashed at from every side—but there is so much that could be done by one party especially when the other party expressed what observed to be a preoccupation with procedural delegitimization, namely motive entrapment, attempting to pathologize the fact that, yes, one has ambition and was seeking opportunity—I mean that is the *reason* for having taken out the credential to begin with ironically enough. There is extreme inefficiency in tech risk structure. Maybe the problem is the fact paying the fines at that level isn't really impactful. Maybe additional costs have to be thought of to deter the level of recurring inertia. 
