@@ -1,4 +1,4 @@
-## ***A Matter  of Singular,  Extraordinary Public Interest — ![In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure) — For Which, Without, There is No Human Spirit: Google Must Be Supported To Repair The Value of Trust, To Restore The Value of Hope, And Especially, To Redeem the Value of Aspiration, In Totality.***
+## ***A Matter  of Singular,  Extraordinary Public Interest — ![In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure) — For Which, Without, There is No Human Spirit: Google Must Be Supported To Redeem The Value of Trust, To Repair The Value of Hope, And Especially, To Restore the Value of Aspiration, In Totality.***
 
 ---
 
