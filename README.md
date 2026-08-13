@@ -1,8 +1,9 @@
-## ***A Matter  of Singular,  Extraordinary Public Interest — ![In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure) — For Which, Without, There is No Human Spirit:***
+## ***A Matter  of Singular,  Extraordinary Public Interest — ![In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure) — For Which, Without, There is No Human Spirit: Google Must Be Supported To Redeem The Value of Trust, To Salvage The Value of Hope, And Especially,  To Protect, Provision, And Proscribe For The Posterity of Aspiration, In Perpetuity.***
 
 ---
 
 # ***Dear Alphabet Inc.,***
+
 I am writing to inform you that **I have completed preparation of submissions
 to the appropriate regulatory authorities** concerning the Google Career
 Certificates program.
