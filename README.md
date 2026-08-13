@@ -57,6 +57,6 @@ corrective actions that warrant reconsideration, I remain willing to review
 them in good faith.
 
 Attached is a copy of a 
-![Methodology](hhttps://github.com/Aarception/Mo-information-security-rtfolio/blob/main/trust-infrastructure/New_Google_Career_Certificates_Impact_Report_Methodology.PDF) supplied by the institution.
+![Methodology](https://github.com/Aarception/Mo-information-security-rtfolio/blob/main/trust-infrastructure/New_Google_Career_Certificates_Impact_Report_Methodology.PDF) supplied by the institution.
 
 
