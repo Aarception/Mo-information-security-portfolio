@@ -2,7 +2,7 @@
 
 ---
 
-# Dear Alphabet Inc.,
+# ***Dear Alphabet Inc.,***
 I am writing to inform you that **I have completed preparation of submissions
 to the appropriate regulatory authorities** concerning the Google Career
 Certificates program.
