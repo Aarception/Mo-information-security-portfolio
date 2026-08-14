@@ -4,7 +4,7 @@
 
 ***This is not a consumer or employment related issue. This is the identification of a compliance gap.***
 
-***They will be given a chance to first.***
+***They will be given a chance to close the gap first.***
 
 ---
 
