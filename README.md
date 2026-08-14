@@ -2,7 +2,7 @@
 
 ***Some of Alphabet's Board of Directors are on the Boards of educational and philanthropic organizations. They deserve to be given an opportunity to look into things. They deserve a chance.***
 
-***This is not a consumer or employment related issue. This is the identification of a compliance gap.***
+***This is not a consumer or employment related issue. This is the identification of a compliance gap, the Representation-Architecture Divergence, through a Signal Integrity analysis. . ***
 
 ***They will be given a chance to close the gap first. This is a more responsible, yet principled choice than immediate external escalation.***
 
