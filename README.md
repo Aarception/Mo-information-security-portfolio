@@ -4,7 +4,7 @@
 
 ***This is not a consumer or employment related issue. This is the identification of a compliance gap.***
 
-***They will be given a chance to close the gap first. This is a more principled, yet responsible choice than immediate external escalation.***
+***They will be given a chance to close the gap first. This is a more responsible, yet principled choice than immediate external escalation.***
 
 ---
 
