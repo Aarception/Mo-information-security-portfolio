@@ -1,3 +1,15 @@
+***UPDATE: i have decided to officially postmark a letter to Alphabet's Board of Directors, in particular the Audit and Risk and Compliance Committees:***
+~~~
+Alphabet Inc.
+Attn: Audit Committee or Risk and Compliance Committee 
+1600 Amphitheatre Parkway
+Mountain View, CA 94043 
+~~~
+
+***Accountability seeking has become such a cynical and adversarial process in corporate America that I wish to try a different process where finding solutions is primary, rather than secondary, to profit motive and externalization. Having persisted thus in support of activating internal agency for internal resolution, I will follow the process down to writing a postmarked letter.***
+
+---
+
 ***As a sign of good faith and positive intention, I have decided to refrain from regulatory submission today having brought notice to Alphabet's Board of Directors just yesterday.***
 
 ***Some of Alphabet's Board of Directors are on the Boards of educational and philanthropic organizations. They deserve to be given an opportunity to look into things. They deserve a chance.***
