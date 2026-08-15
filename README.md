@@ -6,7 +6,7 @@ Attn: Audit Committee or Risk and Compliance Committee
 Mountain View, CA 94043 
 ~~~
 
-***Accountability seeking has become such a cynical and adversarial process in corporate America that I wish to try a different process where finding solutions is primary, rather than secondary, to profit motive and externalization. Having persisted thus in support of activating internal agency for internal resolution, I will follow the process down to writing a postmarked letter.***
+***Accountability seeking has become such a cynical and adversarial process in corporate America that I wish to try a different process where finding solutions is primary, rather than secondary, to profit motive and externalization. Having persisted thus in support of activating internal agency for internal resolution, I will follow the process down to writing a postmarked letter. Let the resolution of this issue vindicate process as much as issue.***
 
 ---
 
