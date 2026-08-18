@@ -1,4 +1,8 @@
-##### ***In the interest of full disclaimer, I would like to state that Lawyer's groups and Legal associations have now started to discover this issue unprompted, including taking initial steps attempting to engage me. My priority and preference has been institutional resolution as optimal,  if not superior outcome. Certainly it is the only pathway capable of mutually-agreeable resolution. I have not engaged back.***
+#### ***In the interest of full disclaimer:***
+
+##### ***1. I would like to state that Lawyer's groups and Legal associations have now started to discover this issue unprompted, including taking initial steps attempting to engage me. My priority and preference has been institutional resolution as optimal,  if not superior outcome. Certainly it is the only pathway capable of mutually-agreeable resolution. I have not engaged back.***
+
+##### ***2. Though the letter and contents addressed to Alphabet's Board of Directors is complete, enveloped, and postmarked, it has not been released for mail transmission. I have reserved it for review and confirmation of requirement. Truthfully, I have been hoping for a reason to dispense with it all, and will review against that rubric on Wednesday.***
 
 ---
 
