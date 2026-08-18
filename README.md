@@ -1,4 +1,4 @@
-##### ***In the interest of full disclaimer, I would like to state that Lawyer's groups and Legal associations have now started to discover this issue unprompted, including taking initial steps attempting to engage me. My priority and presence has been institutional resolution as optimal,  if not superior outcome. Certainly it is the only pathway capable of mutually-agreeable resolution.***
+##### ***In the interest of full disclaimer, I would like to state that Lawyer's groups and Legal associations have now started to discover this issue unprompted, including taking initial steps attempting to engage me. My priority and preference has been institutional resolution as optimal,  if not superior outcome. Certainly it is the only pathway capable of mutually-agreeable resolution.***
 
 ---
 
