@@ -33,7 +33,7 @@ Mountain View, CA 94043
 
 ---
 
-***A Matter  of Singular,  Extraordinary Public Interest — ![In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure) — For Which, Without, There is No Human Spirit: Google Must Be Supported To Redeem The Value of Trust, To Repair The Value of Hope, And Especially, To Restore the Value of Aspiration.***
+***A Matter  of Singular,  Extraordinary Public Interest —  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure) — For Which, Without, There is No Human Spirit: Google Must Be Supported To Redeem The Value of Trust, To Repair The Value of Hope, And Especially, To Restore the Value of Aspiration.***
 
 ---
 
