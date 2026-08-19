@@ -1,8 +1,4 @@
-##### *Follow-up: I do not imagine that the offer of the private email would be taken, but it should be as it a sign of adaptability and sophisticated evolution on risk engagement. If this is not possible now, then there is inefficient limitation. Perhaps even model this experience with me as the prototype of an emergent form of 'feedback:' with lessons learned that would better help the institution harden against risk-capture through adaptation in risk mitigation.*
-
-
 ##### ***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Considering that all my previous offers at engagement have been soundly and decidedly rebuffed, without any alternative recourse offered or provided by the institution, having previously extended this consideration, I reiterate the continued availability:***
-
 ~~~
 
 Given that the institution has legitimate
@@ -24,7 +20,8 @@ oldethornetree@proton.me
 
 ***The Olde Thorne Tree, a place of neutral ground: oldethornetree@proton.me***
 
-***
+##### ***Follow-up: I do not imagine that the offer of the private email would be taken, but it should be as it a sign of adaptability and sophisticated evolution on risk engagement. If this is not possible now, then there is inefficient limitation. Perhaps even model this experience with me as the prototype of an emergent form of 'feedback:' with lessons learned that would better help the institution harden against risk-capture through adaptation in risk mitigation. Such gain in insight would not be limited to the institution, as I have also learned to harden against risk-capture by utilizing adaptive interpretation from indirect communication. The more adaptively interpreted, the less influence the interpretation has on decision-making. The AAR in my github handle of Aarception is 'After Action Review.'***
+
 ---
 ## ***The Risk Mitigation-Capture Paradox***
 
