@@ -1,3 +1,31 @@
+***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Having previously extended this consideration, I reiterate its continued availability:***
+
+~~~
+
+Given that the institution has legitimate
+interests and concerns regarding
+matters involving its programs,
+representations, and initiatives, I wish
+to
+extend the following
+
+If the institution, for whatever reason,
+should like to communicate with
+complete confidence, outside scope, and
+off the record, the institution can
+reach me through the below inbox with
+total and complete confidentiality on
+my part.
+
+oldethornetree@proton.me
+
+Thank you,
+Mo
+~~~
+
+***The Olde Thorne Tree, a place of neutral ground: oldethornetree@proton.me***
+
+---
 ## ***The Risk Mitigation-Capture Paradox***
 
 ***Now fully defined:***
