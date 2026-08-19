@@ -1,3 +1,10 @@
+## ***The Risk Mitigation-Capture Paradox***
+
+***Now fully defined:***
+
+![Paradox](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Risk_Mitigation_Capture_Paradox.png)
+
+---
 #### ***In the interest of full disclaimer:***
 
 ##### ***1. I would like to state that Lawyer's groups and Legal associations may now have started to pick up the scent of this issue unprompted, including taking initial steps attempting to engage me. My priority and preference has been institutional resolution as optimal,  if not superior outcome. Certainly it is the only pathway capable of mutually-agreeable resolution. I have not engaged back.***
