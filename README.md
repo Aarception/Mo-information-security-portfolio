@@ -1,3 +1,6 @@
+##### ***I did not imagine that offer of the private email would be taken, but as to why it was offered or why even, to anyone paying attention, my actions seem too 'elaborate.' The private communication will not be taken, but it should be taken. It is a sign of sophisticated evolution and adaptability to take it. If this is not possible now, then there is something limiting in risk engagement on this matter. Perhaps even model this experience with me as the prototype of an emergent form of 'feedback,' where, truthfully, there is missing adversarial motivation and the goal is resolution.  Suppose the institution would signal resolution right this moment, but which, without direct communication, could not be able to transmit on account of having explicitly hardened my observatios against indirect stimuli? Perhaps the lessons learned from this would help the institution more likely to risk mitigation to defeat risk-capture.***
+
+
 ##### ***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Considering that all my previous offers at engagement have been soundly and decidedly rebuffed, without any alternative recourse offered or provided by the institution, having previously extended this consideration, I reiterate the continued availability:***
 
 ~~~
