@@ -4,7 +4,7 @@
 
 ##### ***2. Though the letter and contents addressed to Alphabet's Board of Directors is complete, enveloped, and postmarked, it has not been released for mail transmission. I have reserved it for review and confirmation of requirement. Truthfully, I have been hoping for a reason to dispense with it all, and will review against that rubric on Wednesday.***
 
-##### ***It remains to be seen how any of the two disclaimers' find a successful pathway to resolution considering my offers at engagement have been soundly rebuffed, without any alternative recourse offered or provided hy the institution.***
+##### ***It remains to be seen how any of the two disclaimers' find a successful pathway to resolution considering my offers at engagement have been soundly rebuffed, without any alternative recourse offered or provided by the institution.***
 
 ---
 
