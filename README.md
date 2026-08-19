@@ -1,4 +1,4 @@
-***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Having previously extended this consideration, I reiterate its continued availability:***
+##### ***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Considering that all my previous offers at engagement have been soundly and decidedly rebuffed, without any alternative recourse offered or provided by the institution, having previously extended this consideration, I reiterate the continued availability:***
 
 ~~~
 
@@ -21,6 +21,7 @@ oldethornetree@proton.me
 
 ***The Olde Thorne Tree, a place of neutral ground: oldethornetree@proton.me***
 
+***
 ---
 ## ***The Risk Mitigation-Capture Paradox***
 
