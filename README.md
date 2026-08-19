@@ -1,4 +1,8 @@
-##### ***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Considering that all my previous offers at engagement have been soundly and decidedly rebuffed, without any alternative recourse offered or provided by the institution, having previously extended this consideration, I reiterate the continued availability:***
+#### Update: Wednesday's review has confirmed the requirements for mail transmission of Board letter.
+
+---
+
+#### ***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Considering that all my previous offers at engagement have been soundly and decidedly rebuffed, without any alternative recourse offered or provided by the institution, having previously extended this consideration, I reiterate the continued availability:***
 ~~~
 
 Given that the institution has legitimate
