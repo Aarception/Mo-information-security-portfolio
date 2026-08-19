@@ -17,9 +17,6 @@ total and complete confidentiality on
 my part.
 
 oldethornetree@proton.me
-
-Thank you,
-Mo
 ~~~
 
 ***The Olde Thorne Tree, a place of neutral ground: oldethornetree@proton.me***
