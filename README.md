@@ -4,6 +4,8 @@
 
 ![Paradox](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Risk_Mitigation_Capture_Paradox.png)
 
+##### ***Note: Definition is not destiny, as the diagram is still developing.***
+
 ---
 #### ***In the interest of full disclaimer:***
 
