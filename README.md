@@ -6,8 +6,7 @@ Given that the institution has legitimate
 interests and concerns regarding
 matters involving its programs,
 representations, and initiatives, I wish
-to
-extend the following
+to extend the following
 
 If the institution, for whatever reason,
 should like to communicate with
