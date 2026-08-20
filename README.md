@@ -7,7 +7,7 @@ This will be my last personal commentary on this matter. Its purpose is to clari
 
 On March 17, the institution provided the answers to my three operational questions. My immediate response was genuine appreciation for the provision, and recognition of the institutional capital that had been expended to produce them.
 
-My follow-l up, while correct in my point of view substantively, included the phrase *“Warranties Requested.”* In hindsight,  I have since recognized the confusing signal sent, in the midst of exchange while rebutting the answers, presenting a shift from inquiry to contract. The institution responded with termination of engagement and closure of the inquiry.
+My follow up, while correct in my point of view substantively, included the phrase *“Warranties Requested.”* In hindsight,  I have since recognized the confusing signal sent, in the midst of exchange while rebutting the answers, presenting a shift from inquiry to contract. The institution responded with termination of engagement and closure of the inquiry.
 
 In reopening the inquiry, I lodged an Addendum whose final sentence was intended to pay explicit recognition of the capital the institution had expended in providing the March 17 answers: *'I do not believe it [the closure] represents the unifying relationship that implicated the relatedness of the parties to this matter.'* This signal was meant as acknowledgement of institutional consideration, even as the substance required procedural conclusion.
 
@@ -19,7 +19,7 @@ The entirety of what precipitated this matter was a product that I engaged as po
 
 On April 15, while waiting during the 20-day observation, after having already defined the terms for resolution and prepared to fulfill them immediately upon their fulfillment, I pivoted back to genuine opportunity prospecting and applied for the Research and Development Analyst, Trust and Safety Monetization role.
 
-On April 16, I received external documentation that I recognized as potentially very relevant to the inquiry, one day after the start of the candidacy. I quickly deduced that any further evidentiary submission, from April 15th forward was indirectly capable of the risk for appearance of impropriety as leverage to influence the candidacy. I made the choice to withhold that material for the duration of the candidacy.
+On April 16, I received external documentation that I recognized as potentially very relevant to the inquiry, one day after the start of the candidacy. I quickly deduced that any further evidentiary submission, from April 15th forward was indirectly capable of the risk of appearance for impropriety as leverage to influence the candidacy. I made the choice to withhold that material for the duration of the candidacy.
 
 On April 30, I noticed the inquiry ticket had changed state and closed unilaterally. I submitted the Normative Framework as a critique of the inquiry’s second unilateral closure, in the midst of the 20-day observation period which was genuinely designed with generosity. The submission is perhaps the strongest possible evidence that prospecting was disparate to inquiry, given the marked strength and strategically odious potential for adverse impact on the candidacy.
 
