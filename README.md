@@ -19,7 +19,7 @@ The entirety of what precipitated this matter was a product that I engaged as po
 
 On April 15, while waiting during the 20-day observation, after having already defined the terms for resolution and prepared to fulfill them immediately upon their fulfillment, I pivoted back to genuine opportunity prospecting and applied for the Research and Development Analyst, Trust and Safety Monetization role.
 
-On April 16, I received external documentation that I recognized as potentially very relevant to the inquiry, one day after the start of the candidacy. I quickly deduced that any further evidentiary submission, from April 15th forward was indirectly capable of the risk of appearance for impropriety as leverage to influence the candidacy. I made the choice to withhold that material for the duration of the candidacy.
+On April 16, I received external documentation that I recognized as potentially very relevant to the inquiry, one day after the start of the candidacy. I quickly deduced that any further evidentiary submission, from April 15th forward was indirectly capable of the risk for appearance of impropriety as leverage to influence the candidacy. I made the choice to withhold that material for the duration of the candidacy.
 
 On April 30, I noticed the inquiry ticket had changed state and closed unilaterally. I submitted the Normative Framework as a critique of the inquiry’s second unilateral closure, in the midst of the 20-day observation period which was genuinely designed with generosity. The submission is perhaps the strongest possible evidence that prospecting was disparate to inquiry, given the marked strength and strategically odious potential for adverse impact on the candidacy.
 
