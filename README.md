@@ -1,4 +1,4 @@
-#### Update: Wednesday's review has confirmed the requirements for mail transmission of Board letter.
+#### Update: Wednesday's review has confirmed the requirements of mail transmission of Board letter.
 
 ---
 
