@@ -1,5 +1,7 @@
 Update: Wednesday's review has confirmed the requirements of mail transmission of Board letter. The question that will have to be resolved is this matter has already taken longer than usual on account of process particularities. It would have been completed and closed on May 5th, at the end of the 20-day observation, during the opportunity pipeline, having passed the Google Hiring Assessment, and perfectly excited about the possibility of a successful career with the institution, all of which was sacrificed for the principle: my opportunity prospect is disparate to the issue's resolution as a structural matter.
 
+***Structural Matter: Institutional intentionality has never been asserted in this issue. The question of deception has been explicitly precluded. The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants reasonably rely upon it. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionalitu of intent or purpose.***
+
 ---
 
 #### ***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Considering that all my previous offers at engagement have been soundly and decidedly rebuffed, without any alternative recourse offered or provided by the institution, having previously extended this consideration, I reiterate the continued availability:***
