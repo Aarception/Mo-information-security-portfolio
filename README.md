@@ -27,7 +27,7 @@ On May 4, with the last post in the inquiry before the observation’s end, I di
 
 On May 5, with the close of the observation period, I faced a fork: 1.) drop the inquiry to protect the candidacy, or 2.) continue the process despite the fact that I was being evaluated for a role by the same institution concerned by the inquiry.
 
-On May 7, with the inquiry closed, yet without resolution of the inquiry, without any recourse or opportunity provided by the institution, and explicitly against externalization and appreciative of mutually agreeable resolution, I declared to the institution that I would reframe the inquiry and submit it to the institution's Trust and Safety department. With the recruiter of my application to Research and Development Analyst, Trust and Safety Monetization, being the only point of access available to me, I submitted the reframed audit as a Trust and Safety work sample.
+On May 7, with the inquiry closed, yet without structural resolution, and without any recourse or opportunity provided by the institution, and being explicitly against externalization, and appreciating the possibility of mutually-agreeable resolution, I declared to the institution that I would reframe the inquiry and submit it to the institution's Trust and Safety department. With the recruiter of my application to Research and Development Analyst, Trust and Safety Monetization, being the only point of access available to me, I submitted the reframed inquiry as a Trust and Safety work sample.
 
 If the structural matter was used as leverage for the candidacy, the  candidacy has come and gone while the resolution of the structural matter is still being pursued internally, without externalization. 
 
