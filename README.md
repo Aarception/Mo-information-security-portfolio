@@ -1,5 +1,4 @@
-#### Update: Wednesday's review has confirmed the requirements of mail transmission of Board letter.
-
+#### Update: Wednesday's review has confirmed the requirements of mail transmission of Board letter. The question that will have to be resolved is process duration as this matter has already taken longer than usual on account of process particularities. It would have been completed and closed on May 5th, at the end of the 20-day observation.  
 ---
 
 #### ***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Considering that all my previous offers at engagement have been soundly and decidedly rebuffed, without any alternative recourse offered or provided by the institution, having previously extended this consideration, I reiterate the continued availability:***
