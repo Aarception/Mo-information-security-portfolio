@@ -3,7 +3,7 @@
 
 ---
 
-This will be my last personal commentary on this matter. Its purpose is to clarify the context of the process between March 17, 2026,the last day of direct institutional comment, May 7th, 2026, the day the inquiry was submitted as a work sample. Background falls outside this scope.
+This will be my last personal commentary on this matter. Its purpose is to clarify the context of the process between March 17, 2026, the last day of direct institutional comment, and  May 7th, 2026, the day the inquiry was submitted as a work sample. Background falls outside this scope.
 
 On March 17, the institution provided the answers to my three operational questions. My immediate response was genuine appreciation for the provision, and recognition of the institutional capital that had been expended to produce them.
 
