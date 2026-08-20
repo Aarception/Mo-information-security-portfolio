@@ -29,9 +29,9 @@ On May 5, with the close of the observation period, I faced a fork: 1.) drop the
 
 On May 7, with the inquiry closed, yet without structural resolution, and without any recourse or opportunity provided by the institution, and being explicitly against externalization, and appreciating the possibility of mutually-agreeable resolution, I declared to the institution that I would reframe the inquiry and submit it to the institution's Trust and Safety department. With the recruiter of my application to Research and Development Analyst, Trust and Safety Monetization, being the only point of access available to me, I submitted the reframed inquiry as a Trust and Safety work sample.
 
-If the structural matter was used as leverage for the candidacy, the  candidacy has come and gone yet the resolution of the structural matter is still being pursued internally, without externalization. 
+If the structural matter was used as leverage for the candidacy, the  candidacy has come and gone, ***yet*** the resolution of the structural matter is still being pursued internally, without externalization. 
 
-If the candidacy was legitimate opportunity prospecting that is disparate to the structural matter, the candidacy has disparately come and gone and the structural matter's resolution is still being pursued internally, without externalization. 
+If the candidacy was legitimate opportunity prospecting that is disparate to the structural matter, the candidacy has come and gone, ***and*** the structural matter's resolution is still being disparately pursued internally, without externalization. 
 
 ---
 
