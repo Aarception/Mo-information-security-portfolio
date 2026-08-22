@@ -3,6 +3,9 @@
 This is the due diligence the institution has received the preceeding months.
 
 ***Aspiration Is Different.***
+
+***It is not business usual. It will not be business as usual.***
+
 ---
 
 
