@@ -4,7 +4,7 @@
 
 #### Update: I have decided to send a copy of the letter to the Board, primmary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Every university, community college, organization, program, that is social, educational, dispenses the certificates or provisions it, but non-governmental and not delegated with legal powers. 
 
-This is in-line with the due diligence of the preceeding months, at the cost of time, effort, labor, and opportunity  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).⁵
+This is in-line with the due diligence of the preceeding months, which has already cost significant time, effort, labor, and lost opportunity  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).⁵
 
 ¹ ![Institution, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/3_Questions_Admission%20_and_Rebuttal.pdf)
 \
