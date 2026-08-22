@@ -1,10 +1,10 @@
 #### Update: I have decided to send a copy of the letter to the Board, appendicesand attachments included, to every non-governmental or legal entity that is partnered with the Career Certificates. Every university, community college, organization, program, that is social, educational, dispenses the certificates or provisions it, but non-governmental and not delegated with legal powers. 
 
-*This is the due diligence the institution has received the preceeding months.*
+***This is the due diligence the institution has received the preceeding months.***
 
 **Aspiration Is Different.**
 
-*It is not business usual. It will not be business as usual. Let my very unusual persistence be the much needed canary in the coal mine for this matter.*
+***It is not business usual. It will not be business as usual. Let my very unusual persistence be the much needed canary in the coal mine for this matter.***
 
 ---
 
