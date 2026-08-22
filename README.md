@@ -6,7 +6,7 @@
 
 ![Distributed Disclosure](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Due_Diligence.png)
 
-This due diligence distributed disclosure⁵ is in-line with the Dignity-Consideration pathway of the preceeding months, which has already cost significant time, effort, labor, and opportunity  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).
+**This due diligence distributed disclosure⁵ is in-line with the Dignity-Consideration pathway of the preceeding months, which has already cost significant time, effort, labor, and opportunity  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).**
 
 
 ¹ ![Institution, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/3_Questions_Admission%20_and_Rebuttal.pdf)
@@ -17,7 +17,7 @@ This due diligence distributed disclosure⁵ is in-line with the Dignity-Conside
 \
 ⁴ ![Methodology, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Google_Career_Certificates_Impact_Report_Methodology.PDF)
 \
-⁵ In-line with due diligence, attachments will be limited to the preceeding four primary-source artifacts, sans interpretive framing.
+⁵ **In-line with due diligence, attachments will be limited to the preceeding four primary-source artifacts, sans interpretive framing.**
 
 ---
 
