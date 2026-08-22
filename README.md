@@ -2,7 +2,7 @@
 
 ---
 
-#### Update: I have decided to send a copy of the letter to the Board, primmary appendices and attachments included¹²³⁴, to every non-governmental or legal entity that is partnered with the Career Certificates. Every university, community college, organization, program, that is social, educational, dispenses the certificates or provisions it, but non-governmental and not delegated with legal powers. 
+#### Update: I have decided to send a copy of the letter to the Board, primmary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Every university, community college, organization, program, that is social, educational, dispenses the certificates or provisions it, but non-governmental and not delegated with legal powers. 
 
 This is in-line with the due diligence of the preceeding months, at the cost of time, effort, labor, and opportunity  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).⁵
 
