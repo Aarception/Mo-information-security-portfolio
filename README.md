@@ -1,10 +1,16 @@
-#### Update: I have decided to send a copy of the letter to the Board, appendicesand attachments included, to every non-governmental or legal entity that is partnered with the Career Certificates. Every university, community college, organization, program, that is social, educational, dispenses the certificates or provisions it, but non-governmental and not delegated with legal powers. 
+#### Update: I have decided to send a copy of the letter to the Board, primmary appendices and attachments included¹²³⁴, to every non-governmental or legal entity that is partnered with the Career Certificates. Every university, community college, organization, program, that is social, educational, dispenses the certificates or provisions it, but non-governmental and not delegated with legal powers. 
 
-***This is the due diligence the institution has received the preceeding months.***
+This is in-line with the due diligence of the preceeding months, at the cost of time, effort, labor, and opportunity  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).⁵
 
-**Aspiration Is Different.**
-
-***It is not business usual. It will not be business as usual. Let my very unusual persistence be the much needed canary in the coal mine for this matter.***
+¹ ![Institution, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/3_Questions_Admission%20_and_Rebuttal.pdf)
+\
+² ![Consumer, Primary](1https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/The_Mechanical_Impossibility_Finding.PDF)
+\
+³ ![Partner, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure) [Not Archived Publicly]
+\
+⁴ ![Methodology, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Google_Career_Certificates_Impact_Report_Methodology.PDF)
+\
+⁵ In-line with due diligence, attachments will be limited to the preceeding four primary-source artifacts, sans interpretive framing.
 
 ---
 
