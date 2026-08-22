@@ -1,3 +1,8 @@
+#### Update: I have decided to send a copy of the letter to the Board, appendicesand attachments included, to every non-governmental or legal entity that is partnered with the Career Certificates. Every university, community college, organization, program, that is social, educational, dispenses the certificates or provisions it, but non-governmental and not delegated with legal powers. 
+
+---
+
+
 ### **Final Personal Commentary: Context And Process**  
 *Regarding the Record from March 17, 2026 — May 7, 2026*
 
