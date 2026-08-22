@@ -4,7 +4,7 @@ This is the due diligence the institution has received the preceeding months.
 
 ***Aspiration Is Different.***
 
-***It is not business usual. It will not be business as usual.***
+*It is not business usual. It will not be business as usual. Let my very unusual persistence be the much needed canary in the coal mine for this matter.*
 
 ---
 
