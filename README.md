@@ -1,4 +1,4 @@
-> ##### *Public Note Regarding Legal Interest: Please, do not solicit. I am an advocate for institutional resolution. I have already ruled out litigation. The issue of Aspiration deserves engagement and resolution, not enmity and resistance. My research has been made available for the purpose of structural correction, with first right of response to the institution and then, subsequently, as due diligence to the concerned.*
+> ##### *Public Note Regarding Legal Interest: Please, do not solicit. I am an internal institutional resolution advocate who has already ruled out litigation. The Defense of Aspiration requires challenging engagement, not enmity and conflict. My research is made available for the purpose of structural correction, with first right of response to the institution and then, subsequently, as due diligence to the concerned.*
 
 ---
 
