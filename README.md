@@ -1,10 +1,13 @@
-> ##### *Public Note Regarding Legal Interest: Please, do not solicit. I am an internal institutional resolution advocate who has already ruled out litigation. The Defense of Aspiration requires challenging engagement, not enmity and conflict. My research is made available for the purpose of structural correction, with first right of response to the institution and then, subsequently, as due diligence to the concerned.*
+> ##### *Public Note Regarding Legal Interest: Please, do not solicit. I am an internal institutional resolution advocate who has already ruled out litigation. The Defense of Aspiration requires challenging engagement, not enmity and conflict. My research is made available for the purpose of structural correction, with first right of response to the institution and then, subsequently, as due diligence to the concerned. Having ruled out litigation, all civil and legal claims, I now even rule out regulatory submission.*
 
 ---
 
-#### Update: I have decided to send a copy of the letter to the Board, primmary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Every university, community college, organization, program, that is social, educational, dispenses the certificates or provisions it, but non-governmental and not delegated with legal powers. 
+#### Update: I have decided to send copies of the letter to the Board, primary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Any university, community college, organization, program, that is social, educational, channel or ecosystem stakeholder dispensing or provisioning the certificates and is non-governmental nor delegated with legal or state powers will receive a copy.
 
 This is in-line with the due diligence of the preceeding months, which has already cost significant time, effort, labor, and lost opportunity  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).⁵
+
+Fix, no Fine
+Structure, no 
 
 ¹ ![Institution, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/3_Questions_Admission%20_and_Rebuttal.pdf)
 \
