@@ -4,12 +4,12 @@
 
 #### Update: I have decided to send copies of the letter to the Board, primary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Any university, community college, organization, program, that is social, educational, channel or ecosystem stakeholder dispensing or provisioning the certificates being non-governmental nor delegated with legal or state powers will receive a copy.
 
-This distributed disclosure is in-line with the due diligence of the preceeding months, which has already cost significant time, effort, labor, and lost opportunity  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).⁵
+This distributed disclosure is in-line with the due diligence of the preceeding months, which has already cost significant time, effort, labor, and opportunity  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).⁵
 
 
 ¹ ![Institution, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/3_Questions_Admission%20_and_Rebuttal.pdf)
 \
-² ![Consumer, Primary](1https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/The_Mechanical_Impossibility_Finding.PDF)
+² ![Consumer, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/The_Mechanical_Impossibility_Finding.PDF)
 \
 ³ ![Partner, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure) [Not Archived Publicly]
 \
