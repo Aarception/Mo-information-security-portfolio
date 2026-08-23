@@ -53,9 +53,9 @@ On May 5, with the close of the observation period, I faced a fork: 1.) drop the
 
 On May 7, with the lapse of observation period, end of inquiry without structural resolution, without any recourse or opportunity provided by the institution for submission, and the logical bar for externalization unmet, and appreciating the possibility of mutually-agreeable resolution, I declared to the institution that I would reframe the inquiry and submit it to the institution's Trust and Safety department. With the recruiter of my application to Research and Development Analyst, Trust and Safety Monetization, being the only point of access available to me, I submitted the reframed inquiry as a Trust and Safety work sample.
 
-If the structural matter was used as leverage for the candidacy, the  candidacy has come and gone, yet the structural matter's resolution is still being pursued internally with the institution, without externalization to delegated purview.
+If the structural matter was used as leverage for the candidacy, the  candidacy has come and gone, yet the structural matter's resolution is still being pursued internally with the institution, with all delegated purview external escalation ruled out post-candidacy.
 
-If the candidacy was legitimate opportunity prospecting that was distinct to the structural matter, the candidacy has come and gone, and the structural matter's resolution is still being pursued internally with the institution., without externalization to delegated purview. 
+If the candidacy was legitimate opportunity prospecting that was distinct to the structural matter, the candidacy has come and gone, and the structural matter's resolution is still being pursued internally with the institution., with all delegated purview external escalation ruled out post-candidacy.
 
 ---
 
