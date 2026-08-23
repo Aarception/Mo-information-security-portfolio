@@ -59,9 +59,6 @@ If the candidacy was legitimate opportunity prospecting that was distinct to the
 
 ---
 
-*End of commentary.*
-Update: Wednesday's review has confirmed the requirement of mail transmission of Board letter. The question that will have to be resolved: without the expectation of direct or individual response, how to methodically define the planning and pace of the next procedural steps, since this matter has already taken longer than usual on account of process particularities.
-
 ***Structural Matter: Institutional intentionality has never been asserted in this issue. The question of deception has been explicitly precluded. The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants reasonably rely upon it. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionality of intent or purpose, whether through malice, deception, and so forth. This impact is structural, it requires resolution.***
 
 ---
