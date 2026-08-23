@@ -60,37 +60,12 @@ If the candidacy was legitimate opportunity prospecting that was distinct to the
 ---
 
 *End of commentary.*
-Update: Wednesday's review has confirmed the requirement of mail transmission of Board letter. The question that will have to be resolved: without the expectation of direct or individual response, how to methodically define the planning and pace of the next procedural steps, since this matter has already taken longer than usual on account of process particularities. It would have been advantageous to complete and close on May 5th, at the end of the 20-day observation, while comfortably embedded in the opportunity pipeline, having passed the Google Hiring Assessment, being perfectly excited about the possibility of a successful career with the institution, all of which was sacrificed for the principle: my opportunity prospect is disparate to the issue's resolution as a structural matter, and could not be abandoned.
+Update: Wednesday's review has confirmed the requirement of mail transmission of Board letter. The question that will have to be resolved: without the expectation of direct or individual response, how to methodically define the planning and pace of the next procedural steps, since this matter has already taken longer than usual on account of process particularities.
 
 ***Structural Matter: Institutional intentionality has never been asserted in this issue. The question of deception has been explicitly precluded. The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants reasonably rely upon it. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionality of intent or purpose, whether through malice, deception, and so forth. This impact is structural, it requires resolution.***
 
 ---
 
-#### ***Confidentiality Guarantee: I would like to reiterate that my word is my bond. Considering that all my previous offers at engagement have been soundly and decidedly rebuffed, without any alternative recourse offered or provided by the institution, having previously extended this consideration, I reiterate the continued availability:***
-~~~
-
-Given that the institution has legitimate
-interests and concerns regarding
-matters involving its programs,
-representations, and initiatives, I wish
-to extend the following
-
-If the institution, for whatever reason,
-should like to communicate with
-complete confidence, outside scope, and
-off the record, the institution can
-reach me through the below inbox with
-total and complete confidentiality on
-my part.
-
-oldethornetree@proton.me
-~~~
-
-***The Olde Thorne Tree, a place of neutral ground: oldethornetree@proton.me***
-
-##### ***Follow-up: I do not imagine that the offer of the private email would be taken, but it should be as it a sign of adaptability and sophisticated evolution on risk engagement. If this is not possible now, then there is inefficient limitation. Perhaps even model this experience with me as the prototype of an emergent form of 'feedback:' with lessons learned that would better help the institution harden against risk-capture through adaptation in risk mitigation. Such gain in insight would not be limited to the institution, as I have also learned to harden against risk-capture by utilizing adaptive interpretation from indirect communication. The more adaptively interpreted, the less influence the interpretation has on decision-making. The AAR in my github handle of Aarception is 'After Action Review.'***
-
----
 ## ***The Risk Mitigation-Capture Paradox***
 
 ***Now fully defined:***
@@ -98,15 +73,6 @@ oldethornetree@proton.me
 ![Paradox](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Risk_Mitigation_Capture_Paradox.png)
 
 ##### ***Note: Definition is not destiny, as the diagram is still developing.***
-
----
-#### ***In the interest of full disclaimer:***
-
-##### ***1. I would like to state that Lawyer's groups and Legal associations may now have started to pick up the scent of this issue unprompted, including taking initial steps attempting to engage me. My priority and preference has been institutional resolution as optimal,  if not superior outcome. Certainly it is the only pathway capable of mutually-agreeable resolution. I have not engaged back.***
-
-##### ***2. Though the letter and contents addressed to Alphabet's Board of Directors is complete, enveloped, and postmarked, it has not been released for mail transmission. I have reserved it for review and confirmation of requirement. Truthfully, I have been hoping for a reason to dispense with it all, and will review against that rubric on Wednesday.***
-
-##### ***It remains to be seen how any of the two disclaimers' find a successful pathway to resolution considering my offers at engagement have been soundly rebuffed, without any alternative recourse offered or provided by the institution.***
 
 ---
 
