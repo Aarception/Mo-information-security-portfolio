@@ -121,7 +121,7 @@ Attn: Audit Committee or Risk and Compliance Committee
 Mountain View, CA 94043 
 ~~~
 
-***Accountability seeking has become such a cynical and adversarial process in corporate America that I wish to try a different process where finding solutions is primary, rather than secondary, to motive engineering and externalized leveraging strategization. Having persisted thus in support of activating internal agency for internal resolution, I will follow the process down to writing a postmarked letter. Let the resolution of this issue vindicate process as much as issue.***
+***Accountability seeking has become such a cynical and adversarial process in corporate America that I wish to try a different process where finding solutions is primary, rather than secondary, to litigation and externalized delegated compulsion. Having persisted thus in support of activating internal agency for internal resolution, I will follow the process down to writing a postmarked letter. Let the resolution of this issue vindicate process as much as issue.***
 
 ---
 
@@ -141,20 +141,15 @@ Mountain View, CA 94043
 
 # ***Dear Alphabet Inc.,***
 
-I am writing to inform you that **I have completed preparation of submissions
-to the appropriate regulatory authorities** concerning the Google Career
-Certificates program.
+I am writing concerning the Google Career Certificates program.
 
-While the submission is not intended as a complaint in tone, before filing,
-I am extending one final opportunity for the institution to provide any
-clarification or context that would give me reason to
-reconsider submission.
+While the purpose is not intended as a complaint in tone, I am extending an opportunity for the institution to provide any
+clarification or context in the interest of consideration.
 
 I have approached this matter structurally and methodically as an exercise
 in constructive engagement. **Rather than accusation, I have sought to
 preserve chronology and distinguish fact from inference.** My objective has
-consistently been institutional resolution as superior outcome, rather than
-external escalation.
+consistently been institutional resolution as superior outcome.
 
 **Completing this preparation required a comprehensive review of the issues
 and their broader significance. The implications extend beyond the
@@ -170,15 +165,10 @@ institutional, social, and governmental frameworks.**
 
 These considerations ***intersect with federal and state workforce
 initiatives, university and community college ventures, workforce
-development schemes and systems, rehabilitation and reskilling programs,
-and the public-private partnerships*** through which such opportunities and
-services are delivered.
+development schemes and systems, rehabilitation and reskilling programs, and the public-private partnerships*** through which such opportunities and services are delivered.
 
 **It is a mistake to treat this as a conventional consumer dispute or
-employment related issue. The affected are often engaged in consequential
-decision-making with limited margin for error, and in reliance on
-representations that materially shape economic mobility and long-term
-self-sufficiency.**
+employment related issue. The affected are often engaged in consequential decision-making with limited margin for error, and in reliance on representations that materially shape economic mobility and long-term self-sufficiency.**
 
 Many do not have access to university degrees, professional mentorship, or
 the resources required for extended evaluation. **For this reason,** I have
@@ -186,13 +176,10 @@ remained engaged on this matter and **sought to preserve the integrity of the
 process.** This context is central to understanding the significance of this
 inquiry.
 
-**Consequently, I have consistently sought to resolve these matters directly
-with the institution.** This email represents the final opportunity to do so
-before the completed submissions are filed.
+**Consequently, I have consistently sought to resolve these matters directly with the institution.** This email represents the opportunity to extend that consideration.
 
 If the institution believes there are material facts, explanations, or
-corrective actions that warrant reconsideration, I remain willing to review
-them in good faith.
+corrective actions that warrant consideration, I remain willing to review them in good faith.
 
 Attached is a copy of a 
 ![Methodology](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Google_Career_Certificates_Impact_Report_Methodology.PDF) supplied by the institution.
