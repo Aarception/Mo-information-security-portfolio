@@ -88,20 +88,6 @@ Mountain View, CA 94043
 
 ---
 
-***As a sign of good faith and positive intention, I have decided to refrain from regulatory submission today having brought notice to Alphabet's Board of Directors just yesterday.***
-
-***Some of Alphabet's Board of Directors are on the Boards of educational and philanthropic organizations. They deserve to be given an opportunity to look into things. They deserve a chance.***
-
-***This is not a consumer or employment related issue. This is the identification of a compliance gap, the Representation-Architecture Divergence, through a Signal Integrity analysis.***
-
-***They will be given a chance to close the gap first. This is a more responsible, yet principled choice than immediate external escalation.***
-
----
-
-***A Matter  of Singular,  Extraordinary Public Interest —  [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure) — For Which, Without, There is No Human Spirit: Google Must Be Supported To Redeem The Value of Trust, To Repair The Value of Hope, And Especially, To Restore the Value of Aspiration.***
-
----
-
 # ***Dear Alphabet Inc.,***
 
 I am writing concerning the Google Career Certificates program.
