@@ -1,4 +1,4 @@
-## Eengagement ≠ Exposure, Impact ≠ Intent, Prospect ≠ Posture, Resolution ≠ Risk
+## Engagement ≠ Exposure, Impact ≠ Intent, Prospect ≠ Posture, Resolution ≠ Risk
 
 > #### *Public Note Regarding Legal Interest: I am an internal institutional resolution advocate. Issues of such magnitude, i.e. aspiration, require the commitment for constructive engagement; not the cynicism of becoming resigned to conflict. My research is made available for the purpose of structural correction, with first right of response to the institution and then, subsequently, as due diligence to the concerned. Having ruled out litigation, all civil and legal claims, I have now chosen to exclude regulatory submission, given that it is a tool of Liability Consequentialism, which is incompatible with internal institutional resolution pathway.*
 
