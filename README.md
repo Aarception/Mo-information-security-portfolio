@@ -1,6 +1,6 @@
 Truly, after this week, there should be no more reason for my engagement on this issue. The responsibility belongs to the ecosystem.
 
-This is direct to the Institution: If you did not believe me all this time when I said this is not about money, or grievance, or leverage for a job, I will note a hard deadline for the end of this week, Friday August 28, 2026, where, having distributed due diligence disclosure to the educational ecosystem, I will exit the field as I am, divested of the burden of sole responsibility, holding 0-proceeds from motive attribution. I am identifying Friday as that hard deadline to test the reasons for containment.
+This is direct to the Institution: If you did not believe me all this time when I said this is not about money, or grievance, or leverage for a job, I will note a hard deadline for the end of this week, Friday August 28, 2026, where, having distributed due diligence disclosure to the educational ecosystem, I will exit the field as I am, divested of the burden of sole responsibility, holding 0-proceeds from motive attribution. I am identifying Friday as that hard deadline to validate  the reasons for containment.
 
 ---
 
