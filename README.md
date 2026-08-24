@@ -8,7 +8,7 @@
 
 ![Distributed Disclosure](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Due_Diligence.png)
 
-***This distributed disclosure⁵ is provided as due diligence privilege qualifying informed consent, in-line with the Dignity Consideration pathway of the preceeding months, which cannot cost any less significant lost time, effort, labor, and opportunity already expended [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).***
+***This distributed disclosure⁵ is provided as due diligence privilege qualifying informed consent, in-line with the Dignity Consideration pathway of the preceeding months, which cannot cost any more significant lost time, effort, labor, and opportunity already expended [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).***
 
 
 ¹ ![Institution, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/3_Questions_Admission%20_and_Rebuttal.pdf)
