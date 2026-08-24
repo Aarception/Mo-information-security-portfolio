@@ -4,6 +4,8 @@ This is direct to the Institution: If you did not believe me all this time when 
 
 The Seymour Kaplan Humanitarian Award, twice received as far back as 4th and 5th grades, nominated by classmates and selected by institutional administrators, recognized "exemplary efforts to improve the quality of school and community life by continually demonstrating those humanitarian attributes which were reflected in the life of Seymour Kaplan." Friday will also valudate those attributes.
 
+
+![Seymour Kaplan Humanitarian Award](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Seymour%20_Kaplan_Humanitarian_Rewards.png)
 ---
 
 ## Engagement ≠ Exposure, Impact ≠ Intent, Prospect ≠ Posture, Resolution ≠ Risk
