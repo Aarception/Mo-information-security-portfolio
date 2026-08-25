@@ -8,7 +8,7 @@ If there has been any doubt about my intentions or motivation, this Friday will 
 
 ## Engagement ≠ Exposure, Impact ≠ Intent, Prospect ≠ Posture, Resolution ≠ Risk
 
-> #### *Public Note: My research is made available for the purpose of structural correction, or, in lieu of it, responding to due diligence, having ruled out litigation, all civil and legal claims, and all external juridical-state escalation. This scope is limited to the institution and the concerned.*
+> #### *Public Note: My research is made available for the purpose of structural correction, or, in lieu of it, satisfying due diligence, having ruled out litigation, all civil and legal claims, and all external juridical-state escalation. This scope is limited to the institution and the concerned.*
 
 ---
 
