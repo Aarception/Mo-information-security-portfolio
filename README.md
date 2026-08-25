@@ -12,7 +12,21 @@ This Friday will validate constructive engagement, upon having distributed due d
 
 ---
 
-***Update: A decision has been to send copies of the letter to the Board, primary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Any university, community college, organization, program, that is social, educational, channel or ecosystem stakeholder dispensing or provisioning the certificates being non-governmental nor delegated with legal or state powers will receive a copy.***
+## ***Resolution Impediments May Observe To Have Been Possibly Systemic And Endemic***
+
+![Paradox](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Risk_Mitigation_Capture_Paradox.png)
+
+
+***Resolution-seeking has become such a cynical and adversarial process in corporate America that a decision has been made to officially postmark a letter to Alphabet's Board of Directors, in particular the Audit and Risk and Compliance Committees:***
+~~~
+Alphabet Inc.
+Attn: Audit Committee or Risk and Compliance Committee 
+1600 Amphitheatre Parkway
+Mountain View, CA 94043 
+~~~
+
+
+***Copies of the letter to the Board, primary appendices and attachments included¹²³⁴, will be sent to every non-governmental and non-legal entity that is partnered with the Career Certificates. Any university, community college, organization, program, that is social, educational, channel or ecosystem stakeholder dispensing or provisioning the certificates being non-governmental nor delegated with legal or state powers will receive a copy.***
 
 ***This due diligence disclosure is provided in the interest of informed consent.⁵***
 
@@ -27,7 +41,7 @@ This Friday will validate constructive engagement, upon having distributed due d
 \
 ⁵ *Attachments will be limited to the above four primary artifacts without any interpretive framing.*
 
-***Structural Matter: Institutional intentionality has never been asserted in this issue. The question of deception has been explicitly precluded. The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants reasonably rely upon it. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionality of intent or purpose, whether through malice, deception, and so forth. This impact is structural, it requires resolution.***
+***Structural Matter Disclaimer: Institutional intentionality has never been asserted in this issue. The question of deception has been explicitly precluded. The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants reasonably rely upon it. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionality of intent or purpose, whether through malice, deception, and so forth. This impact is structural, it requires resolution.***
 
 ---
 
@@ -71,22 +85,6 @@ If the candidacy was legitimate opportunity prospecting that was distinct to the
 
 ¹²³⁴ ![References](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Regarding_Context_And_Process.png)
 
-
----
-
-## ***Resolution Impediments Observed To Be Possibly Systemic And Endemic***
-
-![Paradox](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Risk_Mitigation_Capture_Paradox.png)
-
-***I have decided to officially postmark a letter to Alphabet's Board of Directors, in particular the Audit and Risk and Compliance Committees:***
-~~~
-Alphabet Inc.
-Attn: Audit Committee or Risk and Compliance Committee 
-1600 Amphitheatre Parkway
-Mountain View, CA 94043 
-~~~
-
-***Resolution-seeking has become such a cynical and adversarial process in corporate America that I wish to try a different process where finding solutions is primary, rather than secondary, to litigation and externalized delegated compulsion. Having persisted thus in support of activating internal agency for internal resolution, I will follow the process down to writing a postmarked letter. Let the resolution of this issue vindicate process as much as issue.***
 
 ---
 
