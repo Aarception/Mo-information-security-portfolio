@@ -1,4 +1,4 @@
-State Conclusion: Friday, August 28, 2026
+# State Conclusion: Friday, August 28, 2026
 
 After this week, there should be no more reason for my engagement on this issue. The responsibility will have been fully transfered to the ecosystem.
 
