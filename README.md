@@ -79,15 +79,9 @@ If the candidacy was legitimate opportunity prospecting that was distinct to the
 
 ## ***The Risk Mitigation-Capture Paradox***
 
-***Now fully defined:***
-
 ![Paradox](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Risk_Mitigation_Capture_Paradox.png)
 
-##### ***Note: Definition is not destiny, as the diagram is still developing.***
-
-
----
-***UPDATE: i have decided to officially postmark a letter to Alphabet's Board of Directors, in particular the Audit and Risk and Compliance Committees:***
+***I have decided to officially postmark a letter to Alphabet's Board of Directors, in particular the Audit and Risk and Compliance Committees:***
 ~~~
 Alphabet Inc.
 Attn: Audit Committee or Risk and Compliance Committee 
