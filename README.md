@@ -25,7 +25,7 @@ If there has been any doubt about my intentions or motivation, this Friday will 
 \
 ⁴ ![Methodology, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Google_Career_Certificates_Impact_Report_Methodology.PDF)
 \
-⁵ ** Attachments will be limited to the above four primary artifacts with any interpretive framing.**
+⁵ ***Attachments will be limited to the above four primary artifacts with any interpretive framing.***
 
 ---
 
