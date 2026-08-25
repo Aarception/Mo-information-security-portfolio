@@ -8,7 +8,7 @@ This Friday will validate constructive engagement, upon having distributed due d
 
 ## Engagement ≠ Exposure, Impact ≠ Intent, Prospect ≠ Posture, Resolution ≠ Risk
 
-> #### ***Public Note: My research is made available for the purpose of structural correction, or, in lieu of it, satisfaction of due diligence, having ruled out litigation, all civil and legal claims, and all external juridical-state escalation. This scope is limited to the institution and the concerned, with contribution that has been mission-driven for a system that sustains long-term development and growth, and this has been done with respect, civility,  dignity, and utmost consideration.***
+> #### ***Public Note: My research is made available for the purpose of structural correction, or, in lieu of it, satisfaction of due diligence, having ruled out litigation, all civil and legal claims, and all external juridical-state escalation. This scope is limited to the institution and the concerned, with contribution that has been mission-driven in support of a system that sustains long-term development and growth, done so with respect, civility,  dignity, and the utmost of consideration.***
 
 ---
 
