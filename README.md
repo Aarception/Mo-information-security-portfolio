@@ -14,9 +14,7 @@ If there has been any doubt about my intentions or motivation, this Friday will 
 
 ### Update: I have decided to send copies of the letter to the Board, primary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Any university, community college, organization, program, that is social, educational, channel or ecosystem stakeholder dispensing or provisioning the certificates being non-governmental nor delegated with legal or state powers will receive a copy.
 
-![Distributed Disclosure](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Due_Diligence.png)
-
-***This distributed disclosure⁵ is provided as due diligence privilege qualifying informed consent, in-line with the Dignity Consideration pathway of the preceeding months, which cannot cost any more significant lost time, effort, labor, and opportunity already expended [In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/tree/main/trust-infrastructure).***
+### ***This due diligence disclosure is provided in the interest of informed consent.⁵***
 
 
 ¹ ![Institution, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/3_Questions_Admission%20_and_Rebuttal.pdf)
@@ -27,7 +25,7 @@ If there has been any doubt about my intentions or motivation, this Friday will 
 \
 ⁴ ![Methodology, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Google_Career_Certificates_Impact_Report_Methodology.PDF)
 \
-⁵ **In-line with due diligence, attachments will be limited to the preceeding four primary-source artifacts, sans interpretive framing.**
+⁵ ** Attachments will be limited to the above four primary artifacts with any interpretive framing.**
 
 ---
 
@@ -35,7 +33,7 @@ If there has been any doubt about my intentions or motivation, this Friday will 
 ### **Final Personal Commentary Regarding Context And Process**  
 *Regarding the Record from March 17, 2026 — May 7, 2026*
 
----
+
 
 This will be my last personal commentary on this matter. Its purpose is to clarify the context of the process between March 17, 2026, the last day of direct institutional comment, and  May 7th, 2026, the day the inquiry was submitted as a work sample. Background falls outside this scope.
 
@@ -65,15 +63,18 @@ On May 5, with the close of the observation period, I faced a fork: 1.) drop the
 
 On May 7, with the lapse of observation period, end of inquiry without structural resolution, without any recourse or opportunity provided by the institution for submission, and the logical bar for externalization unmet, and appreciating the possibility of mutually-agreeable resolution, I declared to the institution that I would reframe the inquiry and submit it to the institution's Trust and Safety department. With the recruiter of my application to Research and Development Analyst, Trust and Safety Monetization, being the only point of access available to me, I submitted the reframed inquiry as a Trust and Safety work sample.
 
-If the structural matter was used as leverage for the candidacy, the  candidacy has come and gone, yet the structural matter's resolution is still being pursued internally with the institution, with all delegated purview external escalation ruled out post-candidacy.
+If the structural matter was used as leverage for the candidacy, the  candidacy has come and gone, yet the structural matter's resolution is still being pursued internally with the institution,  with any type of escalation to external juridical-state purview completely ruled out post-candidacy.
 
-If the candidacy was legitimate opportunity prospecting that was distinct to the structural matter, the candidacy has come and gone, and the structural matter's resolution is still being pursued internally with the institution., with all delegated purview external escalation ruled out post-candidacy.
+If the candidacy was legitimate opportunity prospecting that was distinct to the structural matter, the candidacy has come and gone, and the structural matter's resolution is still being pursued internally with any type of escalation to external juridical-state purview completely ruled out post-candidacy.
 
 ¹²³⁴ ![References](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Regarding_Context_And_Process.png)
 
 ---
 
 ***Structural Matter: Institutional intentionality has never been asserted in this issue. The question of deception has been explicitly precluded. The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants reasonably rely upon it. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionality of intent or purpose, whether through malice, deception, and so forth. This impact is structural, it requires resolution.***
+
+
+*Personal Statement of Intent: My contribution has been mission-driven, fot a system that sustains long- term development and growth, and to do this with respect, civility,  dignity, and the consideration.*
 
 ---
 
@@ -85,9 +86,6 @@ If the candidacy was legitimate opportunity prospecting that was distinct to the
 
 ##### ***Note: Definition is not destiny, as the diagram is still developing.***
 
----
-
-*Personal Statement of Intent: I have stepped forward in this process not to challenge the system, but to strengthen it. I have not been a detractor, the exercise has not been transactional. The conduct and requirements displayed have been those of strategic partnership. At every turn, I have offered precision, professionalism, grace, and gratitude. The goal has been an attempt to bridge the divide between programmatic strategic intent and observed operational inefficiences. The process has disclosed relevant points of friction that may have undermined intended programmatic impact and confidence. Offering cohesion is not reactive, it is architectural, turning ambiguity into clarity is not constraining, it is proactive. To this end, my approach and persistence has not been a test of fit, institutional or otherwise: rather, the rigor I have applied, the integrity I have demonstrated, the resilience I have sustained are a confirmation. My contribution has been mission-driven. It is why I  have persisted thus to co-create a system that sustains long- term development and growth, and to do this with the respect, civility,  dignity, and the consideration worthy of my person, worthy of the the issue and subject matter, worthy of the Institution and associated principals and agents.*
 
 ---
 ***UPDATE: i have decided to officially postmark a letter to Alphabet's Board of Directors, in particular the Audit and Risk and Compliance Committees:***
