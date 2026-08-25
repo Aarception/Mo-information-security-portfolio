@@ -1,8 +1,8 @@
 # State Conclusion: Friday, August 28, 2026
 
-After this week, the burden of responsibility for resolution will have been fully transferred to the ecosystem.
+The burden of responsibility is being fully transferred to the ecosystem this week.
 
-This Friday will validate the value of constructive engagement, upon having distributed due diligence disclosure to the educational ecosystem, there will be extrication from this engagement, divested of the burden of sole responsibility.
+This Friday will validate constructive engagement, upon having distributed due diligence disclosure to the educational ecosystem, when there will be extrication from this engagement, divested of the burden of sole responsibility.
 
 ---
 
