@@ -2,7 +2,7 @@
 
 After this week, the burden of responsibility for resolution will have been fully transferred to the ecosystem.
 
-This Friday will validate constructiveengagement, upon having distributed due diligence disclosure to the educational ecosystem, there will be extrication myself from this engagement, divested of the burden of sole responsibility.
+This Friday will validate the value of constructive engagement, upon having distributed due diligence disclosure to the educational ecosystem, there will be extrication from this engagement, divested of the burden of sole responsibility.
 
 ---
 
@@ -12,7 +12,7 @@ This Friday will validate constructiveengagement, upon having distributed due di
 
 ---
 
-***Update: I have decided to send copies of the letter to the Board, primary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Any university, community college, organization, program, that is social, educational, channel or ecosystem stakeholder dispensing or provisioning the certificates being non-governmental nor delegated with legal or state powers will receive a copy.***
+***Update: A decision has been to send copies of the letter to the Board, primary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Any university, community college, organization, program, that is social, educational, channel or ecosystem stakeholder dispensing or provisioning the certificates being non-governmental nor delegated with legal or state powers will receive a copy.***
 
 ***This due diligence disclosure is provided in the interest of informed consent.⁵***
 
