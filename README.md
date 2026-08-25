@@ -8,7 +8,7 @@ If there has been any doubt about my intentions or motivation, this Friday will 
 
 ## Engagement ≠ Exposure, Impact ≠ Intent, Prospect ≠ Posture, Resolution ≠ Risk
 
-> #### *Public Note: My research is made available for the purpose of structural correction, or, in lieu of it, satisfying due diligence, having ruled out litigation, all civil and legal claims, and all external juridical-state escalation. This scope is limited to the institution and the concerned.*
+> #### ***Public Note: My research is made available for the purpose of structural correction, or, in lieu of it, satisfaction of due diligence, having ruled out litigation, all civil and legal claims, and all external juridical-state escalation. This scope is limited to the institution and the concerned, with contribution that has been mission-driven for a system that sustains long-term development and growth, and this has been done with respect, civility,  dignity, and utmost consideration.***
 
 ---
 
@@ -26,6 +26,8 @@ If there has been any doubt about my intentions or motivation, this Friday will 
 ⁴ ![Methodology, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Google_Career_Certificates_Impact_Report_Methodology.PDF)
 \
 ⁵ *Attachments will be limited to the above four primary artifacts without any interpretive framing.*
+
+***Structural Matter: Institutional intentionality has never been asserted in this issue. The question of deception has been explicitly precluded. The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants reasonably rely upon it. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionality of intent or purpose, whether through malice, deception, and so forth. This impact is structural, it requires resolution.***
 
 ---
 
@@ -70,14 +72,9 @@ If the candidacy was legitimate opportunity prospecting that was distinct to the
 ¹²³⁴ ![References](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Regarding_Context_And_Process.png)
 
 
-***Structural Matter: Institutional intentionality has never been asserted in this issue. The question of deception has been explicitly precluded. The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants reasonably rely upon it. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionality of intent or purpose, whether through malice, deception, and so forth. This impact is structural, it requires resolution.***
-
-
-*Personal Statement of Intent: My contribution has been mission-driven, fot a system that sustains long- term development and growth, and to do this with respect, civility,  dignity, and the consideration.*
-
 ---
 
-## ***The Risk Mitigation-Capture Paradox***
+## ***Resolution Impediments Observed To Be Possibly Systemic And Endemic***
 
 ![Paradox](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Risk_Mitigation_Capture_Paradox.png)
 
