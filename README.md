@@ -12,9 +12,9 @@ If there has been any doubt about my intentions or motivation, this Friday will 
 
 ---
 
-### Update: I have decided to send copies of the letter to the Board, primary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Any university, community college, organization, program, that is social, educational, channel or ecosystem stakeholder dispensing or provisioning the certificates being non-governmental nor delegated with legal or state powers will receive a copy.
+***Update: I have decided to send copies of the letter to the Board, primary appendices and attachments included¹²³⁴, to every non-governmental and non-legal entity that is partnered with the Career Certificates. Any university, community college, organization, program, that is social, educational, channel or ecosystem stakeholder dispensing or provisioning the certificates being non-governmental nor delegated with legal or state powers will receive a copy.***
 
-### *This due diligence disclosure is provided in the interest of informed consent.⁵*
+***This due diligence disclosure is provided in the interest of informed consent.⁵***
 
 
 ¹ ![Institution, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/3_Questions_Admission%20_and_Rebuttal.pdf)
@@ -25,7 +25,7 @@ If there has been any doubt about my intentions or motivation, this Friday will 
 \
 ⁴ ![Methodology, Primary](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure/New_Google_Career_Certificates_Impact_Report_Methodology.PDF)
 \
-⁵ ***Attachments will be limited to the above four primary artifacts with any interpretive framing.***
+⁵ *Attachments will be limited to the above four primary artifacts with any interpretive framing.*
 
 ---
 
