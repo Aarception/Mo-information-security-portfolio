@@ -59,6 +59,8 @@ Applicants may add multiple credentials.
 
 ***8. Recommendation***: This should be treated as a **forward-looking information architecture improvement** for **universal candidate experience improvement**, that has no bearing on hiring policy.
 
+### *UCEI, THE PRODUCT WORTH THE PRODUCTION!*
+
 ---
 
  ## A. *State Conclusion: Friday, August 28, 2026*
@@ -67,7 +69,7 @@ The burden of responsibility is being fully transferred to the ecosystem this we
 
 This Friday will validate constructive engagement, upon having distributed due diligence disclosure to the educational ecosystem, when there will be extrication from this engagement, divested of the burden of sole responsibility.
 
-> UCEI, A PRODUCT WORTH THE PRODUCTION!
+
 ---
 
  ## B. *Impact ≠ Intent | Prospect ≠ Posture | Resolution ≠ Risk*
