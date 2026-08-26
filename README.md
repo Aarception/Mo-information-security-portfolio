@@ -40,7 +40,7 @@
 ├── Issuing Organization [free text, optional]  
 └── Expiration Date [date picker, optional]
 
-***It would be text input. No classification. No drop down.***
+***It would be text input perhaps without need for classification or drop down.***
 
 ***5. Structural Benefit***: Employment-relevant credentials should have a clear point of representation within the employment application through which the applicant seeks consideration. This is a small product improvement that respects the independence of the hiring decision itself.
 
