@@ -1,4 +1,4 @@
-## *Theoretical Resolution Is Representation, Minimum Viable Product
+## *Theoretical Resolution Is Representation, Minimum Viable Product*
 
 ### ***Universal Candidate Experience Improvement***
 
