@@ -1,6 +1,6 @@
 ## *Theoretical Resolution Is Representation, Minimum Viable Product
 
-### *** Universal Candidate Experience Improvement***
+### ***Universal Candidate Experience Improvement***
 
 ***1. Concern***: I hold the CompTIA Security+ SY0-701 certification which cost $500 in exam expenditure, and is mandatory for DoD-adjacent and/or contracted information security roles. Yet, there is often no way to represent the certification in the application interface layer.
 
