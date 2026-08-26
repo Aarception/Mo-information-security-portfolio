@@ -1,4 +1,4 @@
-## H. *Theoretical Resolution Is Representation*
+##  *Theoretical Resolution Is Representation*
 
 ###### About the job (Simulation)
 ###### *People Operations strives to revolutionize human resources the same way that the Institution has revolutionized search. They help to find, grow and keep the remarkable assemblage of talent who are Institutelers. However, the integrity of this mission requires that the systems through which are developed external talent pathways maintain representational correspondence between promise and mechanism, ensuring that 20th century ambiguous frameworks do not produce 21st century structural ambiguity.*
