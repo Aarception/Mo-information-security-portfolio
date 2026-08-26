@@ -5,7 +5,7 @@
 ##### *As a part of the Trust Infrastructure team, one will contribute to pioneering solutions that equip Institution and external aspirants for success today and in the future. Directly supported will be the people's operation to hire, develop, and retain Institutelers while ensuring that the ecosystem does not produce conditions under which reasonable inference are not in excess. Built will be a highly adaptable, future-ready workforce through predictive talent intelligence platforms and personalized career development tools. One will lead the strategy for hiring and retaining niche talent groups—particularly those with high integrative complexity or engaged in consequential decision-making—ensuring the institution attracts and keeps the expertise necessary to compete in a rapidly evolving modern landscape while maintaining the synergy between engineering, marketing, business, operations, and stakeholders.*
 
 
-# Universal Candidate Experience Improvement 
+## ***Universal Candidate Experience Improvement***
 
 ***1. Concern***: I hold the CompTIA Security+ SY0-701 certification which cost $500 in exam expenditure, and is mandatory for DoD-adjacent and/or contracted information security roles. Yet, there is often no way to represent the certification in the application interface layer.
 
