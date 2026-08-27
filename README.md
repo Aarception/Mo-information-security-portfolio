@@ -12,7 +12,7 @@ The April 16 partner admission was withheld during the candidacy, and the inquir
 
 Yet, as late as this very week, the system has provem difficulty with coming to that realization. 
 
-On prior occasions, I observed that the institution is modeling incorrectly, but it is probable that the institution may not be capable of modeling differently, because it's models are limited to what can be processed as a code which is constrained to 1.) incentivization and 2.) legal cost. 
+On prior occasions, I observed that the institution is modeling incorrectly, but it is probable that the institution cannot model differently, because models are limited to what can be processed as a code which is constrained to 1.) incentivization (<cost)) and 2.) liability (>cost).
 
 Dignity is neither incentivized and neither legally mandated.
 
