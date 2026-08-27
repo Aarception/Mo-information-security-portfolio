@@ -35,6 +35,7 @@ I think the full results from this 'digital' participant observation will prove 
 ---
 
 ## *Theoretical Resolution Is Representation, Minimum Viable Product*
+##### *Technical Implementation of the Normative Framework: [On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure)*
 
 ### ***Universal Candidate Experience Improvement***
 
