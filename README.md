@@ -20,6 +20,10 @@ An institution cannot be capable of Dignity.
 
 I think the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question. 
 
+***Emergent: Aspiration as a market product needs a Compliance Mandate. Its governance cannot be left to structures that cannot recognize dignity, process what is ethical or moral, nor have a category for what is right.***
+
+---
+
 ## *Theoretical Resolution Is Representation, Minimum Viable Product*
 
 ### ***Universal Candidate Experience Improvement***
