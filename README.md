@@ -8,7 +8,7 @@ As such, it is a patchwork of autonomous subsystems that, as a risk mitigating s
 
 The question has been if the only way to make what is ethical actionable is to turn it into a processed code ('liability'), is there an alternative that prevents the distortion of that ethical frame and being consumed?
 
-The April 16 partner admission was withheld during the candidacy, and the inquiry not liquidated after the april 22 assessment pass, because there was no negotiation. There was the discovery of a structural matter and a design to process the discovery to completion. If the institution then found itself interested, that would be a positive correlation. 
+The April 16 partner admission was withheld during the candidacy, and the inquiry not liquidated after the april 22 assessment pass, because there was no negotiation. There was the discovery of a structural matter and a design to process the discovery to completion. If the institution then found itself interested, that would be a positive correlation.
 
 Yet, as late as this very week, the system has proven difficulty with coming to that realization. ¹²³⁴⁵ ⁶
 
@@ -17,6 +17,8 @@ On prior occasions, I observed that the institution is modeling incorrectly, but
 Dignity is neither incentivized and nor legally mandated.
 
 An institution cannot be capable of Dignity.
+
+So even if negotiation could have been an option, the facts of the process preclude the possibility that dignity could have sustained the confidence to overcome structural limitation.
 
 I think the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question. 
 
