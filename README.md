@@ -10,7 +10,7 @@ The question has been if the only way to make what is ethical actionable is to t
 
 The April 16 partner admission was withheld during the candidacy, and the inquiry not liquidated after the april 22 assessment pass, because there was no negotiation. There was the discovery of a structural matter and a design to process the discovery to completion. If the institution then found itself interested, that would be a positive correlation. 
 
-Yet, as late as this very week, the system has proven difficulty with coming to that realization. 
+Yet, as late as this very week, the system has proven difficulty with coming to that realization. ¹²³⁴⁵ ⁶
 
 On prior occasions, I observed that the institution is modeling incorrectly, but it is probable that the institution cannot model differently, because models are limited to what can be processed as a code which is constrained to 1.) incentivization (<cost)) and 2.) liability (>cost).
 
@@ -21,6 +21,14 @@ An institution cannot be capable of Dignity.
 I think the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question. 
 
 #### ***Emergent: Aspiration as a market product needs a Compliance Mandate. Its governance cannot be left to structures that cannot recognize dignity, process what is ethical or moral, nor have a category for what is right. Aspiration is not an inanimate code nor a handheld device. It is neither a certificate nor even digital credentialing. This has been the excavation of an entirely distinct Marketplace category, which happens to include digital credentialing, which then includes a particular certificate.***
+
+##### ¹ Google Skill Support: 2/6/2026
+##### ² Grow With Google / Google Career Certificates: 3/2/2026
+##### ³ Google Legal: 3/25/2026
+##### ⁴ Google Public Relations: 4/10/2026
+##### ⁵ Google PeopleOperations: 4/15/2026
+##### ⁶ Google Trust and Safety: 5/7/2026
+##### ⁷ Alphabet Board of Directors: 8/13/2026
 
 ---
 
