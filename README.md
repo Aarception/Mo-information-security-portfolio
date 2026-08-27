@@ -35,7 +35,7 @@ I think the full results from this 'digital' participant observation will prove 
 ##### ⁵ Google PeopleOperations: 4/15/2026
 ##### ⁶ Google Trust and Safety: 5/7/2026
 ##### ⁷ Alphabet Board of Directors: 8/13/2026
-##### ⁸ The observations establish the conflation of opportunity prospect with structural inquiry could be an inversely operationalized independent relative to motivation and intent.
+##### ⁸ The observations establish that the conflation of opportunity prospect with structural inquiry could be inversely operationalized relationship independent relative to motivation and intent.
 
 ---
 
