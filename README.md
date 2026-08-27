@@ -1,4 +1,6 @@
-# An Institution Is Not Capable of Dignity
+##  Aspiration Cannot Continue To Be Governed As An Information Product, When Now Digitally Sold As A Consumer Good.
+
+### *An Enterprise Is Not Capable of Dignity*
 
 That is the single presiding axiom of this entire process. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. 
 
