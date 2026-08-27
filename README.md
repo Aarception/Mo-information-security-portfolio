@@ -1,6 +1,18 @@
 # An Institution Is Not Capable of Dignity
 
-That is the single presiding axiom of this entire process. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. In fact, it is possible that there is an inverse relationship between input and output the more one moves away from what is categorical and what is not.
+That is the single presiding axiom of this entire process. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. In fact, it is possible that there is an inverse relationship between input and output the more one moves away from what is capable of being categorized and what is not. There is a paradox in that even if a system cannot choose between what is ethical and what is a compelled obligation, the institution, for example, is a a scaled, diffused structure that is siloed by internal organization. As such, it is a patchwork of autonomous subsystems that, as a risk mitigating strategy, only respond to communications that speak their code, and sometimes, act independently but in complement to shared system objective. 
+
+The question has been if the only way to make what is ethical actionable is to turn it into a processed code ('liability'), is there an alternative that prevents the distortion of that ethical frame being consumed?
+
+I held the April 16 partner admission and did not liquadate the inquiry after the april 22 assessment pass, because I was not negotiating. I was somebody who came upon a structural matter and had designed to process it to completion. If the institution found me attractive through my capabilities, that would be a positive correlation. 
+
+Yet, as late as this very week, the system has provem difficulty coming to that realization. 
+
+On prior occasions, I observed that the institution is modeling incorrectly, but it is probable that the institution may not be capable of modeling differently, because it's models are limited to what can be processed as a code which is constrained to 1.) incentivization and 2.) legal cost. 
+
+Dignity is neither incentivized and neither legally mandated.
+
+An institution cannot be capable of Dignity.
 
 ## *Theoretical Resolution Is Representation, Minimum Viable Product*
 
