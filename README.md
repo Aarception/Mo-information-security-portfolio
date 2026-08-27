@@ -1,6 +1,6 @@
 # An Institution Is Not Capable of Dignity
 
-That is the single presiding axiom of this entire process. 
+That is the single presiding axiom of this entire process. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. In fact, it is possible that there is an inverse relationship between input and output the more one moves away from what is categorical and what is not 
 
 ## *Theoretical Resolution Is Representation, Minimum Viable Product*
 
