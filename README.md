@@ -1,6 +1,6 @@
 #  Aspiration Cannot Continue To Be Governed As An Information Product, When Now Digitally Sold As A Consumer Good.
 
-### *An Enterprise Is Not Capable of Dignity. It Cannot Be Left To Govern Aspiration.*
+### *An Enterprise Is Not Capable of Dignity.*
 
 That is the single presiding axiom of this entire process. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. 
 
@@ -11,6 +11,8 @@ As such, it is a patchwork of autonomous subsystems that, as a risk mitigating s
 The question has been if the only way to make what is ethical actionable is to turn it into a processed code ('liability'), is there an alternative that prevents the distortion of that ethical frame and being consumed?
 
 The April 16 partner admission was withheld during the candidacy, and the inquiry not liquidated after the april 22 assessment pass, because there was no negotiation. There was the discovery of a structural matter and a design to process the discovery to completion. If the institution then found itself interested, that would be a positive correlation.
+
+### *An Enterprise Cannot Be Left To Govern Aspiration.*
 
 Yet, as late as this very week, the system has proven difficulty with coming to that realization. ¹²³⁴⁵ ⁶
 
