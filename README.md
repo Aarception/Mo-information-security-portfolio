@@ -22,7 +22,7 @@ Dignity is neither incentivized and nor legally mandated.
 
 An institution cannot be capable of Dignity.
 
-So even if negotiation could have been an option, the facts of the process preclude the possibility that dignity could have sustained the confidence to overcome such structural non-existence. 8
+So even if negotiation could have been an option, the facts of the process preclude the possibility that dignity could have sustained the confidence to overcome such structural non-existence. ⁸
 
 I think the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question. 
 
