@@ -1,4 +1,4 @@
-##  Aspiration Cannot Continue To Be Governed As An Information Product, When Now Digitally Sold As A Consumer Good.
+#  Aspiration Cannot Continue To Be Governed As An Information Product, When Now Digitally Sold As A Consumer Good.
 
 ### *An Enterprise Is Not Capable of Dignity*
 
