@@ -20,7 +20,7 @@ An institution cannot be capable of Dignity.
 
 I think the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question. 
 
-***Emergent: Aspiration as a market product needs a Compliance Mandate. Its governance cannot be left to structures that cannot recognize dignity, process what is ethical or moral, nor have a category for what is right. Aspiration is not an inanimate code nor a handheld device. It is neither a certificate nor even digital credentialing. It is the birth of an entirely distinct Marketplace category, which happens to include digital credentialing, which then includes a particular certificate. ***
+#### ***Emergent: Aspiration as a market product needs a Compliance Mandate. Its governance cannot be left to structures that cannot recognize dignity, process what is ethical or moral, nor have a category for what is right. Aspiration is not an inanimate code nor a handheld device. It is neither a certificate nor even digital credentialing. It is the birth of an entirely distinct Marketplace category, which happens to include digital credentialing, which then includes a particular certificate.***
 
 ---
 
