@@ -10,13 +10,15 @@ The question has been if the only way to make what is ethical actionable is to t
 
 The April 16 partner admission was withheld during the candidacy, and the inquiry not liquidated after the april 22 assessment pass, because there was no negotiation. There was the discovery of a structural matter and a design to process the discovery to completion. If the institution then found itself interested, that would be a positive correlation. 
 
-Yet, as late as this very week, the system has provem difficulty with coming to that realization. 
+Yet, as late as this very week, the system has proven difficulty with coming to that realization. 
 
 On prior occasions, I observed that the institution is modeling incorrectly, but it is probable that the institution cannot model differently, because models are limited to what can be processed as a code which is constrained to 1.) incentivization (<cost)) and 2.) liability (>cost).
 
 Dignity is neither incentivized and neither legally mandated.
 
 An institution cannot be capable of Dignity.
+
+I think the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question. 
 
 ## *Theoretical Resolution Is Representation, Minimum Viable Product*
 
