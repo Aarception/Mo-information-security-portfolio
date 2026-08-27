@@ -1,3 +1,6 @@
+> Permanently archived August 27, 2028 at 11:26 AM PT. This matter is permanently closed. Nothing further will contribute to its process, purpose, or procedure. 
+
+
 #  Aspiration Cannot Continue To Be Governed As An Information Product, When Now Digitally Sold As A Consumer Good.
 
 ### *An Enterprise Is Not Capable of Dignity.*
