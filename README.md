@@ -1,3 +1,7 @@
+# An Institution Is Not Capable of Dignity
+
+That is the single presiding axiom of this entire process. 
+
 ## *Theoretical Resolution Is Representation, Minimum Viable Product*
 
 ### ***Universal Candidate Experience Improvement***
