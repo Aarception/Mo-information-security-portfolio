@@ -14,7 +14,7 @@ The April 16 partner admission was withheld during the candidacy, and the inquir
 
 ### *An Enterprise Cannot Be Left To Govern Aspiration.*
 
-Yet, as late as this very week, the system has proven difficulty with coming to that realization. ¹²³⁴⁵ ⁶
+Yet, as late as this very week, the system has proven difficulty with coming to that realization. ¹²³⁴⁵⁶⁷
 
 On prior occasions, I observed that the institution is modeling incorrectly, but it is probable that the institution cannot model differently, because models are limited to what can be processed as a code which is constrained to 1.) incentivization (<cost)) and 2.) liability (>cost).
 
