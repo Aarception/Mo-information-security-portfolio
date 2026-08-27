@@ -1,6 +1,10 @@
 # An Institution Is Not Capable of Dignity
 
-That is the single presiding axiom of this entire process. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. In fact, it is possible that there is an inverse relationship between input and output the more one moves away from what is capable of being categorized and what is not. There is a paradox in that even if a system cannot choose between what is ethical and what is a compelled obligation, the institution, for example, is a a scaled, diffused structure that is siloed by internal organization. As such, it is a patchwork of autonomous subsystems that, as a risk mitigating strategy , only respond to communications that speak their code and sometimes act independently but in full complement to shared system objective. 
+That is the single presiding axiom of this entire process. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. 
+
+In fact, it is possible that there is an inverse relationship between input and output the more one moves away from what is capable of being categorized and what is not. There is a paradox in that even if a system cannot choose between what is ethical and what is a compelled obligation, the institution, for example, is a a scaled, diffused structure that is siloed by internal organization. 
+
+As such, it is a patchwork of autonomous subsystems that, as a risk mitigating strategy , only respond to communications that speak their code and sometimes act independently but in full complement to shared system objective. 
 
 The question has been if the only way to make what is ethical actionable is to turn it into a processed code ('liability'), is there an alternative that prevents the distortion of that ethical frame from being consumed?
 
