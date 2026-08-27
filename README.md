@@ -6,7 +6,7 @@ In fact, it is possible that there is an inverse relationship between input and 
 
 As such, it is a patchwork of autonomous subsystems that, as a risk mitigating strategy , only respond to communications that speak their code and sometimes act independently but in full complement to shared system objective. 
 
-The question has been if the only way to make what is ethical actionable is to turn it into a processed code ('liability'), is there an alternative that prevents the distortion of that ethical frame from being consumed?
+The question has been if the only way to make what is ethical actionable is to turn it into a processed code ('liability'), is there an alternative that prevents the distortion of that ethical frame and being consumed?
 
 The April 16 partner admission was withheld during the candidacy, and the inquiry not liquidated after the april 22 assessment pass, because there was no negotiation. There was the discovery of a structural matter and a design to process the discovery to completion. If the institution then found itself interested, that would be a positive correlation. 
 
