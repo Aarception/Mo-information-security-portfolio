@@ -249,112 +249,125 @@ Attached is a copy of a
 
 ---
 
-## G. *![In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure): The Normative Framework*
+## G. *![In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure): 
 
+### <div align="center">NORMATIVE FRAMEWORK</div>
 
+---
 
-### *On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem*
+## <div align="center">On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem
+**Date:** June 26, 2026</div>
 
-### I. Purpose
+---
+
+## <div align="center"> I. Purpose
 
 This appendix provides the normative framework through which the established findings should be interpreted.
-It addresses the obligations that arise when representations of opportunity, alignment, or pathway participation concern reasonable reliance that presupposes some degree of corresponding operational coherence sufficient to sustain the meaning of the representation as it is reasonably understood.
 
-The purpose is not evidentiary expansion, but interpretive clarification.
+It addresses **the obligations that arise** when representations of opportunity, alignment, or pathway participation concern **Reasonable Reliance** that presupposes some degree of corresponding **Operational Coherence** sufficient to sustain the meaning of the representation as it is reasonably understood.
 
-It offers a structured analytical framework through which institutional communication, consumer interpretation, and operational architecture may be evaluated as a single, unified, coherent system.
+The purpose is not evidentiary expansion, but interpretive clarification. 
 
+It offers a **structured analytical framework** through which institutional communication, consumer interpretation, and operational architecture may be evaluated as a **single, unified, coherent system.**
 
-### II. Communication As a Feature
+---
 
-The structural condition identified is characteristic of a feature in which there is communication regarding:
+## <div align="center">II. Communication As a Feature
 
-- association between **opportunity** and **outcome** at the level of representation,
-- integration between **validation** and **verification** at the level of operation,
-- synergy between **promise** and **pathway** at the level of probabilistic framing,
-- linkage between **architecture** and **alignment** at the level of signaling.
+The structural condition identified is **characteristic of a feature** in which there is communication regarding specific systemic alignments:
 
-***This condition may produce an impression of systemic coordination which requires full substantiation with operational architecture.***
+| Feature | Communication |
+| :--- | :--- |
+| **Representation** | Association between *Opportunity and Outcome* |
+| **Operation** | Integration between *Validation and Verification* |
+| **Probabilistic Framing** | Synergy between *Promise and Pathway* |
+| **Signaling** | Linkage between *Architecture and Alignment* |
 
-It reflects a system in which opportunity products are positioned through narratives of recognition, access, and opportunity and their alignment and integration within opportunity evaluative mechanisms.
+> This condition may produce **an impression of systemic coordination** which requires full substantiation with operational architecture. 
 
+It reflects a system in which opportunity **products are positioned** through narratives of recognition, access, and opportunity and their alignment and integration within opportunity **evaluative mechanisms.**
 
-### III. Normative Considerations of Reliance
+---
 
-The relevant normative standard is one of representational correspondence.
+## <div align="center">III. Normative Considerations of Reliance
 
-In particular, when institutions communicate employer recognition, hiring alignment, pathway participation, or opportunity proximity, such representations should either:
+The relevant normative standard is one of **Representational Correspondence**. 
 
-- A.) correspond with verifiable operational mechanisms, or
-- B.) be clearly bounded to reflect their actual functional scope.
+**When institutions communicate** employer recognition, hiring alignment, pathway participation, or opportunity proximity, **such representations should either:**
+
+> **A.** Correspond with **verifiable** operational mechanisms, or
+
+> **B.** Be clearly **bounded** to reflect their actual functional scope.
 
 This principle does not extend institutional responsibility into labor-market dynamics or their uncertainties.
 
-It is normatively grounded in the ethics of reliance. 
+> *It is normatively grounded in the **ethics of reliance.***
 
-***When representations materially shape participation and decision-making, their operational meaning should remain legible.***
+When representations **materially shape participation** and decision-making, their **operational meaning should remain legible.**
 
-Accordingly, calibrated disclosure requires meaningful distinction between:
+Calibrated **disclosure requires** meaningful distinction between:
 
-- credential attainment,
-- signaling or visibility effects,
-- probabilistic labor-market positioning, and
-- the state of direct opportunity mechanism integration
+*   `Credential attainment`
+*   `Signaling or visibility effects`
+*   `Probabilistic labor-market positioning`
+*   `The state of direct opportunity mechanism integration`
 
-Where no such integration exists, representational framing should correspond to functional equivalence.
+> Where **no such integration exists,** representational framing should **correspond to functional equivalence.**
 
+---
 
-### IV. The Matter of Ambiguity in Governance
+## <div align="center">IV. The Matter of Ambiguity in Governance
 
-A structural reading of the dynamics reflected in this record identifies the condition of managing semantic determinacy.
+A structural reading of the dynamics reflected in this record identifies the condition of managing **Semantic Determinacy**. 
 
-***Under such a condition, value may be generated through representations that are sufficiently broad to support aspirational interpretation, where operational determinacy may reflect independence from any specific functional mechanism.***
+> **Under such a condition, value may be generated through representations that are sufficiently broad to support aspirational interpretation, where operational determinacy may reflect independence from any specific functional mechanism.**
 
-This does not necessarily imply intentional misrepresentation in the conventional sense.
+This does not necessarily imply intentional misrepresentation in the conventional sense. 
 
-***Rather, conditions arise in which consumers may reasonably infer forms of coordination that position functionally with the structure to fully define, or govern in totality.***
+**Rather, conditions arise in which consumers may reasonably infer forms of coordination that position functionally with the structure to fully define, or govern in totality.**
 
 Where:
 
--  A.) individuals reasonably interpret representational framing as meaningful enough to shape decision-making, 
--  B.) ambiguity in operational correspondence becomes ethically relevant.
+> **1.)** Individuals *reasonably interpret* representational framing as meaningful enough to shape decision-making,
 
-In this regard, as a matter of procedural inquiry, this document is significant as a record of a sustained attempt to resolve that ambiguity regarding representational claims and their operational meaning.
+> **2.)** Ambiguity in operational correspondence *becomes ethically relevant*.
 
-***What emerges is not merely concern with a single mechanism, but with the broader coherence of institutional architecture.***
+In this regard, as a matter of procedural inquiry, this document is significant as a **record of a sustained attempt** to resolve that ambiguity regarding representational claims and their operational meaning. 
 
-This is significant as a matter of systems and structures, and is necessary for ensuring reliability across representational framing, consumer interpretation, and operational structure.
+What emerges is not merely concern with a single mechanism, but with the **broader coherence of institutional architecture.**
 
-Representational integrity cannot be fully maintained unless functions can be identified for maintaining alignment between credential, communication, capability, and coherence.
+This is significant as a **matter of systems and structures,** and is necessary for ensuring reliability across representational framing, consumer interpretation, and operational structure. 
 
+> Representational integrity cannot be fully maintained unless functions can be identified for maintaining alignment between **Communication, Capability, and Coherence**.
 
-### V. Sustainable Trust And Economic Value
+---
 
-This appendix provides the normative framework through which the broader significance of the record may be understood.
+##  <div align="center">V. Sustainable Trust And Economic Value
 
-The evidentiary material establishes the factual and procedural basis of the inquiry. This framework clarifies its institutional relevance.
+This appendix provides the normative framework through which the broader significance of the record may be understood. 
 
-***At its core, the record raises a narrow but generalizable question:***
+The evidentiary material establishes the factual and procedural basis of the inquiry. This framework clarifies its **institutional relevance.**
 
-> When opportunity is represented as functionally connected to credential attainment, what obligations arise when individuals rely upon that representation in good faith?
+At its core, the record raises a narrow but generalizable question:
 
-***The position advanced here is restrained but rigorous.***
+> **When opportunity is represented as functionally connected to credential attainment, what obligations arise when individuals rely upon that representation in good faith?**
+
+The position advanced here is **restrained but rigorous.**
 
 It does not:
+* `assert guaranteed outcomes,`
+* `assign fault for labor-market uncertainty, or`
+* `propose determinism in employment systems.`
 
-- assert guaranteed outcomes,
-- assign fault for labor-market uncertainty,
-- propose determinism in employment systems.
+It advances the **reasonable principle** requiring coherence between **Representation, Reliance, and Reality**. 
 
-***It advances the reasonable principle requiring coherence between representation, reliance, and reality.***
+| Conceptual | Material |
+| :--- | :--- |
+| *Framing* | *Capacity* |
+| *Promise* | *Mechanism* |
+| *Implication* | *Structure* |
 
-Between:
-
-- framing and capacity,
-- promise and mechanism,
-- implication and structure.
-
-***This requirement is minimal, but foundational for sustainable trust, participation, and economic value derived from representations of opportunity.***
+This requirement is **minimal, but foundational** for sustainable trust, participation, and economic value derived from representations of opportunity.
 
 
 
