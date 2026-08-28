@@ -1,4 +1,4 @@
-I am going to seek legal advice about initiating legal and civil claims against the Institution, not for the original inquiry, which I have ruled out, but in the response. I have hundreds of pages of documentation that unambiguously and compellingly return evidence of personally-targeted, harm-based, structural impact that were sanctioned, and directed through consequential decision-making as an anti-accountability, obligation-mitigating playbook responding and attempting to possibly delegitimize the procedural standing of the inquiry.
+I am going to seek legal advice not for the original inquiry, which I have ruled out and which is a structural matter, but in the response separately as an actionable matter. I have hundreds of pages of documentation that unambiguously and compellingly return evidence of personally-targeted, harm-based, structural impact that were sanctioned, and directed through consequential decision-making as an anti-accountability, obligation-mitigating playbook responding and attempting to possibly delegitimize the procedural standing of the inquiry.
 
 Enough is enough.
 
