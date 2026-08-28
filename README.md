@@ -1,8 +1,8 @@
-I am going to seek legal advice not for the original inquiry, which I have ruled out and which is a structural matter, but in the response separately as an actionable matter. I have hundreds of pages of documentation that unambiguously and compellingly return evidence of personally-targeted, harm-based, structural impact that were sanctioned, and directed through consequential decision-making as an anti-accountability, obligation-mitigating playbook responding and attempting to possibly delegitimize the procedural standing of the inquiry.
+I am going to seek legal advice not for the original inquiry, which I have ruled out and which is a structural matter, but in the response separately as an actionable matter. I have hundreds of pages of documentation that unambiguously and compellingly return evidence of allowed sanction, directed through consequential effectuation, possibly as a playbook responding and attempting to impact procedural standing.
 
 Enough is enough.
 
-The institution gave me consideration in the inquiry, individual decision-makers may have attempted to give me suppression as an immune-response in reaction.
+The institution gave consideration in the inquiry, individual allowance may have sanctioned against relieve in reaction.
 
 ---
 
