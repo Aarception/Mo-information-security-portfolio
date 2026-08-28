@@ -1,13 +1,14 @@
-## The Issue of The Structural Matter ('Inquiry') Is Concluded, It Was About The System, Now The Response To The Inquiry, Which is About Individual Decision-Making As A Harm-Based Response To a Sui Generis Redress From Structural Injury (04/28/2026—)
+## The Issue of The Structural Matter ('Inquiry') Is Concluded, It Was About The System, Now The Response To The Inquiry, Which is About Individual Decision-Making As A Harm-Based Response To a Sui Generis Petition For Redress From Structural Injury (04/28/2026—)
 
-*EMERGENT:ASPIRATION PROTECTIONS MAY REQUIRE FOCUSING ACCOUNTABILITY FROM INSTITUTIONAL FRAMING TO INDIVIDUAL DECISION-MAKING IN LINE WITH HUMAN RIGHTS-ADJACENT IMPACT STANDARDS*
+Baseline ![1](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Unsuppressed.png)
+
+Anamoly ![2](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Divergence.png)
+
+### *EMERGENT:ASPIRATION PROTECTIONS MAY REQUIRE FOCUSING ACCOUNTABILITY FROM INSTITUTIONAL FRAMING TO INDIVIDUAL DECISION-MAKING IN LINE WITH HUMAN RIGHTS-ADJACENT IMPACT STANDARDS*
 
 TThe Culminating Report To Be Produced Tomorrow, Friday August 28, 2028.
 
-
-> Addendum: Having unarchived to fix a date error, I have decided that it would be a disservice to the subject matter of Aspiration, were I to politically base evidence disclosure. As such, while making sure to abide by all PIH responsibilities, all consideration obligations. and the interest of due process, I will affix a folder within Trust-infrastructure  wherein all the anamolous but analogous temporally-relevant documented artifacts will be archived.>
-> Archived August 27, 2026 at 11:26 AM PT. This matter is permanently closed. Nothing further will contribute to its process, purpose, or procedure. 
-
+---
 
 # <div align="center"> Aspiration Cannot Be Governed As An Information Product, When Digitally Sold As A Consumer Good.
 
