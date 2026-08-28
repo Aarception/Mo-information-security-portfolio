@@ -1,8 +1,10 @@
-I am going to seek legal advice not for the original inquiry, which I have ruled out and which is a structural matter, but in the response separately as an actionable matter. I have hundreds of pages of documentation that unambiguously and compellingly return evidence of allowed sanction, directed through consequential effectuation, possibly as a playbook responding and attempting to impact procedural standing.
+***Update: After a comprehensive review, I have decided to not deviate from established pathway. All legal and civil claims regarding the inquiry were ruled out on March 19, 2026. While I do have some reservations regarding various happenstances during the post-inquiry, ultimately I do recognize that it was a dynamic and complex process, so let me just say even if there might have been anomalies in the response, I will state now that I have chosen to forgive and look past any perceived impact. Truly, I am not convinced the institution intentionally attempted an adverse design.***
 
-Enough is enough.
-
-The institution gave consideration in the inquiry, individual allowance may have sanctioned against relief in reaction.
+ ̶I̶ ̶a̶m̶ ̶g̶o̶i̶n̶g̶ ̶t̶o̶ ̶s̶e̶e̶k̶ ̶l̶e̶g̶a̶l̶ ̶a̶d̶v̶i̶c̶e̶ ̶n̶o̶t̶ ̶f̶o̶r̶ ̶t̶h̶e̶ ̶o̶r̶i̶g̶i̶n̶a̶l̶ ̶i̶n̶q̶u̶i̶r̶y̶,̶ ̶w̶h̶i̶c̶h̶ ̶I̶ ̶h̶a̶v̶e̶ ̶r̶u̶l̶e̶d̶ ̶o̶u̶t̶ ̶a̶n̶d̶ ̶w̶h̶i̶c̶h̶ ̶i̶s̶ ̶a̶ ̶s̶t̶r̶u̶c̶t̶u̶r̶a̶l̶ ̶m̶a̶t̶t̶e̶r̶,̶ ̶b̶u̶t̶ ̶i̶n̶ ̶t̶h̶e̶ ̶r̶e̶s̶p̶o̶n̶s̶e̶ ̶s̶e̶p̶a̶r̶a̶t̶e̶l̶y̶ ̶a̶s̶ ̶a̶n̶ ̶a̶c̶t̶i̶o̶n̶a̶b̶l̶e̶ ̶m̶a̶t̶t̶e̶r̶.̶ ̶I̶ ̶h̶a̶v̶e̶ ̶h̶u̶n̶d̶r̶e̶d̶s̶ ̶o̶f̶ ̶p̶a̶g̶e̶s̶ ̶o̶f̶ ̶d̶o̶c̶u̶m̶e̶n̶t̶a̶t̶i̶o̶n̶ ̶t̶h̶a̶t̶ ̶u̶n̶a̶m̶b̶i̶g̶u̶o̶u̶s̶l̶y̶ ̶a̶n̶d̶ ̶c̶o̶m̶p̶e̶l̶l̶i̶n̶g̶l̶y̶ ̶r̶e̶t̶u̶r̶n̶ ̶e̶v̶i̶d̶e̶n̶c̶e̶ ̶o̶f̶ ̶a̶l̶l̶o̶w̶e̶d̶ ̶s̶a̶n̶c̶t̶i̶o̶n̶,̶ ̶d̶i̶r̶e̶c̶t̶e̶d̶ ̶t̶h̶r̶o̶u̶g̶h̶ ̶c̶o̶n̶s̶e̶q̶u̶e̶n̶t̶i̶a̶l̶ ̶e̶f̶f̶e̶c̶t̶u̶a̶t̶i̶o̶n̶,̶ ̶p̶o̶s̶s̶i̶b̶l̶y̶ ̶a̶s̶ ̶a̶ ̶p̶l̶a̶y̶b̶o̶o̶k̶ ̶r̶e̶s̶p̶o̶n̶d̶i̶n̶g̶ ̶a̶n̶d̶ ̶a̶t̶t̶e̶m̶p̶t̶i̶n̶g̶ ̶t̶o̶ ̶i̶m̶p̶a̶c̶t̶ ̶p̶r̶o̶c̶e̶d̶u̶r̶a̶l̶ ̶s̶t̶a̶n̶d̶i̶n̶g̶.̶
+̶
+̶E̶n̶o̶u̶g̶h̶ ̶i̶s̶ ̶e̶n̶o̶u̶g̶h̶.̶
+̶
+̶T̶h̶e̶ ̶i̶n̶s̶t̶i̶t̶u̶t̶i̶o̶n̶ ̶g̶a̶v̶e̶ ̶c̶o̶n̶s̶i̶d̶e̶r̶a̶t̶i̶o̶n̶ ̶i̶n̶ ̶t̶h̶e̶ ̶i̶n̶q̶u̶i̶r̶y̶,̶ ̶i̶n̶d̶i̶v̶i̶d̶u̶a̶l̶ ̶a̶l̶l̶o̶w̶a̶n̶c̶e̶ ̶m̶a̶y̶ ̶h̶a̶v̶e̶ ̶s̶a̶n̶c̶t̶i̶o̶n̶e̶d̶ ̶a̶g̶a̶i̶n̶s̶t̶ ̶r̶e̶l̶i̶e̶f̶ ̶i̶n̶ ̶r̶e̶a̶c̶t̶i̶o̶n̶
 
 ---
 
