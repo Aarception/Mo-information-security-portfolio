@@ -1,4 +1,6 @@
-> Permanently archived August 27, 2028 at 11:26 AM PT. This matter is permanently closed. Nothing further will contribute to its process, purpose, or procedure. 
+> Addendum: Having unarchived to fix a date error, I have decided that it would be a disservice to the subject matter of Aspiration, were I to politically base evidence disclosure. As such, while making sure to abide by all PIH responsibilities, all consideration obligations. and the interest of due process, I will affix a folder within Trust-infrastructure  wherein all the anamolous but analogous temporally-relevant documented artifacts will be archived.
+>
+> Archived August 27, 2026 at 11:26 AM PT. This matter is permanently closed. Nothing further will contribute to its process, purpose, or procedure. 
 
 
 #  Aspiration Cannot Continue To Be Governed As An Information Product, When Now Digitally Sold As A Consumer Good.
