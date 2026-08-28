@@ -1,4 +1,4 @@
-## The Issue of The Structural Matter ('Inquiry') Is Concluded, It Was About The System, Now The Response To The Inquiry, Which is About Individual Decision-Making As A Harm-Based Reaction To a Sui Generis Petition For Redress From Structural Impact (04/28/2026—)
+## The Issue of The Structural Matter ('Inquiry') Is Concluded, It Was About The System, Now The Response To The Inquiry, Which is About Individual Decision-Making As A Harm-Based Reaction To a Sui Generis Petition For Redress From Structural Impact (04/28/2026—TBD)
 
 Baseline ![1](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Unsuppressed.png)
 
