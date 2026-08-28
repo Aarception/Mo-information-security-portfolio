@@ -2,7 +2,7 @@ I am going to seek legal advice not for the original inquiry, which I have ruled
 
 Enough is enough.
 
-The institution gave consideration in the inquiry, individual allowance may have sanctioned against relieve in reaction.
+The institution gave consideration in the inquiry, individual allowance may have sanctioned against relief in reaction.
 
 ---
 
