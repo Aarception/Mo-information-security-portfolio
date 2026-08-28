@@ -8,7 +8,7 @@ Anamoly ![2](https://github.com/Aarception/Mo-information-security-portfolio/blo
 
 The Documented Pattern Is Now So Established And Pervasive In Proximity To The Redress That It Will Have To Be Fully Engaged In A Culminating Report To Be Produced Tomorrow, Friday August 28, 2026.
 
-***A System that cannot process dignity,  cannot make a choice. Individual decision-makers make choices, including whether to process dignity or harm.***
+***A System that cannot process dignity,  cannot make a choice. Individual decision-makers make choices, including whether to process dignity or harm-based impact.***
 
 ---
 
