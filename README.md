@@ -3,9 +3,9 @@
 > Archived August 27, 2026 at 11:26 AM PT. This matter is permanently closed. Nothing further will contribute to its process, purpose, or procedure. 
 
 
-#  Aspiration Cannot Continue To Be Governed As An Information Product, When Now Digitally Sold As A Consumer Good.
+# <div align="center"> Aspiration Cannot Be Governed As An Information Product, When Digitally Sold As A Consumer Good.
 
-### *An Enterprise Is Not Capable of Dignity.*
+### *<div align="center">An Enterprise Is Not Capable of Dignity.*
 
 That is the single presiding axiom of this entire process. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. 
 
@@ -17,7 +17,7 @@ The question has been if the only way to make what is ethical actionable is to t
 
 The April 16 partner admission was withheld during the candidacy, and the inquiry not liquidated after the april 22 assessment pass, because there was no negotiation. There was the discovery of a structural matter and a design to process the discovery to completion. If the institution then found itself interested, that would be a positive correlation.
 
-### *An Enterprise Cannot Be Left To Govern Aspiration.*
+### *<div align="center">An Enterprise Cannot Be Left To Govern Aspiration.*
 
 Yet, as late as this very week, the system has proven difficulty with coming to that realization. ¹²³⁴⁵⁶⁷
 
@@ -44,14 +44,14 @@ I think the full results from this 'digital' participant observation will prove 
 
 ---
 
-## *Theoretical Resolution Is Representation, Minimum Viable Product*
+## <div align="center">*Theoretical Resolution Is Representation, Minimum Viable Product*
 ##### *Technical Implementation of the Normative Framework: [On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure)*
 
-### ***Universal Candidate Experience Improvement***
+### *<div align="center">**Universal Candidate Experience Improvement***
 
 ***1. Concern***: I hold the CompTIA Security+ SY0-701 certification which cost $500 in exam expenditure, and is mandatory for DoD-adjacent and/or contracted information security roles. Yet, there is often no way to represent the certification in the application interface layer.
 
-| Field                           | Type  |
+| Field     | Type  |
 | -----------------|-------------- | 
 | Name                | Security+   |
 | Issuer          | CompTIA   | 
@@ -101,11 +101,11 @@ Applicants may add multiple credentials.
 
 ***8. Recommendation***: This should be treated as a **forward-looking information architecture improvement** for **universal candidate experience improvement**, that has no bearing on hiring policy.
 
-#### *UCEI, THE PRODUCT WORTH THE PRODUCTION!*
+#### <div align="center">*UCEI, THE MINIMUM FIX!*
 
 ---
 
- ## A. *State Conclusion: Friday, August 28, 2026*
+ ## A. <div align="center">*State Conclusion: Friday, August 28, 2026*
 
 The burden of responsibility is being fully transferred to the ecosystem this week.
 
@@ -114,19 +114,19 @@ This Friday will validate constructive engagement, upon having distributed due d
 
 ---
 
- ## B. *Impact ≠ Intent | Prospect ≠ Posture | Resolution ≠ Risk*
+ ## B. <div align="center">*Impact ≠ Intent | Prospect ≠ Posture | Resolution ≠ Risk*
 
 > #### ***Public Note: My research is made available for the purpose of structural correction, or, in lieu of it, satisfaction of due diligence, having ruled out litigation, all civil and legal claims, and all external juridical-state escalation. This scope is limited to the institution and the concerned, with contribution that has been mission-driven in support of a system that sustains long-term development and growth, done so with respect, civility,  dignity, and the utmost of consideration.***
 
 ---
 
-## C. *Resolution May Possibly Have Been Observed By Reservation*
+## C. <div align="center">*Resolution May Possibly Have Been Observed By Reservation*
 
 ![Capture](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Risk_Mitigation_Capture_Paradox.png)
 
 ---
 
-## D. *Resolution Charted A More Resilient Course*
+## D. <div align="center">*Resolution Charted A More Resilient Course*
 
 
 *Resolution-seeking has become such a cynical and adversarial process in corporate America that a decision has been made to officially postmark a letter to Alphabet's Board of Directors, in particular the Audit and Risk and Compliance Committees:*
@@ -158,7 +158,7 @@ Mountain View, CA 94043
 ---
 
 
-## E. *Scoped-Period Commentary Regarding Context And Process*
+## E. *<div align="center">Scoped-Period Commentary Regarding Context And Process*
 *Regarding the Record from March 17, 2026 — May 7, 2026*
 
 
@@ -200,7 +200,7 @@ If the candidacy was legitimate opportunity prospecting that was distinct to the
 
 
 ---
-## F. *A Letter to Leadership*
+## F. <div align="center">*A Letter to Leadership*</div>
 
 #### ***Dear Alphabet Inc.,***
 
@@ -249,14 +249,11 @@ Attached is a copy of a
 
 ---
 
-## G. *![In The Defense of Aspiration](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure): 
-
-### <div align="center">NORMATIVE FRAMEWORK</div>
+## G. <div align="center"> *![IN THE DEFENSEOF ASPIRATION:](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure) <div align="center">THE NORMATIVE FRAMEWORK*
 
 ---
 
-## <div align="center">On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem
-**Date:** June 26, 2026</div>
+### <div align="center">On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem</div>
 
 ---
 
