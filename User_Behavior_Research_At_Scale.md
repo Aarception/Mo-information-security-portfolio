@@ -1,6 +1,6 @@
 I will not be applying. The institution has already returned structural banishment on June 17. Everything else, short of directly contacting given the quantity of assessment material under disposal, is only risk to publishing and why should the institution in any case—regardless of intention, the impact of the inquiry was adversarially received, irrespective of legal escalation waiver. Just the same as the structural matter that precipitated the inquiry. In this way, both the institution and I now reflect how impact can be brought into existence disparate to the question of intent. And this can be stated without malice or grievance. 
 
-Intentionally and consciously, I choose to be an ethical person. 
+Intentionally and consciously, I choose to be an ethical person. I only signal what I mean. When it looks like I am being peculiarly deferential to institution, I am deferring to ethics. When it looks like I am undercutting myself, I am championing what is ethical.
 
 job detailsBack to jobs searchUX Quantitative Researcher IIcorporate_fare
 Google
