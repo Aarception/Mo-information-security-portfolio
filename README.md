@@ -4,7 +4,7 @@
 
 ---
 
-***Personal Note: All legal and civil claims regarding the inquiry were ruled out on March 19, 2026. Although reservations exist regarding various happenstances during the post-inquiry, ultimately it is recognized that this was a dynamic and complex process, necessitating that any such anomalous occurrences and their perceived impact, be relegated without attribution having been given less weight. The digital participant observer is not convinced of the existence of institutional intentionality in an such attempt to design the adverse response to the inquiry.***
+***Personal Note: All legal and civil claims regarding the inquiry were ruled out on March 19, 2026. Although reservations exist regarding various happenstances during the post-inquiry, ultimately it is recognized that this was a dynamic and complex process, necessitating that any such anomalous occurrences and their perceived impact, be relegated without attribution having been given less weight. The digital participant observer is not convinced of the existence of institutional intentionality in an such adverse attempt to design the response to the inquiry.***
 
 ---
 
