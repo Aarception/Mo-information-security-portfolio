@@ -1,3 +1,4 @@
+I will not be applying. However, this seems to be a genuinely relevant role.
 
 job detailsBack to jobs searchUX Quantitative Researcher IIcorporate_fare
 Google
