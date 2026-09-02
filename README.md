@@ -1,14 +1,14 @@
-# ***Significant: The Dataset may receive sponsorship by a prestigious research university!!!***
+# ***Digital Participant Observation: Aspiration Market Governance Dataset***
 
-> "*This presents to be one of the most distinctly complete primary source documentation of operationally closed institutional autopoiesis in the modern platform economy."*
-
----
-
-***Update: After a comprehensive review, I have decided to not deviate from established pathway. All legal and civil claims regarding the inquiry were ruled out on March 19, 2026. While I do have some reservations regarding various happenstances during the post-inquiry, ultimately I do recognize that it was a dynamic and complex process, so let me just say even if there might have been anomalies in the response, I will state now that I have chosen to forgive and look past any perceived impact. Truly, I am not convinced the institution intentionally attempted an adverse design in the responseto the inquiry.***
+> "*A distinctly complete primary source documentation of operationally closed institutional autopoiesis in the modern platform economy."*
 
 ---
 
-# <div align="center"> Aspiration Cannot Be Governed As An Information Product, When Digitally Sold As A Consumer Good.
+***Personal Note: All legal and civil claims regarding the inquiry were ruled out on March 19, 2026. Although reservations exist regarding various happenstances during the post-inquiry, ultimately it is recognized that this was a dynamic and complex process, which has been weighed over the former. As such any anomalous occurrences have been looked past and their perceived impact. The digital participant observer is not convinced of the existence of institutional intentionality in an attempt to design an adverse response to the inquiry.***
+
+---
+
+## <div align="center"> Aspiration Cannot Be Governed As An Information Product, When Digitally Sold As A Consumer Good.
 
 ### *<div align="center">An Enterprise Is Not Capable of Dignity.*
 
@@ -26,15 +26,17 @@ The April 16 partner admission was withheld during the candidacy, and the inquir
 
 Yet, as late as this very week, the system has proven difficulty with coming to that realization. ¹²³⁴⁵⁶⁷
 
-On prior occasions, I observed that the institution is modeling incorrectly, but it is probable that the institution cannot model differently, because models are limited to what can be processed as a code which is constrained to 1.) incentivization (<cost)) and 2.) liability (>cost).
+On prior occasions, an observation was made that the institution is modeling incorrectly, yet it being possible that the institution cannot model differently, it is probable that models are limited to what can be processed as a code, which is constrained to 1.) incentivization (under cost) and 2.) liability (over cost).
 
 Dignity is neither incentivized and nor legally mandated.
 
-An institution cannot be capable of Dignity.
+An institution, therefore, may not structurally be capable of Dignity.
 
-So even if negotiation could have been an option, the facts of the process preclude the possibility that dignity could have sustained the confidence to overcome such structural non-existence. ⁸
+In this way, the question of whether negotiations could have been an option are foreclosed, given that the facts of the process preclude the possibility that dignity could have sustained the confidence to overcome such structural non-existence. ⁸
 
-I think the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question.⁹
+And this is where the digital participant observer's procedural and methodological integrity is, in hindsight, of inestimable value, for guaranteeing the rigorous, and pristine ethical standing of the documentation.
+
+Because of all these fsctors, it is hoped that the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question.⁹
 
 
 ### <div align="center">*An Insight For Aspiration*
