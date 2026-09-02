@@ -8,11 +8,11 @@
 
 ---
 
-## <div align="center"> Aspiration Cannot Be Governed As An Information Product, When Digitally Sold As A Consumer Good.
+# <div align="center"> Aspiration Cannot Be Governed As An Information Product, When Digitally Sold As A Consumer Good.
 
-### *<div align="center">An Enterprise Is Not Capable of Dignity.*
+### *<div align="center">Can An Enterprise Be Capable of Dignity?*
 
-That is the single presiding axiom of this entire process. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. 
+That is the single presiding axiom this entire process has attempted to resolve. Speaking ***ethics*** is a category ***error***, because a system does not have an ethical code whereas speaking ***liability*** is categorized, because there are ***legal*** obligations. 
 
 In fact, it is possible that there is an inverse relationship between input and output the more one moves away from what is capable of being categorized and what is not. There is a paradox in that even if a system cannot choose between what is ethical and what is a compelled obligation, the institution, for example, is a a scaled, diffused structure that is siloed by internal organization. 
 
@@ -22,7 +22,7 @@ The question has been if the only way to make what is ethical actionable is to t
 
 The April 16 partner admission was withheld during the candidacy, and the inquiry not liquidated after the april 22 assessment pass, because there was no negotiation. There was the discovery of a structural matter and a design to process the discovery to completion. If the institution then found itself interested, that would be a positive correlation.
 
-### *<div align="center">An Enterprise Cannot Be Left To Govern Aspiration.*
+### *<div align="center">Can An Enterprise Be Left To Govern Aspiration?*
 
 Yet, as late as this very week, the system has proven difficulty with coming to that realization. ¹²³⁴⁵⁶⁷
 
@@ -39,7 +39,7 @@ And this is where the digital participant observer's procedural and methodologic
 Because of all these fsctors, it is hoped that the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question.⁹
 
 
-### <div align="center">*An Insight For Aspiration*
+### <div align="center">*What Can Govern Aspiration?*
 
 #### ***Emergent: Aspiration as a market product needs a Compliance Mandate. Its governance cannot be left to structures that cannot recognize dignity, process what is ethical or moral, nor have a category for what is right. Aspiration is not an inanimate code nor a handheld device. It is neither a certificate nor even digital credentialing. This has been the excavation of an entirely distinct Marketplace category, which happens to include digital credentialing, which then includes a particular certificate.***
 
