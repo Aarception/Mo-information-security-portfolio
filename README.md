@@ -34,7 +34,7 @@ An institution, therefore, may not structurally be capable of Dignity.
 
 In this way, the question of whether negotiations could have been an option are foreclosed, given that the facts of the process preclude the possibility that dignity could have sustained the confidence to overcome such structural non-existence. ⁸
 
-The digital participant observer's procedural and methodological rigor is, in this manner and in hindsight, of inestimable value, for having guaranteed the pristine integrity and ethical standing of the documentation and process.
+The digital participant observer's procedural and methodological rigor is, in this manner and in hindsight, of inestimable value, for having guaranteed the ethical standing of the documentation and process.
 
 It is hoped that the full results from this 'digital' participant observation will prove very enlightening, even to the very institution in question.⁹
 
