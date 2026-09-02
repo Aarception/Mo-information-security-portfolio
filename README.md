@@ -66,7 +66,7 @@ It is hoped that the full results from this 'digital' participant observation wi
 
 ### *<div align="center">**Universal Candidate Experience Improvement***
 
-***1. Concern***: I hold the CompTIA Security+ SY0-701 certification which cost $500 in exam expenditure, and is mandatory for DoD-adjacent and/or contracted information security roles. Yet, there is often no way to represent the certification in the application interface layer.
+***1. Concern***: The CompTIA Security+ SY0-701 certification costs $500 in exam expenditure, and is mandatory for DoD-adjacent and/or contracted information security roles. Yet, there is often no way to represent the certification in the application interface layer.
 
 | Field     | Type  |
 | -----------------|-------------- | 
