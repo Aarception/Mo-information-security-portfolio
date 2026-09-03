@@ -54,7 +54,7 @@ An institution, therefore, may not structurally be capable of Dignity.
 >
 In this way, the question of whether negotiations could have been an option are foreclosed, given that the facts of the process preclude the possibility that dignity could have sustained the confidence to overcome such structural non-existence. ⁸
 
-Everyday the institution has been unable to process dignity, unable to engage the aspirant, unable to recognize its role as an issuer, has been one more validation of Aspiration as a distinct market category.⁹
+Everyday the institution has been unable to recognize, process, or  engage has been one more validation of Aspiration as a distinct market category.⁹
 
 The digital participant observer's procedural and methodological rigor is, in this manner and in hindsight, of inestimable value, for having guaranteed the ethical standing of the documentation and process.
 
@@ -74,7 +74,7 @@ It is hoped that the full results from this 'digital' participant observation wi
 ##### ⁶ Google Trust and Safety: 5/7/2026
 ##### ⁷ Alphabet Board of Directors: 8/13/2026
 ##### ⁸ The observations establish that the conflation of opportunity prospect with structural inquiry could be inversely operationalized relationship independent relative to motivation and intent.
-##### ⁹ This is demonstrated by every channel that was not utilized, every acknowledgment that was not made, every offer that went unrecognized, and every allocation made in response to the compliance need created by the identification of the structural matter, while structurally erasing or banishing the identity of its source. It is not clear what evidence-based determination exists to justify the observed strategy possibly other than any response architecture divorced from liability processing may also be structurally non-existent.
+##### ⁹ This is demonstrated by every channel that was not utilized, every acknowledgment that was not made, every offer that went unrecognized, and every allocation made in response to the compliance need created by the identification of the structural matter, while structurally erasing its source. It is not clear what evidence-based determination exists to justify the observed strategy possibly other than any response architecture divorced from liability processing may also be structurally non-existent.
 ##### ¹⁰ Digital Participant Observation (Digital PO): A longitudinal research methodology in which the investigator participates in a digital institutional system (platform, program, pipeline) while simultaneously documenting the divergence between the system's interface-layer representations and its runtime execution behaviors. The investigator treats their own subjectivity as primary-source data, their emotional state as an indicator of system alignment, and their institutional interactions as artifacts for structural analysis
 ##### ¹¹ Digital PO is provided as an open source digital fact-finding framework at scale. Any certificate holder, bootcamp graduate, online learner, or digital researcher can apply a proven, structured methodology for auditing any digital platform, digital product, or digital surface. Digital PO is cost-effective and efficient requiring only a Github repo, email, and minimal physical hardware. It is professional, external auditing made universally available and digitally accessible. 
 | Type              | Role              | Data                                       | Output                    |
