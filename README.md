@@ -12,7 +12,8 @@
 
 ---
 
-# <div align="center"> Aspiration Cannot Be Governed As An Information Product, When Digitally Sold As A Consumer Good.
+## <div align="center"> Aspiration Cannot Be Governed As An Information Product Nor Sold As A Consumer Good, When Marketed As A Structural Determinant Of Economic Mobility.
+######  *`Aspiration Product: A class of structural determinants of economic mobility, i.e. credentials, bootcamps, employment certification, which are consumer good adjacent, submerged as an information product, but differentiated and distinct market category.`*
 
 ### *<div align="center">Can An Enterprise Be Capable of Dignity?*
 
