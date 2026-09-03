@@ -223,7 +223,7 @@ If the candidacy was legitimate opportunity prospecting that was distinct to the
 ---
 ## F. <div align="center">*A Letter to Leadership*</div>
 
-#### ***Dear Alphabet Inc.,***
+### ***Dear Alphabet Inc.,***
 
 I am writing concerning the Google Career Certificates program.
 
@@ -270,9 +270,9 @@ Attached is a copy of a
 
 ---
 
-## G. <div align="center"> *![IN THE DEFENSEOF ASPIRATION:](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure) <div align="center">THE NORMATIVE FRAMEWORK*
+## G. <div align="center"> *![IN THE DEFENSE OF ASPIRATION:](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/trust-infrastructure) <div align="center">THE NORMATIVE FRAMEWORK*
 
----
+
 
 ### <div align="center">On The Relationship Between Obligation and Representation and The Basis for Integrity in Their Exchange in The Digital Credential Ecosystem</div>
 
