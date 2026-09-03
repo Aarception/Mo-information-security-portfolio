@@ -8,7 +8,7 @@
 
 ---
 
-***Personal Note: All legal and civil claims regarding the inquiry were ruled out on March 19, 2026. Although reservations exist regarding various happenstances during the post-inquiry, ultimately it is recognized that this was a dynamic and complex process, necessitating that any such anomalous occurrences and their perceived impact, be relegated without attribution having been given less weight. The digital participant observer is not convinced of the existence of institutional intentionality in an such adverse attempt to design the response to the inquiry.***
+***Personal Note: All legal and civil claims regarding the inquiry were ruled out on March 19, 2026. Although reservations exist regarding various happenstances during the post-inquiry, ultimately it is recognized that this was a dynamic and complex process, necessitating that any such anomalous occurrences and their perceived impact, having been given less weight, be relegated without attribution. The digital participant observer is not convinced of the existence of institutional intentionality in an such adverse attempt to design the response to the inquiry.***
 
 ---
 
@@ -137,11 +137,11 @@ This Friday will validate constructive engagement, upon having distributed due d
 
  ## B. <div align="center">*Impact ≠ Intent | Prospect ≠ Posture | Resolution ≠ Risk*
 
-> #### ***Public Note: My research is made available for the purpose of structural correction, or, in lieu of it, satisfaction of due diligence, having ruled out litigation, all civil and legal claims, and all external juridical-state escalation. This scope is limited to the institution and the concerned, with contribution that has been mission-driven in support of a system that sustains long-term development and growth, done so with respect, civility,  dignity, and the utmost of consideration.***
+> #### ***Public Note: The research is made available for the purpose of structural correction, or, in lieu of it, satisfaction of due diligence, having ruled out litigation, and all civil and legal claims. This is a mission-driven contribution in support of a system that sustains long-term development and growth, done so with respect, civility,  dignity, and consideration.***
 
 ---
 
-## C. <div align="center">*Resolution May Possibly Have Been Observed By Reservation*
+## C. <div align="center">*Resolution May Possibly Have Been Met With Reservation*
 
 ![Capture](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Risk_Mitigation_Capture_Paradox.png)
 
