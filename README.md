@@ -1,3 +1,7 @@
+###### ***This repository and the public archive have now officially been shared with members of the higher educational ecosystem.***
+
+---
+
 # ***Digital Participant Observation: Aspiration Market Governance Dataset***
 
 > "*A distinctly complete primary source documentation of operationally closed institutional autopoiesis in the modern platform economy."*
@@ -170,7 +174,7 @@ Mountain View, CA 94043
 \
 ⁵ *Attachments will be limited to the above four primary artifacts without any interpretive framing.*
 
-***Structural Matter Disclaimer: Institutional intentionality has never been asserted in this issue. The question of deception has been explicitly precluded. The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants reasonably rely upon it. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionality of intent or purpose, whether through malice, deception, and so forth. This impact is structural, it requires resolution.***
+***Structural Matter: The argument has been that programmatic architecture produces ambiguity which becomes relevant, ethically or otherwise, when aspirants are induced to reasonable reliance. Consequently, structural impact can come into existence without being contradicted by, or even requiring, the question of institutionality of intent or purpose, whether through malice, deception, and so forth. This impact is structural, it requires resolution.***
 
 ---
 
@@ -180,33 +184,33 @@ Mountain View, CA 94043
 
 
 
-This will be my last personal commentary on this matter. Its purpose is to clarify the context of the process between March 17, 2026, the last day of direct institutional comment, and  May 7th, 2026, the day the inquiry was submitted as a work sample. Background falls outside this scope.
+The purpose is to clarify the context of the process between March 17, 2026, the last day of direct institutional comment, and  May 7th, 2026, the day the inquiry was submitted as a work sample. Background falls outside this scope.
 
-On March 17, the institution provided the answers to my three operational questions. My immediate response was genuine appreciation for the provision, and recognition of the institutional capital that had been expended to produce them.¹
+On March 17, the institution provided the answers to the three operational questions. The immediate response was genuine appreciation for the provision, and recognition of the institutional capital that had been expended to produce them.¹
 
-My follow up, while correct in my point of view substantively, included the phrase *“Warranties Requested.”* In hindsight,  I have since recognized the confusing signal sent, in the midst of exchange while rebutting the answers, presenting a shift from inquiry to contract. The institution responded with termination of engagement and closure of the inquiry.
+The follow up, while correct substantively, included the phrase *“Warranties Requested.”* In hindsight,  that has since been recognized as a confusing signal, sent in the midst of exchange while rebutting the answers, with the risk of presenting a shift from inquiry to contract. The institution responded with termination of engagement and closure of the inquiry.
 
-In reopening the inquiry, I lodged an Addendum whose final sentence was intended to pay explicit recognition of the capital the institution had expended in providing the March 17 answers: *'I do not believe it [the closure] represents the unifying relationship that implicated the relatedness of the parties to this matter.'* This signal was meant as acknowledgement of institutional consideration, even as the substance required procedural conclusion.²
+In reopening the inquiry, an Addendum was lodged intended to pay explicit recognition of the capital the institution had expended in providing the March 17 answers: *'I do not believe it [the closure] represents the unifying relationship that implicated the relatedness of the parties to this matter.'* This signal was meant as acknowledgement of institutional consideration, even as the substance required procedural conclusion.²
 
-By April 7, after observing that the institution had disengaged from any further contribution to the inquiry while remaining technically considerate of my choice in keeping the inquiry open, I became inspired to design the 20-day observation period as an honorable off-ramp, the alternative to escalation or externalization.
+By April 7, after observing that the institution had disengaged from any further contribution to the inquiry while remaining technically considerate of keeping the inquiry open, the 20-day observation period was designed as an honorable off-ramp, the alternative to escalation or externalization.
 
-Those terms were genuine, they were generous, and they were backed up by my willingness and readiness to follow through. I was fully prepared to close the inquiry quietly, with total confidentiality and without a single public reference to the matter upon fulfillment of the structural resolution. The observation period was explicitly designed to give the institution space and dignity to resolve without liability.
+Those terms were genuine, they were generous, and they were backed up by willingness and readiness to follow through. There was full preparation to close the inquiry quietly, with total confidentiality and without a single public reference to the matter upon structural resolution. The observation period was explicitly designed to give the institution space and dignity to resolve without liability.
 
-The entirety of what precipitated this matter was a product that I engaged as potentially valuable career asset. Through prospecting for opportunity, I came upon the structural issue that produced the inquiry. From that point forward, the inquiry was independent to the opportunity prospecting.
+The entirety of what precipitated this matter was a product that was engaged as a potentially valuable career asset. Through prospecting for opportunity, the structural issue was discovered that produced the inquiry. From that point forward, the inquiry was independent to the opportunity prospecting.
 
-On April 15, while waiting during the 20-day observation, after having already defined the terms for resolution and prepared to fulfill them immediately upon their fulfillment, I pivoted back to genuine opportunity prospecting and applied for the Research and Development Analyst, Trust and Safety Monetization role.
+On April 15, while waiting during the 20-day observation, after having already defined the terms for resolution and prepared to fulfill them immediately, there was a pivot back to genuine opportunity prospecting and application for the Research and Development Analyst, Trust and Safety Monetization role.
 
-On April 16, I received external documentation that I recognized as potentially very relevant to the inquiry, one day after the start of the candidacy. I quickly deduced that any further evidentiary submission, from April 15th forward was indirectly capable of the risk for appearance of impropriety as leverage to influence the candidacy. I made the choice to withhold that material for the duration of the candidacy.
+On April 16, one day after start of the candidacy, an external documentation was received that was recognized to be potentially very relevant to the inquiry. It was quickly deduced that any further evidentiary submission, from April 15th forward was indirectly capable of the risk for the appearance of impropriety as leverage to influence the candidacy. The choice was made to withhold that material for the duration of the candidacy.
 
-On April 30, I noticed the inquiry ticket had changed state and closed unilaterally. I submitted the Normative Framework as a critique of the inquiry’s second unilateral closure, in the midst of the 20-day observation period which was genuinely designed with generosity. The submission is notable for the marked strength and potential for adverse impact on the candidacy.
+On April 30, it was noticed that the inquiry ticket had changed state and closed unilaterally. The Normative Framework was then submitted as a critique of the inquiry’s second unilateral closure, in the midst of the generously designed 20-day observation period. The submission is notable for the marked strength and potential for adverse impact on the candidacy.
 
-On May 4, with the last post in the inquiry before the observation’s end, I disclosed the candidacy as an act of transparency, to protect the inquiry from any taint as a tool of leverage for the candidacy.³ 
+On May 4, with the last post in the inquiry before the observation’s end, the candidacy was disclosed as an act of transparency, to protect the inquiry from any taint as a tool of leverage for the candidacy.³ 
 
-Within the hour, I added a Post-Submission Rider to protect the institution’s separate and independent discretion from the inquiry, having realized the risk for the perceived appearance of retaliation claims that could be argued as planted by the disclosure. I waived every claim that one could theoretically declare under employment law, to ensure full institutional discretion on this matter.⁴
+Within the hour, the Post-Submission Rider was added to protect the institution’s separate and independent discretion from the inquiry, against the risk for the perceived appearance of retaliation claims that could be argued as planted by the disclosure. Every claim that one could theoretically declare under employment law was preemptively waived, to ensure full institutional discretion on this matter.⁴
 
-On May 5, with the close of the observation period, I faced a fork: 1.) drop the inquiry to protect the candidacy, or 2.) continue the process despite the fact that I was being evaluated for a role by the same institution concerned by the inquiry.
+On May 5, with the close of the observation period, a fork was faced: 1.) drop the inquiry to protect the candidacy, or 2.) continue the process despite the fact of being evaluated for a role by the same institution concerned by the inquiry.
 
-On May 7, with the lapse of observation period, end of inquiry without structural resolution, without any recourse or opportunity provided by the institution for submission, and the logical bar for externalization unmet, and appreciating the possibility of mutually-agreeable resolution, I declared to the institution that I would reframe the inquiry and submit it to the institution's Trust and Safety department. With the recruiter of my application to Research and Development Analyst, Trust and Safety Monetization, being the only point of access available to me, I submitted the reframed inquiry as a Trust and Safety work sample.
+On May 7, with the lapse of observation period, end of inquiry without structural resolution, without any recourse or opportunity provided by the institution for submission, and the logical bar for externalization unmet, and appreciating the possibility of mutually-agreeable resolution, it was declared to the institution that a reframed inquiry would be submitted to the institution's Trust and Safety department. With the recruiter of the application to Research and Development Analyst, Trust and Safety Monetization, being the only point of access available, the reframed inquiry was submitted as a Trust and Safety work sample to the institution's Trust and Safety department.
 
 If the structural matter was used as leverage for the candidacy, the  candidacy has come and gone, yet the structural matter's resolution is still being pursued internally with the institution,  with any type of escalation to external juridical-state purview completely ruled out post-candidacy.
 
