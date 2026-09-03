@@ -188,7 +188,7 @@ The purpose is to clarify the context of the process between March 17, 2026, the
 
 On March 17, the institution provided the answers to the three operational questions. The immediate response was genuine appreciation for the provision, and recognition of the institutional capital that had been expended to produce them.¹
 
-The follow up, while correct substantively, included the phrase *“Warranties Requested.”* In hindsight,  that has since been recognized as a confusing signal sent in the midst of exchange rebutting the answers, with a risk for presenting a shift from inquiry to contract. The institution responded with termination of engagement and closure of the inquiry.
+The follow up, while correct substantively, included the phrase *“Warranties Requested.”* In hindsight,  that has since been recognized as a confusing signal, sent in the midst of exchange while rebutting the answers, with a risk for presenting a shift from inquiry to contract. The institution responded with termination of engagement and closure of the inquiry.
 
 In reopening the inquiry, an Addendum was lodged intended to pay explicit recognition of the capital the institution had expended in providing the March 17 answers: *'I do not believe it [the closure] represents the unifying relationship that implicated the relatedness of the parties to this matter.'* This signal was meant as acknowledgement of institutional consideration, even as the substance required procedural conclusion.²
 
