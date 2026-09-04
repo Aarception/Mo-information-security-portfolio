@@ -23,7 +23,7 @@ as a professional.
 
 My identity is not the discovery of a matter, who then imagines entitlement to a half million dollar role.
 
-I have said institutional resolution was always preferred and reapplication is demonstration to the same role, with the same application, and the same temporal scope.
+I have said institutional resolution was always preferred and reapplication is the demonstration: to the same exact precipitating role, with the same application, and the same temporal scope.
 
 It also closes the loop, regardless of outcome.
 
