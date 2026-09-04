@@ -14,10 +14,16 @@ The application was rigorous, but humble. It made no claims and identified nothi
 
 The methodology is part of my production and it is extremely relevant to research.
 
-If the question is how can the institution evaluate the source ofnthe structural matter's identification, 
-there is already empirical evidence to theorize the institution is already evaluating as demonstrated by
-github repo clones amd my statistical comparisons to particular updates (which also then becomes further 
-comparison for further controls).
+If the question is how can the institution evaluate the source of the structural matter's identification, 
+there is already empirical evidence to theorize the institution hads been evaluating as demonstrated by
+github repo clones amd my statistical comparisons to particular updates (which also then becomes further factors for further comparisons).
 
 Just because I identified a structural matter does not mean I cannot defer to institutional decision-making 
 as a professional. 
+
+My identity is not the discovery of a matter, who then imagines entitlement to a half million dollar role.
+
+I have said institutional resolution was always preferred and reapplication is demonstration to the same role, with the same application, and the same temporal scope.
+
+It also closes the loop, regardless of outcome.
+
