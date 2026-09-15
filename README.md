@@ -1,4 +1,4 @@
-This was the repository as it stood on August 20, 2026 — one week into the last boundary traversal of this process; that of the Board Governance Boundary.
+This was the repository as it stood on August 20, 2026 — one week into the last boundary traversal of this process; that of the Board Governance Boundary (August 14-September 14).
 
 At each boundary traversal, a control was established
 
