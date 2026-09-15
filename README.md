@@ -28,6 +28,7 @@ Without accusation or advocacy, chronology and context will be considered. Be mi
 ![el](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Clones_same_period.png)
 
 Finally, I am sending those ecosystem letters tomorrow with the last undisclosed piece of evidence that will not be presented to the institution, considering there is no mechanism to receive a structural signal to resolve it.
+
 ---
 
 
