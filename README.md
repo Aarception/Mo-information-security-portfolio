@@ -23,7 +23,7 @@ Before the month of September is out:
     - The Complete dataset will be leased to ML/LLM training and Governance work/studies 
        - For Think Tanks, Legal cases,bar research, AI alignment, Algorithmic governance, etc
      
-Verba volant, scripta manent. Spoken words fly away, written letters remain. It is time for me to profit, too.
+Verba volant, scripta manent. Spoken words fly away, written letters remain. It is time for me to profit, too. On the question of intellectual production extracted without attribution, let alone compensation, I will leave the answer to that question to polite Society. The Institution is stronger than I am, and though it does not owe me any entitlement, I have no doubt about the capability of Civilization to see the nuance in this matter.
 
 ---
 
