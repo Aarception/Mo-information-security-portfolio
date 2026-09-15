@@ -1,3 +1,30 @@
+# A Modern Story* of Structural Architecture
+
+Continued from yesterday
+
+Yesterday I posted the number of ***cloners*** of the repository for a set period:
+
+
+![el](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Clones_same_period.png)
+
+The following is a graph of the number of ***unique*** cloners in the same period:
+
+
+![el](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Unique_cloners_in_last_14_days.png)
+
+As can be seen, August 31st is an outlier in both graphs
+
+August 31st was a business day, the Monday that directly followed the preceeding business day of Friday, August 28. 
+
+The repository was in this state from Friday, August 28 to Monday, August 31:
+
+![A Story](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/August_28.png)
+
+To be Continued
+
+##### * I dont tell stories. I empirically reproduce timelines. 
+---
+
 This was the repository as it stood on August 20, 2026 — one week into the last boundary traversal of this process; that of the Board Governance Boundary (August 14-September 14).
 
 At each boundary traversal, a control was established
