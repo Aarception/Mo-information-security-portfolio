@@ -27,6 +27,12 @@ Without accusation or advocacy, chronology and context will be considered. Be mi
 
 ![el](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Clones_same_period.png)
 
+Finally, I am sending those ecosystem letters tomorrow and a Board, this time with affirmative duty.
+
+I don't want money or anything from the institution. I wanted a fair opportunity and all hope of that disappeared on April 28. The rest has just been attempting to understand why there is such resistance to doing the right, correct, and lawful thing on something that has been established beyond doubt. That's a governance issue and it was traversed. 
+
+The story for America here isn't the credential; it is the response to resolution and it is not couldn't process, there was processing and even action. I'll leave it to America to answer what they see.
+
 ---
 
 
