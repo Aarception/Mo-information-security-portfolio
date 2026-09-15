@@ -21,7 +21,13 @@ I don't want a job from you. I don't want a dollar from you. I don't want to emb
 I am not a victim.
 
 The system has processed, my system will process.🙂
+
+Sincerely,
+
+***EdTech is labor-market expansion, not labor-market placement***
+
 ---
+
 #Modern Story¹ of Structural Architecture
 
 Yesterday I posted the number of ***cloners*** of the repository for a set period:
