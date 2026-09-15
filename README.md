@@ -18,11 +18,9 @@ The repository was in this state from Friday, August 28 to Monday, August 31:
 
 ![A Story](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/August_28.png)
 
-To be Continued: What this has to do with the Board traversal, Data and Compliance, Structural Banishment to...? Decency, Ethics, Fairness, Social Good. 
+To be Continued:
 
-To the institution, it is time the individual became the recipient of proactivity, rather than reactivity. If you managed to take an institutionalist and influenced the simulation of activism, we have reached a plane that will convert much of modern tech workforce into...activists. I should have been modeled correctly the minute I brought in the Collective Knowledge Doctrine (United States v. Bank of New England, N.A) into a support thread.
-
-##### ¹ I dont tell stories. I empirically reproduce chronology and I always catch what everyone misses. 
+##### ¹ I dont tell stories. I empirically reproduce chronology.
 ---
 
 This was the repository as it stood on August 20, 2026 — one week into the last boundary traversal of this process; that of the Board Governance Boundary (August 14-September 14).
