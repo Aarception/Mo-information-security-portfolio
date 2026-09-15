@@ -25,6 +25,8 @@ Before the month of September is out:
      
 Verba volant, scripta manent. Spoken words fly away, written letters remain. It is time for me to profit, too. On the question of intellectual production extracted without attribution, let alone compensation, I will leave the answer to that question to polite Society. The Institution is stronger than I am, and though it does not owe me any entitlement, I have no doubt about the capability of Civilization to see the nuance in this matter.
 
+I wanted to be known as an example of Google’s Promise. It is a twist of fate if I end up being known as the person that was ill-treated by Google, under Sundar Pichai's tenure.
+
 ---
 
 # The Signal Has Been Absorbed Without Recognizing The Source, But The Source Holds The Finding, The Archive, The Story, & The Signal's Provenance
