@@ -31,6 +31,10 @@ Finally, I am sending those ecosystem letters tomorrow with the last undisclosed
 
 We have been caught in a silent competition of attrition between EdTech and Educational Ecosystem. 
 
+The battle over valuation of signaling has been brewing ever since the Software Engineer outpaced inflation and that is Big tech's main expense.
+
+Credentialing has been collateral. Looking at the way my little ole repository has been harvested and the complete revamping of BigTech's career portals—Google, if you were about merit, you would have hired me.🙃
+
 ---
 
 
