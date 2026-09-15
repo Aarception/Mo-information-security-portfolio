@@ -18,7 +18,7 @@ The repository was in this state from Friday, August 28 to Monday, August 31:
 
 ![A Story](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/August_28.png)
 
-To be Continued
+To be Continued: What this has to do with the Board traversal, Data and Compliance, Structural Banishment to...? Decency, Ethics, Fairness, Social Good. 
 
 ##### * I dont tell stories. I empirically reproduce chronology and I always catch what everyone misses. 
 ---
