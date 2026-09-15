@@ -1,3 +1,30 @@
+# This Is How I Will Resolve This Matter
+
+Before the month of September is out:
+
+ - I will produce three pieces of commercial value
+    - A book about my experience in this matter from February-September
+       - This will be narrative divided into chapter themes such as the auspices, the effort, the achievement
+       - It will include the petition, the search for accountability, realization of void, the posting, ethics,
+       - It will navigate hope, corporate structure, macro-tectonic economic competition, the role of ethics, signaling 
+    - A separate annotated Correspondence Dossier of every communication between the Google and I, since February 6
+       - Every email, every support response
+       - every verbal and non-verbal speech act
+       - Organized into Days, weeks, and months
+    - A complete dataset comprised of 5,000+ documents including every piece of relevant document archived
+       - Every revision in the repository, minus spelling and small commits, which are a small
+       - Every piece of institutional and EdTech document captured considered relevant to this matter
+       - All documents utilized to analyze the dataset (so before and after comparisons of job descriptions), etc
+  - Those three pieces of commercial value will be produced for
+    - The book is a non-fiction, post-modern navigation of the start of the Algorithmic age
+       - It is for general reading, novel literary form
+    - The Annotated Correspondence is for industry
+       - Academia, law, societies, and justice studies, so Law school, Business school
+    - The Complete dataset will be leased to ML/LLM training
+       - For Think Tanks, Legal cases,bar research, AI alignment, Algorithmic governance, etc
+     
+There is no negotiation. This is what I plan to do and I want it to be known. It is time for me to profit, too.
+
 # The Signal Has Been Absorbed Without Recognizing The Source, But The Source Holds The Finding, The Archive, The Story, & The Signal's Provenance
 
 The It started with a disconnect. How could it be after having signed up for a program, introduced to me by Gemini after becoming interested in information security, when made convinced by the marketing, as a pathway worth pursuing, for an entry-level cybersecurity pivot, despite having professional experience and architectural-level processing, that the same entity whose program I signed up for, immediately rejects the application, this despite having taken and passed the industry examination within 6 days of program completion which requires 2 years of industry experience.
@@ -15,20 +42,6 @@ It seemed odd to me that somebody who flew through the program and quickly achie
 That is where this all began, which is important to remember.
 
 The question that should guide critical thinking: Why is it that in all the marketing, promotion, advertising of the Google Career Certificates Program, there is not a single promoted case of a program success story identified  as rewarded with the promised opportunity made possible by Google, rather than attributed to some other Entity X?
-
-I am going to tell Google right now: you and I are linked for life.🙃
-
-I don't want a job from you. I don't want a dollar from you. I don't want to embarrass you. I don't have grievance toward you.
-
-I am not a victim.
-
-The system has processed, my system will process.🙂
-
-Sincerely,
-
-***EdTech is labor-market expansion, not labor-market placement***
-
-P.S. Since the register seems to weaponize LLM use, which is rather ironic for an ai-technology producer, I am reminded of a story I once heard about Saudi Arabia and the introduction of the television set, which caused quite a stir for an uber-conservative, religious theocracy. The question arose: would not the television erode the quality of morality in the Kingdom. The King at that time, though I do not recall the identity, was quite progressive on the matter and offered the proposition: the television cannot make one what one is not, it can even allow one to access more knowledge, to become a better form of one." It should not be a strategy for Instigation. It was done yesterday and it seems to be repeating today. AI cannot produce the consulting worth 7-figures that an ethical accounting of this matter could serve the institution for services utilized from one. And it is a skillset to use it deftly anyways. 🙃
 
 ---
 
