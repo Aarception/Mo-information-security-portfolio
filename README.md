@@ -28,7 +28,7 @@ Sincerely,
 
 ***EdTech is labor-market expansion, not labor-market placement***
 
-P.S. Since the register seems to weaponize LLM use, which is rather ironic for an ai-technology producer, reminds me of a story I once heard about Saudi Arabia and the introduction of the television set, which caused quite a controversy for uber-conservative, religious theocracy. The question arose: would not the television erode the quality of morality in the Kingdom. The King at that, though I do not recall identity, was progressive on the matter and offeres the proposition: the television cannot make one what one is not, it can even allow one to access more knowledge, to become a better form of one." It should not be a strategy for Instigation. It was done yesterday and it seems to be repeating today. 🙃
+P.S. Since the register seems to weaponize LLM use, which is rather ironic for an ai-technology producer, I am reminded of a story I once heard about Saudi Arabia and the introduction of the television set, which caused quite a stir for an uber-conservative, religious theocracy. The question arose: would not the television erode the quality of morality in the Kingdom. The King at that time, though I do not recall the identity, was quite progressive on the matter and offered the proposition: the television cannot make one what one is not, it can even allow one to access more knowledge, to become a better form of one." It should not be a strategy for Instigation. It was done yesterday and it seems to be repeating today. 🙃
 
 ---
 
