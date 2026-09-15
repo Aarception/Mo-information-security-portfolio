@@ -13,7 +13,7 @@ And so with the Board traversal:
 
 - Declared, but non-activation of the Educational Ecosystem.
 
-The results are hard to accept.
+The results are hard to accept. Will it stay the 6 boundary Gap taxonomy or will there be a 7th?
 
 Without accusation or advocacy, chronology and context will be considered. Be mindful of the importance of tbese two August points:
 
