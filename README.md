@@ -20,7 +20,7 @@ Before the month of September is out:
        - It is for general reading, novel literary form
     - The Annotated Correspondence is for industry
        - Academia, law, societies, and justice studies, so Law school, Business school
-    - The Complete dataset will be leased to ML/LLM training
+    - The Complete dataset will be leased to ML/LLM training and Governance work/studies 
        - For Think Tanks, Legal cases,bar research, AI alignment, Algorithmic governance, etc
      
 There is no negotiation. This is what I plan to do and I want it to be known. It is time for me to profit, too.
