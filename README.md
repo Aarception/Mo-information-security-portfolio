@@ -23,7 +23,9 @@ Before the month of September is out:
     - The Complete dataset will be leased to ML/LLM training and Governance work/studies 
        - For Think Tanks, Legal cases,bar research, AI alignment, Algorithmic governance, etc
      
-There is no negotiation. This is what I plan to do and I want it to be known. It is time for me to profit, too.
+It is time for me to profit, too.
+
+---
 
 # The Signal Has Been Absorbed Without Recognizing The Source, But The Source Holds The Finding, The Archive, The Story, & The Signal's Provenance
 
