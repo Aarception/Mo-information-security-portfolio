@@ -22,7 +22,7 @@ Without accusation or advocacy, chronology and context will be considered. Be mi
 
 ##### ***Follow-up: I do not imagine that the offer of the private email would be taken, but it should be as it a sign of adaptability and sophisticated evolution on risk engagement. If this is not possible now, then there is inefficient limitation. Perhaps even model this experience with me as the prototype of an emergent form of 'feedback:' with lessons learned that would better help the institution harden against risk-capture through adaptation in risk mitigation. Such gain in insight would not be limited to the institution, as I have also learned to harden against risk-capture by utilizing adaptive interpretation from indirect communication. The more adaptively interpreted, the less influence the interpretation has on decision-making. The AAR in my github handle of Aarception is 'After Action Review.'***
 
-##### (It is a separate and moot point, but by any standard of ethics, it is legitimately debatable whether the institution would be decent by giving me attribution, if not quite a bit of consulting fees, not that I am claiming entitlement to anything.)
+###### (It is a separate and moot point, but by any standard of ethics, it is legitimately debatable whether the institution would be decent by giving me attribution, if not quite a bit of consulting fees, not that I am claiming entitlement to anything.)
 ---
 
 ### **Final Personal Commentary: Context And Process**  
