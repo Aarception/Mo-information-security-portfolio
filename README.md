@@ -29,6 +29,8 @@ Without accusation or advocacy, chronology and context will be considered. Be mi
 
 Finally, I am sending those ecosystem letters tomorrow with the last undisclosed piece of evidence that will not be presented to the institution, considering there is no mechanism to receive a structural signal to resolve it.
 
+We have been caught in a silent competition of attrition between EdTech and Educational Ecosystem. 
+
 ---
 
 
