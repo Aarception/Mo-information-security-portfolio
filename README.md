@@ -23,7 +23,7 @@ Before the month of September is out:
     - The Complete dataset will be leased to ML/LLM training and Governance work/studies 
        - For Think Tanks, Legal cases,bar research, AI alignment, Algorithmic governance, etc
      
-It is time for me to profit, too.
+Verba volant, scripta manent. Spoken words fly away, written letters remain. It is time for me to profit, too.
 
 ---
 
