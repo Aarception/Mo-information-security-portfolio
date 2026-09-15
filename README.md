@@ -12,7 +12,7 @@ It seemed odd to me that somebody who flew through the program and quickly achie
 
 That is where this all began, which is important to remember.
 
-The question that should guide critical thinking: Why is it that in all the marketing, promotion, advertising of the Google Career Certificates Program, there is not a single promoted case of a program success story identified  as recognized with the promised opportunity rewarded by Google, rather than Entity X?
+The question that should guide critical thinking: Why is it that in all the marketing, promotion, advertising of the Google Career Certificates Program, there is not a single promoted case of a program success story identified  as rewarded with the promised opportunity made possible by Google, rather than attributed to some other Entity X?
 
 ---
 #Modern Story¹ of Structural Architecture
