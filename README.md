@@ -10,7 +10,7 @@ Universities often provide the associate experience for the professionals produc
 
 It seemed odd to me that somebody who flew through the program and quickly achieved the highest possible level of the requirements, could be immediately rejected by the same entity that just profited from the individual's partnership.
 
-That is where this all begin which is important to keep remember.
+That is where this all began which is important to remember.
 
 The question that should guide critical thinking: Why is it that in all the marketing, promotion, advertising of the Google Career Certificates Program, there is not a single promoted case of a progrom success story who is identified as hired by Google? 
 
