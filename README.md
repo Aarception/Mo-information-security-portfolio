@@ -1,7 +1,5 @@
 # A Modern Story* of Structural Architecture
 
-Continued from yesterday
-
 Yesterday I posted the number of ***cloners*** of the repository for a set period:
 
 
