@@ -1,4 +1,6 @@
-It started with a disconnect. How could it be after having signed up for a program, introduced to me by Gemini after becoming interested in information security, when made convinced by the marketing, as a pathway worth pursuing, for an entry-level cybersecurity pivot, despite having professional experience and architectural-level processing, that the same entity whose program I signed up for, immediately rejects the application, this despite having taken and passed the industry examination within 6 days of program completion which requires 2 years of industry experience.
+# The Signal Has Been Absorbed Without Recognizing The Source, But The Source Holds The Finding, The Archive, The Story, & The Signal's Provenance
+
+, The It started with a disconnect. How could it be after having signed up for a program, introduced to me by Gemini after becoming interested in information security, when made convinced by the marketing, as a pathway worth pursuing, for an entry-level cybersecurity pivot, despite having professional experience and architectural-level processing, that the same entity whose program I signed up for, immediately rejects the application, this despite having taken and passed the industry examination within 6 days of program completion which requires 2 years of industry experience.
 
 It did not make sense. 
 
