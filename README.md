@@ -20,6 +20,8 @@ The repository was in this state from Friday, August 28 to Monday, August 31:
 
 To be Continued: What this has to do with the Board traversal, Data and Compliance, Structural Banishment to...? Decency, Ethics, Fairness, Social Good. 
 
+To the institution, it is time the individual became the recipient of proactivity, rather than reactivity. If you managed to take an institutionalist and influenced the simulation if activism, we have reached a plane that will convert much of modern tech workforce into...activists.
+
 ##### ¹ I dont tell stories. I empirically reproduce chronology and I always catch what everyone misses. 
 ---
 
