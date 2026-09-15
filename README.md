@@ -1,4 +1,4 @@
-# A Modern Story* of Structural Architecture
+# A Modern Story¹ of Structural Architecture
 
 Yesterday I posted the number of ***cloners*** of the repository for a set period:
 
@@ -20,7 +20,7 @@ The repository was in this state from Friday, August 28 to Monday, August 31:
 
 To be Continued: What this has to do with the Board traversal, Data and Compliance, Structural Banishment to...? Decency, Ethics, Fairness, Social Good. 
 
-##### * I dont tell stories. I empirically reproduce chronology and I always catch what everyone misses. 
+##### ¹ I dont tell stories. I empirically reproduce chronology and I always catch what everyone misses. 
 ---
 
 This was the repository as it stood on August 20, 2026 — one week into the last boundary traversal of this process; that of the Board Governance Boundary (August 14-September 14).
