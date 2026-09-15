@@ -1,4 +1,21 @@
-# A Modern Story¹ of Structural Architecture
+It started with a disconnect. How could it be after having signed up for a program, introduced to me by Gemini after becoming interested in information security, when made convinced by the marketing, as a pathway worth pursuing, for an entry-level cybersecurity pivot, despite having professional experience and architectural-level processing, that the same entity whose program I signed up for, immediately rejects the application, this despite having taken and passed the industry examination within 6 days of program completion which requires 2 years of industry experience.
+
+It did not make sense. 
+
+SSomething was off.
+
+Job applications ask if one has been employed or have had relatives employed at the establishment for a reason. There is an implicit understanding.
+
+Universities often provide the associate experience for the professionals produced by their programs. If you graduated from the school's program, you are more likely to begin your formal experience at the alma mater. There is an implicit duty of care here.
+
+It seemed odd to me that somebody who flew through the program and quickly achieved the highest possible level of the requirements, could be immediately rejected by the same entity that just profited from the individual's partnership.
+
+That is where this all begin which is important to keep remember.
+
+The question that should guide critical thinking: Why is it that in all the marketing, promotion, advertising of the Google Career Certificates Program, there is not a single promoted case of a progrom success story who is identified as hired by Google? 
+
+---
+#Modern Story¹ of Structural Architecture
 
 Yesterday I posted the number of ***cloners*** of the repository for a set period:
 
