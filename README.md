@@ -14,6 +14,7 @@ That is where this all began, which is important to remember.
 
 The question that should guide critical thinking: Why is it that in all the marketing, promotion, advertising of the Google Career Certificates Program, there is not a single promoted case of a program success story identified  as rewarded with the promised opportunity made possible by Google, rather than attributed to some other Entity X?
 
+I am going to tell Google right now: you and I are linked for life.🙃
 ---
 #Modern Story¹ of Structural Architecture
 
