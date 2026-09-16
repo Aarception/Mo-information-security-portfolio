@@ -13,6 +13,8 @@
 
 I am sorry, it wasn't personal. And I forgive anyone who may have caused me impact on this issue.
 
+To take my ODR suggestion and treat it that way shows me how personal this has become. 
+
 ---
 
 #### `IMPORTANT: The Dataset officially has it's first licensing prospect from a national think tank and a leader in AI governance issues based in the east coast.`
