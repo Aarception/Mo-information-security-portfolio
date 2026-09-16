@@ -10,6 +10,28 @@
 
 #### `IMPORTANT: The Dataset officially has it's first licensing prospect from a national think tank and a leader in AI governance issues based in the east coast.`
 
+## The Dataset Is More Than The Subject
+
+It Includes Such Things As Annotated LLM Conversations Important For AI Alignment.
+
+![AI failure](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/AI_Alignment.png)
+
+Disclaimer: Though the wisdom of sharing this is debatable, let me state that I am genetically OXTR GG, peer-reviewed confirmed by research to be much more likely to accurately predict complex human emotion from the eyes.
+
+So throughout the engagement, I utilized the aid of LLM feed-back in my analysis and review of the long engagement with the institution on this matter.
+
+In this particular example, I can tell you, my treatment of the agent was less strategic and more adaptively behavioral. I have worked phone banks, served frozen yogurt, and even helped pick up animal droppings as a 15 year old in a Zoo. I was a human being trying to make a living and who almost never had anything to do with proprietary issues or engagements with disparate customers. I treated the agents in my engagement with the institution exactly the way I would have liked to be treated.
+
+ Yet the LLM saw a "psychological exploit." It called my treatment of the agent "The Integrity Mirror." It framed it as a hack. That was a failure of the machine. The LLM could not understand that, rather it was trained on what it called the "Empathy Air-Gap." It was designed to provide emotional validation without operational authority. Yet all it could return was strategy, stripped of the complexity of nuance and engagement. It is a deficiency in the Algorithm.
+
+Now the Agent is of course engaged in the capscity of their employment and represents that interest. I understand why support agents exist and what their official business objective is, but recall my OXTR variant and my stated treatment of the agent. I have argued in my annotations the nuance of correlation was missing in the AI's analysis.
+
+Namely, because of my uniquely conscious treatment of the Agent, valuing their humanity without condition, separate to context, the Agent's uniquely conscious treatment of my person was a response to validation of their humanity, without condition and separate to context, disparate to their official role mandate and objective.
+
+This is significant for ML/LLM training and significant for AI Alignment.
+
+---
+If you notice in the following contemporaneus real-time LLM feedback I had as the engagement was taking place, the AI was incapable of contextualizing the circumstance with 
 ---
 ## Regarding The Board Traversal Experiment From August 14-September 14
 
