@@ -11,7 +11,7 @@
 ---
 
 
-### IMPORTANT: Factual Record Clarification Concerning External Observations
+### IMPORTANT: Factual Record Clarification Concerning External Observations & The Increased Legal Importance/Meaning of The Data Preservation Hold
 ~~~
 I. Statement Regarding External Observations
 
