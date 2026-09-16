@@ -1,0 +1,1 @@
+This archive is a public demonstration of Signal Integrity Labs methodology. The complete 5,000-document dataset with cross-institutional temporal divergence forensics is available under commercial license. Contact: oldethornetree@proton.me. Academic licenses available at reduced rates.
