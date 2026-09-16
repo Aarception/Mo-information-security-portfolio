@@ -42,7 +42,7 @@ Verba volant, scripta manent. Spoken words fly away, written letters remain.
 
 ##### *`The only longitudinal, primary-source, timestamped record of institutional non-response to cooperative structural critique in the ed-tech sector.`*
 
-##### May 10 as an example:
+##### May 10 as an example, contemporaneusly recorded observations:
 ![The Dataset's Value](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Value_of_Dataset_Is_Daily_Updates.png)
 
 ---
