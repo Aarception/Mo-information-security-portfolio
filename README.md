@@ -13,6 +13,8 @@
 
 `It has been decided to disclose the results and the experience in the Book, rathet than shared online, so as to meaningfully engage context, clarity, and consequence. The letter that was to be sent to the Board will not be sent but be archived in the book chapter devoted to the 7th Boundary.`
 
+![Future Prediction of Apology Is Strengthened](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/May_Contemporaneus_Offical_Reflections.png)
+
 ---
 
 Tho repository was established yesterday as a migration from a frozen one. Yesterday's clones:
