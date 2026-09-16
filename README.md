@@ -35,7 +35,7 @@
      
 Verba volant, scripta manent. Spoken words fly away, written letters remain. 
 
-##### ¹ Since the earlier commit, Digital PO has captured documentation of the first cases of dating divergence between interface stated update time of linguistically modified role descriptions and corroborated update timestamps from job aggregate feeds. The platform is that of another Tier 10 institution.
+##### ¹ I erased the disclaimer that was here, because I found it ethically unpalatable to involve a 3rd party, not originally part of this matter. The question is, why is that normative standard unreturned, even if an entity is not willing to reflect other factors or try to mediate.
 ---
 
 ### ~from a petitioner.~ to an Authority. On Digital Credentialing. 
