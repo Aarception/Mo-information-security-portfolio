@@ -1,12 +1,13 @@
 > *Conductor of the 1st live, longitudinal, provenance stress-test on a Fortune 10 institution, and broke containment to publish the artifacts.*
 ---
 
-# SIGNAL INTEGRITY LABS 
-### `Ethics`
-### `Social`
-### `Governance`
-### `Signal`
-### `Verifier`
+# SIGNAL INTEGRITY LABS, [tb] LLC
+#### `Ethics, Social, & Governance [ESG] Signal Verifier`
+
+##### Born From The Question: 
+
+*`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
+
 ---
 
 ## September 
