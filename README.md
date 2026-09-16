@@ -18,7 +18,9 @@ I. Statement Regarding External Observations
 The Holder has observed behavioral patterns in external
 commercial networks that correspond to the Holder's own
 documented interaction sequence with institutional
-systems. These observations raise material questions
+systems.
+
+These observations raise material questions
 regarding whether data derived from the Holder's
 inquiry, application, or candidacy has been transmitted
 to or accessed by external parties, or whether
@@ -37,10 +39,10 @@ modifications of portal architecture.
 
 Specifically, the Holder notes that starting July 1,
 around July 16, and on July 28, 2026, following the
-presentation of the ***'New Genre of Civic Document,'***
+presentation of the 'New Genre of Civic Document,'
 containing role-outcrop documentation, further email
 observations, and runtime records, there were
-experienced system-wide events affecting portal systems.
+observed system-wide events affecting portal systems.
 
 The Holder is documenting this for chronology.
 
@@ -50,9 +52,10 @@ The Holder did not set out to discover any matter. The
 Holder only sought out to investigate a structural
 impact. Any subsequent development was documented in the
 course of good-faith reliance on representational
-architecture that was effectuated. The May 10, 2026,
-correspondence in the record documents precautions taken
-by the Holder to prevent mischaracterization.
+architecture that was effectuated.
+
+The May 10, 2026, correspondence in the record documents
+precautions taken by the Holder to prevent mischaracterization.
 
 IV. On Characterizations of the Holder
 
@@ -60,7 +63,7 @@ The Holder has documented that cooperative engagement,
 procedural patience, formal courtesy, and repeated
 waiver of adversarial leverage were met with unilateral
 closure, procedural containment, non-engagement,
-and—subsequently—architectural modification without
+and, subsequently, architectural modification without
 communicative acknowledgment.
 
 The Holder notes that this pattern supports the
