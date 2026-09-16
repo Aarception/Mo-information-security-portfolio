@@ -8,6 +8,8 @@
 
 > *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
 
+#### `IMPORTANT: The Dataset officially has it's first licensing prospect from a national think tank and a leader in Azi governance issues based in the east coast.`
+
 ---
 ## Regarding The Board Traversal Experiment From August 14-September 14
 
