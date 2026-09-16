@@ -14,6 +14,8 @@ Tho repository was established yesterday as a migration from a frozen one. Yeste
 
 ![e](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/September_15_clones.png)
 
+Starting today I am officially engaging Think Tanks and Research Institutions for licensing opportunities.
+
 ## September 
 
  - I will produce three pieces of commercial value
