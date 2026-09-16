@@ -35,7 +35,7 @@
      
 Verba volant, scripta manent. Spoken words fly away, written letters remain. 
 
-##### ¹ I erased the disclaimer that was here, because I found it ethically unpalatable to involve a 3rd party, not originally part of this matter. The question is, why is that normative standard unreturned, even if an entity is not willing to reflect other factors or try to mediate.
+##### ¹ I erased the disclaimer that was here, because I found it ethically unpalatable to involve a 3rd party, not originally part of this matter. The question is, why is that normative standard unreturned, even if an entity is not willing to reflect other factors let alone attempt to mediate, on account of proximity. A thought.
 ---
 
 ### ~from a petitioner.~ to an Authority. On Digital Credentialing. 
