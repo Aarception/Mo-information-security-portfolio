@@ -1,7 +1,15 @@
-# SIGNAL INTEGRITY LABS
 > *Conductor of the 1st live, longitudinal, provenance stress-test on a Fortune 10 institution, and broke containment to publish the artifacts.*
+---
 
-Before the month of September is out:
+# SIGNAL INTEGRITY LABS 
+### `Ethics`
+### `Social`
+### `Governance`
+### `Signal`
+### `Verifier`
+---
+
+## September 
 
  - I will produce three pieces of commercial value
     - A book about my experience in this matter from February-September
@@ -24,11 +32,9 @@ Before the month of September is out:
     - The Complete dataset will be leased to ML/LLM training and Governance work/studies 
        - For Think Tanks, Legal cases,bar research, AI alignment, Algorithmic governance, etc
      
-Verba volant, scripta manent. Spoken words fly away, written letters remain. It is time for me to profit, too. On the question of intellectual production extracted without attribution, let alone compensation, I will leave the answer to that question to polite Society. The Institution is stronger than I am, and though it does not owe me any entitlement, I have no doubt about the capability of Civilization to see the nuance in this matter.
+Verba volant, scripta manent. Spoken words fly away, written letters remain. 
 
-I wanted to be known as an example of Google’s Promise. It is a twist of fate if I end up being known as the person that was so ill-treated by Google under Sundar Pichai's control. 
-
-Who cannot even get a compliance-mandated response to a data request, the single-most legally fortified right held in this matter.
+### I started as a petitioner. I walked away an Authority.
 
 ---
 
