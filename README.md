@@ -36,7 +36,9 @@ Verba volant, scripta manent. Spoken words fly away, written letters remain.
 
 ---
 
-## ~From a petitioner.~ To an authority.
+### ~From a petitioner.~ To an authority.
+
+##### *`The only longitudinal, primary-source, timestamped record of institutional non-response to cooperative structural critique in the ed-tech sector.`*
 
 ---
 
