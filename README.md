@@ -35,7 +35,7 @@
      
 Verba volant, scripta manent. Spoken words fly away, written letters remain. 
 
-##### ¹ I erased the disclaimer that was here, because I found it ethically unpalatable to involve a 3rd party, not originally part of this matter. The question is, why is that normative standard unreturned, even if an entity is not willing to reflect other factors let alone attempt to mediate, on account of proximity. A thought. Although my intuition is hinting that there has been a more 'enlightened' understanding within the 'network,' regarding the matter after coming across my reflections.  Namely, that the institution's role in this 'threat' to EdTech is more 'delicate', and 'contributory' than first assumed. Oh, I see Biz, easy fingerprint.🙃
+##### ¹ I erased the disclaimer that was here, because I found it ethically unpalatable to involve a 3rd party, not originally part of this matter. The question is, why is that normative standard unreturned, even if an entity is not willing to reflect other factors let alone attempt to mediate, on account of proximity. A thought. Although my intuition is hinting that there has been a more 'enlightened' understanding within the 'network,' regarding the matter after coming across my reflections.  Namely, that the institution's role in this 'threat' to EdTech is more 'delicate', and 'contributory' than first assumed. Oh, I see Biz, easy fingerprint. You are making me process legal already just to force discovery and see who directed you offensively against a ***governance input.*** Honestly, that would be quite extraordinary to U.S corporate governance norms. 
 ---
 
 ### ~from a petitioner.~ to an Authority. On Digital Credentialing. 
