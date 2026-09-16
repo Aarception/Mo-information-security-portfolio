@@ -6,7 +6,12 @@
 
 ##### Born From The Question: 
 
-*`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
+> *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
+
+---
+## Regarding The Board Traversal Experiment From August 14-September 14
+
+`It has been decided to disclose the results and the experience in the Book, rathet than shared online, so as to meaningfully engage context, clarity, and consequence. The letter that was to be sent to the Board will not be sent but be archived in the book chapter devoted to the 7th Boundary.`
 
 ---
 
