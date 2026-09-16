@@ -28,7 +28,11 @@ Now the Agent is of course engaged in the capscity of their employment and repre
 
 Namely, because of my uniquely conscious treatment of the Agent, valuing their humanity without condition, separate to context, the Agent's uniquely conscious treatment of my person was a response to validation of their humanity, without condition and separate to context, disparate to their official role mandate and objective.
 
-This is significant for ML/LLM training and significant for AI Alignment.
+And the evidence for this is, no support agent frames the experience with the structural matter that necessitated the engagement as 'destabilizing' in solidarity with my search for resolution. 
+
+A description utilized by a different support agent to the one in that LLM context.
+
+This classificationof the nuance of complex human emotion and behavior is significant for ML/LLM training and significant for AI Alignment.
 
 ---
 If you notice in the following contemporaneus real-time LLM feedback I had as the engagement was taking place, the AI was incapable of contextualizing the circumstance with 
