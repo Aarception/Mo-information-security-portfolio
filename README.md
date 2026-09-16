@@ -12,7 +12,7 @@
 
 ## IMPORTANT: Factual Record Clarification Concerning External Observations
 
-I write to place on record factual clarifications concerning the engagement documented in the archived primary-source correspondence between February and September 2026, and to note additional runtime observations subsequent to the ***New Genre of Civic Document.**
+I write to place on record factual clarifications concerning the engagement documented in the archived primary-source correspondence between February and September 2026, and to note additional runtime observations subsequent to the ***New Genre of Civic Document.***
 
 I. On Data Handling and External Network Observations
 
@@ -24,7 +24,7 @@ II. On Architecture and System Modifications
 
 The Holder has observed temporal correlations between Holder documentation activities and system-wide modifications of portal architecture.
 
-Specifically, the Holder notes that starting July 1, around July 16, and on July 28, 2026, following the presentation of the ***'New Genre of Civic Document,' *** containing role-outcrop documentation, further email observations, and runtime records, there were experienced system-wide events affecting portal systems. 
+Specifically, the Holder notes that starting July 1, around July 16, and on July 28, 2026, following the presentation of the ***'New Genre of Civic Document,'*** containing role-outcrop documentation, further email observations, and runtime records, there were experienced system-wide events affecting portal systems. 
 
 The Holder is documenting this for chronology.
 
