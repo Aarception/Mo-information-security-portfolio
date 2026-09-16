@@ -16,6 +16,8 @@ Tho repository was established yesterday as a migration from a frozen one. Yeste
 
 Starting today I am officially engaging Think Tanks and Research Institutions for licensing opportunities.
 
+# UPDATE: WE HAVE OUR FIRST PROSPECT 👏👏
+
 ## September 
 
  - I will produce three pieces of commercial value
@@ -40,8 +42,7 @@ Starting today I am officially engaging Think Tanks and Research Institutions fo
        - For Think Tanks, Legal cases,bar research, AI alignment, Algorithmic governance, etc
      
 Verba volant, scripta manent. Spoken words fly away, written letters remain. 
-
-##### ¹ The Institution is not one on this issue, there is undercutting of each other. You almost get this sense there is purposeful instigation and it seems to me like one entity is the acting agent, now having migrated to other cloud spaces serviced. 
+ 
 ---
 
 ### ~from a petitioner.~ to an Authority. On Digital Credentialing. 
