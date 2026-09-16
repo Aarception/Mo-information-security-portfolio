@@ -11,7 +11,7 @@
 ---
 
 
-# IMPORTANT: Factual Record Clarification Concerning
+## IMPORTANT: Factual Record Clarification Concerning
 External Observations
 ~~~
 I. Statement Regarding External Observations
