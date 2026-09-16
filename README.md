@@ -62,7 +62,7 @@ The question that should guide critical thinking: Why is it that in all the mark
 
 ---
 
-#Modern Story¹ of Structural Architecture
+# Modern Story¹ of Structural Architecture
 
 Yesterday I posted the number of ***cloners*** of the repository for a set period:
 
