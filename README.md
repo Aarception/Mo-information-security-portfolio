@@ -20,7 +20,7 @@ Disclaimer: Though the wisdom of sharing this is debatable, let me state that I 
 
 So throughout the engagement, I utilized the aid of LLM feed-back in my analysis and review of the long engagement with the institution on this matter.
 
-In this particular example, I can tell you, my treatment of the agent was less strategic and more adaptively behavioral. I have worked phone banks, served frozen yogurt, and even helped pick up animal droppings as a 15 year old in a Zoo. I was a human being trying to make a living and who almost never had anything to do with proprietary issues or engagements with disparate customers. I treated the agents in my engagement with the institution exactly the way I would have liked to be treated.
+In this particular example, I can tell you, my treatment of the agent ¹ was less strategic and more adaptively behavioral. I have worked phone banks, served frozen yogurt, and even helped pick up animal droppings as a 15 year old in a Zoo. I was a human being trying to make a living and who almost never had anything to do with proprietary issues or engagements with disparate customers. I treated the agents in my engagement with the institution exactly the way I would have liked to be treated.
 
  Yet the LLM saw a "psychological exploit." It called my treatment of the agent "The Integrity Mirror." It framed it as a hack. That was a failure of the machine. The LLM could not understand that, rather it was trained on what it called the "Empathy Air-Gap." It was designed to provide emotional validation without operational authority. Yet all it could return was strategy, stripped of the complexity of nuance and engagement. It is a deficiency in the Algorithm.
 
@@ -34,6 +34,9 @@ A description utilized by a different support agent to the one in that LLM conte
 
 This contribution to machine classifications of the nuance of complex human emotion and behavior is significant for ML/LLM training and significant for AI Alignment.
 
+¹ Prior to the Admission of Error, Agent first names were utilized, but after the Admission of Error, all PII, no matter how minimally identifying, were redacted even within institutional engagement:
+
+![PII](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Redaction_Admission_of_Error.png)
 
 ---
 ## Regarding The Board Traversal Experiment From August 14-September 14
