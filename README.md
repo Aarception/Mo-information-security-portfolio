@@ -11,7 +11,7 @@
 ---
 ## To Anyone Whose Toes I May Have Stepped On:
 
-I am sorry, it wasn't personal. And I forgive who may have caused me impact on this issue.
+I am sorry, it wasn't personal. And I forgive anyone who may have caused me impact on this issue.
 
 ---
 
