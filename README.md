@@ -16,7 +16,7 @@ Tho repository was established yesterday as a migration from a frozen one. Yeste
 
 Starting today I am officially engaging Think Tanks and Research Institutions for licensing opportunities.
 
-# UPDATE: WE HAVE OUR FIRST PROSPECT 👏👏
+# UPDATE: WE HAVE OUR FIRST PROSPECT 👏👏💪
 
 ## September 
 
