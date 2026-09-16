@@ -38,6 +38,8 @@ This contribution to machine classifications of the nuance of complex human emot
 
 ![PII](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Redaction_Admission_of_Error.png)
 
+That wasn't strategy. It was the ability to separate human dignity from structural engagement, or even critique.
+
 ---
 ## Regarding The Board Traversal Experiment From August 14-September 14
 
@@ -45,7 +47,6 @@ This contribution to machine classifications of the nuance of complex human emot
 
 ![Future Prediction of Apology Is Strengthened](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/May_Contemporaneus_Offical_Reflections.png)
 
-That wasn't strategy. It was the ability to separate human dignity from structural engagement.
 
 ---
 
