@@ -35,7 +35,7 @@
      
 Verba volant, scripta manent. Spoken words fly away, written letters remain. 
 
-##### ¹ Since the earlier commit, Digital PO has captured documentation of the first cases of dating divergence between interface stated update time of linguistically modified role descriptions and corroborated update timestamps from job aggregate feeds.
+##### ¹ Since the earlier commit, Digital PO has captured documentation of the first cases of dating divergence between interface stated update time of linguistically modified role descriptions and corroborated update timestamps from job aggregate feeds. The platform is that of another Tier 10 institution.
 ---
 
 ### ~from a petitioner.~ to an Authority. On Digital Credentialing. 
