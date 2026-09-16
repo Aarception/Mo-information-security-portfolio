@@ -24,7 +24,7 @@
     - A complete dataset comprised of 5,000+ documents including every piece of relevant document archived
        - Every revision in the repository, minus spelling and small commits, which are a small
        - Every piece of institutional and EdTech document captured considered relevant to this matter
-       - All documents utilized to analyze the dataset (so before and after comparisons of job descriptions), etc
+       - All documents utilized to analyze the dataset (so before and after comparisons of job descriptions, since there is no trickstery in this, I can tell you sunce the earlier commit before this disclaimer,  there's documentation of the first cases of dating divergence between interface stated update time of rewritten job descriptions and corroborated update timestamps on job aggregate feeds), etc
   - Those three pieces of commercial value will be produced for
     - The book is a non-fiction, post-modern navigation of the start of the Algorithmic age
        - It is for general reading, novel literary form
