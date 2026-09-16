@@ -35,7 +35,7 @@
      
 Verba volant, scripta manent. Spoken words fly away, written letters remain. 
 
-##### ¹ I need to build a security firm with investment from Signal Integrity Labs. They would be differentiated by perception and intuition, human AIs in flesh.
+##### ¹ The Institution is not one on this issue, there is undercutting of each other. You almost get this sense there is purposeful instigation and it seems to me like one entity is the acting agent, now having migrated to other cloud spaces serviced. 
 ---
 
 ### ~from a petitioner.~ to an Authority. On Digital Credentialing. 
