@@ -13,6 +13,8 @@
 
 It makes me think. If the institution could have known or have been able to predict what it has come to know about my person with respect to cognition, strategic thinking,  ingenuity,  tenacity,  determination,  unbridled focus, communication,  and relentless intellectual curiosity, how would this engagement have been treated since the very first feedback when it was said, this is not a complaint, it is feedback, about what is observed to be an 'ethical misalignment.'
 
+I am not a physicist, but I can become a world class physicist in one year.
+
 #Pondering
 
 ---
