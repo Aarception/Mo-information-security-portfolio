@@ -19,7 +19,7 @@ I didn't know anything about credentialing in February. By September,  I am a wo
 
 #Pondering
 
-##### ¹ I am conscious about how this comes across, but, as a point of fairness, this is more about overcoming a test than a character deficiency. The way I choose to treat others reflects character.
+##### ¹ I am conscious about how this comes across, but, as a point of fairness, this is more about overcoming a test than a character deficiency. The way I choose to treat others reflects character. Another evidence for character is even now, at this stage, I am still conscious of not weaponizing resolution. Namely,  wading into Congress and public policy carries inherent risks: there are the institution is 'such' or big tech is 'x', politically partisan special interest groups with their own motives unconcerned with this issue. Mitigating the risk of becoming a partisan tool is also an ethical concern in this matter which is internalized by my character. 
 ---
 
 ### ☀️ `Update: It has been agreed to prepare a special Congressional-focused Monograph on this experience for indepth study by Congressional aides and researchers given the fact of the Dataset's unique qualities`
