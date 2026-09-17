@@ -12,6 +12,7 @@
 
 ###### A piece of wisdom from among the world's diverse cultures says misfortune is one of two states:
 ` 1. When Prudence is consequential, but is found undesirable`
+\
 ` 2. When Prudence is desirable, but is found inconsequential`
 
 ---
