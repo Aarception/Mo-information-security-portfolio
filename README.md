@@ -8,6 +8,29 @@
 > *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
 
 ---
+## To Be Announced: The 1st Aspiration Market Integrity Index (AMIndx) Match Up
+
+*`AMIndx = a scoring rubric derived from RDA that evaluates credentialing and workforce products across five dimensions.`*
+
+
+## 5 Criteria
+
+    1. Mechanism (Verifiability)
+    2. Transmission (Integrity )
+    3. Disclosure (Transparency)
+    4. Promise (Compensation)
+    5. Access (Inclusion)
+
+  ## 3 Companies
+    - Company G-----
+    - Company A-----
+    - Company S--------
+
+## Perfect on a criteria yields a maximum score of 1, for a total of 5 points.
+
+To Be Announced Latet Today
+
+---
 
 ###### A piece of wisdom from among the world's diverse cultures says misfortune is one of two states:
 ` 1. When Prudence is consequential, but is found undesirable`
