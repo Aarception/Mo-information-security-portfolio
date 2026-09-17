@@ -22,6 +22,8 @@
     - Economic growth & mobility for Americans
     - Education and skills training
     - Individual rights and civil protections
+  
+ - I will be requesting Congressional recognition of the 3 sided triangle for digital credentialing: Holder, Issuer, and Verifier, with clear, identifiable rights for Holders and obligations for Issuer established by Congressional legislation.
 
 ![Submission](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Congressional_Primer_Title.png)
 ![Submission](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Congressional_Primer.png)
