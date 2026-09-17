@@ -45,10 +45,13 @@ Left/Right political alignment signals:
   - AI governance embedding into:
     - consumer protection
     - employment law
-    - data privacy. Modular architecture
+    - data privacy.
+    - modular architecture
 -  Crossover concern:
     - Bipartisan momentum
-    - Expanding surface space.
+    - Expanding surface space
+    - Media hot button issue
+    - Public policy activated
 
 
 
