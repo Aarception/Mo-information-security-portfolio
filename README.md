@@ -9,7 +9,7 @@
 
 ---
 
-## July 1, 2026 — New Genre of Civic Document
+## July 1-3, 2026 — New Genre of Civic Document
 
 ![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_1.png)
 
