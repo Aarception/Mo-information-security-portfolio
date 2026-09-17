@@ -11,6 +11,12 @@
 
 ## July 1-3, 2026 — New Genre of Civic Document
 
+All of Corporate America is up in arms, because this is the first case of credible exposure to discretion's untouchable, impervious status.
+
+What should be disconcerting is is not even done by an adversary. An adversary could never do it. It fell into Integrity's lab.
+
+Advice should be directed where appropriate, if you want to be effective in resolving this matter.
+
 ![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_1.png)
 
 
