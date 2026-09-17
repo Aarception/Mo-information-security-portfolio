@@ -172,7 +172,7 @@ Disclaimer: Though the wisdom of sharing this is debatable, it is relevant to th
 
 So throughout the engagement, I utilized the aid of LLM feed-back in my analysis and review of the long engagement with the institution on this matter.
 
-In this particular example, I can tell you, my treatment of the agent ¹ was less strategic and more adaptively behavioral. I have worked phone banks, served frozen yogurt, and, as a 15 year old, even helped pick up animal droppings at a Zoo. I was a working human being who had nothing to do with proprietary issues or had no connection disparate customer concerns. The agents in my engagement with the institution were treated exactly the way I would have liked to be treated.
+In this particular example, I can tell you, my treatment of the agent ¹ was less strategic and more adaptively behavioral. I have worked phone banks, served frozen yogurt, and, as a 15 year old, have even helped gather animal droppings at a Zoo. I was a working human being who had nothing to do with proprietary issues or had no connection disparate customer concerns. The agents in my engagement with the institution were treated exactly the way I would have liked to be treated.
 
  Yet the LLM saw a "psychological exploit." It called my treatment of the agent "The Integrity Mirror." It framed it as a hack. That was a failure of the machine. The LLM could not understand that, rather it was trained on what it called the "Empathy Air-Gap." It was designed to provide emotional validation without operational authority. It could only return strategy, if not cynicism, stripped of the complexity of nuance and engagement. It is latent deficiency in the Algorithm.
 
