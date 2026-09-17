@@ -24,22 +24,33 @@
 *`AMIndx = a scoring rubric derived from RDA that evaluates credentialing and workforce products across five dimensions.`*
 
 
-## 5 Criteria
 
-    1. Mechanism (Verifiability)
+### 5 Criteria
+
+    1| Mechanism (Verifiability)
     2. Transmission (Integrity )
     3. Disclosure (Transparency)
     4. Promise (Compensation)
     5. Access (Inclusion)
 
-  ## 3 Companies
-    - Company G-----
-    - Company A-----
-    - Company S--------
+### 3 Companies
+    - Company G----- 
+    - Company A----- 
+    - Company S-------- 
 
-### Perfect on a criteria yields a maximum score of 1, for a total of 5 points.
+JUDGED: Promise (Compensation)
 
-To Be Announced Later Today
+| Alignment               | **G**     | **A**     | **S**     |
+|--------------------------|-----------|-----------|-----------|
+| Mechanism (Verifiability)|      |      |      |
+| Transmission (Integrity) |       |      |       |
+| Disclosure (Transparency)|      |    |       |
+| Promise (Compensation)   | 1.00  | 0.70   | 0.80   |
+| Access (Inclusion)       |      |      |      |
+###### Perfect on a criteria yields a maximum score of 1, for a total of 5 points.
+
+
+NEXT: Access (Inclusion)
 
 ---
 
