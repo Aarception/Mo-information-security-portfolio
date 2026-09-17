@@ -11,7 +11,7 @@
 
 ---
 
-### ☀️ `Update: It has been agreed to prepare a special Congressional-focused Monograph on this experience for indepth study by Congressional aides and researchers given the fact of the Dataset's uniquely qualities`
+### ☀️ `Update: It has been agreed to prepare a special Congressional-focused Monograph on this experience for indepth study by Congressional aides and researchers given the fact of the Dataset's unique qualities`
    - It is timestamped
    - It includes both sides & responses
    - It includes methodological annotations
