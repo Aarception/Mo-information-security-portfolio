@@ -69,11 +69,12 @@ JUDGED: Promise (Compensation)
 
 | Alignment               | **G**     | **A**     | **S**     |
 |--------------------------|-----------|-----------|-----------|
-| Mechanism (Verifiability)|      |      |      |
-| Transmission (Integrity) |       |      |       |
-| Disclosure (Transparency)|      |    |       |
+| Mechanism (Verifiability)|    0  |     0 |     0 |
+| Transmission (Integrity) |      0 |    0  |    .5   |
+| Disclosure (Transparency)|   0   |   .5 |     1  |
 | Promise (Compensation)   | 1.00  | 0.70   | 0.80   |
-| Access (Inclusion)       |      |      |      |
+| Access (Inclusion)       |   0   |     1 |    1 |
+| Total | 1/5 |2.20/5|3.30/5
 ###### Perfect on a criteria yields a maximum score of 1, for a total of 5 points.
 
 
