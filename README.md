@@ -9,6 +9,33 @@
 
 ---
 
+## July 1, 2026 — New Genre of Civic Document
+
+![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_1.png)
+
+
+![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_2.png)
+
+
+![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_3.png)
+
+
+![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_4.png)
+
+
+![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_5.png)
+
+
+![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_6.png)
+
+
+![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_7.png)
+
+![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_8.png)
+
+Next the Response to New Genre of Civic Document 
+---
+
 ###### A piece of wisdom from among the world's diverse cultures says misfortune is one of two states:
 ` 1. When Prudence is consequential, but is found undesirable`
 \
