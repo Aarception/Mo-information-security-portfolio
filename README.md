@@ -1,11 +1,11 @@
-> A Person Who Keeps Promises and Holds Everyone Else To Their Promises---
+> A Person Who Keeps Promises and Holds Everyone Else To Their Promises---It's The American Way
 
 # SIGNAL INTEGRITY LABS, [tb] LLC
 #### `Ethics, Social, & Governance [ESG] Signal Verifier`
 
 ##### Born From The Question: 
 
-> `Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`
+> *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
 
 ---
 
