@@ -1,4 +1,5 @@
-> A Person Who Keeps Promises and Holds Everyone Else To Their Promises---It's The American Way
+> Note To Corporate America: I am not Google's agent. Google has no claim over me. Furthermore Google and I are not on speaking terms. There is no gatekeeper here. You are free to contact me. 📱  Oldethornetree@proton.me
+---
 
 # SIGNAL INTEGRITY LABS, [tb] LLC
 #### `Ethics, Social, & Governance [ESG] Signal Verifier`
