@@ -1,4 +1,4 @@
-> Contact: Oldethornetree@proton.me | Expert Witness: Credentialing/High-risk AI-related issues | Plaintiff's Bar: Fully, Complete Audit | 
+> Contact: Oldethornetree@proton.me | Expert Witness: Credentialing/High-risk AI-related issues | Amicus Expert
 > Website & Professional Services in development, To Be Announced | A Monograph for Congress Pending
 ---
 
@@ -322,7 +322,7 @@ Starting today I am officially engaging Think Tanks and Research Institutions fo
     - The Annotated Correspondence is for industry
        - Academia, law, societies, and justice studies, so Law school, Business school
     - The Complete dataset will be leased to ML/LLM training and Governance work/studies 
-       - For Think Tanks, Legal cases,bar research, AI alignment, Algorithmic governance, etc
+       - For Think Tanks, AI alignment, Algorithmic governance, etc
      
 Verba volant, scripta manent. Spoken words fly away, written letters remain. 
  
