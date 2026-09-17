@@ -1,4 +1,4 @@
-> Contact: Oldethornetree@proton.me | Expert Witness: Credentialing/High-risk AI-related issues
+> Contact: Oldethornetree@proton.me | Expert Witness: Credentialing/High-risk AI-related issues | Plaintiff's Bar: Fully, Complete Audit
 ---
 
 # SIGNAL INTEGRITY LABS, [tb] LLC
