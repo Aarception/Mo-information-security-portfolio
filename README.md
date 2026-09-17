@@ -15,6 +15,8 @@ It makes me think. If the institution could have known or have been able to pred
 
 I am not a physicist, but I can become a world class physicist in one year.
 
+I didn't know anything about credentialing in February. By September,  I am a world class expert capable of advising the United States Congress.
+
 #Pondering
 
 ---
