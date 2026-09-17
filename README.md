@@ -1,5 +1,4 @@
-> *Conductor of the 1st live, longitudinal, provenance stress-test on a Fortune 10 institution, and broke containment to publish the artifacts.*
----
+> A Person Who Keeps Promises and Holds Everyone Else To Their Promises---
 
 # SIGNAL INTEGRITY LABS, [tb] LLC
 #### `Ethics, Social, & Governance [ESG] Signal Verifier`
@@ -14,8 +13,6 @@
 ` 1. When Prudence is consequential, but is found undesirable`
 \
 ` 2. When Prudence is desirable, but is found inconsequential`
-
-##### To the institution, you have evidence beyond any reasonable doubt that can substantiate the self-description: I was a gentleman in every possible way to the institution, its agents, it's authority. Being effective is not hostility and being with restraint was not dependency, it was discipline.  The very basis of value in human capital is character, capability, and control.  I am not a credential. The credential was yours. I am not a threat. I am character, capability, and control.
 
 ---
 # The Cambrian Explosion of AI Focus 📊
