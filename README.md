@@ -11,7 +11,15 @@
 
 ---
 
-## ☀️
+### ☀️ `Update: It has been agreed to prepare a special Congressional-focused Monograph on this experience for indepth study by Congressional aides and researchers given the fact of the Dataset's uniquely scarce qualities`
+   - It is timestamped
+   - It includes both sides & responses
+   - It includes methodological annotations
+   - It spans longitudinally over months
+   - It is immutable & contemporaneus
+The monograph will have scholarly referencing and fact-checking, but written with accessibility and deep introspection in line with the material's deep human significance.
+
+### `Next: Senator Patty Murray and Congresswoman Pramila Jayapal` 📅
 
 ---
 
