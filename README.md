@@ -13,6 +13,19 @@
 
 ### 📅  `I will be reaching out to Sen. Richard Blumenthal's office today to see what the Dataset can contribute to legislative work on digital credentialing industry. I don't believe any person in America should go through the experience I went through this year. Not a single person in America. 0.`
 
+### A Congressional Primer has been prepared
+ - Focused encapsulation of the matter
+ - Contains the 4 primary-source artifacts
+ - A quick overview of the months-long experience
+ - Mapping the issue to 4 national priorities
+    - AI and non-human evaluation mechanism
+    - Economic growth & mobility for Americans
+    - Education and skills training
+    - Individual rights and civil protections
+
+![Submission](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Congressional_Primer_Title.png)
+![Submission](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Congressional_Primer.png)
+
 ---
 
 
