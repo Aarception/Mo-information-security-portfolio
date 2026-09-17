@@ -25,6 +25,12 @@
   
  - I will be requesting Congressional recognition of the 3 sided triangle for digital credentialing: Holder, Issuer, and Verifier, with clear, identifiable rights for Holders and obligations for Issuer established by Congressional legislation.
 
+To the institution: did I want you to be the subject of my first and only Congressional input?
+
+No.
+
+You had plenty of opportunities to resolve. You chose not to resolve.
+
 ![Submission](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Congressional_Primer_Title.png)
 ![Submission](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Congressional_Primer.png)
 
