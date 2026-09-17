@@ -53,7 +53,7 @@ Left/Right political alignment signals:
     - Media hot button issue
     - Public policy activated
 
-
+---
 
 ### IMPORTANT: Factual Record Clarification Concerning External Observations & The Increased Legal Importance/Meaning of The Data Preservation Hold
 ~~~
