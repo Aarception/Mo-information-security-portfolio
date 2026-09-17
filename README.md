@@ -10,34 +10,6 @@
 > *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
 
 ---
-I have a question. 
-
-Suppose there is an engagement between an individual and a system. Nother has changed in the professional relationship, the individual is external to the system and the contact is the same office within the system.
- - Suppose the idividual is named Martin
- - They are not affiliated with the system
-The system is engaged on 3 different occasions
-   1. The system first routes a request through Employee Data Management Team utilizing the name Martin, promising 24/hr response time
-       - Them the office resonds utilizing their name Martin
-   2. The system routes directly, but without the pleasantries utilizing the name Martin
-   3. The does not respond to the request and omits the entity's name of Martin in the Greeting
-
-As a savant of cultural semiotics, at a global level, this fascinates me.
-
-It is magnificent to observe how structures and systems function as channels for transferring the transmission of human semiotics.
-
----
-
-It makes me think. If the institution could have known or have been able to predict what it has come to know about my person with respect to cognition, strategic thinking,  ingenuity,  tenacity,  determination,  unbridled focus, communication,  and relentless intellectual curiosity, how would this engagement have been treated since the very first feedback when it was said, this is not a complaint, it is feedback, about what is observed to be an 'ethical misalignment.'
-
-I am not a physicist, but I can become a world class physicist in one year.¹
-
-I didn't know anything about credentialing in February. By September,  I am a world class expert capable of advising the United States Congress.²
-
-#Pondering
-
-##### ¹ I am conscious about how this comes across, but, as a point of fairness, this is more about overcoming a test than a character deficiency. The way I choose to treat others reflects character. 
-##### ² 'World-class expert' is tongue-in-cheek. Another evidence for character is even now, at this stage, I am still conscious of not weaponizing resolution. Namely,  wading into Congress and public policy carries inherent risks: there are the institution is 'such' or big tech is 'x', politically partisan or special interest groups with their own motives unconcerned with this issue. Mitigating the risk of becoming a partisan tool is also an ethical concern in this matter which is internalized as a point of character. 
----
 
 ### ☀️ `Update: It has been agreed to prepare a special Congressional-focused Monograph on this experience for indepth study by Congressional aides and researchers given the fact of the Dataset's unique qualities`
    - It is timestamped
