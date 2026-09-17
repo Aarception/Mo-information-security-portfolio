@@ -15,6 +15,8 @@
 \
 ` 2. When Prudence is desirable, but is found inconsequential`
 
+##### Google, you have evidence beyond any reasonable doubt that can substantiate the self-description: I was a gentleman in every possible way to the institution, its agents, it's authority. Being effective is not hostility and being with restraint was not dependency, it was discipline.  The very basis of value in human capital is character, capability, and control.  I am not a credential. The credential was yours. I am not a threat. I am character, capability, and control.
+
 ---
 # The Cambrian Explosion of AI Focus 📊
 
