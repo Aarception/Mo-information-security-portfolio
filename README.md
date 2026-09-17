@@ -26,9 +26,9 @@
     - Company A-----
     - Company S--------
 
-## Perfect on a criteria yields a maximum score of 1, for a total of 5 points.
+### Perfect on a criteria yields a maximum score of 1, for a total of 5 points.
 
-To Be Announced Latet Today
+To Be Announced Later Today
 
 ---
 
