@@ -11,6 +11,12 @@
 
 ---
 
+It makes me think. If the institution could have known or have been able to predict what it has come to know about my person with respect to cognition, strategic thinking,  ingenuity,  tenacity,  determination,  unbridled focus, communication,  and relentless intellectual curiosity, how would this engagement have been treated since the very first feedback when it was said, this is not a complaint, it is feedback, about what is observed to be an 'ethical misalignment.'
+
+#Pondering
+
+---
+
 ### ☀️ `Update: It has been agreed to prepare a special Congressional-focused Monograph on this experience for indepth study by Congressional aides and researchers given the fact of the Dataset's unique qualities`
    - It is timestamped
    - It includes both sides & responses
