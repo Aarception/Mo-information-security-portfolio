@@ -11,7 +11,7 @@
 
 ---
 
-### 📅  `I will be reaching out to Sen. Richard Blumenthal's office today to see what the Dataset can contribute to legislative work on digital credentialing industry. I don't believe any person in America should go through the experience I went through this year. Not a single person in America.`
+### 📅  `I will be reaching out to Sen. Richard Blumenthal's office today to see what the Dataset can contribute to legislative work on digital credentialing industry. I don't believe any person in America should go through the experience I went through this year. Not a single person in America. 0.`
 
 ---
 
