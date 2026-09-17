@@ -8,40 +8,6 @@
 > *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
 
 ---
-Let's respect each other. 
-
-## July 1-3, 2026 — New Genre of Civic Document
-
-All of Corporate America is up in arms, because this is the first case of credible exposure to discretion's untouchable, impervious status.
-
-What should be disconcerting is is not even done by an adversary. An adversary could never do it. It fell into Integrity's lab.
-
-Advice should be directed where appropriate, and counsel directed to our favorite institution, if you want to be effective in resolving this matter.
-
-![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_1.png)
-
-
-![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_2.png)
-
-
-![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_3.png)
-
-
-![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_4.png)
-
-
-![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_5.png)
-
-
-![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_6.png)
-
-
-![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_7.png)
-
-![Consideration Is For Everyone](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/a-new-genre-of-civic-document/New_Genre_of_Civic_Document_8.png)
-
-Next the Response to New Genre of Civic Document 
----
 
 ###### A piece of wisdom from among the world's diverse cultures says misfortune is one of two states:
 ` 1. When Prudence is consequential, but is found undesirable`
