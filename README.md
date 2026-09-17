@@ -10,7 +10,7 @@
 > *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
 
 ---
-DISCOVERY: I am tempermentally, conscientiously, behaviorally, dispositionally, and psycho-emotive-intellectually, naturally and environmentally-adapted as an acutely-differentiated human mediator/sensor. I may have latent skillset for designing better in-take or support structures than exist currently, and may even be uniquely suited to the next machine-automated economic transition.
+DISCOVERY: I am tempermentally, conscientiously, behaviorally, dispositionally, and psycho-emotive-intellectually, naturally and environmentally-adapted as an acutely-differentiated human mediator/sensor. I may have latent skillset for designing better in-take or support structures than exist currently, and may even be uniquely suited to the next machine-automated economic transition when there will be great disruption in the human adjustment to machine interaction.
 
 ---
 
