@@ -15,10 +15,11 @@ It makes me think. If the institution could have known or have been able to pred
 
 I am not a physicist, but I can become a world class physicist in one year.
 
-I didn't know anything about credentialing in February. By September,  I am a world class expert capable of advising the United States Congress.
+I didn't know anything about credentialing in February. By September,  I am a world class expert capable of advising the United States Congress.*
 
 #Pondering
 
+##### ¹ I am conscious about how this comes across, but, as a point of fairness, this is more about overcoming a test than a character deficiency. The way I choose to treat others reflects character.
 ---
 
 ### ☀️ `Update: It has been agreed to prepare a special Congressional-focused Monograph on this experience for indepth study by Congressional aides and researchers given the fact of the Dataset's unique qualities`
