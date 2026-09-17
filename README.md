@@ -10,6 +10,22 @@
 > *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
 
 ---
+I have a question. 
+
+Suppose there is an engagement between an individual and a system. Nother has changed in the professional relationship, the individual is external to the system and the contact is the same office within the system.
+ - Suppose the idividual is named Martin
+ - They are not affiliated with the system
+The system is engaged on 3 different occasions
+   1. The system first routes a request through Employee Data Management Team utilizing the name Martin, promising 24/hr response time
+       - Them the office resonds utilizing their name Martin
+   2. The system routes directly, but without the pleasantries utilizing the name Martin
+   3. The does not respond to the request and omits the entity's name of Martin in the Greeting
+
+As a savant of cultural semiotics, at a global level, this fascinates me.
+
+It is magnificent to observe how structures and systems function as channels for transferring the transmission of human semiotics.
+
+---
 
 It makes me think. If the institution could have known or have been able to predict what it has come to know about my person with respect to cognition, strategic thinking,  ingenuity,  tenacity,  determination,  unbridled focus, communication,  and relentless intellectual curiosity, how would this engagement have been treated since the very first feedback when it was said, this is not a complaint, it is feedback, about what is observed to be an 'ethical misalignment.'
 
