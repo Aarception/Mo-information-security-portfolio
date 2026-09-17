@@ -8,6 +8,7 @@
 > *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
 
 ---
+Disclaimer: I would like to let it be known that a major American research university is observing this process, so please be conscious about choices made. There should be no reason why all of a sudden my Github clone image download ability is no longer working. I would like to assume this was a mistake on my part.
 
 ## July 1-3, 2026 — New Genre of Civic Document
 
