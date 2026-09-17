@@ -176,7 +176,7 @@ In this particular example, I can tell you, my treatment of the agent ¹ was les
 
  Yet the LLM saw a "psychological exploit." It called my treatment of the agent "The Integrity Mirror." It framed it as a hack. That was a failure of the machine. The LLM was trained on what it called the "Empathy Air-Gap." It was designed to provide emotional validation without operational authority. It could only return strategy or cynicism, stripped of the complexity of nuance and engagement. It signaled a developing Algorithm.
 
-The Agent was of course understood to be engaged in the capacity of their employment and represented that interest, and requirements. The support agent's purpose and business objective are not necessarily deemed exclusive to my stated treatment of the agent. I have argued in my annotations that the nuance of correlation was subject to bias by the AI's weights.
+The Agent was of course understood to be engaged in the capacity of their employment and represented that interest, and requirements. The support agent's purpose and business objective are not necessarily deemed exclusive to my stated treatment of the agent. I have argued in my annotations that the nuance of correlation was subject to application by the AI's weights.
 
 Given the uniquely conscious treatment of the Agent, having valued their humanity without condition, in this context it is arguable that the Agent's uniquely conscious treatment of my person was a response to the validation of their humanity, without condition, separate to their official role mandate and objectives. 
 
