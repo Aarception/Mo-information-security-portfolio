@@ -1,4 +1,4 @@
-> Note To Corporate America: You are free to contact me. 📱  Oldethornetree@proton.me
+> Contact: Oldethornetree@proton.me | Expert Witness: Credentialing/High-risk AI-related issues
 ---
 
 # SIGNAL INTEGRITY LABS, [tb] LLC
@@ -9,6 +9,8 @@
 > *`Can the same commercial entity that issues a credential under a unified opportunity representation explain, in that same unified posture, why the credential's signal cannot be transmitted for verification to itself, and, if it cannot, who bears responsibility for a discontinuity that the entity alone designed, maintains, and profits from?`*
 
 ---
+
+
 
 ##### A piece of wisdom from among the world's diverse cultures says misfortune is one of two states:
 ` 1. When Prudence is consequential, but is found undesirable`
