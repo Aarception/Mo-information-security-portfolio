@@ -14,7 +14,7 @@
 
 ## It's no good, it just gave me telemetry to capture 🥅🥍
 
-### The problem with keyword trigger automation is exactly that = it can be gamed by reverse trigger ♻️  it needs a lot more 'intuition' which is impossible under current artificial intelligence technology I am told 🤔 🙃
+### The problem with keyword trigger automation is exactly that = it can be gamed by reverse trigger ♻️  it needs a lot more 'intuition' which is impossible under current artificial intelligence technology I am told 🤔 🙃  That is tongue-in-cheek, but what is being delivered is just the same. Consider this valuable feedback.
 
 
 ---
