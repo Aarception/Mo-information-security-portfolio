@@ -7,12 +7,26 @@
 
 ---
 
+As usual, everytime  an honorable, no strings attached, clean , dignified opportunity for resolution is offered, there is a sudden increased signaling with the same fringprints, expressing what ammounts to be 'instigation.' 
+
+Namely,  there is embedded code about some aspect of one's private details within digitally held data, something one may have chatted with an ai chatbox  at some point or another, which is inserted in otherwise unremarkable signals. 
+
+I am not making accusations, I am sequencing chronology. 
+
+I cannot think of any other reason for its occurrence other than instigation. given a state in one's emotional state would have immediate temporal consequence on the integrity of the offer in proximity.
+
+Finally, both the fact that the object of the clean resolution offer has nothing to do this issue and the fact that I have made this cyclical observation can simultaneously be true.
+
+---
+
 ### February 16, 2026 — The Day The Credential Was Removed
 
 ![Truth-Making](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/February_16_Credential_Removed%20_From_Profiles.png)
 `The only thing that has changed is patience.`
 
+
 ---
+
 The rest of the week will be taken to explore the issue of submission of regulatory contributions regarding the Credential to relevant agencies.
 
 This is a procedural end point that cannot be mistaken for what it is not.
