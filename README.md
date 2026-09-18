@@ -8,40 +8,42 @@
 
 --- 
 
-I will take the rest of the week to explore the issue of whether I should submit regulatory contributions regarding the Credential to eight national and state agencies, including:
+I will take the rest of the week to explore the issue of whether I should submit regulatory contributions regarding the Credential to relevant agencies.
 
-1. The Federal Trade Commission
-2. The Consumer Financial Protection Bureau
-3. The State of Washington Department of Financial Institutions
-4. The State of Washington Office of the Attorney General
-5. The California State Attorney General's Office
+This is a procedural end point that cannot be mistaken for what it is not.
 
-This is not a threat, nor is it adversarialism. The institution and I are past the stage where procedure can be mistaken for what it is not.
+What is sought are real, durable, legible steps taken by the institution that present a signal to that the institution, as a leader in Corporate America, judging by the influence and solidarity shown by peer companies, understands what the issue is, where the matter stands, and what times signal.
 
-What I will be looking for are real, durable, legible steps taken by the institution that present a signal to me that the institution, as a leader in Corporate America, judging by the influence and solidarity shown by peer companies, understands what the issue is, where the matter stands, and what times signal.
+This issue began with an attempt to access the promise of the commercial partnership, developing the "personal resolution." The discovery of the structural matter then developed the need for the "structural resolution." 
 
-This issue began with an attempt to access the promise of the commercial partnership, the "personal resolution." The discovery of the structural matter developed the parallel "structural resolution." If the institution wants to resolve the personal resolution, that is within its discretion. The subject of the regulatory contribution is the structural resolution, which is a responsibility of the institution.
+If the institution wants to resolve the personal resolution, that is within its discretion, as consideration towards my person. The subject of the regulatory contribution is concerned by the structural resolution, which is a responsibility to the program. 
 
-Similarly, the institution is both the Issuer and the Verifier in this circumstance. The Verifier reserves discretion and is not the subject concerned by the contributions. The Issuer is the party concerned with the responsibility of resolving the structural matter.
+Similarly, the institution is both the Issuer and the Verifier in this circumstance. The Verifier reserves discretion and is not the subject concerned by the contributions. The Issuer is the party concerned by the responsibility for resolving the structural matter.
 
-It is understood that the institution has liability concerns; however, this is not a fact-finding engagement, but rather a matter of established findings in which the institution has participated since February. The responsibility to resolve it constitutes the consequential liability. I prefer that the institution resolve the matter which is a manner worthy of its name, stature, and influence among peer companies that face the threat of external regulation.
+It is understood that the institution has liability concerns. The institution has been engaged as participant to fact-finding since February, and actively engaged up to March 17. The responsibility to resolve such a matter constitutes the consequential liability. 
+
+The preference is for institutional resolution of the matter, a development worthy of its name, stature, and influence among peer companies that also risk the threat of external regulation.
 
 That is the most reasonable, fair, and positive-intentioned position that could be expected.
 
 Silence is not proactivity; it is time to reject reactivity as inefficiency. 
 
-Similarly, I would like to address the highly charged communications of the previous week. There has been opportunity to observe my conduct, temperament, character, and even etiquette. I come from a stock of diplomats and peacemakers. In the many months of engagement, the institution can be considered a reference for my disposition. The reactionary communication was based in observations that correspondeded to this engagement's documented interaction sequences, which could not garner reassurance from the institution on account of the lack of communication.
+Similarly, I would like to address the highly charged communications of the previous week. There has been opportunity to observe my conduct, temperament, character, and even etiquette. I come from a stock of diplomats and peacemakers. In the many months of engagement, the institution can be considered a reference for my disposition. 
 
-Finally, it will be noticed that what constitutes 'durable, legible steps" for resolution has not been defined. This is not an omission. Definig resolution turns this engagement into a demand and there is nothing demanded of the institution, there is only the identification of a matter in which the institution, on its own, reserves the agency, understanding, and capacity to resolve.
+The reactionary communication was based in observations that correspondeded to this engagement's documented interaction sequences, which could not garner reassurance from the institution on account of the lack of communication.
+
+Finally, it will be noticed that what constitutes 'durable, legible steps" for resolution has not been defined. This is not an omission. 
+
+Defining resolution turns this engagement into a demand and there is nothing to demand from the institution. There is only the identification of a matter in which the institution, on its own, reserves the agency, understanding, and capacity for resolution.
 
 ---
 
 
 ### ☀️ `Monograph of the Dataset's unique qualities
 
-The monograph will have scholarly referencing and fact-checking
+The monograph will be scholarly
   - written with accessibility
-  - deep introspectio
+  - deeply introspective 
     - National priorities
       - Eonomic growth
       - Mobility for Americans
@@ -49,11 +51,11 @@ The monograph will have scholarly referencing and fact-checking
 
 ## 1. Congress Galvanized 
 ###  Priority
-> *Algorithmic harm + Bipartisan coalition = High-priority regulatory focus.*
+> *Algorithmic harm + Bipartisan coalition = High-priority focus.*
 
 
 ###  Public policy 
-Left/Right political alignment signals:
+Ppolitical alignment signals:
   - AI governance embedding into:
     - consumer protection
     - employment law
