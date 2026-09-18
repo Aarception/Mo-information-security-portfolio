@@ -7,6 +7,15 @@
 
 ---
 
+## Clones of the Repository From Yesterday, September 17
+
+
+![e](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/September_17_Clones.png)
+
+`The old repository is frozen. This is an offshoot started two days ago.`
+
+---
+
 As usual, everytime  an honorable, no strings attached, clean , dignified opportunity for resolution is offered, there is a sudden increased signaling of the same fringprint. engaging in what amounts to be 'instigation.' 
 
 Namely,  there is embedded code about some aspect of one's private details within digitally held data, for example: something one may have chatted with an ai chatbox at some point, which is inserted in otherwise unremarkable signals. 
