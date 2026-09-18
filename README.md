@@ -8,7 +8,7 @@
 
 --- 
 
-I will take the rest of the week to explore the issue of whether I should submit regulatory contributions regarding the Credential to relevant agencies.
+The rest of the week will be taken to explore the issue of submission of regulatory contributions regarding the Credential to relevant agencies.
 
 This is a procedural end point that cannot be mistaken for what it is not.
 
