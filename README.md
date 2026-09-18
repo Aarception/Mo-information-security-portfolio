@@ -30,8 +30,9 @@ Let us handle this with diplomacy.
      - I will stand down and turn the page
  9. That requires Corporate America becoming a Legation
      - And becoming Guarantors
- 10. Otherwise nothing is being down to resolve this matte
-    
+ 10. Otherwise nothing is being down to resolve this matter
+
+---
 
  ## Clones of the Repository From Yesterday, September 17
 
