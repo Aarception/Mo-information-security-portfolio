@@ -1,5 +1,4 @@
-> Contact: Oldethornetree@proton.me | Expert Witness: Credentialing/High-risk AI-related issues | Amicus Expert
-> Website & Professional Services in development, To Be Announced | A Monograph for Congress Pending
+> Contact: Oldethornetree@proton.me | Trust Architect | Signal Infrastructure 
 ---
 
 # SIGNAL INTEGRITY LABS, [tb] LLC
