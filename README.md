@@ -7,7 +7,33 @@
 
 ---
 
-## Clones of the Repository From Yesterday, September 17
+# Here Is My Proposal To Corporate America 
+
+Let us handle this with diplomacy.
+
+ 1. There is a structural Matter.
+ 2.  That matter has 4 primary-source evidence
+     -  The Mechanical Impossibility Finding, a consumer signal trace
+     -  Institutional Confirmation, amswers provided by institution
+     -  April 16 Partner admissions, from the institution's partner
+     -  The Methodology, carbon copy similarity to prior FTC sanction
+     -  There are a lot more, but these 4 suffice
+
+ 3. The Matter requires a fix or resolution
+ 4. I may not consider myself a victim, but it has impact mw
+ 5. Despite that, I am not seeking to punish or attack the institution
+ 6. It is not effective to rally to the institution
+     - And expect nothing should be done about resolution 
+ 7. Constructive engagement in this matter requires mediation
+ 8. My position states that resolution requires
+     - Aasurance the structural matter will be corrected 
+     - I will stand down and turn the page
+ 9. That requires Corporate America becoming a Legation
+     - And becoming Guarantors
+ 10. Otherwise nothing is being down to resolve this matte
+    
+
+ ## Clones of the Repository From Yesterday, September 17
 
 
 ![e](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/September_17_Clones.png)
