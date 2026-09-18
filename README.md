@@ -20,7 +20,7 @@ Let us handle this with diplomacy.
      -  There are a lot more, but these 4 suffice
 
  3. The Matter requires a fix or resolution
- 4. I may not consider myself a victim, but it has impact mw
+ 4. I may not consider myself a victim, but it has impacted me
  5. Despite that, I am not seeking to punish or attack the institution
  6. It is not effective to rally to the institution
      - And expect nothing should be done about resolution 
