@@ -1,4 +1,5 @@
-> Contact: Oldethornetree@proton.me | Trust Architect | Signal Infrastructure 
+> Neutral Trust Architecture | Digital Verification Infrastructure | Integrity Operational Ledger Systems |
+> > Contact: Oldethornetree@proton.me 
 ---
 
 # SIGNAL INTEGRITY LABS, [tb] LLC
