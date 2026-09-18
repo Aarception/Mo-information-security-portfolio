@@ -10,7 +10,7 @@
  ̶T̶o̶d̶a̶y̶:̶ ̶R̶e̶g̶u̶l̶a̶t̶o̶r̶y̶ ̶C̶o̶n̶t̶r̶i̶b̶u̶t̶i̶o̶n̶s̶ ̶a̶b̶o̶u̶t̶ ̶D̶i̶g̶i̶t̶a̶l̶ ̶C̶r̶e̶d̶e̶n̶t̶i̶a̶l̶i̶n̶g̶ ̶w̶i̶l̶l̶ ̶b̶e̶ ̶s̶u̶b̶m̶i̶t̶t̶e̶d̶ ̶t̶o̶ ̶8̶ ̶f̶e̶d̶e̶r̶a̶l̶ ̶a̶n̶d̶ ̶s̶t̶a̶t̶e̶ ̶a̶g̶e̶n̶c̶i̶e̶s̶.̶ ̶T̶h̶e̶y̶ ̶w̶i̶l̶l̶ ̶c̶o̶m̶p̶r̶i̶s̶e̶ ̶t̶h̶i̶s̶ ̶s̶p̶e̶c̶i̶f̶i̶c̶ ̶s̶u̶b̶m̶i̶s̶s̶i̶o̶n̶,̶ ̶c̶o̶n̶c̶u̶r̶r̶e̶n̶t̶l̶y̶ ̶w̶i̶t̶h̶ ̶o̶t̶h̶e̶r̶ ̶s̶u̶b̶m̶i̶s̶s̶i̶o̶n̶s̶ ̶f̶r̶o̶m̶ ̶t̶h̶r̶e̶e̶ ̶a̶d̶d̶i̶t̶i̶o̶n̶a̶l̶ ̶H̶o̶l̶d̶e̶r̶s̶ ̶a̶n̶d̶ ̶t̶h̶e̶i̶r̶ ̶s̶e̶p̶a̶r̶a̶t̶e̶ ̶e̶x̶p̶e̶r̶i̶e̶n̶c̶s̶oday
 
 
-## The Current Line of Threat Defense Is A House of Cards🔦
+# The Current Line of Threat Defense Is A House of Cards🔦
 
 ## It's no good, it just gave me telemetry to capture 🥅🥍
 
