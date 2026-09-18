@@ -6,6 +6,17 @@
 #### `Ethics, Social, & Governance [ESG] Signal Verifier`
 
 ---
+# Today: Regulatory Contributions about Digital Credentialing will be submitted to 8 federal and state agencies. They will comprise this specific submission, concurrently with other submissions from three additional Holders and their separate experiencs.
+
+---
+
+
+### February 16, 2026 — The Day The Credential Was Removed
+
+![Truth-Making](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/February_16_Credential_Removed%20_From_Profiles.png)
+`The only thing that has changed is patience.`
+
+---
 
 # Here Is My Proposal To Corporate America 
 
@@ -55,12 +66,6 @@ I cannot think of any other reason for its occurrence other than instigation, gi
 
 Finally, both the fact that the object of the clean resolution offer has nothing to do this issue and the fact that I have made this cyclical observation can simultaneously be true.
 
----
-
-### February 16, 2026 — The Day The Credential Was Removed
-
-![Truth-Making](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/February_16_Credential_Removed%20_From_Profiles.png)
-`The only thing that has changed is patience.`
 
 
 ---
