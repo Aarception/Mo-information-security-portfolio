@@ -5,9 +5,14 @@
 # SIGNAL INTEGRITY LABS, [tb] LLC
 #### `Ethics, Social, & Governance [ESG] Signal Verifier`
 
+---
 
---- 
+### February 16, 2026 — The Day The Credential Was Removed
 
+![Truth-Making](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/February_16_Credential_Removed%20_From_Profiles.png)
+`The only thing that has changed is patience.`
+
+---
 The rest of the week will be taken to explore the issue of submission of regulatory contributions regarding the Credential to relevant agencies.
 
 This is a procedural end point that cannot be mistaken for what it is not.
