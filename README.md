@@ -11,6 +11,31 @@
 
 ---
 
+I will take the rest of the week to explore the issue of whether I should submit regulatory contributions about the Credential to 8 national and state agencies including:
+
+   1. The Federal Trade Commission
+   2. The Consumer Financial Protection Bureau
+   3. The State of Washington Department of Financial Institutions
+   4. The State of Washington Office of the Attorney General
+   5. California State Attorney General's Office
+
+This is not a threat nor is it adversarialism. The institution and I are past the stage where procedure can be mistaken for what it is not.
+
+What I will be lpoking for is real, durable, legible steps taken by the institution that present to me a signal that the instution, as a leader in Corporate America, judging by the influence and solidarity shown by peer companies, understands what the issue is, where the matter stands, and what times signal.
+
+This issue began with an attempt to access the promise of the commercial partnership, the 'personal resolution.' The discovery of the structural matter, developed the parallel "structural resolution." If the instutional wants to resolve the personal resolution, that is within the discretion of the institution. What is considered the subject of the regulatory contribution is the structural resolution, which is a responsibility on the institution.
+
+Similarly,  the institution is both the issuer and the verifier in this circumstance. The verifier reserves discretion and is not the subject concerned by the contributions. The Issuer is the subject concerned by the responsibility of resolving the structural matter.
+
+It is undertood the institution has liability concerns, but this is not a fact-finding engagement, but a finding matter in which the institution has participated since February. That there is responsibility to resolve is the consequential liability. I prefer that the institution resolves the matter which is worthy of the institution's name, stature, and influence within fellow peer companies who face the threat of external regulation.
+
+That is the most reasonable, fair, positive intentioned position that could be expected.
+
+Silence is not proactivity, it is time to reject reactivity as inefficiency.
+
+---
+
+
 ### ☀️ `Update: It has been agreed to prepare a special Congressional-focused Monograph on this experience for indepth study by Congressional aides and researchers given the fact of the Dataset's unique qualities`
    - It is timestamped
    - It includes both sides & responses
