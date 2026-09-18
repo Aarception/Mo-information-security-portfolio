@@ -14,15 +14,15 @@ Let us handle this with diplomacy.
  1. There is a structural Matter.
  2.  That matter has 4 primary-source evidence
      -  The Mechanical Impossibility Finding, a consumer signal trace
-     -  Institutional Confirmation, amswers provided by institution
-     -  April 16 Partner admissions, from the institution's partner
-     -  The Methodology, carbon copy similarity to prior FTC sanction
+     -  Institutional Confirmation, answers provided by the Institution
+     -  April 16 Partner admission, from the Institution's partner
+     -  The Methodology, very similar to prior FTC sanction
      -  There are a lot more, but these 4 suffice
 
  3. The Matter requires a fix or resolution
  4. I may not consider myself a victim, but it has impacted me
  5. Despite that, I am not seeking to punish or attack the institution
- 6. It is not effective to rally to the institution
+ 6. It is not effective to rally to the Institution
      - And expect nothing should be done about resolution 
  7. Constructive engagement in this matter requires mediation
  8. My position states that resolution requires
@@ -39,7 +39,7 @@ Let us handle this with diplomacy.
 
 ![e](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/September_17_Clones.png)
 
-`The old repository is frozen. This is an offshoot started two days ago.`
+`The old repository is frozen. This is an offshoot started four days ago.`
 
 ---
 
