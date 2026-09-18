@@ -33,7 +33,7 @@ That is the most reasonable, fair, and positive-intentioned position that could 
 
 Silence is not proactivity; it is time to reject reactivity as inefficiency. 
 
-Finally, I would like to address the highly charged communications of the previous week. There has been opportunity to observe my conduct, temperament, character, and even etiquette. I come from a stock of diplomats and peacemakers. In the many months of engagement, the institution can be considered a reference for my disposition. The reactionary communication was based in a sense of betrayal of confidence after behavioral patterns were observed in external commercial network communications that corresponded to this engagement's documented interaction sequences with the institution. 
+Finally, I would like to address the highly charged communications of the previous week. There has been opportunity to observe my conduct, temperament, character, and even etiquette. I come from a stock of diplomats and peacemakers. In the many months of engagement, the institution can be considered a reference for my disposition. The reactionary communication was based in a sense of betrayal of confidence after behavioral patterns were observed in external commercial network communications that corresponded to this engagement's documented interaction sequences with the institution, which could not garner reassurance on account of the institution's silence.
 
 ---
 
