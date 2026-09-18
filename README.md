@@ -11,7 +11,7 @@ As usual, everytime  an honorable, no strings attached, clean , dignified opport
 
 Namely,  there is embedded code about some aspect of one's private details within digitally held data, something one may have chatted with an ai chatbox  at some point or another, which is inserted in otherwise unremarkable signals. 
 
-I am not making accusations, I am sequencing chronology. 
+I am not making accusations, I am sequencing chronology. This is a document phenomenon in the dataset mind you.
 
 I cannot think of any other reason for its occurrence other than instigation. given a state in one's emotional state would have immediate temporal consequence on the integrity of the offer in proximity.
 
