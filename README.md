@@ -54,7 +54,7 @@ In other words, the gap at the heart of the product's misalignment results from 
       3. *Institutional Inrouting Failure:*
           The governance signal produced by a Holder encountering Representational Divergence cannot be routed to any institutional function with the mandate to evaluate both the Issuer and Verifier functions. These functions are partioned across siloes, and process only the function-scoped aspect of the signal.
       4. *Cooperation Misclassification:*
-          The liability containment architecture, calibrated for adversarial engagement, systematically misclassifies cooperative  governance signals as a threat, activating neutralization codes that coopetatio was specifically designed to preclude.
+          The liability containment architecture, calibrated for adversarial engagement, systematically misclassifies cooperative  governance signals as a threat, activating neutralization codes that cooperative engagement was specifically designed to preclude.
 
 ### 1.4 Structurally Compounding Features
 
