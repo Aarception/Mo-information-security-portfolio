@@ -38,7 +38,7 @@ In other words, the gap at the heart of the product's misalignment results from 
        3.  *Condition C:* The Issuer's revenue is structurally equivalent across functional and non-functional states of the mechanism, being unaffected by state, which eliminates the financial incentive or motive to maintain mechanical integrity, an economic state which may naturally incentivize preference against mechanical functionality.
        4.   *Condition D:* The institutional architecture partitions the Issuer function from the Verifier function across internal silos, making any unified governance engagement structurally unroutable within existing functional boundaries.
 
-### 1.2 Divergence Independent To Intentionality
+### 1.2 Intent-Independent Divergence
 
   2. When all four conditions are present, the platform ecosystem produces systematic representational divergence independent of institutional intentionality.
      1. This is a structural and predictable failure.
