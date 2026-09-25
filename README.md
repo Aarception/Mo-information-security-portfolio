@@ -44,3 +44,5 @@ In other words, the gap at the heart of the product's misalignment results from 
     
 
 ### To Be Continued: 
+
+Observational Note: I will nevet understand the institution's response or treatment of this issue. It absolutely confounds and  no one who has observed this process can label this reasoning to be impressionable or greenhorn. I will restate it this way: I have never engaged a consumer feedback that was longer than 2 days before this matter. Any strategy or advisory that has argued their comparison is like the soothe-sayings at the Court of Louie XVI and Marie Antoinette at the Hall of Mirrors in Versailles before the their outcome. The Institution's reputation, name, social meaning will be affected on this issue. Egypt, Rome, Greece, the Hudson Bay Fur Company, Ford Motor Company, Hewlett-Packard were all giants of their time. I personally do not think there is understanding in EdTech about the state of this issue's resonance upon public engagement. Otherwise I do not imagine it would treated so cavalier.
