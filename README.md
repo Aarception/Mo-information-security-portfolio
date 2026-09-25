@@ -21,7 +21,7 @@ The purpose of this work, therefore, is not to offer yet another rehearsal of th
 
 The pre-commitment device of reliance, therefore, precedes the post-inducement device of mechanical verification.
 
-In other words, the gap at the heart of the product results from a defect at the architectural-level.
+In other words, the gap at the heart of the product's misalignment results from a defect at the architectural-level.
 
 ---
 
