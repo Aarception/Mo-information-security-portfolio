@@ -33,7 +33,7 @@ In other words, the gap at the heart of the product's misalignment results from 
    1.  The structural failure class is defined by four conditions occurring simultaneously:
        1. *Condition A:* The Holder (*'consumer'*) commits resources: financial, opportunity-cost, aspirational investment, before the mechanism being relied upon can be tested.
        2.  *Condition B:* The mechanism's functionality is required by parties (Verifiers) who were not party to the original transaction and whose confidence cannot be sustained by the Issuer under current platform architecture.
-       3.  *Condition C:* The Issuer's revenue is structurally equivalent across functional and non-functional states of the mechanism, being unaffected by state, which eliminates the financial incentive or motive to maintain mechanical integrity, an economic state which may naturally incentivize against functional preference.
+       3.  *Condition C:* The Issuer's revenue is structurally equivalent across functional and non-functional states of the mechanism, being unaffected by state, which eliminates the financial incentive or motive to maintain mechanical integrity, an economic state which may naturally incentivize preference against mechanical functionality.
        4.   *Condition D:* The institutional architecture partitions the Issuer function from the Verifier function across internal silos, making any unified governance engagement structurally unroutable within existing functional boundaries.
 
   2. When all four conditions are present, the platform ecosystem produces systematic representational divergence independent of institutional intent.
