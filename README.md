@@ -17,7 +17,11 @@ This standard is born from evidence and experience. It does not claim to be an a
    2. the adversarial ccountability processing,
    3. the rigid, borders of liability containment,
 ```
-The purpose of this work, therefore, is not to offer yet another rehearsal of these failures, but to unearth a new governance framework that is responsive to the central challenge of a structural class of platform-mediated distributed systems in which, existentially, the pre-commitment device of reiance precedes the post-inducement device of mechanical verification.
+The purpose of this work, therefore, is not to offer yet another rehearsal of these failures, but to present a new governance framework that is responsive to a structural class of platform-mediated distributed systems in which, existentially, the central challenge remains:  the pre-commitment device of consumer reliance is structurally finalized before the verification mechanism being relied upon can be evaluated.
+
+The pre-commitment device of reliance, therefore, precedes the post-inducement device of mechanical verification.
+
+In other words, the gap at the heart of the product results from a defect at the architectural-level.
 
 ---
 
