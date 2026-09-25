@@ -49,12 +49,12 @@ In other words, the gap at the heart of the product's misalignment results from 
 ### 1.3 The Three Replicable Failure Modes
 
    3. Within the structural failure class, three distinct but compounding failure modes emerge:
-      1. *Failure Mode I:* Representational Divergence
-         The interface-layer representation of mechanism functionality exceeds the runtime execution behavior of the mechanism. The space between what the architecture claims to do and what the architecture does constitutes the gap.
-      2. *Failure Mode II:* Institutional Inrouting Failure 
-         The governance signal produced by a Holder encountering Representational Divergence cannot be routed to any institutional function with the mandate to evaluate both the Issuer and Verifier functions. imultaneously. These functions are partioned across siloes. Each silo processes only the function-scoped aspect of the signal.
-      3. *Failure Mode III:* Anti-Cooperative Misclassification
-         The liability containment architecture, calibrated for adversarial engagement, systematically misclassifies cooperative  governance signals as a threat, activating neutralization codes that coopetatio was specifically designed to preclude.
+      1. *Representational Divergence:*
+            The interface-layer representation of mechanism functionality exceeds the runtime execution behavior of the mechanism. The space between what the architecture claims to do and what the architecture does constitutes the gap.
+      3. *Institutional Inrouting Failure:*
+          The governance signal produced by a Holder encountering Representational Divergence cannot be routed to any institutional function with the mandate to evaluate both the Issuer and Verifier functions. These functions are partioned across siloes, and process only the function-scoped aspect of the signal.
+      4. *Cooperation Misclassification:*
+          The liability containment architecture, calibrated for adversarial engagement, systematically misclassifies cooperative  governance signals as a threat, activating neutralization codes that coopetatio was specifically designed to preclude.
 
 ### 1.4 Structurally Compounding Features
 
