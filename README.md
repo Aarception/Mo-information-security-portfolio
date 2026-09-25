@@ -14,8 +14,8 @@
 This standard is born from evidence and experience. It does not claim to be an authority. It is born from the recognition that the following functions of the existing frameworks of digital governance have not only proven structurally outdated, but may have actively exacerbated and deepened the architectural misalignment at the heart of digital credentialing:
 ```
    1. the bureaucratic, siloed hierarchies,
-   2. the adversarial ccountability processing,
-   3. the rigid, borders of liability containment,
+   2. the adversarial accountability processing,
+   3. the rigid borders of liability containment,
 ```
 The purpose of this work, therefore, is not to offer yet another rehearsal of these failures, but to present a new governance framework that is responsive to a structural class of platform-mediated distributed systems in which, existentially, the central challenge remains:  the pre-commitment device of consumer reliance is structurally finalized before the verification mechanism being relied upon can be evaluated.
 
