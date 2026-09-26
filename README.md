@@ -83,4 +83,4 @@ Objective Complete: I was never going to, and cannot be indisposed to become lit
 
 ## To The Institution & The Industry:
 
-> ## ***`The architecture contains a defect. This is a material fact. It does not require and is independent to intentionality, which is unattributed and not accused. It is encouraged that the institution, being absolved and even forgiven, without attribution or accusation, for any impact or affect, perceived or otherwise, by the party regarding experience, should respond to the matter and rise to the occasion.`***
+> #### ***The architecture contains a defect. This is a material fact that does not require, and is independent to, intentionality, which is neither unattributed nor accused. It is encouraged that the institution, being absolved and even forgiven, without attribution or accusation, for any impact or affect, perceived or otherwise, by the party regarding experience, should respond to the matter and rise to the occasion.***
