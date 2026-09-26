@@ -36,24 +36,24 @@ In other words, the gap at the heart of the product's misalignment results from 
        1. *Condition A:* The Holder (*'consumer'*) commits resources: financial, opportunity-cost, aspirational investment, before the mechanism being relied upon can be tested.
        2.  *Condition B:* The mechanism's functionality is required by parties (Verifiers) who were not party to the original transaction and whose confidence cannot be sustained by the Issuer under current platform architecture.
        3.  *Condition C:* The Issuer's revenue is structurally equivalent across functional and non-functional states of the mechanism, which eliminates the financial incentive to maintain mechanical integrity, an economic state which may naturally incentivize preference against the cost-expenditure for mechanical functionality.
-       5.   *Condition D:* The institutional architecture partitions the Issuer function from the Verifier function across internal silos, making any unified governance engagement structurally unroutable within existing functional boundaries.
+       4.   *Condition D:* The institutional architecture partitions the Issuer function from the Verifier function across internal silos, making any unified governance engagement structurally unroutable within existing functional boundaries.
 
 ### 1.2 Intent-Independent Divergence
 
   2. When all four conditions are present, the platform ecosystem produces systematic representational divergence independent of institutional intentionality.
      1. This is a structural and predictable failure.
      2. The experience is merely the result of the failure's production, observed through a rigorously engaged opportunity.
-     4. This structural failure is universal to platform credentialing ecosystem as an architectural defect.
-     5. Mapping the four conditions onto other platform categories reveals the scope of the structural class
+     3. This structural failure is universal to platform credentialing ecosystem as an architectural defect.
+     4. Mapping the four conditions onto other platform categories reveals the scope of the structural class
 
 ### 1.3 The Three Failure Modes
 
    3. Within the structural failure class, three distinct but compounding failure modes emerge:
       1. *Representational Divergence:*
             The interface-layer representation of mechanism functionality exceeds the runtime execution behavior of the mechanism. The space between what the architecture claims to do and what the architecture does constitutes the gap.
-      3. *Institutional Inrouting Failure:*
+      2. *Institutional Inrouting Failure:*
           The governance signal produced by a Holder encountering Representational Divergence cannot be routed to any institutional function with the mandate to evaluate both the Issuer and Verifier functions. These functions are partioned across siloes, and process only the function-scoped aspect of the signal.
-      4. *Cooperation Misclassification:*
+      3. *Cooperation Misclassification:*
           The liability containment architecture, calibrated for adversarial engagement, systematically misclassifies cooperative  governance signals as a threat, activating neutralization codes that cooperation was specifically designed to preclude.
 
 ### 1.4 Structurally Compounding Features
@@ -68,8 +68,8 @@ In other words, the gap at the heart of the product's misalignment results from 
 
    5. The following institutional response patterns constitute the  replicable architecture that this standard exists to structurally resolve:
       1. Processing a unified governance signal from a Holder engaging a unified Issuer-Employer relationship through siloed, partitioned functions that recognize only the portion of the signal within scope.
-      4. Classifying a cooperative, evidence-grounded, commitment-device constrained governance signal as a threat requiring    containment, solely because fact-finding methodology, sustained engagement, structural persistence, documented inquiry are deemed adversarial and/or threatening.
-      5. Disclaiming operational integration while maintaining the commercial benefits of a unified Issuer-Verifier architecture, the unified representation upon which the Holder entered the system in reasonable reliance and cannot be held responsible for having assumed.
+      2. Classifying a cooperative, evidence-grounded, commitment-device constrained governance signal as a threat requiring    containment, solely because fact-finding methodology, sustained engagement, structural persistence, documented inquiry are deemed adversarial and/or threatening.
+      3. Disclaiming operational integration while maintaining the commercial benefits of a unified Issuer-Verifier architecture, the unified representation upon which the Holder entered the system in reasonable reliance and cannot be held responsible for having assumed.
          
 ---
     
@@ -77,8 +77,6 @@ In other words, the gap at the heart of the product's misalignment results from 
 
 This will be the end of unattributed public commentary, what follows is attributed intellectual-property publication.
 
-What folllows is Infrastructure and Attribution and it will be written with Institutional.
-
 From Inquiry, To The Institution To Infrastructure, For The Industry 
 
-I was modeled wrong, because I was never going to, and cannot be indisposed to become litigous over a structural matter. A structural matter does not deserve punishment and adversarialism, it merits constructive engagement for problem-solving and resolution.
+Objective Complete: I was never going to, and cannot be indisposed to become litigous over a structural matter. A structural matter does not deserve punishment and adversarialism, it merits constructive engagement for problem-solving and resolution.
