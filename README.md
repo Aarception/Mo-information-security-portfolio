@@ -73,4 +73,10 @@ In other words, the gap at the heart of the product's misalignment results from 
          
 ---
     
-### To Be Continued: 
+### To Be Continued: From Liability to Legibility, Aspiration to Architecture.
+
+This will be the end of unattributed public commentary, what follows is attributed publication.
+
+What folllows is Infrastructure and Attribution and it will be written with Institutional.
+
+From Inquiry, To The Institution To Infrastructure, For The Industry 
