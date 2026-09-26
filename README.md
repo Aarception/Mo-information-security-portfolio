@@ -77,6 +77,10 @@ In other words, the gap at the heart of the product's misalignment results from 
 
 This will be the end of unattributed public commentary, what follows is attributed intellectual-property publication.
 
-From Inquiry, To The Institution To Infrastructure, For The Industry 
+From Inquiry, To The Institution: To Infrastructure, For The Industry 
 
 Objective Complete: I was never going to, and cannot be indisposed to become litigous over a structural matter. A structural matter does not deserve punishment and adversarialism, it merits constructive engagement for problem-solving and resolution.
+
+## To The Institution & The Industry:
+
+> ## ***`The architecture contains a defect. This is a material fact. It does not require and is independent to intentionality, which is unattributed and not accused. It is encouraged that the institution, being absolved and even forgiven, without attribution or accusation, for any impact or affect, perceived or otherwise, by the party regarding experience, should respond to the matter and rise to the occasion.`***
