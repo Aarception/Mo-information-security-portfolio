@@ -1,9 +1,9 @@
- > ## ***In Fortitude & Fidelity to the Truth, May Fortune Find the Fiduciary***
+ > #### ***In Fortitude & Fidelity to the Truth, May Fortune Find the Fiduciary***
 ---
 
-# FROM PROMISES FOR RELIANCE, PATHWAYS FOR 
+# P̶̶r̶̶o̶̶m̶̶i̶̶s̶̶e̶̶ Pathways For Reliance 
 
-# A Digital Governance Architecture Standard for Signal Integrity in Distributed Trust-Based Ecosystems
+> ## A Digital Governance Architecture Standard for Signal Integrity in Distributed Trust-Based Ecosystems
 
 
   > #### **An Infrastructure Component For Platform Verification**
@@ -88,4 +88,4 @@ Objective Complete: I was never going to, and cannot be indisposed to become lit
 
 ## To The Institution & The Industry:
 
-> #### ***The architecture contains a defect. This is a material fact that does not require and is independent to intentionality, which is neither attributed nor accused. It is encouraged that the institution: being absolved and even forgiven, notwithstanding the disclaimer of attribution or accusation, for any impact or affect, perceived or otherwise, by the party regarding the experience; should respond to the matter and rise to the occasion. Ultimately this is an incentive matter and resolution will be pursued not through legal compulsion, ecosystem pressuring,  regulatory adjustment, but through market incentivization, by pricing a class of currently unpriced risk ever since the disruption of Bootcamps.*** 
+> #### ***The architecture contains a defect. This is a material fact that does not require and is independent to intentionality, which is neither attributed nor accused. It is encouraged that the institution: being absolved and even forgiven, notwithstanding the disclaimer of attribution or accusation, for any impact or affect, perceived or otherwise, by the party regarding the experience; should respond to the matter and rise to the occasion.*** 
