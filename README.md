@@ -1,10 +1,11 @@
  > #### ***In Fortitude & Fidelity to the Truth, May Fortune Find the Fiduciary***
 ---
 
-# P̶̶r̶̶o̶̶m̶̶i̶̶s̶̶e̶̶ Pathways For Reliance 
+# Pathway Not Promise For Reliance 
 
 > ## A Digital Governance Architecture Standard for Signal Integrity in Distributed Trust-Based Ecosystems
 
+![Signature](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Quality.jpg)
 
   > #### **An Infrastructure Component For Platform Verification**
 
