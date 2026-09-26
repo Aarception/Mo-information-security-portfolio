@@ -75,8 +75,10 @@ In other words, the gap at the heart of the product's misalignment results from 
     
 ### To Be Continued: From Liability to Legibility, Aspiration to Architecture.
 
-This will be the end of unattributed public commentary, what follows is attributed publication.
+This will be the end of unattributed public commentary, what follows is attributed intellectual-property publication.
 
 What folllows is Infrastructure and Attribution and it will be written with Institutional.
 
 From Inquiry, To The Institution To Infrastructure, For The Industry 
+
+I was modeled wrong, because I was never going to, and cannot be indisposed to become litigous over a structural matter. A structural matter does not deserve punishment and adversarialism, it merits constructive engagement for problem-solving and resolution.
