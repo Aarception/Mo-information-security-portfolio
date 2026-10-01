@@ -2,7 +2,9 @@
 
 > I have reached out to the Institution in line with the new understanding expressed yesterday regarding the update to my knowledge concerning the full context of the events of the month of September. 
 
-> It was hard and I understand the potential for adversarial weaponization considering the structural matter, which can manifest in delegitimization, but it is line with my character, values, and intentional practice of humility to apologize where needed upon update to context.
+> It was hard and I understand the potential for adversarial weaponization considering the structural matter, which can manifest in delegitimization, but it is inline with my character, values, and intentional practice of humility to apologize where needed upon update to context.
+
+> >Indeed, it is responsible, just and necessary 
 
 
 ## I was wrong. 
