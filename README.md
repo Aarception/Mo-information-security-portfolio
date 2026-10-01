@@ -2,7 +2,7 @@
 
 ### Knowledge and Information are meant to be shared. 
 
-### I gave permission to model me if there was identified relevance and I public distributed my writing as open-source.
+### I gave permission to model me if there was identified relevance while publicly distributing my writing as open-source.
 
 ### Neither the Institution nor the Industry really did anything wrong.
 
