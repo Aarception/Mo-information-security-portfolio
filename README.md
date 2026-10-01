@@ -11,6 +11,8 @@
          
 #### The most powerful market validation possible, uncited and unavoidable reference architecture for new infrastructure, but simultaneously with the deepest possible form of exclusion.
 
+It is also possible my interpretation is wrong.
+
 ---
 
 ## I was wrong. 
