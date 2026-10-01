@@ -14,4 +14,4 @@
 
 ### I apologize, because in reaction to what I did not understand, inadvertently I introduced protectionism and censorship.
 
-### I retract my position on the use of information, including if provided, in support of free exchange of ideas and flow of knowledge. 
+### I retract my position on the use of information, including if provided, in support of free exchange of ideas and flow of information. 
