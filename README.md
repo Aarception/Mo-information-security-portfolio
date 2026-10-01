@@ -19,4 +19,4 @@
 
 ###### ¹ Excepting where Prior Art has been clearly established as of May, 2026, including, but not limited to: RDA methodology, DCOTI framework, VCI specifications, and the original contributions itemized in their respective Prior Art Notice, remain fixed as original intellectual contributions. No statement herein waives, disclaims, or diminishes that prior art record, which is preserved independently of any permission to use, modify, or distribute the work. 
 
-###### ² The foregoing release applies to use and circulation, not to origin or priority. 
+###### ² The retraction applies to use and circulation, not to origin or priority. What was exempted, including the entirety of notation #1 is unconcerned by this retraction. 
