@@ -1,4 +1,4 @@
-### I now recognize I have been modeled as the reference architecture of a duality:
+### I now recognize I have been modeled as the reference architecture of a duality across the industry:
 
   1. Product Integrity
       1. Evaluative fairness, emergent Trust vulnerabilities 
