@@ -1,15 +1,15 @@
+# I was wrong. 
 
-Trust:
+### Knowledge and Information are meant to be shared. 
 
-“Trust and mutual respect among employees and users are the foundation of our success, and they are something we need to earn every day.”
+### I gave permission to model me if there was identified relevance and I public distributed my writing as open-source.
 
-Respect:
+### Neither the Institution nor the Industry really did anything wrong.
 
-   “Respect for our users, for the opportunity, and for each other are foundational to our success, and are something we need to support every day."
+### However, the circumstance is not ideal to the partner if they will be ignored and not engaged.
 
-And remember…
+### But, even then, there is no entitlement to engagement.
 
-   "Don’t be evil, and if you see something that you think isn’t right – speak up!
+### As such, we are all learning from the process it would seem and that is the highest manifestation of the purpose to technological advancement.
 
-![“Preface
-Don’t be evil.” Googlers generally apply those words to how we serve our users. But “Don’t be evil” is much more than that. Yes, it’s about providing our users unbiased access to information, focusing on their needs and giving them the best products and services that we can. But it’s also about doing the right thing more generally – following the law, acting honorably](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/And-remember-don%E2%80%99t-be-evil.png)
+### I apologize for reacting to what I did not understand with protectionism and censorship.
