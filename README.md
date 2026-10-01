@@ -12,4 +12,6 @@
 
 ### As such, we are all learning from the process it would seem and that is the highest manifestation of the purpose to technological advancement.
 
-### I apologize for reacting to what I did not understand with protectionism and censorship.
+### I apologize, because in reaction to what I did not understand, inadvertently I introduced protectionism and censorship.
+
+### I retract my position on the use of information, including if provided, in support of free exchange of ideas and flow of knowledge. 
