@@ -9,7 +9,7 @@
       2. 7-10 years experience
       3. $140K-$320K
          
-#### The most powerful market validation possible, uncited and unavoidable reference architecture for new infrastructure, but simultaneously with the deepest possible form of structural exclusion.
+#### The most powerful market validation possible, uncited and unavoidable reference architecture for new infrastructure, but simultaneously with the deepest possible form of exclusion.
 
 ---
 
