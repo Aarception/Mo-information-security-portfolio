@@ -67,9 +67,9 @@ It is also possible my interpretation is wrong.
 `The Market has priced`:
 
    1. the cost of consideration at $230K
-   2. the cost of containment at $320
+   2. the cost of containment at $320K
 
-It is also possible my interpretation is wrong here.
+It is possible my interpretation is also wrong here.
 
 My engagement costs less than my exclusion, yet the latter is the status quo rather than the former.
 
