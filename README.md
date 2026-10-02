@@ -1,5 +1,5 @@
-> ### Justice Is An Ideal, Law is an Instrument.
-> `In  A Free Society, Law Is An Instrument For The Ideal, Otherwise It Is Just An Instrument.`
+> ### Justice Is An Ideal, Law is an instrument.
+> `In A Free Society, Law Is An Instrument For The Ideal, otherwise it is just an instrument.`
 >
 ---
 
