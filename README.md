@@ -68,9 +68,16 @@ It is also possible my interpretation is wrong.
 
    1. the cost of consideration at $230K
    2. the cost of containment at $320
-    
-#### `My engagement costs less than my exclusion, yet the latter is the status quo rather than the former.`
 
- ## There is Market inefficiency, which, under free market principles, is self-correcting. 
+My engagement costs less than my exclusion, yet the latter is the status quo rather than the former.`
 
- It's not my engagement, it's economics.
+There is Market inefficiency, which, under free market principles, is self-correcting.
+
+# Market Insight 
+### ***`    1. Issue:`***
+### ***Exclusion is Economically Inefficient; Engagement is Economically Efficient.***
+
+### ***`   2. Insight:`***
+### ***The marginal cost of engagement is lower than the opportunity cost of exclusion.***
+
+> This Production Is Made Possible By Free Market Principles.
