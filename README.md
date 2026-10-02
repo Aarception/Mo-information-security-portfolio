@@ -94,9 +94,7 @@
 Deferred Macroeconomic validation of the Market Insight
 
    1. The opportunity cost of exclusion 
-         - The individual's impact 
-   2. The marginal cost of engagement 
-         - The industry's interest 
-
+   2. The marginal cost of engagement
+         
 
  ![Macroeconomics](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Value_of_The_Dataset.jpg)
