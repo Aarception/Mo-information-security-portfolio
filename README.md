@@ -115,4 +115,4 @@ The experience and outcome of the Dataset may prove fundamentally impactful and 
  
 > What Is Good For Capital & Is Good For The Industry, Must Also Be Good For The Social Good & Good For The Individual.
 >
-> *`Disclaimer: The Dataset is not political. It is non-aligned and non-partisan. It has no race, no religion, no class, no identity. It has no political position and takes no political position. The Dataset is merely dynamic, and reserves legitimate, undeniable, and extenuating relevance to the subject matter.`*
+> *`Disclaimer: The Dataset is not political. It is non-aligned and non-partisan. It has no race, no religion, no class, no identity. It has no political position and takes no political position. The Dataset is merely dynamic, and reserves legitimate, undeniable, and extenuating relevance to the subject matter. The Datatset is pro-tech, pro-innovation, and pro-civilizational advancement.`*
