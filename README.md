@@ -2,7 +2,10 @@
 > `In A Free Society, Law Is An Instrument For The Ideal, otherwise it is just an instrument.`
 >
 ---
+
 Because the Observation has ended, this account and all repos and materiald are permanently archived.
+
+---
 
 # Loading ⚠️
 
