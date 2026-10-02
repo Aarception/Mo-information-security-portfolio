@@ -100,4 +100,4 @@
  ![Macroeconomics](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Value_of_The_Dataset.jpg)
 
  
-> This Is Good For Capital & Is Good For The Social Good.
+> What Is Good For Capital & Is Good For The Social Good, Must Also Be Good For The Industry & Good For The Individual. 
