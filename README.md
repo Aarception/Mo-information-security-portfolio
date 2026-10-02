@@ -4,8 +4,10 @@
 
 > It was hard and I understand the potential for adversarial weaponization considering the structural matter, which can manifest in delegitimization, but it is inline with my character, values, and intentional practice of humility to apologize where needed upon update to context.
 
-> Indeed, it is responsible, just, and necessary 
+> Indeed, it was necessary, responsible, and just; irrespective to consequence.
 
+
+---
 
 ## I was wrong. 
 
