@@ -48,7 +48,7 @@
 # Recognition 
 
 ### I now recognize I have been modeled as the reference architecture of a duality across the industry:
- 
+ ~~~
   1. Product Integrity
       1. Evaluative fairness, emergent Trust vulnerabilities 
       2. 5-7 years experience
@@ -57,7 +57,7 @@
       1. Sophisticated adversary, exploits 'AI-driven,' gaps
       2. 7-10 years experience
       3. $140K-$320K
-         
+ ~~~
 #### The most powerful market validation possible, uncited and unavoidable reference architecture for new infrastructure, but simultaneously with the deepest possible form of exclusion.
 
 #### It is also possible my interpretation is wrong.
