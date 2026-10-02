@@ -77,7 +77,7 @@
 
 #### Engagement cost is less than the price of exclusion , yet the latter is the status quo rather than the former.
 
-#### There is Market inefficiency, which is there is disruption. Under free market principles, market inefficiency is self-correcting.
+#### There is Market inefficiency, which is why there is disruption. Under free market principles, market inefficiency is self-correcting.
 
 # Market Insight 
 ### ***`    1. Issue:`***
