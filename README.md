@@ -91,16 +91,6 @@
 
 # Market Impact
 
-Deferred Macroeconomic validation of the Market Insight
-
-   1. The opportunity cost of exclusion 
-         - Interest 
-   2. The marginal cost of engagement
-         - Inefficiencys.
-
-
-# Market Impact
-
 > ### Deferred Macroeconomic validation of the Market Insight...
 
    1. The opportunity cost of exclusion 
