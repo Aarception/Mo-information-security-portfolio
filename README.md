@@ -1,3 +1,8 @@
+# Loading ⚠️
+
+![LGo To Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Go-To-Market.jpg)
+ ##### ***`Image produced with the help of Google Notebook`***
+
 # Update: 
 
 > I have reached out to the Institution in line with the new understanding expressed yesterday regarding the update to my knowledge concerning the full context of the events of the month of September. 
