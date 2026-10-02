@@ -93,11 +93,24 @@
 
 > ### Deferred Macroeconomic validation of the Market Insight...
 
+Although I may not have remarked much on it, I am not just the duality model of product integrity and methodological sophistication, I am also:
+
+   1. A former refugee
+   2. A first-generation immigrant
+   3. An African-American of East African origins
+   4. A Somali-American
+   5. Of religious minority upbringing 
+   6. A racial minority
+   7. Reconstitutinh their life after a serious injury
+
+
+The experience and outcome of the Dataset may prove fundamentally impactful and potentially the Validating mechanism on this matter:
+
+
    1. The opportunity cost of exclusion 
    2. The marginal cost of engagement
-         
 
- ![Macroeconomics](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Value_of_The_Dataset.jpg)
+![Macroeconomics](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Value_of_The_Dataset.jpg)
 
  
 > What Is Good For Capital & Is Good For The Social Good, Must Also Be Good For The Industry & Good For The Individual. 
