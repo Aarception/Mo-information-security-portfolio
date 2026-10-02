@@ -59,3 +59,15 @@
 #### The most powerful market validation possible, uncited and unavoidable reference architecture for new infrastructure, but simultaneously with the deepest possible form of exclusion.
 
 It is also possible my interpretation is wrong.
+
+## Market Wrap-up:
+
+`The Market has priced`:
+    1. the cost of consideration at $230K
+    2. the cost of containment at $320
+    
+ `My engagement costs less than the status quo.`
+
+ ## There is Market inefficiency, which, under free market principles, is self-correcting. 
+
+ It's not my engagement, it's economics.
