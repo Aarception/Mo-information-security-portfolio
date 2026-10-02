@@ -101,7 +101,7 @@ Although I may not have remarked much on it, I am not just the duality model of 
    4. A Somali-American
    5. Of religious minority upbringing 
    6. A racial minority
-   7. Reconstituting their life after a serious injury
+   7. Reconstituting their life after a serious injury (not-disabling)
 
 
 The experience and outcome of the Dataset may prove fundamentally impactful and potentially the Validating mechanism on this matter:
