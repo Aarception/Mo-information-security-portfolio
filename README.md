@@ -8,6 +8,9 @@
 > 
 > Indeed, to reach out was necessary, responsible, and just.
 
+> It also officially marks the terminal boundaries of the Dataset's Observation Period: 2/6/2026 — 10/1/2026.
+>
+> After this point: the Observation is closed and the Observer is released.
 
 ---
 
