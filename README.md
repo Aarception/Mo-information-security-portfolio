@@ -71,6 +71,8 @@ It is also possible my interpretation is wrong.
 
 My engagement costs less than my exclusion, yet the latter is the status quo rather than the former.`
 
+It is also possible my interpretation is wrong here.
+
 There is Market inefficiency, which, under free market principles, is self-correcting.
 
 # Market Insight 
