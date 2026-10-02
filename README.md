@@ -5,6 +5,22 @@
 
 Because the Observation has ended, this account, including repos and materials, is permanently archived.
 
+To The Institution: 
+
+     1. I have not legally escalated.
+     2. I have not brought any claims, legal or civil.
+     3. I have not processed a complaint. regulatory or otherwise. 
+     4. I have not sent a board letter or engaged an ecosystem. 
+     5. I have not broken my word or deliver any confidential
+     communications to any other entity.
+     6. I subscribed, I inferred a matter of engagement, I 
+     provided evidence in support of the matter's legitimacy, I 
+     ruled out legal threats, I self-policed my conduct and 
+     reasonability.
+     7. I am not a Threat and it is the greatest injustice were
+     such an entity to be designated such.
+
+     Thank you.
 ---
 
 # Loading ⚠️
