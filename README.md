@@ -1,3 +1,9 @@
+> ### Justice Is An Ideal, Law is an Instrument.
+> `In  A Free Society, Law Is An Instrument For The Ideal, Otherwise It Is Just An Instrument.`
+>
+---
+
+
 # Loading ⚠️
 
 # ![LGo To Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Go-To-Market.jpg)
