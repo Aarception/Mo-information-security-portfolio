@@ -6,6 +6,7 @@
 
 > Indeed, it was necessary, responsible, and just; irrespective to consequence.
 
+> My engagement with the Institution is based on fact-finding, not confirmation.
 
 ---
 
