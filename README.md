@@ -77,9 +77,9 @@ There is Market inefficiency, which, under free market principles, is self-corre
 
 # Market Insight 
 ### ***`    1. Issue:`***
-### ***Exclusion is Economically Inefficient; Engagement is Economically Efficient.***
+### ***exclusion is economically inefficient; Engagement is Economically Efficient.***
 
 ### ***`   2. Insight:`***
-### ***The marginal cost of engagement is lower than the opportunity cost of exclusion.***
+### ***The Marginal Cost Of Engagement Is Lower than the opportunity cost of exclusion.***
 
 > This Production Is Made Possible By Free Market Principles.
