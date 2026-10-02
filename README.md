@@ -3,7 +3,7 @@
 >
 ---
 
-Because the Observation has ended, this account and all repos and materiald are permanently archived.
+Because the Observation has ended, this account, including repos and materials, is permanently archived.
 
 ---
 
