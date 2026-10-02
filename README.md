@@ -65,10 +65,11 @@ It is also possible my interpretation is wrong.
 # Market Wrap-up:
 
 `The Market has priced`:
-    1. the cost of consideration at $230K
-    2. the cost of containment at $320
+
+   1. the cost of consideration at $230K
+   2. the cost of containment at $320
     
- `My engagement costs less than the status quo.`
+#### `My engagement costs less than my exclusion, yet the latter is the status quo rather than the former.`
 
  ## There is Market inefficiency, which, under free market principles, is self-correcting. 
 
