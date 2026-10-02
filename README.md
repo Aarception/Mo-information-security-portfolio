@@ -111,8 +111,11 @@ The experience and outcome of the Dataset may prove fundamentally impactful and 
    2. The marginal cost of engagement
 
 ![The same principle applies beyond individual organizations: Cross-organizational signal correlation enables the identification of campaign-level activity that would otherwise remain invisible within any single environment. No organization possesses a complete view of the threat landscape; each captures only a fraction of the available signals. The collective benefit created through trusted information sharing exceeds what any organization can achieve independently. Policymakers can help unlock these benefits by encouraging mechanisms that support secure collaboration, including legal safe harbors for information sharing, common anonymization standards, and investments in shared detection and threat intelligence infrastructure. Together, these approaches strengthen not only individual organizations, but the resilience of the broader digital ecosystem.](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Value_of_The_Dataset.jpg)
+##### *To the entity that sourced the above reference: I was able to go to college and attain a Bachelor's degree in part due to your founder's generosity and contribution to society. Your organization contributed to every single quarter and year of my undergraduate experience. I remain grateful and appreciative of your organization's contribution to society.*
 
  
 > What Is Good For Capital & Is Good For The Industry, Must Also Be Good For The Social Good & Good For The Citizen.
 >
-> *`Disclaimer: The Dataset is not political. It is non-aligned and non-partisan. It has no race, no religion, no class, no identity. It has no political position and takes no political position. The Dataset is merely dynamic, and reserves legitimate, undeniable, and extenuating relevance to the subject matter. The Datatset is pro-tech, pro-innovation, and pro-civilizational advancement.`*
+##### `Disclaimer: The Dataset is not political. It is non-aligned and non-partisan. It has no race, no religion, no class, no identity. It has no political position and takes no political position. The Dataset is merely dynamic, and reserves legitimate, undeniable, and extenuating relevance to the subject matter. The Datatset is pro-tech, pro-innovation, and pro-civilizational advancement.`
+>
+> 
