@@ -87,3 +87,11 @@
 ### ***The Marginal Cost Of Engagement Is Lower than the opportunity cost of exclusion.***
 
 > This Production Is Made Possible By Free Market Principles.
+
+
+# Market Impact
+
+Deferred Macroeconomic validation of the Market Insight
+
+
+ ![Macroeconomics](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Value_of_The_Dataset.jpg)
