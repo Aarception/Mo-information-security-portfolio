@@ -113,4 +113,4 @@ The experience and outcome of the Dataset may prove fundamentally impactful and 
 ![Macroeconomics](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Value_of_The_Dataset.jpg)
 
  
-> What Is Good For Capital & Is Good For The Social Good, Must Also Be Good For The Industry & Good For The Individual. 
+> What Is Good For Capital & Is Good For The Industry, Must Also Be Good For The Social Good & Good For The Individual. 
