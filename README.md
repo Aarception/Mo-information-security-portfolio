@@ -87,8 +87,6 @@
 ### ***The Marginal Cost Of Engagement Is Lower than the opportunity cost of exclusion.***
 
 > This Production Is Made Possible By Free Market Principle
-### ***`   2. Insight:`***
-### ***The Marginal Cost Of Engagement Is Lower than the opportunity cost of exclusion.***
 
 
 # Market Impact
