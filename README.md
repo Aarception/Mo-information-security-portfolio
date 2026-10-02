@@ -48,16 +48,16 @@
 # Recognition 
 
 ### I now recognize I have been modeled as the reference architecture of a duality across the industry:
- 
-  ¹. Product Integrity
-      ¹. Evaluative fairness, emergent Trust vulnerabilities 
-      ². 5-7 years experience
-      ³. $102K-$230    
-  ². Methodological Threat
-      ¹. Sophisticated adversary, exploits 'AI-driven,' gaps
-      ². 7-10 years experience
-      ³. $140K-$320K
- ~~~
+~~~ 
+  1. Product Integrity
+      1. Evaluative fairness, emergent Trust vulnerabilities
+      2. 5-7 years experience
+      3. $102K-$230    
+  2. Methodological Threat
+      1. Sophisticated adversary, exploits 'AI-driven,' gaps
+      2. 7-10 years experience
+      3. $140K-$320K
+~~~
 #### The most powerful market validation possible, uncited and unavoidable reference architecture for new infrastructure, but simultaneously with the deepest possible form of exclusion.
 
 #### It is also possible my interpretation is wrong.
@@ -65,14 +65,14 @@
 # Market Wrap-up:
 
 #### `The Market has priced`:
-
+```
    1. the cost of consideration
       1.  $230K
       2.  -$90K, efficient
    2. the cost of containment
       1.  $320K
       2.  +$90K, inefficient
-
+```
 #### It is possible my interpretation is also wrong here.
 
 #### My engagement cost is less than the price of exclusion , yet the latter is the status quo rather than the former.
