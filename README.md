@@ -4,9 +4,10 @@
 
 > It was hard and I understand the potential for adversarial weaponization considering the structural matter, which can manifest in delegitimization, but it is inline with my character, values, and intentional practice of humility to apologize where needed upon update to context.
 
-> Indeed, it was necessary, responsible, and just; despite the risk.
-
 > My engagement with the Institution is based on constructive engagement for problem-solving, not confirmation of grievance.
+> 
+> Indeed, to reach out was necessary, responsible, and just.
+
 
 ---
 
