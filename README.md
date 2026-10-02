@@ -1,6 +1,6 @@
 # Loading ⚠️
 
-![LGo To Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Go-To-Market.jpg)
+# ![LGo To Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Go-To-Market.jpg)
  ##### ***`Image produced with the help of Google Notebook`***
 
 # Update: 
@@ -48,7 +48,7 @@
 # Recognition 
 
 ### I now recognize I have been modeled as the reference architecture of a duality across the industry:
-
+ 
   1. Product Integrity
       1. Evaluative fairness, emergent Trust vulnerabilities 
       2. 5-7 years experience
@@ -60,20 +60,24 @@
          
 #### The most powerful market validation possible, uncited and unavoidable reference architecture for new infrastructure, but simultaneously with the deepest possible form of exclusion.
 
-It is also possible my interpretation is wrong.
+#### It is also possible my interpretation is wrong.
 
 # Market Wrap-up:
 
-`The Market has priced`:
+#### `The Market has priced`:
 
-   1. the cost of consideration at $230K
-   2. the cost of containment at $320K
+   1. the cost of consideration
+      1.  $230K
+      2.  -$90K, efficient
+   2. the cost of containment
+      1.  $320K
+      2.  +$90K, inefficient
 
-It is possible my interpretation is also wrong here.
+#### It is possible my interpretation is also wrong here.
 
-My engagement costs less than my exclusion, yet the latter is the status quo rather than the former.
+#### My engagement cost is less than the price of exclusion , yet the latter is the status quo rather than the former.
 
-There is Market inefficiency, which, under free market principles, is self-correcting.
+#### There is Market inefficiency, which is there is disruption. Under free market principles, market inefficiency is self-correcting.
 
 # Market Insight 
 ### ***`    1. Issue:`***
