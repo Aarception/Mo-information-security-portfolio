@@ -75,7 +75,7 @@
 ```
 #### It is possible my interpretation is also wrong here.
 
-#### My engagement cost is less than the price of exclusion , yet the latter is the status quo rather than the former.
+#### Engagement cost is less than the price of exclusion , yet the latter is the status quo rather than the former.
 
 #### There is Market inefficiency, which is there is disruption. Under free market principles, market inefficiency is self-correcting.
 
