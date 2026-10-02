@@ -19,7 +19,7 @@
 
 ---
 
-## I was wrong. 
+# I was wrong. 
 
 #### Knowledge and Information are meant to be shared. 
 
@@ -45,6 +45,8 @@
 ---
 
 
+# Recognition 
+
 ### I now recognize I have been modeled as the reference architecture of a duality across the industry:
 
   1. Product Integrity
@@ -60,7 +62,7 @@
 
 It is also possible my interpretation is wrong.
 
-## Market Wrap-up:
+# Market Wrap-up:
 
 `The Market has priced`:
     1. the cost of consideration at $230K
