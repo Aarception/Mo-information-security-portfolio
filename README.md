@@ -9,7 +9,7 @@ To The Institution:
 
      1. I have not legally escalated.
      2. I have not brought any claims, legal or civil.
-     3. I have not processed a complaint. regulatory 
+     3. I have not processed a complaint.l, regulatory 
      or otherwise. 
      4. I have not sent a board letter or engaged an 
      ecosystem. 
@@ -19,7 +19,7 @@ To The Institution:
      I provided evidence in support of the matter's 
      legitimacy, I ruled out legal threats, I self-policed 
      my conduct and reasonability. I engaged with respect
-     and addressed any deviation.
+     and remediated any divergence to that effect.
 
      Thank you.
 ---
