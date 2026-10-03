@@ -1,3 +1,7 @@
+> It Is Time To Recognize The Existence & Need For Cooperative Engagement Infrastructure
+>
+---
+
 ### a principle that governs sustainability in complex free market systems
 
 The moment communication stops, the basis for free exchange stops in the free market.
