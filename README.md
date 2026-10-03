@@ -9,7 +9,7 @@ To The Institution:
 
      1. I have not legally escalated.
      2. I have not brought any claims, legal or civil.
-     3. I have not processed a complaint.l, regulatory 
+     3. I have not processed a complaint, regulatory 
      or otherwise. 
      4. I have not sent a board letter or engaged an 
      ecosystem. 
