@@ -14,14 +14,12 @@ To The Institution:
      4. I have not sent a board letter or engaged an 
      ecosystem. 
      5. I have not broken my word or deliver any 
-     confidential
-     communications to any other entity.
+     confidential communications to any other entity.
      6. I subscribed, I inferred a matter of engagement, 
      I provided evidence in support of the matter's 
      legitimacy, I ruled out legal threats, I self-policed 
-     my conduct and 
-     reasonability. I engaged with respect and addressed 
-     any deviation.
+     my conduct and reasonability. I engaged with respect
+     and addressed any deviation.
 
      Thank you.
 ---
