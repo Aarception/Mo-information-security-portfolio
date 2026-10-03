@@ -20,6 +20,8 @@ To The Institution:
      legitimacy, I ruled out legal threats, I self-policed 
      my conduct and reasonability. I engaged with respect
      and remediated any divergence to that effect.
+     
+Being a Wadad with Waranle arms makes one not a sophisticated adversary, but an Effective Partner, and therefore, not a threat, but an Asset.
 
      Thank you.
 ---
