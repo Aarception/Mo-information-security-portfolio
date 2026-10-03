@@ -16,9 +16,7 @@ To The Institution:
      6. I subscribed, I inferred a matter of engagement, I 
      provided evidence in support of the matter's legitimacy, I 
      ruled out legal threats, I self-policed my conduct and 
-     reasonability.
-     7. I am not a Threat and it is the greatest injustice were
-     such an entity to be designated such.
+     reasonability. I engaged with respect and addressed any deviation.
 
      Thank you.
 ---
