@@ -1,5 +1,19 @@
-> It Is Time To Recognize The Existence & Need For Cooperative Engagement Infrastructure
->
+> ### It Is Time To Recognize The Existence & Need For Cooperative Engagement Infrastructure
+> 
+ >> 1. I have not legally escalated.
+>> 2. I have not brought any claims, legal or civil.
+>> 3. I have not processed a complaint, regulatory 
+>> or otherwise. 
+>> 4. I have not sent a board letter
+> >5. I have not engaged an ecosystem. 
+>> 6. I have not broken my word or deliver any 
+>> confidential communications to any other entity.
+>> 7. I subscribed, I inferred a matter of engagement, 
+>> I provided evidence in support of the matter's 
+>> legitimacy, I ruled out legal threats, I self-policed 
+>> my conduct and reasonability. I engaged with respect
+>> and remediated any divergence to that effect.
+
 ---
 
 ### a principle that governs sustainability in complex free market systems
