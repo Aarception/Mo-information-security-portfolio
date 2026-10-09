@@ -10,7 +10,7 @@
        3. constructed to be considered reasonable resolution
    2.  One-Week Response Window. The institution retains full agency to respond or decline. During this period, I will not:
         1. take into consideration any registers, dashboards, career portals, job boards, or application-status interfaces.
-        2. Week is reserved for institutional deliberation without observation pressure.
+        2. Week is reserved for institutional deliberation.
         3. At which point I may be contacted by any direct means.
    3.  Trajectory: After seven (7) calendar days, the file closes.
         1. The offer itself remains open to the institution;
