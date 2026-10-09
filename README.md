@@ -1,3 +1,13 @@
+# Sponsor or Work With Me On Digital Dispute Resolution
+
+### `A Scalable System For Truth-Making Without Liability-Conseqquentialism`
+
+![Contact](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/DIgital_Dispute_Resolution.jpg)
+
+Contact For Proposal.
+
+---
+
 Tomorrow I will announce the concluding offer of resolution.
 
 That resolution will respect every liability concern of the institution and will not even directly touch the structural matter, while reasonably being considered a resolution of this engagement.
