@@ -14,7 +14,8 @@
         3. At which point I may be contacted by any direct means.
    3.  Trajectory: After seven (7) calendar days, the file closes.
         1. The offer itself remains open to the institution in perpetuity;
-        2. however, my active custodianship of this matter concludes.
+             1. Up to, and until the point the proposal has come under alternative sponsorship, at which point, the proposal would be closed,
+        3. however, my active custodianship of this matter concludes.
   4. I will archive the repository state and redirect operational capacity.
 
 ---
