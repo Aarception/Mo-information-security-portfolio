@@ -1,6 +1,6 @@
 # Sponsor or Work With Me On Digital Dispute Resolution
 
-### `A Scalable System For Truth-Making Without Liability-Conseqquentialism`
+### `A Scalable System For Truth-Making Without Liability-Consequentialism`
 
 ![Contact](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/DIgital_Dispute_Resolution.jpg)
 
