@@ -2,7 +2,28 @@
 
 ### `A Scalable System For Truth-Making Without Liability-Consequentialism`
 
-![Contact](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/DIgital_Dispute_Resolution.jpg)
+![<Contact>Digital Economics of Trust
+Embedded Space
+Arena
+Architecture
+Grammar
+Ontology
+Dignity
+Emotional
+Liability
+Abstract
+Experience
+Translation
+Relational
+Structure
+Procedural
+Cultural
+Design
+Systematic
+High-context
+Data
+Low-context
+Function](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/DIgital_Dispute_Resolution.jpg)
 
 Contact For Proposal.
 
