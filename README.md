@@ -15,8 +15,8 @@
    3.  Trajectory: After seven (7) calendar days, the file closes.
         1. The offer itself remains open to the institution in perpetuity;
              1. Up to, and until the point the proposal has come under alternative sponsorship, at which point, the proposal would be closed,
-        3. however, my active custodianship of this matter concludes.
-  4. I will archive the repository state and redirect operational capacity.
+        2. however, my active custodianship of this matter concludes.
+        3. I will archive the repository state and redirect operational capacity.
 
 ---
 
