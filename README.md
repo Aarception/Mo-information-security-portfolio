@@ -1,3 +1,7 @@
+> ### ***Important:*** The following is my 2nd offer of resolution, it is not a requirement for it. The institution always reserves the privilege to offer a different form of resolution, which will, of course, be privileged over any other option.
+>
+---
+
 # Next Steps
 
 > ### Date: October 9, 2026
@@ -17,6 +21,7 @@
              1. Up to, and until the point the proposal has come under alternative sponsorship, at which point, the offer and proposal would be closed,
         2. however, my active custodianship of this matter concludes.
         3. I will archive the repository state and redirect operational capacity.
+     
 
 ---
 
