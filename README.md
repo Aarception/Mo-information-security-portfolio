@@ -1,8 +1,10 @@
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
+>Each artifact emphasizes evidence-based reporting, operational discipline, and clear documentation.
+
 ---
 
-1. Case Studies
+## 📚 1. Case Studies
 
 ### [SolarWinds Supply Chain Attack](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 **Path:** `/solarwinds-supply-chain-attack/`
