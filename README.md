@@ -1,6 +1,6 @@
 > ### ***Important:*** The following is my 2nd offer of resolution*, it is not a requirement for it. The institution always reserves the privilege to offer a different form of resolution, which will, of course, be privileged over any other option.
 
-###### * The offer of resolution is distinct and disaparate to any other matter. The acceptance or provision of the same is considered isolated from and independent to any other structural matter. It is forward-looking and generative.
+###### * The offer of resolution is distinct and disaparate to any other matter. The acceptance or provision of the same is considered isolated from and independent to any other matter. It is forward-looking and generative.
 ---
 
 # Next Steps
