@@ -1,4 +1,4 @@
-> Long-Term: Doctorate In Epistemic Trust Architecture & Security
+> Long-Term: Doctorate In Epistemic Security & Trust Architecture
 >> Mid-Term: Public policy-backing for Digital Dispute Resolution
 >>> Short-Term: VCI, Digital Provenance Trust Signal Integrity Registry 
 
