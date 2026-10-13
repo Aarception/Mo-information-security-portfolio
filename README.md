@@ -1,3 +1,9 @@
+> Long-Term: Doctorate In Epistemic Trust Architecture & Security
+>> Mid-Term: Public policy-backing for Digital Dispute Resolution
+>>> Short-Term: VCI, Digital Provenance Trust Signal Integrity Registry 
+
+---
+
 #  📁 Mo's Information Security Learning, Projects, and Portfolio 
 
 >Each artifact emphasizes evidence-based reporting, operational discipline, and clear documentation.
