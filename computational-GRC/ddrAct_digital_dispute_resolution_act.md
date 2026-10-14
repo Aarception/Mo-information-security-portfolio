@@ -39,7 +39,7 @@
             institution: {
                 liability:  "ESCAPED",
                 exposure:   "PROTECTED",
-                requirement: "5tRESOLUTION"
+                requirement: "RESOLUTION"
             },
             
             adversarial_routing: "BYPASSED",
