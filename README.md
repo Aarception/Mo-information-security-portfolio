@@ -1,3 +1,5 @@
+***`Inspiration: Building Universally Inclusive Neww Structures`***
+
 > Long-Term: Doctorate In Epistemic Security & Trust Architecture
 
 > Mid-Term: Public policy-backing for Digital Dispute Resolution
@@ -6,7 +8,7 @@
 
 >> Information Security, Governance, Rsk, Compliance, and Assurance
 >> 
-***`Lifelong Goal: Learn something new everyday`***
+***`Lifelong Goal: Learn something new everyday & Chew Broccoli`***
 
 ---
 
