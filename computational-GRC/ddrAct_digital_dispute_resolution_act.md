@@ -1,3 +1,4 @@
+
 ## The Digital Dispute Resolution Act
 
 ---
@@ -14,8 +15,8 @@
         
         // Engagement posture converted
         protocol.phase   = "PRESERVATION"
-        protocol.posture = "CONSIDERATION"
-        protocol.mode    = "DIGNITY"
+        protocol.posture = "CONSTRUCTIVE_ENGAGEMENT"
+        protocol.mode    = "PROBLEM_SOLVING"
         
         // Institution-side: protection from liability
         institution.compliance_exposure = "PROTECTED"
@@ -62,3 +63,4 @@ FACILITATOR        ↑         DERIVATIVE
     ↑__________MANDATE___________↑
 
   
+
