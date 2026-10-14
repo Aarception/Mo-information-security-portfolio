@@ -4,7 +4,7 @@
 
 > Short-Term: VCI, Digital Provenance Trust, Signal Integrity Registry
 
->> Continuous: Information Security, Governance, Rsk, Compliance, and Assurance
+>> Information Security, Governance, Rsk, Compliance, and Assurance
 >> 
 ***`Lifelong Goal: Learn something new everyday`***
 
