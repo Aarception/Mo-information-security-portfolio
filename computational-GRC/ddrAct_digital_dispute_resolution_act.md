@@ -54,11 +54,11 @@
 ~~~
 ### The theory
 ~~~
-  ARENA                 INSTITUTION
-    ↓                        ↓
-GOOD_CONDUCT  ←───→   RESOLUTION
-    ↑                        ↑
-Facilitator              Dervative
-    ↑________ Mandate _______↑
+  ARENA     →     ?    ←   INSTITUTION
+    ↓              ↑             ↓
+GOOD_CONDUCT  ←   ─   →    RESOLUTION
+    ↑              ↑             ↑
+FACILITATOR        ↑         DERIVATIVE
+    ↑__________MANDATE___________↑
 
   
