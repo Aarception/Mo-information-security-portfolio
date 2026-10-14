@@ -1,4 +1,4 @@
-***`Inspiration: Building Universally Inclusive Neww Structures`***
+***`Inspiration: Building Universally Inclusive New Structures`***
 
 > Long-Term: Doctorate In Epistemic Security & Trust Architecture
 
