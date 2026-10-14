@@ -22,8 +22,8 @@
         institution.liability_routing = "ESCAPED"
         
         // Arena entitlement: protection from containment
-        arena.adversarial.treatment = "ESCAPED"
-        arena.governance.routing    = "PROTECTED"
+        arena.adversarial_treatment = "ESCAPED"
+        arena.governance_routing    = "PROTECTED"
         
         RETURN {
             process:  "DDR_ACTIVATED",
