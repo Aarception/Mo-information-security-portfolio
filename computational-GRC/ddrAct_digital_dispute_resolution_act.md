@@ -38,7 +38,7 @@
             institution: {
                 liability:  "ESCAPED",
                 exposure:   "PROTECTED",
-                requirement: "RESOLUTION"
+                requirement: "5tRESOLUTION"
             },
             
             adversarial_routing: "BYPASSED",
@@ -47,8 +47,8 @@
 
     RETURN {
         process:     "STANDARD_ROUTING",
-        liability:   "UNESCAPED",
-        adversarial: "UNESCAPED"
+        liability_consequentalism:   "UNESCAPED",
+        adversarial_engagement: "UNESCAPED"
     }
 
 ~~~
