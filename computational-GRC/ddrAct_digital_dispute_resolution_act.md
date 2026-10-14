@@ -74,6 +74,6 @@ FACILITATOR        ↑         DERIVATIVE
 6. Reduces increasing mercantile trust gaps
 7. Reduces experiences of exclusion
 
-`A gift to Consumer reliance, and a boone to market Confidence.`
+`A gift to Consumer reliance, and a boone for market Confidence.`
 
 ***Digital Dispute Resolution: A Repair For The Digital Divide!***
