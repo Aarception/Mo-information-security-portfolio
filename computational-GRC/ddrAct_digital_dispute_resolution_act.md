@@ -18,7 +18,7 @@
         protocol.mode    = "DIGNITY"
         
         // Institution-side: protection from liability
-        institution.compliance.exposure = "PROTECTED"
+        institution.compliance_exposure = "PROTECTED"
         institution.liability_routing = "ESCAPED"
         
         // Arena entitlement: protection from containment
