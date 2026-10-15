@@ -46,7 +46,7 @@ When I first did not understand the registers, an early confirmation of anomaly 
 
 It was the first confirmation of anomaly detection regarding the marked nature of the email, serving as an 'identifier' of sorts.
 
-This is not feelings or inducing sympathy, this is about systems and structure.
+This is not feelings or inducing sympathy, this is about systems and structure. It is about whether and what manner automated identity, security, and risk controls can produce consequential outcomes across organizational boundaries without the affected person knowing which system acted, what data it used, or how to challenge the classification.
 
 DSARs please, I would like to know what is going on. More will be processed as needed.
 
