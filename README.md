@@ -3,6 +3,11 @@
 ![Counsel](https://github.com/Aarception/data-privacy/blob/main/The_Human_Experience.jpg)
 
 ---
+# CISA
+
+Since mid-September, CISA has adviced the consideration of 'Dignity' as a preventative step against 'grievance.' Imagine that, although I would have liked to see a clear distinction between the persistence of APTs and longitudinal governance observation with jurisdiction. 
+
+The Dataset vacated the opportunity for input into public policy so this has been corrective feedback.
 
 # Second coup d'oeil
 
