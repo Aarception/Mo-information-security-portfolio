@@ -17,7 +17,7 @@ No human seen in sight, no relevance to intent.
 
 And my person? Subjected to Industry Ice Online.
 
-*DSARs please, This is good for Capital, and good for the Social Good.*
+*DSARs please, This is good for Capital, and is good for the Social Good.*
 
 ##### **(!) Intended.**
 
