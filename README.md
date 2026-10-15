@@ -1,3 +1,14 @@
+# Coup d'œil
+
+- the provision of partner engagements 
+- a disconnect between intent v observed quality
+- interrution of continuity of further engagement
+- cross-organizational data sharing & safe harbor
+- signal-to-noise ratio and signal attenuation 
+
+
+---
+
 > ### 2.
 
 I have now processed the 5th Data Subject Access Request across the U.S and Canada. 
