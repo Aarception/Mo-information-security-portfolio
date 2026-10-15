@@ -1,8 +1,8 @@
 > ###
 
-I have now processed the 5th Data Subject Access Request across the U.S and Canada. This is important for helping clarify confusion and misunderstanding.
+I have now processed the 5th Data Subject Access Request across the U.S and Canada. 
 
-It is also important for helping vindicate the integrity of my interactions, for it is not even necessarily human decision-making that concerns me, but narrowly calibrated algorithmic controls.; it was the successful execution of a purchased software feature (UEBA/SOAR).
+This is important for helping clarify existing confusion and misunderstanding. It is also important for helping vindicate the integrity of my interactions, for it is not even necessarily human decision-making that concerns me, but narrowly calibrated algorithmic controls as it would be if a cause was the successful execution of a purchased software feature (UEBA/SOAR).
 
 This is an inflection point where there could be the complete absence of human 'intent,' and still the existence of structural 'impact' executed entirely by a simple automated feature.
 
