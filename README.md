@@ -8,12 +8,14 @@ This is an inflection point where there could be the complete absence of human '
 
 1. I have a diverse, multi-cultural, multi-national, multi-experiental, multi-philosophical, multi-lingual, multi-class, multi-philosophical, multi-spiritual experiences.
 2. The algorithm flags the beautiful qualities of this personal diversity as behavioral 'divergence.'
-3. A UEBA or SOAR feature then designates personal/behavioral diversity/divergence as structurally 'anomalous.'
+3. A UEBA or SOAR feature then designates personal/behavioral diversity/divergence (!) as structurally 'anomalous.'
 4. Because of narrow or limited training, as it is still a systemic limitation, that incorrect designation classified an insider risk.
-5. Structurally condemned without opportunty for response, representation, or recource, the system's offices and officers just follow the playbook for handling 'insider threats.'
+5. Structurally condemned without opportunty for response, representation, or recource (!) the system's offices and officers just follow the playbook for handling 'insider threats.'
 6. And my data? It is no longer a matter of personal private data; it is platform data security issue.
 
 No human seen in sight, no relevanc to intent.
+
+##### ***(!) Intended.***
 
 ---
 
