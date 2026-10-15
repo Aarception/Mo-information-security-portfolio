@@ -1,6 +1,6 @@
 # Coup d'œil
 
-- the provision of partner engagements 
+- the official provision of partner engagements 
 - a disconnect between intent v observed quality
 - interrution of continuity of further engagement
 - cross-organizational data sharing & safe harbor
