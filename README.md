@@ -6,6 +6,17 @@ There is a disassociative ***Coherence*** problem in big Tech and it is very cle
 
 This issue has garnered strong reaction precisely because it is no longer about credentialing. It is about algorithms and disparate impact, and that path is the dataset's prediction for successful anti-trust regulatory incursion into modern AI.I will stop here only to say: a mindset operating through scarcity cannot sustain scale. That mindset fails to resolve even the most favorable circumstance of a potentially costly affair.
 
+Btw I notice the account log-in, home address input has been updated since I pointed out the matter of 'cancel' vs. 'skip.' I can write a thesis on that single occurrence as a manifestation of this entire engagement:
+   1. Observation =/= condemnation
+   2. Comment =/= complaint
+   3. objective =/= pressure
+   4. existence =/= wrong
+   5. non-response =/= risk mitigating
+   6. quiet change =/= resolution
+   7. silence =/= hidden
+   8. hidden =/= private
+
+There has to be a different, more adaptively efficient way to do this.
 ---
 
 # CISA
