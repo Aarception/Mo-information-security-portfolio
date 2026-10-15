@@ -24,7 +24,7 @@ It is obvious there is a strong immune-reaction/backlash to a search for underst
 
 I cannot even change a simple password by email on some platforms, without being forced into support where I have to manually confirm in real-time. This only affects the email in question. This is the case even if I have updated and registered a different email in the past and receive communications in the new email. As long as the email in question was either used to start the account or featured use at some point, I have to confirm by that email even if it is not currently regiatered (Hi Facebook). 
 
-When I first did not understand the registers, an early confirmation of anomaly detection was a response from a controlled application testing in which I received the response, essentially, please don't apply to any of our roles (Hi Plaid), which I really thought was the strangest response I have ever received in life (Hi Plaid).
+When I first did not understand the registers, an early confirmation of anomaly detection was a response from a controlled application testing in which I received the response, essentially, please don't apply to any of our roles, which I really thought was the strangest response I have ever received in life (Hi Plaid).
 
 It was the first confirmation of anomaly detection regarding the marked nature of the email, serving as an 'identifier' of sorts.
 
