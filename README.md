@@ -4,7 +4,7 @@
 - the record capture of response to the civic document
 - the perfect manifeststion for unaffiliated blue hat
 - non compensated controlled pen testing opportunity
-- new agentic systems deployed cross-organizaionally
+- new agentic systems deployed cross-organizaionally to be tested
 - Semophores as honey trap to, but met with controlled test
 
 
