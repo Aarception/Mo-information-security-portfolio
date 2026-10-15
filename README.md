@@ -46,6 +46,8 @@ When I first did not understand the registers, an early confirmation of anomaly 
 
 It was the first confirmation of anomaly detection regarding the marked nature of the email, serving as an 'identifier' of sorts.
 
+This is not feelings or inducing sympathy, this is about systems and structure.
+
 DSARs please, I would like to know what is going on. More will be processed as needed.
 
 ---
