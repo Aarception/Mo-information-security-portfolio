@@ -1,12 +1,6 @@
-# Palantir Is The Future of Tech
+# The Future of Tech
 
 Agility, meritorious, swift, risk-harnessing, ethos, vision, coherence, adaptive.
-
-It does not surprise me that Palantir pioneered FDEs. 
-
-The substrate of scaled Tech may be more 1950's 'Woolworth's" than anything else.
-
-Woolworth was important historically: one of the first pioneers of retail, expansive, iconic, featured in the civil rights sit-ins because of publicity.
 
 The most consequential balance I predict for the future longevity of a Tech enterprise is that between ***[organizational] Control vs. [institutional] Rigidity.***
 
@@ -19,13 +13,6 @@ Impact is consumed, it requires replenishment so resources must be conserved.
 Influence is generative, its production is appreciating, so long as it is preserved.
 
 One of the most risk-averse consequences observed by the dataset: liability-consequentialism mandates silence in the face of legitimate inquiry to conserve impact for resource-security, but simultaneously, by withdrawing from engagement, fails to generate the influence whose appreciating production preserves that position.
-
-Woolworth's scaled for couple decades.
-
-Woolworth forgot about agility and adaptability.
-
-I would pick Palantir of Tech, avoiding the fate of Woolworth's.
-
 
 ---
 
