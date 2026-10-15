@@ -1,4 +1,22 @@
-# Foresight Is Needed
+# Palantir Is The Future of Tech
+
+Agility, meritorious, swift, risk-harnessing, ethos, vision, coherence, adaptive.
+
+It does not surprise me that Palantir pioneered FDEs. 
+
+The substrate of scaled Tech may be more 1950's 'Woolworth's" than anything else.
+
+Woolworth was important historically: one of the first pioneers of retail, expansive, iconic, featured in the civil rights sit-ins because of publicity.
+
+Woolworth's scaled for couple decades.
+
+Woolworth forgot about agility and adaptability.
+
+I would pick Palantir of Tech, avoiding the fate of Woolworth's.
+
+---
+
+Foresight Is Needed
 
 ![Counsel](https://github.com/Aarception/data-privacy/blob/main/The_Human_Experience.jpg)
 
