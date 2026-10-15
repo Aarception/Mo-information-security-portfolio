@@ -13,7 +13,9 @@ This is an inflection point where there could be the complete absence of human '
 5. Structurally condemned without opportunty for response, representation, or recource (!) the system's offices and officers just follow the playbook for handling 'insider threats.'
 6. And my data? It is no longer a matter of personal private data; it is platform data security issue.
 
-No human seen in sight, no relevanc to intent.
+No human seen in sight, no relevance to intent.
+
+And my person? Subjected to Industry Ice Online.
 
 ##### ***(!) Intended.***
 
