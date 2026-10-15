@@ -2,7 +2,12 @@
 
 ![Counsel](https://github.com/Aarception/data-privacy/blob/main/The_Human_Experience.jpg)
 
+There is a disassociative ***Coherence*** problem in big Tech and it is very clear that if there is a continued disregard for the many wonderful lessons of history, the current algorithm policies will trigger modern-day AI anti-trust: 'Coal'(Product) and 'Transportation' (Service) must be separated.
+
+This issue has garnered strong reaction precisely because it is no longer about credentialing. It is about algorithms and disparate impact, and that path is the dataset's predicted route into modern AI.I will stop here only to say: a mindset operating through scarcity cannot sustain scale. That mindset fails to resolve even the most favorable circumstance of a potentially costly affair.
+
 ---
+
 # CISA
 
 Since mid-September, CISA has adviced the consideration of 'Dignity' as a preventative step against 'grievance.' Imagine that, although I would have liked to see a clear distinction between the persistence of APTs and longitudinal governance observation with jurisdiction. 
