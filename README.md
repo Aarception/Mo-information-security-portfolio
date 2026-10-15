@@ -2,7 +2,7 @@
 
 - the official provision of partner engagements 
 - a disconnect between intent v observed quality
-- interrution of continuity of further engagement
+- interruption of continuity of further engagement
 - cross-organizational data sharing & safe harbor
 - signal-to-noise ratio and signal attenuation 
 
