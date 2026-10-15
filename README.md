@@ -1,3 +1,13 @@
+# Secondb coup d'oeil
+
+- the provision of new genre of civic document on july 16
+- the record capture of response to the civic document
+- the perfect manifeststion for unaffiliated blue hat
+- non compensated controlle3d pen testing opportunity
+- new agentic systems deployed cross-organizaionally
+- Semophores as honey trap to, but met with controlled test
+-  
+
 # Coup d'œil
 
 - the official provision of partner engagements 
