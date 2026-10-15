@@ -1,3 +1,9 @@
+# Foresight Is Needed
+
+![Counsel](https://github.com/Aarception/data-privacy/blob/main/The_Human_Experience.jpg)
+
+---
+
 # Second coup d'oeil
 
 - the provision of new genre of civic document on july 15
