@@ -4,7 +4,7 @@
 
 There is a disassociative ***Coherence*** problem in big Tech and it is very clear that if there is a continued disregard for the many wonderful lessons of history, the current algorithm policies will trigger modern-day AI anti-trust: 'Coal'(Product) and 'Transportation' (Service) must be separated.
 
-This issue has garnered strong reaction precisely because it is no longer about credentialing. It is about algorithms and disparate impact, and that path is the dataset's prediction for regulatory incursion into modern AI.I will stop here only to say: a mindset operating through scarcity cannot sustain scale. That mindset fails to resolve even the most favorable circumstance of a potentially costly affair.
+This issue has garnered strong reaction precisely because it is no longer about credentialing. It is about algorithms and disparate impact, and that path is the dataset's prediction for successful anti-trust regulatory incursion into modern AI.I will stop here only to say: a mindset operating through scarcity cannot sustain scale. That mindset fails to resolve even the most favorable circumstance of a potentially costly affair.
 
 ---
 
