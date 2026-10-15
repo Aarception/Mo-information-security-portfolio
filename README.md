@@ -17,6 +17,15 @@ Btw I notice the account log-in, home address input has been updated since I poi
    8. hidden =/= private
 
 There has to be a different, more adaptively efficient way to do this.
+
+In any case, I am just waiting for responses to my DSARs just to regain confidence about the handling of my private data.
+
+It is obvious there is a strong immune-reaction/backlash to a search for understanding in response to legitimate experience, judging by the Industry Ice Online.
+
+I cannot even change a simple password by email on some platforms, without being forced into support where I have to manually confirm in real-time. This only affects the email in question. This is the case even if I have updated and registered a different email in the past and receive communications in the new email. As long as the email in question was either used to start the account or featured use at some point, I have to confirm by that email even if it is not currently regiatered (Hi Vacewuge). When I first did not understand the registers, an early confirmation of anomaly detection was a response from a control application testing in which I received the response, essentially, please don't apply to any of our roles (Hi Playd), which I really though5 was the strangest response I have ever seen in life. It was the first confirmation of anomaly detection regarding the marked nature of the email, serving as an 'identifier' of sorts.
+
+DSARs please, I would like to know what is going on. More will be processed as needed.
+
 ---
 
 # CISA
