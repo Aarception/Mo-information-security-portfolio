@@ -42,6 +42,10 @@
 
 Since this is a retroactive development, this service will be offered pro-bono, 'on the house' on this occasion as a matter of consideration.
 
+This is a proposal to engage as friends and partners. A genuine, productive engagement that is good for Capital, and is good for the Social Good.
+
+`A Proposal For The Sovereign Good.`
+
 #Go-To-Market
 
 ---  
