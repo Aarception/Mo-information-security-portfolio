@@ -1,3 +1,49 @@
+# The Sovereign Compliance Fidelity Score
+
+### This Question Lacks Context
+
+![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Half_Full_or_Half_Empty.jpg)
+
+### It Presumes The Negative Space
+
+![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Without_Negative_Space.jpg)
+
+### The Negative Space Is Independent Variable
+
+![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/With_Negative_Space.jpg)
+
+### The Question Was Never About The Glass
+
+![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Water_Is_A_Rescue.jpg)
+
+### The Inquiry Is Presumed A Liability Question
+
+![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Is_Not_About_Liability.jpg)
+
+### The Inquiry Is A Rescue
+![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Inquiry_Is_Rescue.jpg)
+
+### To Come Into Preemptive Sovereign Compliance
+
+![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/GTM_Go-To-Market.jpg)
+
+## The Fidelity Auditor
+
+ - I engaged the Institution
+ - I helped identify a small matter
+ - I brought notice to the institution
+ - The Institution and I can engage for a solution
+ - To help the Institution come into compliance
+ - A preemptive Sovereign Compliance
+ - The Fidelity Auditor gives a seal of approval, The Fidelity Score
+ - The Fidelity Auditor becomes your Assurer
+ - And your first witness for coming into compliance
+ - Amd defense going forward on that matter
+
+---  
+
+---
+
 # The Future of Tech
 
 Agility, meritorious, swift, risk-harnessing, ethos, vision, coherence, adaptive.
