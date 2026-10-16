@@ -40,6 +40,10 @@
  - And your first witness for coming into compliance
  - Amd defense going forward on that matter
 
+Since this is a retroactive development, this service will be offered pro-bono, 'on the house' on this occasion as a matter of consideration.
+
+#Go-To-Market
+
 ---  
 
 ---
