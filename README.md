@@ -20,7 +20,7 @@
 
 ![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Is_Not_About_Liability.jpg)
 
-### The Inquiry Is A Rescue
+### The Inquiry Is Not A Liability, But A Rescue
 ![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/The_Inquiry_Is_Rescue.jpg)
 
 ### To Come Into Preemptive Sovereign Compliance
@@ -38,7 +38,7 @@
  - The Fidelity Auditor gives a seal of approval, The Fidelity Score
  - The Fidelity Auditor becomes your Assurer
  - And your first witness for coming into compliance
- - Amd defense going forward on that matter
+ - And defense going forward on that matter
 
 Since this is a retroactive development, this service will be offered pro-bono, 'on the house' on this occasion as a matter of consideration.
 
