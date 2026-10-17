@@ -50,6 +50,9 @@ This is a proposal to engage as friends and partners. A genuine, productive enga
 
 > Signed,
 > > FIDELITY ASSURER
+> > 
+***Helping Institutions Harmonize Intent & Impact***
+
 ---  
 
 ---
