@@ -27,7 +27,7 @@
 
 ![Go-To-Market](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/GTM_Go-To-Market.jpg)
 
-## The Fidelity Auditor
+## Fidelity Assurance
 
  - I engaged the Institution
  - I helped identify a small matter
@@ -48,6 +48,8 @@ This is a proposal to engage as friends and partners. A genuine, productive enga
 
 #Go-To-Market
 
+> Signed,
+> > FIDELITY ASSURER
 ---  
 
 ---
