@@ -1,5 +1,5 @@
 ### `The Structural Impossibility Finding`
-#### A self-documenting, longitudinal, cross-platform audit of algorithmic candidate management infrastructure operating within institutional bounds and at an ecosystem level exceeding corporate boundaries.
+#### A self-documenting, longitudinal, cross-platform audit of algorithmic candidate management infrastructure operating within institutional bounds and at the ecosystem level exceeding corporate boundaries.
 ~~~
  4 insights:
     1. Moral language elicits the strongest signal response
