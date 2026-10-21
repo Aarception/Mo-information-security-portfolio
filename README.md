@@ -8,7 +8,7 @@
     4. Structural Resolution exhibited signal non-transmission
 ~~~
 
-In short: the Dataset did not encounter a race problem, but it did encounter an infrastructural problem. 
+In short: the Dataset did not encounter a race problem, but it did encounter an infrastructural problem. There is simply no mechanism capable of recognizing accurate system-state knowledge that diverges from the internally-correct system-state knowledge.
 
 ---
 
