@@ -8,7 +8,7 @@
     4. Structural Resolution exhibited signal non-transmission
 ~~~
 
-In short: the Dataset did not encounter a race problem, but it did encounter an infrastructural problem. There is simply no mechanism capable of recognizing accurate system-state knowledge that diverges from the internally-correct system-state knowledge. The process optimizes for resolving that gab by delegating responsibility for resolution to external juridical-state escalation. To interrupt that optimization (e.g. ruling out legal and civil claims, and non-adversarialism) is disruptive and classified anomalous, which justfies liability-containment protocols.
+In short: the Dataset did not encounter a race problem, but it did encounter an infrastructural problem. There is simply no mechanism capable of recognizing accurate system-state knowledge that diverges from the internally-correct system-state knowledge. The process optimizes for resolving that gab by delegating responsibility for resolution to external juridical-state escalation. To interrupt that optimization (e.g. ruling out legal and civil claims, and non-adversarialism) is disruptive and classified anomalous, which justfies liability-containment protocols. It is a completely self-sufficient loop of Structural Impossibility.
 
 ---
 
