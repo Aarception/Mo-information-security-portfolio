@@ -7,6 +7,9 @@
     3. Liability language elicited non-cooperative actions
     4. Structural Resolution exhibited signal non-transmission
 ~~~
+
+In short: the Dataset did not encounter a race problem, but it did encounter an infrastructural problem. 
+
 ---
 
 ***`Inspiration: Building Universally Inclusive New Structures`***
