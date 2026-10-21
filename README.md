@@ -1,3 +1,14 @@
+### `The Structural Impossibility Finding`
+#### A self-documenting, longitudinal, cross-platform audit of algorithmic candidate management infrastructure operating within institutional bounds and at an ecosystem level exceeding corporate boundaries.
+~~~
+ 4 insights:
+    1. Moral language elicits the strongest signal response
+    2. Race/Identity wasn't observed to be a differentiator
+    3. Liability language elicited non-cooperative actions
+    4. Structural Resolution exhibited signal non-transmission
+~~~
+---
+
 ***`Inspiration: Building Universally Inclusive New Structures`***
 
 > Long-Term: Doctorate In Epistemic Security & Trust Architecture
@@ -20,7 +31,8 @@
 
 ## 📚 1. Case Studies
 
-### [SolarWinds Supply Chain Attack](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
+### [SolarWinds Supply Chain Attack](https://github.com/Aar
+ception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 **Path:** `/solarwinds-supply-chain-attack/`
 
 Contents:  
