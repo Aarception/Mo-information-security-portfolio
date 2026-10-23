@@ -33,8 +33,7 @@ To the Institution: If you would like to bring me on board so I can help you res
 
 ## 📚 1. Case Studies
 
-### [SolarWinds Supply Chain Attack](https://github.com/Aar
-ception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
+### [SolarWinds Supply Chain Attack](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
 **Path:** `/solarwinds-supply-chain-attack/`
 
 Contents:  
