@@ -33,7 +33,7 @@ Note: I encourage the Institution to deeply appreciate what it means to receive 
 
 ---
 
-#  📁 Mo's Information Security Learning, Projects, and Portfolio 
+#  📁 Mo's Epistemic Security [EpiSec] Learning, Projects, and Portfolio 
 
 >Each artifact emphasizes evidence-based reporting, operational discipline, and clear documentation.
 
