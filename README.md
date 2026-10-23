@@ -17,7 +17,7 @@ Note: I encourage the Institution to deeply appreciate what it means to receive 
 *'Do the right thing.'*
 ---
 
-***`Inspiration: Universally Inclusive Structures`***
+***`Inspiration: Universally Inclusive* Structures`***
 
 > Long-Term: Doctorate In Epistemic Security & Trust Architecture
 
@@ -28,6 +28,8 @@ Note: I encourage the Institution to deeply appreciate what it means to receive 
 >> Information Security, Governance, Rsk, Compliance, and Assurance
 >> 
 ***`Lifelong Goal: Daily learning & Chewing Broccoli`***
+
+###### * *Black, White, Minority, Majority, East, West, Spiritual, Non-believing, Cis, non-Cis, Lean, Round, Abled, Disabled, Senior, Junior, Developed, Developing, Everyone, Anyone should have equal access.*
 
 ---
 
