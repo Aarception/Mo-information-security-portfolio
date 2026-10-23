@@ -10,7 +10,7 @@
 
 In short: the Dataset did not encounter a race problem, but it did encounter an infrastructural problem. There is simply no mechanism capable of recognizing accurate system-state knowledge that diverges from the internally-correct system-state knowledge. The process optimizes for resolving that gab by delegating responsibility for resolution to external juridical-state escalation. To interrupt that optimization (e.g. ruling out legal and civil claims, and non-adversarialism) is divergent and classified anomalous, which justfies liability-containment protocols. It is a completely self-sufficient loop of Structural Impossibility.
 
-To the Institution: If you would like to bring me on board so I can help you resolve at least the liability part of the credential, from an internal, liability-mitigating position,  I would love to. Or you can fix it yoursef, which is just as fine—as long as it is resolved internally since there will be no external juridical-state escalation.
+To the Institution: If you would like to bring me on board so I can help you resolve at least the liability part of the credential, from an internal, liability-mitigating position,  I would love to. Or you can fix it yoursef, which is just as fine—as long as it is resolved internally since there will be no external juridical-state escalation. On this point, what is suggested is a response to invitation or engagement; based on strict conflict of interest hygiene, I will not be applying or prospecting with the institution that was the subject of the observation.
 
 ---
 
