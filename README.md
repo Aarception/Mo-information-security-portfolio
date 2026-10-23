@@ -12,6 +12,8 @@ In short: the Dataset did not encounter a race problem, but it did encounter an 
 
 To the Institution: If you would like to bring me on board so I can help you resolve at least the liability part of the credential, from an internal, liability-mitigating position,  I would love to. Or you can fix it yoursef, which is just as fine—as long as it is resolved internally since there will be no external juridical-state escalation. On this point, what is suggested is a response to invitation or engagement; based on strict conflict of interest hygiene, I will not be applying or prospecting with the institution that was the subject of the observation.
 
+Note: I encourage the Institution to deeply appreciate what it means to receive the first-right-of-response to the observation: the responsibility for institutional resolution is optimized for external delegation to publicly-funded structures. 
+
 ---
 
 ***`Inspiration: Building Universally Inclusive New Structures`***
