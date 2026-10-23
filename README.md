@@ -1,13 +1,4 @@
 ### `The Structural Impossibility Finding`
-#### A self-documenting, longitudinal, cross-platform audit of algorithmic candidate management infrastructure operating within institutional bounds and at the ecosystem level exceeding corporate boundaries.
-~~~
- 4 insights:
-    1. Moral language elicits the strongest signal response
-    2. Race/Identity wasn't observed to be a differentiator
-    3. Liability language elicited non-cooperative actions
-    4. Structural Resolution exhibited signal non-transmission
-~~~
-
 In short: the Dataset did not encounter a race problem, but it did encounter an infrastructural problem. There is simply no mechanism capable of recognizing accurate system-state knowledge that diverges from the internally-correct system-state knowledge. The process optimizes for resolving that gab by delegating responsibility for resolution to external juridical-state escalation. To interrupt that optimization (e.g. ruling out legal and civil claims, and non-adversarialism) is divergent and classified anomalous, which justfies liability-containment protocols. It is a completely self-sufficient loop of Structural Impossibility.
 
 To the Institution: If you would like to bring me on board so I can help you resolve at least the liability part of the credential, from an internal, liability-mitigating position,  I would love to. Or you can fix it yoursef, which is just as fine—as long as it is resolved internally since there will be no external juridical-state escalation.
@@ -33,6 +24,12 @@ To the Institution: If you would like to bring me on board so I can help you res
 >Each artifact emphasizes evidence-based reporting, operational discipline, and clear documentation.
 
 ---
+
+## 0. Beginning
+[![Experience Overseas in Development](Experience_With_The_Importance_of_Security.jpg)](Beginning_of_Security_Interest.mp4)
+
+![Perimeter Mapping](Security_Starts_With_Perimeter.png)
+
 
 ## 📚 1. Case Studies
 
@@ -72,27 +69,3 @@ All labs are located under:
 | Lab | Path | Key Files |
 |-----|------|----------|
 | [SYN Flood Attack](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/SYN-flood-attack) | `/labs/SYN-flood-attack/` | [Report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/labs/SYN-flood-attack/Report.md), [`screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/SYN-flood-attack/screenshots) |
-| [Hardening Against Brute Force](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/hardening-against-brute-force) | `/labs/hardening-against-brute-force/` | [Report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/labs/hardening-against-brute-force/Report.md), [`screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/hardening-against-brute-force/screenshots), [tcpdump-traffic-log.pdf](https://github.com/Aarception/cybersecurity-portfolio/blob/main/labs/hardening-against-brute-force/tcpdump-traffic-log.pdf) |
-| [IAM Governance SQL Audit](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/iam-governance-sql-audit) | `/labs/iam-governance-sql-audit/` | [Report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/labs/iam-governance-sql-audit/Report.md), [`screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/iam-governance-sql-audit/screenshots) |
-| [Least Privilege Enforcement](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/least-privilege-enforcement) | `/labs/least-privilege-enforcement/` | [Report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/labs/least-privilege-enforcement/Report.md), [`screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/least-privilege-enforcement/screenshots) |
-| [Linux Terminal Basics](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/linux-terminal-basics) | `/labs/linux-terminal-basics/` | [Report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/labs/linux-terminal-basics/Report.md), [`screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/linux-terminal-basics/screenshots) |
-| [Network Incident Analysis](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/network-incident-analysis) | `/labs/network-incident-analysis/` | [Report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/labs/network-incident-analysis/Report.md), [`screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/network-incident-analysis/screenshots) |
-| [Network Protocols (Wireshark)](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/network-protocols-wireshark) | `/labs/network-protocols-wireshark/` | [Report.md](https://github.com/Aarception/cybersecurity-portfolio/blob/main/labs/network-protocols-wireshark/Report.md), [`screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/network-protocols-wireshark/screenshots) |
-| [Security Risk Assessment](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs/security-risk-assessment) | `/labs/security-risk-assessment/` | [Network hardening tools spreadsheet (CSV)](https://github.com/Aarception/cybersecurity-portfolio/blob/main/labs/security-risk-assessment/Network%20hardening%20tools%20-%20Sheet1.csv) |
-
----
-
-## 🧩 4. Shared Assets
-
-- [`/screenshots/`](https://github.com/Aarception/cybersecurity-portfolio/tree/main/screenshots) — Global screenshot directory  
-- Evidence captures embedded across labs and case studies  
-- Diagrams and supporting files  
-
----
-
-## 🎯 5. Assorted
-
-- [Expanding case study library](https://github.com/Aarception/cybersecurity-portfolio/tree/main/solarwinds-supply-chain-attack)  
-- [Strengthening evidence‑driven reporting](https://github.com/Aarception/cybersecurity-portfolio/tree/main/labs)  
-- [Documenting exploitation and hardening workflows](https://github.com/Aarception/cybersecurity-portfolio/tree/main/metasploitable2-penetration-testing)  
-- [Building structured, incident‑driven artifacts](https://github.com/Aarception/cybersecurity-portfolio)  
