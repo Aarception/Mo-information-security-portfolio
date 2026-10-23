@@ -1,3 +1,7 @@
+> *I will try to aim publish-readiness for next Friday. It should not take longer. If completed earlier, it will be submtted when completed.*
+> 
+---
+
 ### `The Structural Impossibility Finding`
 #### A self-documenting, longitudinal, cross-platform audit of algorithmic candidate management infrastructure operating within institutional bounds and at the ecosystem level exceeding corporate boundaries.
 ~~~
