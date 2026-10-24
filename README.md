@@ -6,12 +6,13 @@
 
 ### `The Structural Impossibility Finding`
 #### A self-documenting, longitudinal, cross-platform audit of algorithmic candidate management infrastructure operating within institutional bounds and at the ecosystem level exceeding corporate boundaries.
+
 ~~~
 Some insights about signal delivery language
-    1. Moral or Market elicits proactive signal response
-    2. Race or Identity exhibits cautious signal Handling
-    3. Accountability elicits reactive signal non-cooperation
-    4. Resolution returns inactive signal non-transmission 
+    1. Moral or Market: proactive signal response
+    2. Race or Identity: cautious signal handling
+    3. Accountability: reactive signal non-cooperation
+    4. Resolution: inactive signal non-transmission 
 ~~~
 
 In short: There is simply no mechanism capable of recognizing accurate system-state knowledge that diverges from the internally-correct system-state knowledge. The process optimizes for resolving that gab by delegating responsibility for resolution to external juridical-state escalation. To interrupt that optimization (e.g. ruling out legal and civil claims, and non-adversarialism) is divergent and classified anomalous, which justfies liability-containment protocols. It is a completely self-sufficient loop of Structural Impossibility.
