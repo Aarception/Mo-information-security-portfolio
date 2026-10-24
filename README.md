@@ -1,5 +1,7 @@
 > *I will try to aim publish-readiness for next Friday. It should not take longer. If completed earlier, it will be submtted when completed.*
 > 
+>>  ###  An Interdisciplinary Epistemic Security Case Study: Procedural Nullity in Algorithmic Hiring [As|&] Institutional Response Architecture to Structural Signal Integrity Intervention
+ 
 ---
 
 ### `The Structural Impossibility Finding`
