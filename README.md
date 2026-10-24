@@ -11,7 +11,7 @@
 Some insights about signal delivery language
     1. Moral or Market: proactive signal response
     2. Race or Identity: cautious signal handling
-    3. Accountability: reactive signal non-cooperation
+    3. Notices: non-cooperative signal reaction
     4. Resolution: inactive signal non-transmission 
 ~~~
 
