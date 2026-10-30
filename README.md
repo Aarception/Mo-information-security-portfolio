@@ -1,6 +1,6 @@
 My research paper pre-print is complete and ready for presentation, but a choice will have to be made first.
 
-The consequences of that choice now have a material, structural impact that dwarf mere monetary line-item. The fact that I have decumented with academic rigor, from intellectual curiosity, rather than legal case-building makes my evidence more rigorously 'prosecutorial,' but I believe in restoration and redemption rather than reactionarism and recrimination. 
+The consequences of that choice now have a material, structural adjustment affect that dwarf mere monetary line-item. The fact that I have documented with academic rigor, from intellectual curiosity, rather than legal case-building makes my evidence more rigorously 'prosecutorial,' but I believe in restoration and redemption rather than reactionarism and recrimination. 
 
 I am not a saint, and my choices and actions haven't been saintly. Choices made by others are not necessarily bad or nefarious, even as I may sometimes deem them wrong. The greatest possible outcome I could imagine for this entire experience is "lessons learned" to make better descisions going forward that leave a positive affect on society, on commerce, and on human exchange. 
 
