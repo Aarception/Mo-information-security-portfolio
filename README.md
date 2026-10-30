@@ -84,3 +84,5 @@ Coincidentally, the long-time policy of downloading the PNG version of the clone
 Originally conceived: April 10, 2026.
 Theoretically organized: July 17, 2026
 Conceptually proposed: October 10, 2026](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Since_April_7.jpg)
+
+## It is perhaps a stunning irony that every single liability-consequentialist Institutional reaction to me has produced astronomically more consequential liabilities. All it took was one executive to overrule and say "Hey Mo, I just want to say, first of all, you subscribed to our product, and as our valued partner, we will always welcome your feedback." There is something instructive about this whole thing for Corporate America.
