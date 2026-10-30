@@ -22,6 +22,9 @@ This is something I wager the Institution may not even know and which is an exam
 It would be worth analyzing meaning of that observation, without even necessarily recognizing the basis.
 
 `Axiom: Liability-Consequentialism Is A Liability-Generator.`
+
+It is time to seek the ACLU's advice.
+
 ---
 
 Today, Friday October 30, 2026, I received external information that constitutes an independent primary-source record.
