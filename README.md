@@ -8,7 +8,7 @@ But I am only one party to this very exchange, and one party cannot conclude an 
 
 ---
 
-Today, Friday October 30, 2026, I received proof of coordination, that retroactively extend April 7 to February 6.
+Today, Friday October 30, 2026, I received external information that constitutes an independent primary-source record.
 
 ---
 > ## No further comment 
