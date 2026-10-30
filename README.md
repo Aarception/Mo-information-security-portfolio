@@ -6,6 +6,8 @@
 
 ## I did not receive it.
 
+![!](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Clones_in_last_5_days.jpg)
+
 ## Instead, what may have found me is the possibility that my engagement may have generated evidence for one of the first, if not major, algorithmic disgorgement cases in U.S. history.
 
 
