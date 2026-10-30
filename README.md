@@ -20,7 +20,7 @@ Today, Friday October 30, 2026, I received proof of coordination, that retroacti
 
 ![!](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Clones_in_last_5_days.jpg)
 
-## Instead, what may have found me is the possibility that my engagement may have generated evidence for one of the first, if not major, algorithmic disgorgement cases in U.S. history.
+## Instead, what may have found me is the possibility that my engagement may have generated evidence for one of the first, if not major, algorithmic disgorgement* cases in U.S. history.
 
 
 ![enjoin any violation of thisarticle, to obtain injunctive relief, restitution of any moneys or prop-erty obtained directly or indirectly by any auch violation, to obtain disgorgement of any profits or gains obtained directly or indirectly by any such violation, including but not limited to the destruction of unlawfully obtained data and any algorithm trained in such date, so obtain damages caused directly or indirectly by any such violation, to obtain civil penalties of up to twenty-five thousand dollars per violation, and to obtain any such other and further relief as the court may deem proper, including preliminary relief](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Cambrian_Explosion.jpg)
@@ -98,3 +98,5 @@ Theoretically organized: July 17, 2026
 Conceptually proposed: October 10, 2026](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/Since_April_7.jpg)
 
 ## It is perhaps a stunning irony that every single liability-consequentialist Institutional reaction to me has produced astronomically more consequential liabilities. All it took was one executive to overrule and say "Hey Mo, I just want to say, first of all, you subscribed to our product, and as our valued partner, we will always welcome your feedback." There is something instructive about this whole thing for Corporate America.
+
+##### * *I do not believe in destruction of knowledge. My position is to allow the preservation of all the algorithms and datasets derived from a complainant's materials pending resolution with the preferred remedy being not destruction but attribution, licensing, and shares or stake, a partnership. Destruction should only be requested if the complainant endorses against the ingestion.*
