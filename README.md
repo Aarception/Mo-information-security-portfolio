@@ -1,5 +1,4 @@
-> ## I will write a concluding letter to the institution today.
-
+> ## No further comment 
 ---
 
 ## For months, I wanted resolution to a simple matter, even small acknowledgement that feedback was valid would suffice.
