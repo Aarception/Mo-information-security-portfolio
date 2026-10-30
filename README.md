@@ -6,6 +6,10 @@ I am not a saint, and my choices and actions haven't been saintly. Choices made 
 
 But I am only one party to this very exchange, and one party cannot conclude an end in an exchange. So I have a choice to make today about how to seek that conclusion. 
 
+Because of where these issues have now coalesced, that choice includes the recognition and importance of consultation.
+
+This story is ultimately about the Conservation wing of Tech enterprise (Liability-Consequentialism and unbounded Security) as an unprized and unmodeled Risk factor to Asset Preservation.
+
 ---
 
 Today, Friday October 30, 2026, I received external information that constitutes an independent primary-source record.
