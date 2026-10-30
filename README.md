@@ -19,7 +19,7 @@ This is something I wager the Institution may not even know and which is an exam
 2. When I express complaint or claim-adjacent legalism
      1. The register is silent
 
-It would be worth analyzing meaning of that observation, without even necessarily recognizing its basis.
+It would be worth analyzing meaning of that observation, without even necessarily recognizing the basis.
 
 ---
 
