@@ -15,4 +15,4 @@
 
 > ### Safety and Censorship art Twins, Which art Linked if not Exchangeable but for Separation only by Integrity!
 
-###### * *Attribution: That image was made with Google Notebook. Its purpose is Truth-Making By Theatrical Production. The importance of Digital Signal Integrity, Provenance, Attribution, and Trust is not being claimed, it is being performed.*
+###### * *Attribution: That image was made with Google Notebook. Its purpose is Truth-Making By Theatrical Production. The importance of Digital Signal Integrity, Provenance, Attribution, and Trust is not being exclaimed, it is being performed.*
