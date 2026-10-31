@@ -7,8 +7,11 @@
 
 ![Provenance](Attribution.jpg)
 
+#### But first, due to the legal intersection of the Dataset, for the protection of subject rights as well as observer equities, as wells as the possibiliy that there may be publicly relevant equity the observer cannot unilaterally decide for, there will be rigorous legal consultations before the Dataset can be given the greenlight for academic submission.
+
 ### `The Price for the Free Market is Vigilance for the Protection of Freedom`
 
 ![Safety and Censorship are Twins that are Separated only by Integrity](Without_Integrity_Safety_%26_Censorship_Are_Twins_.jpg)
 
 > ### Safety and Censorship art Twins, Which art Linked if not Exchangeable but for Separation only by Integrity!
+
