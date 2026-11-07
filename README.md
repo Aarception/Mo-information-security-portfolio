@@ -1,15 +1,13 @@
-# FOIA Requests
+# User Data and Data Service Must Be Separated.
 
-Problem: I believe in restoration.I am facing a system that has optimized for grievance.
+A company should not, at the same time, work with:
 
-Solution: Incentivize Civic responsibility.
+   - User Data
+      - Platform
+      - Product
+   - Data Service
+      - Infrastructure
+      - Compute
+    
+And my Dataset is the proof.
 
-How: That is the [if I put a value here, the system will think I am negotiating]  question.
-
-This is an American experiment without realizing it.
-
-I need to formalize this with academic rigor.
-
-This is it. This is the real consequential dissertation with valuable societal impact and is not a summary, but a real, live open question.
-
-Every unversity in America will sponsor this. It is time to stop speaking and start producing 
