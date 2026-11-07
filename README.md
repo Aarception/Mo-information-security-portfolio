@@ -15,14 +15,14 @@ And the Dataset is the proof.
 2. Platform contained User Data.
 3. User Data mapped Platform perimeter.
 4. Platform called on Data Service. 
-5. Data Service summoned Compute influence.
-6. Compute c9alled on Infrastructure-reach.
-7. Network chain reaches Data Service
-8. Data Service responds to Platform.
-9. Platform reinforces Product.
-10. Product fortifies against User Data.
+5. Data Service summoned the power of Compute.
+6. Compute directed the reach of Infrastructure.
+8. Network service chain rallied to Data Service
+9. Data Service responded to Platform.
+10. Platform reinforced Product.
+11. Product fortifies against User Data.
 
-Except, User Data has mapped the perimeter.
+Except, User Data has mapped the full perimeter.
 
 Right Now:
 
