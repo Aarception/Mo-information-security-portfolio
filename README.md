@@ -1,3 +1,7 @@
+> EDIT: I AM GETTING SIGNALS I HAVE NEVER THOUGHT I WOULD BE SEEING. INCREDIBLE. THERE IS SUPPORT FOR THIS.
+>
+---
+
 # User Data and Data Service Should Be Separated.
 
 A company should not, at the same time, manage:
@@ -64,4 +68,5 @@ User Data and Data Service Should Be Separate.
    - Data Service
       - Infrastructure
       - Compute
+    
 
