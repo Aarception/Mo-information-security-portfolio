@@ -10,4 +10,6 @@ This is an American experiment without realizing it.
 
 I need to formalize this with academic rigor.
 
-This is it. This is the real consequential dissertation with valuable societal impact and is not a summary, bu5 a real, live open question.
+This is it. This is the real consequential dissertation with valuable societal impact and is not a summary, but a real, live open question.
+
+Every unversity in America will sponsor this. It is time to stop speaking and start producing 
