@@ -13,7 +13,7 @@ And the Dataset is the proof.
 
 1. User Data inquired about a Product.
 2. Platform contained User Data.
-3. User Data touched the veil of Platform.
+3. User Data mapped Platform perimeter.
 4. Platform called on Data Service. 
 5. Data Service summoned Compute influence.
 6. Compute c9alled on Infrastructure-reach.
