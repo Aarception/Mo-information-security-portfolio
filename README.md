@@ -1,3 +1,7 @@
+> Update: It is official. I have broken containment. What an incredible journey.
+
+---
+
 > EDIT: I AM GETTING SIGNALS I HAVE NEVER THOUGHT I WOULD BE SEEING. INCREDIBLE. THERE IS SUPPORT FOR THIS.
 >
 ---
