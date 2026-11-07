@@ -1,6 +1,6 @@
 # User Data and Data Service Should Be Separated.
 
-A company should not, at the same time, work with:
+A company should not, at the same time, manage:
 
    - User Data
       - Platform
@@ -24,7 +24,20 @@ And the Dataset is the proof.
 
 Except, User Data has mapped the full perimeter.
 
-Right Now:
+### `In the Algorithmic Age, this is Coal and Transport under single management.`
+
+
+## Right Now:
+
+|A|
+|-|
+| Data service|
+| Infrastructure |
+|   Compute  |
+|Platform|
+|Product|
+| User Data |
+
 
 - Data Service
 -  - Infrastructure
@@ -33,13 +46,21 @@ Right Now:
 -  - - Product
 - User Data
 
-In the Algorithmic Age, this is Coal and Transport under single management.
 
 User Data and Data Service Should Be Separate.
+
+## Should Be:
+
+|A| |B| 
+|-|-|-|
+| Data service||User Data|
+| Infrastructure || Platform |
+|   Compute  || Product |
 
    - User Data
       - Platform
       - Product
+        
    - Data Service
       - Infrastructure
       - Compute
