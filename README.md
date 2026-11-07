@@ -1,4 +1,4 @@
-# User Data and Data Service Must Be Separated.
+# User Data and Data Service Should Be Separated.
 
 A company should not, at the same time, work with:
 
