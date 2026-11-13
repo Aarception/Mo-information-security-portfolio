@@ -29,3 +29,7 @@ I didn't meet One institution, I met Two In The Body of One.
 The Law, the Media, and the Public are presented with Dr. Korvorate.
 
 The consumer is handled by Mr. Elgorydym.
+
+Google/Dr. Korvorate treated me wonderfully and I have even become fond of Dr. Korvorate. 
+
+Google/Mr. Elgorydym treated me less than human.
