@@ -23,3 +23,9 @@ I didn't meet One institution, I met Two In The Body of One.
 |Accessible| Nonresponsive|
 | Accountability | Plausible-deniability |
  | Service | Liability |
+| Integrity| Vulnerability|
+|Integrity Inquiry | Vulnerability-exploitation|
+
+The Law, the Media, and the Public are presented with Dr. Korvorate.
+
+The consumer is handled by Mr. Elgorydym.
