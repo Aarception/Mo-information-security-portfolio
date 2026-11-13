@@ -18,4 +18,4 @@
 
 My request started September 10. I still have not received an answer, 60+ days later.
 
-This is fascinating, I think I have discovered the single greatest piece of knowledge with potential to land with shock that is unprecedented. I am in stun disbelief about what this says about legitimacy. 
+This is fascinating, I think I have discovered the single greatest piece of knowledge with potential to land with shock that is unprecedented. I am in stunned disbelief about what this says about legitimacy. 
