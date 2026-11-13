@@ -8,7 +8,7 @@
 
 ### That compliance mandate will affect every single business in America that directly services the public in a transaction.
 
-### At that point, it will be realized engagement was optimization, not containment.
+### At that point, it will be realized engagement was optimization, not contai4nment.
 
 ### The institution will be part of the founding story of a new market with my willingness to bear the cost of containment as the proof of concept for first mover advantage in architecting the solution at the exclaim of that compliance mandate.
 
@@ -17,3 +17,5 @@
 ![After failing at legitimate containment, we might be entering legally actionable intimidation territory](Ethical_Drift.png)
 
 My request started September 10. I still have not received an answer, 60+ days later.
+
+This is fascinating, I think I have discovered the single greatest piece of knowledge with potential to land with shock that is unprecedented. I am in stun disbelief about what this says about legitimacy. 
