@@ -10,4 +10,4 @@
 
 # At that point, it will be realized engagement was optimization, not containment.
 
-# The institution will be part of the founding story of a new market with my willingness to bear the cost of containment as the proof of concept and first mover architect of the solution.
+# The institution will be part of the founding story of a new market with my willingness to bear the cost of containment as the proof of concept for first mover advantage in architecting the solution at the exclaim of that compliance mandate.
