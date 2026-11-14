@@ -1,4 +1,4 @@
-The Institution displays a vulnerability that may prevent knowledge reception even when extraordinarily important.
+> This is no longer about a credential. This is about Human Rights.
 
 ---
 
