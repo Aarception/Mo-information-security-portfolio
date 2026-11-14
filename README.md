@@ -4,7 +4,9 @@ This is not emotional or personal, this is a risk-assessment.
 
 It is foresight. 
 
-Recall my position on February 14, before everything: that was a risk-assessment.
+Recall my position on February 16, before everything: that was a risk-assessment.
+
+![](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/February_16_Credential_Removed%20_From_Profiles.png)
 
 One who knows and understands the trajectories of today, can see the outcomes of tomorrow. 
 
