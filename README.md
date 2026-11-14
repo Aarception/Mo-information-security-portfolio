@@ -8,7 +8,7 @@ Recall my position on February 14, before everything: that was a risk-assessment
 
 One who knows and understands the trajectories of today, can see the outcomes of tomorrow. 
 
-This issue has crossed that border. It is brought together all the ingredients of a storm into one single tea cup.
+This issue has crossed that border. It has brought together all the radioactive ingredients of an American scandal into one single tea cup.
 
 ---
 
