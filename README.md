@@ -1,6 +1,3 @@
-> This is no longer about a credential. This is about Human Rights.
-
----
 
 
 #  Contribution To Public Knowledge
