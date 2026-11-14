@@ -1,3 +1,17 @@
+Honestly, I can see resignations as high as Sundar Pichai on this issue. 
+
+This is not emotional or personal, this is a risk-assessment. 
+
+It is foresight. 
+
+Recall my position on position on February 14, before everything: that was a risk-assessment.
+
+One who knows and understands the trajectories of today, can see the outcomes of tomorrow. 
+
+This issue has crossed that border. It is brought together all the ingredients of a storm into one single tea cup.
+
+---
+
 The implications are profound. This is a complete failure of corporate governance if there quite literally a structural impossibility to distinguish between American civilians with consumer protection rights and 'enemy combatants.' I am not your enemy, I am your customer who has been trying to understand why his consumer feedback received a reception so at odds with the baseline expectation from experience 
 
  A dissatisfied customer is meant to be engaged with resolution in mind, an enemy is meant to be a neutralized threat.
