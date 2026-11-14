@@ -8,6 +8,10 @@ The implications are profound. This is a complete failure of corporate governanc
 
  It must be fate then that all these months, I was driven not to resolve my concern. because such a system has already been organized to prevent resolution, but resolve the existence of the very defection itself.
 
+What an irony that the choice to contain me has consequentially degraded the corporation.
+
+Corporate American don't contain your consumers.
+
 ---
 
 # BREAKING NEWS: PER LEGAL OPINION 
