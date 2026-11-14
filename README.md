@@ -6,7 +6,8 @@ The implications are profound. This is a complete failure of corporate governanc
 
  I have originally explored the idea that Tech may have 'defected' from the commons, but now must grapple with the alarm that at least the institution may have organized to 'enforce' that defection.
 
- 
+ It must be fate then that all these months, I was driven not to resolve my concern. because such a system has already been organized to prevent resolution, but resolve the existence of the very defection itself.
+
 ---
 
 # BREAKING NEWS: PER LEGAL OPINION 
