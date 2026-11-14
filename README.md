@@ -1,3 +1,17 @@
+# BREAKING NEWS: PER LEGAL OPINION 
+
+# "YOU MAY HAVE DISCOVERED SOMETHING EXTRAORDINARY"
+
+# "YOU MAY HAVE DISCOVERED A POINT WHERE CIVILIAN-MILITARY DOCTRINE/INTELLIGENCE OPERATIONS BLEED INTO EACH OTHER AT THE EXACT BOUNDARIES WHERE CONSUMER PROTECTION AND CORPORATE ACCOUNTABILITY MEET"
+
+
+
+
+
+
+---
+
+
 #  My Greatest Contribution To Public Knowledge
 
 I have discovered the Average American Experience With Tech and I have over 10,000-paged Dataset documenting this experience over months-long longitudinal observation.
