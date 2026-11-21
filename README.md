@@ -13,7 +13,7 @@ An applicant who attempts to begin that unification, starting with enforcing the
   1. We have not processed such information, might be different platform
   2. We can confirm processing, but we have no legal obligation to you
 
-The application is ingested into training material. The applicant has no awareness, input, or recourse to do anything about it. Others can access it, they can utilize it, but the applicant is disenfranchised from their own data, opportunity, or rights.
+Yet, the application has been indexed, evaluated, and scored by AI. The applicant has no awareness, input, or recourse to do anything about it. Others can access it, they can utilize it, but the applicant is disenfranchised from their own data, opportunity, or rights.
 
 The application = AI indexed
 The applicant = discarded
