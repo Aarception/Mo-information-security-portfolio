@@ -1,10 +1,6 @@
-Note: this is so extraordinarily controversial, it is a scandal if it entered the public record.
+# Aarception Graphed Perception Today
 
-If I was disengenious, I would be claiming to be a victim, but everytims it starts stimulating me, I remind myself that I understand at least how it could have gotten there.
-
-This is a resting issue, let sleeping dogs lie. Responsibility lies in the full scale of impact. the potential impact on public trust is extraordinary
-
-
+---
 
 
 1. Canada = the controllership
