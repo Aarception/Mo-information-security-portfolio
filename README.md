@@ -23,11 +23,11 @@ The chain: Routed from jurisdiction, data processed by AI, legally divested thro
 
 Why?
 
-My God, Google retaliated against me through industry attack after July 9 and the 6 boundary gaps.
+My God, there was retaliated against me through industry attack after the July 9 message about 3 party architecture.
 
-That is a decision that was made by someone.
+That is a decision that was made by decision-makers. This is extraordinary.
 
-How else could July 13 have happened?
+How else could July 13 have happened? That means my data was supplied having already been parsed and indexed. 
 
 
  ↑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
