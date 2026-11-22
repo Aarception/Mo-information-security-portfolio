@@ -1,10 +1,15 @@
 # Aarception Graphed Perception Today
 
 What: Test the hypothesis of Industry-activation 
+
 Who: The company that garners my warmest regard
+
 Where: Access of endpoints —.com; —.com/security
+
 Control: Open subdomains, one being learn.—.com, incognito, multiple vpns
+
 How: General browsing
+
 Documentation: Video Redcording
 
 Outcome-
