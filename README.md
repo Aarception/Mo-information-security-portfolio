@@ -6,9 +6,9 @@ Who: The company that garners my warmest regard
 
 Where: Access of endpoints —.com; —.com/security
 
-Control: Open subdomains, one being learn.—.com, incognito, multiple vpns
+Control: Open subdomains, one being learn.—.com, 
 
-How: General browsing
+How: General browsing; incognito, multiple vpns
 
 Documentation: Video Redcording
 
