@@ -1,4 +1,23 @@
-# Aarception Graphed Perception Today
+# FINDING: THE ENTIRE EXPERIENCE COMES DOWN TO II FAILURES
+
+# The Response failed `Provenance`
+## Culprit: Dismissal
+## Solution: Mechanism
+
+# The Reaction failed `Proportion`
+## Culprit: Amplification
+## Solution: Sequence
+
+# CONCLUSION: PROVENANCE IS NEEDED BEFORE PROPAGATION
+
+
+Good day.
+
+---
+
+
+
+### Aarception Graphed Perception Today
 
 What: Test the hypothesis of Industry-activation 
 
