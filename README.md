@@ -40,11 +40,13 @@ An applicant who attempts to begin that unification, starting with enforcing the
   1. We have not processed such information, might be different platform
   2. We can confirm processing, but we have no legal obligation to you
 
-Yet, the application has been indexed, evaluated, and scored by AI. The applicant has no awareness, input, or recourse to do anything about it. Others can access it, they can utilize it, but the applicant is disenfranchised from their own data, opportunity, or rights.
+Yet, the application has been indexed, evaluated, and scored by AI. The applicant has no awareness, input, or recourse to do anything about it. 
 
-The application = AI indexed, evaluated, scored
-The applicant = discarded, excluded by outcome
-The data = name exchanged for persistent id
+Others can access it, they can utilize it, but the applicant is disenfranchised from their own data, opportunity, or rights.
+
+   - The application = AI indexed, evaluated, scored
+   - The applicant = discarded, excluded by outcome
+   - The data = name exchanged for persistent identification
 
 The chain: Routed from jurisdiction, data processed by AI, legally divested through partial anonymization, data repacked under sanitized persistent identifier, no longer subject to a subject under a jurisdiction or covered by data privacy, diffusion.
 
