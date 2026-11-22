@@ -48,7 +48,7 @@ Others can access it, they can utilize it, but the applicant is disenfranchised 
    - The applicant = discarded, excluded by outcome
    - The data = name exchanged for persistent identification
 
-The chain: Routed from jurisdiction, data processed by AI, legally divested through partial anonymization, data repacked under sanitized persistent identifier, no longer subject to a subject under a jurisdiction or covered by data privacy, diffusion.
+The chain: Routed from jurisdiction, data processed by AI, legally partial deanonymized, data repacked under sanitized persistent identifier, no longer subject to a subject under a jurisdiction or covered by data privacy, diffusion.
 
 Why?
 
