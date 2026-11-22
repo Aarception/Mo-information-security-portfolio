@@ -10,6 +10,7 @@
 
 # CONCLUSION: PROVENANCE IS NEEDED BEFORE PROPAGATION
 
+![](An_Allegory.png)
 
 Good day.
 
