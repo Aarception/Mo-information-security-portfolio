@@ -32,7 +32,8 @@ I sometimes wonder if there is appreciation for where this is headed.
 5. Exclusion = the outcome
 
 The implied logic = The data is under Canadian controllership, which is subject to Canadian law, but is processed for American posting, which makes it orphaned data, bound to neither jurisdictions. It is free floating. Canadian law is jurisdiction-scoped to Canadian public job postings, and American law is concerned with data processed under American jurisdiction. So the posting for a city in the United States, is processed by an Ontario platform. The data is orphaned,
-/The reality: The 0t4y⁶⁴data is processed under Canadian law, but for an American posting, under the controllership of an unnamed client, without a single party being answerable for for the whole process. The AI processing occurs in Canada, using an American client. The gap is the is the diffused accountability. The legal protections duty concerns the posting, the accountability is bifurcated to the different handlers, and the data subject  rights is held by the applicant, but diffusion prevents those three frameworks from being united.
+
+9The reality: The data is processed under Canadian law, but for an American posting, under the controllership of an unnamed client, without a single party being answerable for for the whole process. The AI processing occurs in Canada, using an American client. The gap is the is the diffused accountability. The legal protections duty concerns the posting, the accountability is bifurcated to the different handlers, and the data subject  rights is held by the applicant, but diffusion prevents those three frameworks from being united.
 
 An applicant who attempts to begin that unification, starting with enforcing their data subject rights is met with:
 
