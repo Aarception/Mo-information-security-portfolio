@@ -12,7 +12,7 @@
 
 ---
 
-I will start with permenantly foreclosing a confounding impediment through a vow:
+I will start with permanently foreclosing a confounding impediment through a vow:
 
 `I will never apply for a role with the institution.`
 
