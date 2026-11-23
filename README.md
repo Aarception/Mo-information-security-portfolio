@@ -12,6 +12,8 @@ The Pendulum is going to swing and it will be swung with force starting today.
 
 Watch Congress, watch Career regulators, watch governance industry.
 
+Before Spring, you will see the highest Tech CEOs, hauled before Congress testifying in groups.
+
 ---
 
 # FINDING: THE ENTIRE EXPERIENCE COMES DOWN TO II IMPEDIMENTS 
