@@ -8,5 +8,5 @@
  >  ## It Contributed to Amplification.
 >  ## The Solution is Calibration.
 
- ![](ThThis_Is_Fair.png
+ ![](ThThis_Is_Fair.png)
 
