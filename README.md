@@ -10,3 +10,9 @@
 
  ![](This_Is_Fair.png)
 
+---
+
+I will start with permenantly foreclosing a confounding impediment through a vow:
+
+`I will never apply for a role with the institution.`
+
