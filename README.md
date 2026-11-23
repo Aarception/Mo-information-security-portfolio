@@ -1,3 +1,19 @@
+# Watch Congress, the Era of 'Sovereign Tech CEOS" is Officially Over
+
+I do not have a position on this on the NVIDIA issue.
+
+What I have is an excellent nose for seeing where trends are headed.
+
+Last month, we saw the referencing of "Imperial CEOS" re:Tech CEOS by the Wall Street Journal.
+
+That will proof to be the climax.
+
+The Pendulum is going to swing and it will be swung with force starting today. 
+
+Watch Congress, watch Career regulators, watch governance industry.
+
+---
+
 # FINDING: THE ENTIRE EXPERIENCE COMES DOWN TO II IMPEDIMENTS 
 
  ## The Response: Affected By Sequentiality.
