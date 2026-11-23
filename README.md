@@ -4,7 +4,7 @@ I do not have a position on this on the NVIDIA issue.
 
 What I have is an excellent nose for seeing where trends are headed.
 
-Last month, we saw the referencing of "Imperial CEOS" re:Tech CEOS by the Wall Street Journal.
+Last month, we saw the referencing of "Imperial CEOs" re:Tech CEOs by the Wall Street Journal.
 
 That will proof to be the climax.
 
