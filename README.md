@@ -16,7 +16,7 @@ The Chinese imperial seat dissolved, the Japanese imperial seat did not. Why? Th
 
 The Iranian royalty dissolved, the Saudi royalty, based in an even more religiously conservative society, did not. Why? Consultation, the Majlis Consensus.
 
-Influence is generative, Impact his diminishing.
+Influence is generative, Impact is diminishing.
 
 # Watch Congress, the Era of 'Imperial Tech CEOs" is Officially Over
 
