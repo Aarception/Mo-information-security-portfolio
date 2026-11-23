@@ -14,7 +14,7 @@
 
  # Costly Signal As A Token of Trust
 
- Since September 16, I have retraced every single Institution-produced, affiliated, or linked research that was published up to the day of formal feedback initiation and have graphed it against my interaction with the institution according to day by da development.
+ Since September 16, I have retraced every single Institution-produced, affiliated, or linked research that was published  going back to the day in which formal feedback was initiated, having graphed against my interaction with the institution controlled for daily development.
  
 This was done in preparation for legal engagement. 
 
