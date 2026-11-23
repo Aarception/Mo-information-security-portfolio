@@ -1,4 +1,4 @@
-# Watch Congress, the Era of 'Sovereign Tech CEOS" is Officially Over
+# Watch Congress, the Era of 'Imperial Tech CEOS" is Officially Over
 
 I do not have a position on this on the NVIDIA issue.
 
