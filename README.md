@@ -6,7 +6,7 @@ What I have is an excellent nose for seeing where trends are headed.
 
 Last month, we saw the referencing of "Imperial CEOs" re:Tech CEOs by the Wall Street Journal.
 
-That will proof to be the climax.
+That will prove to be the climax.
 
 The Pendulum is going to swing and it will be swung with force starting today. 
 
