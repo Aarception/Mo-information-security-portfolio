@@ -1,3 +1,10 @@
+# LEDGITAL GAR, From Acrimony, To Agreement
+
+Legible, Legitimate, Legally-inspired for Digital Reconciliation
+
+![](Partnership.png)
+
+
 # Tech CEOs should emulate Bill Gates
 
 Responsible, effective, influential, with impact that never diminishes because his influence is a generative machine that is never subordinated to the former. 
