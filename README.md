@@ -14,6 +14,14 @@ Watch Congress, watch Career regulators, watch governance industry.
 
 Before Spring, you will see the highest Tech CEOs, hauled before Congress testifying in groups.
 
+Results: Change management standards for Board, Ethical insurance premiums for executive, shareholder powers increases.
+
+This might as well be Japan's Meiji years headed into de-feudalization.
+
+Broad, sweeping de-feudalization is coming.
+
+He who knows history, knows the future.
+
 ---
 
 # FINDING: THE ENTIRE EXPERIENCE COMES DOWN TO II IMPEDIMENTS 
