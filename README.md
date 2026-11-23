@@ -8,13 +8,13 @@ He generated that influence long-ago, when he invested in my schooling.
 
 That wasn't 'philanthropy;' that was investment. 
 
-There is investment measured by stock market prices and there is investment generating inflence. 
+There is investment measured by stock market prices and there is investment generating influence. 
 
 The British Crown survived, The French crown dissolved. Why? The Magna Carta, the Parliament. 
 
 The Chinese imperial seat dissolved, the Japanese imperial seat did not. Why? The Humanity Declaration, the National Diet.
 
-The Iranian royalty dissolved, the Saudi royalty, which is even more religiously conservative, did not. Why? Consultation, the Majlis Consensus.
+The Iranian royalty dissolved, the Saudi royalty, based in an even more religiously conservative society, did not. Why? Consultation, the Majlis Consensus.
 
 Influence is generative, Impact his diminishing.
 
