@@ -4,7 +4,7 @@
  > ##    It Contributed to Dismissal.
 >  ##    The Solution is Continuity.
 
- ## The Reaction Was Affected Proportionality.
+ ## The Reaction Was Affected By Proportionality.
  >  ## It Contributed to Amplification.
 >  ## The Solution is Calibration.
 
