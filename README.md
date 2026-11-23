@@ -1,9 +1,11 @@
-# LEDGITAL GAR, From Acrimony, To Agreement
+# LEDGITAL GAR*
+> # From Acrimony, To Agreement
 
 Legible, Legitimate, Legally-inspired for Digital Reconciliation
 
 ![](Partnership.png)
 
+##### * *Gar is probably the most consequential word in Xeer customary law systems and essentially means "Salvation, Redeem, To Restore." For example the Somali word for judge is Garsoor, The one who brings clarity of Gar, mediation is Garnaqsi, To dialogue about Gar, relief is Gargaar, To provision Gar,  titular heads are referred Garaad, Seeker of Gar, helplessness is Garmaroorsi, to abduct Gar. Digital Gar is Digital Resolution, Reconciliation, Redemption, Restoration.*
 
 # Tech CEOs should emulate Bill Gates
 
