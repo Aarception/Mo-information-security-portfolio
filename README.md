@@ -9,7 +9,7 @@
        1. 'Watersports' = Aquatics
        2. 'Waterzoo' = Aquarium
        3. 'Waterways' = Aqueduct
-       4. Aquafarming, Aquamarine, Aquafauna. Aquafarming, Aquafeed, Aquariology, Aquaculture,
+       4. Aquafarming, Aquamarine, Aquafauna. Aqueous, Aquafeed, Aquariology, Aquaculture,
     2. Water is colloquial and before the modern era referencing only the practical or functional experiemce such as waterbag and waterskin.
 
  2. The modern Romance languages formed from Vulgar Latin
