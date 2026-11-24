@@ -1,4 +1,6 @@
-> The earlier response had an error: 'their' reflected 'there.'
+ > ##### I would like to say to the Institution, unfortunately I have bound myself so completely, we are in the same boat; there is nothing I can do. I have liabilities to mitigate as well. You see, I ruled out application, then flasified it, followed by taking a vow. Now, sometimes I change my mind on various decisions, but those decisions were never integrity constrained. It just will not do. Now, suppose that the auspicies was produced in connection to something with relevance to ownership; then, in such a case, I would naturally have to balance the reconciliation betweem my choice and my ownership, but here I am just engaged by my choice.
+>
+---
 
 # Let Us Not Lose Context That A Real Life Human Being Rose In His Legitimate Defense
 
