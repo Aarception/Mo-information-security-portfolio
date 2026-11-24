@@ -1,6 +1,8 @@
-# COUP D' DTECH IS MISSING THE 3RD C: CUSTOMS!
+# COUP D'ŒIL: DTECH IS MISSING THE 3RD C: CUSTOMS!
 
 Holy Mother of Hell, I found the higheat Axiom at the root of so much of Tech's societal, governmental, and even  liability trials.
+
+TECH HAS CODE, CONTEXT, AND EVEN WHAT IT REFERS TO AS 'CULTURE' BUT TECH IS BEREFT OF CUSTOM!
 
 Big Tech is missing Custom!
 
