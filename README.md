@@ -6,7 +6,7 @@
 
 ![](December_11.png) 
 
-### `The question at the center of the Dataset's value: what verified, attested, existing protocols exist constraining the propagation of an internal governance inquiry from being transformed into an external, risk-classifying identity marker? And if they exist, can assurance be given that it was an effective constraint in my specific?`
+### `The question at the center of the Dataset's value: what verified, attested, existing protocols exist constraining the propagation of an internal governance inquiry from being transformed into an external, risk-classifying identity marker? And if they exist, can assurance be given that it was an effective constraint in my specific case.`
 
 If this ever results in a dispute, that question will be the question I put before the afjudicating powers that be.
 
