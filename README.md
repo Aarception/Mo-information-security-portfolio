@@ -70,4 +70,10 @@ Big Tech even has the Byzantine general's problem because there is no genuine cu
  ![](This_Is_Fair.png)
 
  ---
+ >  LEDGITAL GAR, From Acrimony, To Agreement
+
+Legible, Legitimate, Legally-inspired for Digital Reconciliation
+
+![](Partnership.png)
+
 
