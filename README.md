@@ -26,7 +26,7 @@
  4. Grimm's Law is a standardized, linguistic correspondence system that is foundational to sound law comparisons betweem Germanic languages and other Indo-European languages
      1. Grimm's law establishes that English has regularly borrowed from Latin qu in the form of hw
         1. Latin quod = hwat
-            2.  https://en.wikipedia.org/wiki/List_of_Latin-script_digraphs#W
+            1. https://en.wikipedia.org/wiki/List_of_Latin-script_digraphs#W
         2. English then tended to drop the h, or rearranged, hwat = what
         3. Latin Qui= Who
             1. https://en.wikipedia.org/wiki/Voiceless_labial%E2%80%93velar_fricative#Voiceless_labial%E2%80%93velar_approximant
