@@ -28,7 +28,7 @@ It is distributed, and so far Divorced from the normative formations at the hear
 
 All this time I saw it relevant to bring in diplomacy, diplomatic protocol, culture, philosophy, history, ethics; none from a place of demonization or strategy, but almost symposium, I was sensing the axiom before I could identify it.
 
-Even my use of prompts, elaborate symolism, the reference to "Truth-Making By Theatrical Production" were all a subconscious intuition of discovering missing Custom.
+Even my use of props, elaborate symolism, the reference to "Truth-Making By Theatrical Production" were all a subconscious intuition of discovering missing Custom.
 
 Customs are performative, symbolic, even ritualistic. Put one's hand across the heart for the flag IS an American ritual!
 
