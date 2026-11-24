@@ -48,9 +48,9 @@
 
 ~~~
  AQUA -> Latin
- ACQUA -> Appendex Probi, Modern Southern Romance
- AHWA -> Modern French
- WHA'A -> Grimm's Law
+ ACQUA -> Appendex Probi, Modern Southern Romance stage
+ AHWA -> Grimm's Law, Modern French stage
+ WHA'A -> WH diagraph rearrangement, Vowel Glottal break up
  WHATA -> T-Glotalization
  WODR -> Voicing, Flapping
 ~~~
