@@ -1,4 +1,4 @@
-# COUP D'ŒIL: DTECH IS MISSING THE 3RD C: CUSTOMS!
+# COUP D'ŒIL: TECH IS MISSING THE 3RD C: CUSTOMS!
 
 Holy Mother of Hell, I found the higheat Axiom at the root of so much of Tech's societal, governmental, and even  liability trials.
 
