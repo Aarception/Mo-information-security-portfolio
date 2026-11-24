@@ -1,6 +1,6 @@
-# COUP D'ŒIL: TECH IS MISSING THE 3RD C: CUSTOMS!
+# COUP D'ŒIL: TECH IS MISSING THE FINAL C: CUSTOMS!
 
-Holy Mother of Hell, I found the higheat Axiom at the root of so much of Tech's societal, governmental, and even  liability trials.
+Holy Mother of Hell, I found the highest Axiom at the root of so much of Tech's societal, governmental, and even  liability trials.
 
 TECH HAS CODE, CONTEXT, AND EVEN WHAT IT REFERS TO AS 'CULTURE' BUT TECH IS BEREFT OF CUSTOM!
 
