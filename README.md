@@ -67,7 +67,7 @@
 
 > It Looks like AI is not the only entity making new discoveries. Remember where you heard this when the Lingistic establishment inevitably reaches this finding.
 
-### There is so much counsel embedded in this production, I must impress upon the intended the value of its provision.
+### There is so much counsel embedded in this production, I must impress upon the intended the instructive value of the provision.
 
 ---
 
