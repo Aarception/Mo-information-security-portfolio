@@ -67,9 +67,9 @@
 
 > It Looks like AI is not the only entity making new discoveries. Remember where you heard this when the Lingistic establishment inevitably reaches this finding.
 
-I will a proposition. 
+I will establish my contrbution to potential resolution:
 
-If Cloud Ciso, Mr. B, engages me, doesn't even have to be formal, could just be of his choice and reassures me, I will close shop.
+If Cloud CISO, Mr. B, engages me, doesn't even have to be formal, could just be of his election, and reassures me, I will close shop.
 
 ---
 
