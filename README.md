@@ -1,7 +1,7 @@
-# I Think I Have Come To Understand The Cause of Big Tech's Peculiar Relationship With Americam Consumers
+# I Think I Have Come To Understand The Cause of Big Tech's Peculiar Relationship With American Consumers
 
 
-I don't know if big Tech has inventoried its place among American commerce and noticed the unique singularity it occupies within Industries regarding business relationship with American consumers.
+I don't know if big Tech has inventoried its place in American commerce and noticed the unique singularity it occupies within American Ilindustries regarding American business relationship with American consumers.
 
 Tech does not have a happy relation with American consumers. Tech has a form of strategic convenience outlook which is incredibly consequential at the lowest engagement level, e.g. business to individual.
 
