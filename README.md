@@ -1,3 +1,7 @@
+> Where is the Participating Partner in the Production of the Play for their to be a Performance Plan. Make a Proposal.
+
+---
+
 # COUP D'ŒIL: TECH IS MISSING THE FINAL C — CUSTOM!
 
 Holy Mother of Hell, I found the highest Axiom at the root of so much of Tech's societal, governmental, and even  liability trials.
