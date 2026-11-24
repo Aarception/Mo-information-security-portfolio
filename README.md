@@ -7,6 +7,8 @@ Legible, Legitimate, Legally-inspired for Digital Reconciliation
 
 ##### * *Gar is probably the most consequential word in Xeer customary law systems and essentially means "Salvation, Redeem, To Restore." For example the Somali word for judge is Garsoor, The one who brings clarity of Gar, mediation is Garnaqsi, To dialogue about Gar, relief is Gargaar, To provision Gar,  titular heads are referred Garaad, Seeker of Gar, helplessness is Garmaroorsi, to abduct Gar. Digital Gar is Digital Resolution, Reconciliation, Redemption, Restoration.*
 
+###### *FYI: AI tooling was not used in the making of this diagram or really what it represents (this just teases a project that is exrpressly privately-protectes) and really AI tooling has not been used 100% of the actual diagrams I have made. I don't apologize for AI use. It is like apologizing for using Search engine. Information development tools are meant to be used for information access. However, I understand the double entendre from security-applied cynicism, so let me just say, I have welcomed it in the past because being underestimated was a strategic value, but going forward I am going to have to start categorizing when such systems are used as opposed to the inverse, if my intellectual production is going to be divested from its origination. :)*
+
 # Tech CEOs should emulate Bill Gates
 
 Responsible, effective, influential, with impact that never diminishes because his influence is a generative machine that is never subordinated to the former. 
