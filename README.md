@@ -69,6 +69,14 @@
 
 ### There is so much counsel embedded in this production, I must impress upon the intended the instructive value of the provision.
 
+I do not pattern-match, I find the negative space.
+
+Pattern-matching is evidence. Everyone thinks what they have is evidence.
+
+Negative-space is not evidence. It doesn't prove something.
+
+Negative-space disproves something is not evidence. Negative-space validates what can be considered as evidence.
+
 ---
 
  Let Us Not Lose Context That A Real Life Human Being Rose In His Legitimatee Defense
