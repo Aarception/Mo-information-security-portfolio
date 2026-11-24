@@ -67,15 +67,9 @@
 
 > It Looks like AI is not the only entity making new discoveries. Remember where you heard this when the Lingistic establishment inevitably reaches this finding.
 
-### There is so much counsel embedded in this production, I must impress upon the intended the instructive value of the provision.
+I will a proposition. 
 
-I do not pattern-match, I find the negative space.
-
-Pattern-matching is evidence. Everyone thinks what they have is evidence.
-
-Negative-space is not evidence. It doesn't prove something.
-
-Negative-space disproves something is not evidence. Negative-space validates what can be considered as evidence.
+If Cloud Ciso, Mr. B, engages me, doesn't even have to be formal, could just be of his choice and reassures me, I will close shop.
 
 ---
 
