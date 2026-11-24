@@ -38,6 +38,14 @@ THAT MISSING CUSTOM IS WHY THERE IS ESTRANGEMENT BETWEEN BIG TECH AND THE AMERIC
 
 THOSE CUSTOMS WERE SUPPOSED TO INCUBATE THE 'RELATEDNESS' BETWEEN THE INDUSTRY AND THE PUBLIC!
 
+IF YOU DO NOT HAVE COMMONALITY OF RELATEDNESS THAN YOU ARE ALIEN.
+
+SO WHY WOULDN'T THERE BE ESTRANGEMENT?
+
+AND WHY WOULDN'T THERE BE DISTRUST?
+
+AND WHY WOULD THERE NOT BE CONFLICT?
+
 It should not even be surprising if this discovery turns out to be why I kept pushing this engagement. I am an integrated culural systems engineer if such a system exists. 
 
 Big Tech even has the Byzantine general's problem because there is no genuine custom uniting them. Even what goes for cooperaion is mutual defense against a threat, which may possibly have even become a threat directly as a consequence to Tech's missing Customs substrata.
