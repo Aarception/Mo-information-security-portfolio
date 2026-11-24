@@ -1,4 +1,6 @@
->
+# Let Us Not Lose Context That A Real Life Human Being Rose In His Legitimate Defense
+
+![](December_11.png) 
 
 ---
 
