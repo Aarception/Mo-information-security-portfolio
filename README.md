@@ -1,3 +1,29 @@
+# I Think I Have Come To Understand The Cause of Big Tech's Peculiar Relationship With Americam Consumers
+
+
+I don't know if big Tech has inventoried its place among American commerce and noticed the unique singularity it occupies within Industries regarding business relationship with American consumers.
+
+Tech does not have a happy relation with American consumers. Tech has a form of strategic convenience outlook which is incredibly consequential at the lowest engagement level, e.g. business to individual.
+
+It is not warm. At all.
+
+In fact, it is actually the inverse.
+
+It would be impossible to function such a way and still be profitable, were it not for strategic toleration and provision of digital service rather than physical-engaged interaction.
+
+This underlies so much of why there is almost a state of 'Failed State' or 'Banana Republic' in the contract between Big Tech and the Consumer were it not for publically-funded structures who are objects for absorbing consumer reaction and therefore keep the Failed State from passing over into instability.
+
+I think I have come to understand the underlying cause of this: the tension between Right and Effective.
+
+
+The state emanates from the tension a the nexus of CHOOSING THE RIGHT THING VS. DOING THE MOST EFFECTIVE THING.
+
+What is the difference?
+
+You tell me.
+
+---
+
 # LEDGITAL GAR*
 > # From Acrimony, To Agreement
 
