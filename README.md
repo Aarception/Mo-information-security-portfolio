@@ -14,10 +14,10 @@ And I will give a last recommendation regarding the three security teams:
 
   - CTI/C.S: They're like the NSA, serious and brooding, and not unempathetic
   - The M-group: They're like a mixture of FBI & Marshalls, Big name, not unordinary or irregular
-  - W-grouo: I don't want to make a comparison, but there's a culture difference for how American consumers are expected to be treated by an American corportion.
-
+  - W-grouo: I don't want to make a comparison, but there's a culture difference re:how American consumers are expected to be treated by an American corporation, although they were very thoughtful in their only communication.
+    
 You are missing a layer to complete the C.I.A triangle. 
 
-That's the layer, I would have belonged.
+That's the layer I would have belonged.
 
 It requires cosmpolitanism.
