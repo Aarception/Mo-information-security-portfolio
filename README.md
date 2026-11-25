@@ -12,7 +12,9 @@
 
 #### Tech won't be needed to produce its ai training weights in civil cases, because they will be controlled and guaanteed by national agencies
 
-#### They will institute national security controls on certain aspects of Tech industry, for example: certain types of foreign business engagements will have to be approved im the name of natiomal security
+#### They will institute national security controls on certain aspects of Tech industry, for example: certain types of foreign business engagements will have to be approved by specialized agencies the name of national security
+
+#### Privacy will be like Financial protection and privacy protection agencies will rise up to produce these new compliance mandates external to business control
 
 #### Ask The Oil industry what this means practically as Business leaders
 
