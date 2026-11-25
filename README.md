@@ -2,14 +2,13 @@
 
 There is a Somali saying: There is no place higher than the top of the head to pat.
 
-This process has taught mw that there is a vacant seat for leadership in Tech which only be filled by Microsoft.
+This process has taught mw that there is a vacant seat for leadership in Tech which can only be filled by Microsoft.
 
-You were offline for the flunt5 of seconds, and the entire function of business broke down.
+You were offline for the count of seconds, and yet the entire function of business broke down.
 
-Ethiopian had one of the longest, if not the longest continuous monarchies in the world, which wnded with Haile Selassie in the 70's
+Ethiopian had one of the longest, if not the longest continuous monarchies in the world, which ended with Haile Selassie in the 70's
 
-
-Ethiopia's monarchy was interesty. It wasn't one kingdom or unitary house. It was a union of kingdoms, like the Kingdom of Amhara, each one with their own houses and each named King, Negusa, or Prince, Ras. 
+Ethiopia's monarchy was interesting. It wasn't one kingdom or unitary house. It was a union of kingdoms, like the Kingdom of Amhara, each one with their own houses and each named King, Negusa, or Prince, Ras. 
 
 One of the Kingdoms was Shoa, the Kingdom of Shoa. Shoa was the center because it was the 1st Kingdom, with the most valuable resourcea, and influence. 
 
