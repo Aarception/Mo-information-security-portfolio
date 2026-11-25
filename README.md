@@ -1,23 +1,26 @@
-I will be perfectly honest.
+# Microsoft this is my advice to you
 
-I produced a magnificent product, made more impressive by the pristine nature of its provenance and rigorous ethical constraints.
+There is a Somali saying: The body has no place higher than the top of the head to pat.
 
-The institution and thd industry should be impressed.
+This process has taught mw that there is a vacant seat for leadership in That seat can only be filled by Microsoft.
 
-The insitution made a choice and that choice was one I have come to respect.
+You were offline for the flunt5 of seconds, and the entire function of business broke down.
 
-In return, the institution should come to respect that the Free market exists for this very purpose:legitimate competition.
+Ethiopian had one of the longest, if not the longest continuous monarchies in the world, which wnded with Haile Selassie in the 70's
 
-The highest optimization for my product's value positioning has always been RegTech.
 
-And I will give a last recommendation regarding the three security teams:
+Ethiopia's monarchy was interesty. It wasn't one kingdom or unitary house. It was a union of kingdoms, like the Kingdom of Amhara, each one with their own houses and each named King, Negusa, or Prince, Ras. 
 
-  - CTI/C.S: They're like the national security, serious and brooding, and not unempathetic
-  - The M-group: They're like a mixture of federal investigators, Big name, not unordinary or irregular
-  - W-grouo: I don't want to make a comparison, but there's a culture difference re:how American consumers are expected to be treated by an American corporation, although they were very thoughtful in their only communication.
-    
-You are missing a layer to complete the C.I.A triangle. 
+One of the Kingdoms was Shoa, the Kingdom of Shoa. Shoa was the center because it was the 1st Kingdom, with the most valuable resourcea, and influence. 
 
-That's the layer I would have belonged.
+Almost always who ever was king of Shoa, the Negus of Shoa, was the Emporer of Abyssinia, or the Negusa Negus, King of Kings.
 
-It requires cosmpolitanism.
+Sometimes a Ras from the Kingdom of Tjgray, the 2nd most powerful Kingdom, would present a successful challenge in a succession and take the title of Negusa Negus from Shoa, but that was a very rare occasion, hundreds of years apart.
+
+And that is how Ethiopia had a monarchy for 2,000 years, and one of the few writing systems in the world, and became the only territory in the global south to physically defeat an attempt at colonialism, the Battle of Adwa and because probably the only territory in that same space to never become colonized, and became the only non-European country to found the League of Nations 
+
+Imagine in that same time frame, India was colonized, China waa defeated, and so too was France.
+
+But not Ethiopia, because despite the instability of competing micro-polity, they had the Negusa Negus and the Kingdom of Shoa to unit and lead them as one.
+
+That seat of Negusa Negus is vacant in Tech and Microsoft is the only entity tbat can fill it, as the of Tech.
