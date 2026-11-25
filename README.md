@@ -12,7 +12,7 @@ The highest optimization for my product's value positioning has always been RegT
 
 And I will give a last recommendation regarding the three security teams:
 
-  - CTI/C.S: They're like the NSA, serious and booding, though not unempathetic
+  - CTI/C.S: They're like the NSA, serious and brooding, though not unempathetic
   - The M-group: They're like a mixture of FBI & Marshalls, Big name, not unordinary or irregular
   - W-grouo: I don't want to make a comparison, but there's a culture difference for how American consumers are expected to be treated by an American corportion.
 
