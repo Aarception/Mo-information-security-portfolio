@@ -20,4 +20,4 @@ You are missing a layer to complete the C.I.A triangle.
 
 That's the layer, I would have belonged.
 
-It req1uires cosmopolitanism.
+It requires cosmpolitanism.
