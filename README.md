@@ -20,6 +20,10 @@ And that is how Ethiopia had a monarchy for 2,000 years, and one of the few writ
 
 Imagine in that same time frame, India was colonized, China waa defeated, and so too was France.
 
-But not Ethiopia, because despite the instability of competing micro-polity, they had the Negusa Negus and the Kingdom of Shoa to unit and lead them as one.
+But not Ethiopia, because despite the instability of competing micro-polity, they had the Negusa Negus and the Kingdom of Shoa to unite and lead them as one.
 
-That seat of Negusa Negus is vacant in Tech and Microsoft is the only entity tbat can fill it, as the of Tech.
+
+The Ethiopian modern capital of Addis Ababa, the seat of the African Union, is the former captal of the Kingdom of Shoa.
+
+
+That seat of Negusa Negus is vacant in Tech and Microsoft is the only entity tbat can fill it, as the Shoa of Tech.
