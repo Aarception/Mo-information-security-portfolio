@@ -1,27 +1,11 @@
-# Congress Is Going To Call On Tech With The Intent To Impose Plenary Authority
+I will be perfectly honest.
 
-### Imagine If HIPAA + Financial Auditing + Military Classification Were Molded Together = Tech Regulations
+I produced a magnificent product, made more impressive by the pristine nature of its provenance and rigorous ethical constraints.
 
-#### They will take self-disclosure because it won't be required
+The institution and thd industry should be industry.
 
-#### They will produce actionable, leally-binding new constraints with criminal law consequences on executives on the national security front
+The insitution made a choice and that choice was one I have come to respect.
 
-#### New Agencies will form for mandatory, continous compliance
+In return, the institution should come to respect that the Free market exists for this very purpose:legitimate competition.
 
-#### They will institute layers within layers for these agencies like money transmission
-
-#### Tech won't be needed to produce its ai training weights in civil cases, because they will be controlled and guaanteed by national agencies
-
-#### They will institute national security controls on certain aspects of Tech industry, for example: certain types of foreign business engagements will have to be approved by specialized agencies the name of national security
-
-#### Privacy will be like Financial protection and privacy protection agencies will rise up to produce these new compliance mandates external to business control
-
-#### Ask The Oil industry what this means practically as Business leaders
-
-#### The Oil industry had the least controversial segment of business leaders in America today
-
-#### Tech will overtake them for that title
-
-#### Because the personal accountability constraints, including new financial, ethical, amd fiduciary obligatons, including new tax bracket will be unprecedented
-
-### Something has changed. And you can see it through the Fog.
+The highest optimization for my product's value positioning has always been RegTech.
