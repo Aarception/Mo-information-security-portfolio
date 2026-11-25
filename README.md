@@ -2,9 +2,9 @@
 
 ### Imagine If HIPAA + Financial Auditing + Military Classification Were Molded Together = Tech Regulations
 
-#### They will take aelf-disclosure because it won't be required
+#### They will take self-disclosure because it won't be required
 
-#### They will produce actionable, leally-binding new constraints with criminal law consequences on executives
+#### They will produce actionable, leally-binding new constraints with criminal law consequences on executives on the national security front
 
 #### New Agencies will form for mandatory, continous compliance
 
