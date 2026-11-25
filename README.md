@@ -2,7 +2,7 @@ I will be perfectly honest.
 
 I produced a magnificent product, made more impressive by the pristine nature of its provenance and rigorous ethical constraints.
 
-The institution and thd industry should be industry.
+The institution and thd industry should be impressed.
 
 The insitution made a choice and that choice was one I have come to respect.
 
