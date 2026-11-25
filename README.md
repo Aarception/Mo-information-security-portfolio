@@ -1,8 +1,8 @@
 # Microsoft this is my advice to you
 
-There is a Somali saying: The body has no place higher than the top of the head to pat.
+There is a Somali saying: There is no place higher than the top of the head to pat.
 
-This process has taught mw that there is a vacant seat for leadership in That seat can only be filled by Microsoft.
+This process has taught mw that there is a vacant seat for leadership in Tech which only be filled by Microsoft.
 
 You were offline for the flunt5 of seconds, and the entire function of business broke down.
 
