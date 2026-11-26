@@ -6,6 +6,8 @@ How is defection handled?
 
 That is coming up next, but first recall the backdrop below.
 
+Update: I am debating whether to produce the segment given the fact that it touches on what establishes or inspires the underlying propulsion of the engagement and its evolution in totality, ever needed in circumstance should it ever get there.
+
 ---
 
 ### Design, Defection, and the Digital Commons: A Story About What Humans From Antiquity Understood About Incentivizing The Political Economy of Responsibility
