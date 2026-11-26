@@ -4,6 +4,8 @@ A fascinating case of learning from a human culture especially adapted for decen
 
 How is defection handled?
 
+That is coming up next, but first recall the backdrop below.
+
 ---
 
 ### Design, Defection, and the Digital Commons: A Story About What Humans From Antiquity Understood About Incentivizing The Political Economy of Responsibility
