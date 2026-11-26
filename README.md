@@ -18,7 +18,7 @@ Furthermore there was no actual law enforcement capacity or state systems of jus
 
 There were no police stations, no courts, no visible instruments of justice.
 
-And yet, even i provinces far from the Capital, in places like the region of my great-uncle, a tribal chief, there was no lawlessness, no petty crimes, no orphans on the streets, business freely operated from sunrise to midnight without harassment or fear, and they were accountable and responsive to their customers. They had even defeated Al Shabaab, a terrorist organization, at war with the protected government in Mogadishu, relying on their traditional Sufi mysticism form of the religion as an identity against extremism.
+And yet, even in provinces far from the Capital, in places like the region of my great-uncle, a tribal chief, there was no lawlessness, no petty crimes, no orphans on the streets, business freely operated from sunrise to midnight without harassment or fear, and they were accountable and responsive to their customers. They had even defeated Al Shabaab, a terrorist organization, at war with the protected government in Mogadishu, relying on their traditional Sufi mysticism form of the religion as an identity against extremism.
 
 ![](Backdrop.png)
 *International Policy Digest*
