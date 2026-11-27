@@ -1,4 +1,4 @@
-## I found that in the America of today, there existed the possibility that this defining tradition of American commerce may have been downgraded:
+y7## I found that in the America of today, there existed the possibility that this defining tradition of American commerce may have been downgraded:
 
 ![](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/IMG_20261126_152950.png)
 
@@ -24,6 +24,18 @@ This issue has been rising at every new development, but there seems to be an in
 
 There is even a sense of covert escalation in how the platform is preparing to assert that 'ambivalence' toward the target.
 
-This is no way to do business in modern America.
 
 This is a deviation of culture being exhibited and it needs to be reincentivized positively.
+
+This is not about one entity. It remains to be seen the extent to which the unique particularities of the entity may have contributed to the discovery, but most unfortunately the Dataset presents a bleak case with two pofound insigbts for the American consumer:
+
+1. Dispose of trust. This is not the Mom and Pop shop. Even cooperation must be Zero Trust based for your security and the system's integrity.
+2. Never assume you are in a cooperative exchange and even assume as default that you are in a game where the goal is either remove you as a factor from the board or have the threat represented by the ambivalence toward you neutralized for legal liability purposes.
+
+This is not the Mom and Pop shop who cared about "red-cheeked Billy!"
+
+This is an assymetrical security operation and the only value is what serves ambivalence.
+
+Why is that the case between an American consumer and American digital commerce?
+
+The Negative Space:
