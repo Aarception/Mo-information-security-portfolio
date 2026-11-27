@@ -1,9 +1,7 @@
-## Since September, on the data privacy issue, the data sharing issue, on the Dr Korvorate and Mr Elgorydym issue, on the Platform Security and User Safety issue, has consequently emerged the single most important question at the heart of the Algorithmic Age's incentive misalignment underpinning, essentially, every single layer traversed though:
+I found that in the America of today, there existed the possibility that this defining tradition of American commerce may have been downgraded:
 
-## Should B2B and B2C digital-data service or program run under single-management or enterprise?
+![](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/IMG_20261126_152950.png)
 
-### - An enterprise services housekeepers to a developmemt.
-### - The entity is the major distributor selling cleaning supplies like vacuums in the area 
-### - The entity is the source of supply to SMBs involved in landscaping, rug cleaning, and other related services in the area.
+Since the day I found out, I committed to repair.
 
-#### The Negative Space: The relevance is not the light shining in from top-down, which is well-known structure. The salience is the light shining out from within one of the houses serviced.
+The experience was documented along the way.
