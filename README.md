@@ -1,4 +1,4 @@
-# Today I am going to give my side of the story
+# Today I am going to give my side of the story re:The Securitization of American Consumer Reliance
 
 I am going to explain my rationale for starting to "observe" the institution. Was it unjustified? Was it justified? Was it a response, was it preemptive? 
 
