@@ -23,3 +23,7 @@ Now one doesn't just depart with only a purchase and a copy of a receipt leaving
 This issue has been rising at every new development, but there seems to be an inflection point now with AI and training data.
 
 There is even a sense of covert escalation in how the platform is preparing to assert that 'ambivalence' toward the target.
+
+This is no way to do business in modern America.
+
+This is a deviation of culture being exhibited and it needs to be reincentivized positively.
