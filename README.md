@@ -6,4 +6,4 @@
 ### - The entity is the major distributor selling cleaning supplies like vacuums in the area 
 ### - The entity is the source of supply to SMBs involved in landscaping, rug cleaning, and other related services in the area.
 
-#### The Negative Space: The issue is not the light shining in from top-down, which is well-known structure. The issue is the light shining out from within one of the houses serviced.
+#### The Negative Space: The relevance is not the light shining in from top-down, which is well-known structure. The salience is the light shining out from within one of the houses serviced.
