@@ -6,7 +6,7 @@ I am going to give my side of the story with documentary evidence.
 
 That will be the measure of whether Industry values justice or whether it works as something else.
 
-y7## I found that in the America of today, there existed the possibility that this defining tradition of American commerce may have been downgraded:
+## I found that in the America of today, there existed the possibility that this defining tradition of American commerce may have been downgraded:
 
 ![](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/IMG_20261126_152950.png)
 
