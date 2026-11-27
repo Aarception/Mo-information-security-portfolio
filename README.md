@@ -38,4 +38,4 @@ This is an assymetrical security operation and the only value is what serves amb
 
 Why is that the case between an American consumer and American digital commerce?
 
-The Negative Space:
+The Negative Space: This isn't emotion or fluff or for moralzing. There is no intent involved here. The system correction is what is being built.
