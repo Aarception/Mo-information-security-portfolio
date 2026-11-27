@@ -1,5 +1,7 @@
 # Today I am going to give my side of the story re:The Securitization of American Consumer Reliance
 
+Having completed a literature review, I am stunned by how transformative and unprecedented my Dataset is on the matter of the securitization of American consumer reliance. Because of this reason, I realized I cannot take anything for granted including assuming that the basis of my rationale for certain actions is widely known. 
+
 I am going to explain my rationale for starting to "observe" the institution. Was it unjustified? Was it justified? Was it a response, was it preemptive? 
 
 I am going to give my side of the story with documentary evidence. 
