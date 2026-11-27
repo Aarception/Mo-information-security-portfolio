@@ -4,6 +4,20 @@ One of the things I most struggle with in this process is toeing the line betwee
 
 Nowhere is this more difficult than writing the below note ⬇
 
+The question I have is why would there be a Wiz graph id in my gmail? Why would there be one in my else?
+
+And if this is normal, why would it obfuscate after observation was noticed minutes later? Why would the dom in source code refresh and present obfuscated Wiz section? I mean I captured the persistent id across multiple endpoints.
+
+The question is not what was I interested in looking at, as I have been trying to engage the institution for months on the question of various great legal and ethical questions regarding legitimate feed, last of which is a DSR on this very question which has not received a response though over a month ago, and a request on whether institutional security has been improperly directed towards me because of a governance inquiry, sent on September 10, two and a half months ago. 
+
+No response to any.
+
+And yet I find what looks to me, absent institutional clarification, what looks to be surveilance and tracking.
+
+Am I a criminal, because I asked about consumer reliance?
+
+Forget decency, is this appropriate behavior?
+
 
 # Today I am going to give my side of the story re:The Securitization of American Consumer Reliance
 
