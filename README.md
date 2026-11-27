@@ -14,12 +14,12 @@ Data is the issue. Consumer Data.
 
 There needs to be a new paradigm understanding about the role of Consumer Data in the Algorithmic economy.
 
-In the old economy, one enters a store and business an item. They transact, both have a copy of a receipt and then one departs.
+In the old economy, one enters a store, transacts with a business, buys an item, receive a copy of a receipt and then departed.
 
 Now there is data, cookies, telemetry, intrusive mechanism, controllership.
 
-Now one doesn't just depart with only their transaction and a copy of a receipt.  And they do not leave behind a few bucks.
+Now one doesn't just depart with only a purchase and a copy of a receipt leaving behind a few bucks.
 
-This issue has been rising at every new development, but there is AI and training data.
+This issue has been rising at every new development, but there seems to be an inflection point now with AI and training data.
 
 There is even a sense of covert escalation in how the platform is preparing to assert that 'ambivalence' toward the target.
