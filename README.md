@@ -16,6 +16,10 @@ And yet I find what looks to me, absent institutional clarification, what looks 
 
 Am I a criminal, because I asked about consumer reliance?
 
+Is feedback about program delivery grounds for externally-intended offensive cybersecurity digital infrastructure?
+
+Something is terribly broken here.
+
 Forget decency, is this appropriate behavior?
 
 
