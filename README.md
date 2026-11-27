@@ -11,7 +11,6 @@ Let's clarify this.
     1. The response should be mature and responsible simply clarifying the process
     2. And giving reassurance that a proper review has been directed for assuring the inquirer
     3. And the process should conclude responsibly and procedurally
-hing
 
 3. My judgement and conduct speak to their own defense
     1. I have ruled out ever apply with the institution, and yet have I escalated, engaged in prococateur behavior
