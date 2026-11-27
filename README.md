@@ -22,6 +22,8 @@ Something is terribly broken here.
 
 Forget decency, is this appropriate behavior?
 
+I will be completely honest, having alluded to this multiple times, but a main reason for not having externally scalated already is because it is not lost on the extent to which this has the potential to embarass the industry. Yet I do not perceive to have a partner in deescalation. It stuns me sometimes.
+
 
 # Today I am going to give my side of the story re:The Securitization of American Consumer Reliance
 
