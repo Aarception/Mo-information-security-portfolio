@@ -8,7 +8,7 @@ The question I have is why would there be a Wiz graph id in my gmail? Why would 
 
 And if this is normal, why would it obfuscate after observation was noticed minutes later? Why would the dom in source code refresh and present obfuscated Wiz section? I mean I captured the persistent id across multiple endpoints.
 
-The question is not what was I interested in looking at, as I have been trying to engage the institution for months on the question of various great legal and ethical questions regarding legitimate feed, last of which is a DSR on this very question which has not received a response though over a month ago, and a request on whether institutional security has been improperly directed towards me because of a governance inquiry, sent on September 10, two and a half months ago. 
+The question is not what was I interested in looking at, as I have been trying to engage the institution for months on the question of various great legal and ethical questions regarding legitimate need, last of which is a DSR on this very question which has not received a response though over a month ago, and a request on whether institutional security has been improperly directed towards me because of a governance inquiry, sent on September 10, two and a half months ago. 
 
 No response to any.
 
