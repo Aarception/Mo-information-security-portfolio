@@ -24,7 +24,7 @@ Forget decency, is this appropriate behavior?
 
 I will be completely honest, having alluded to this multiple times, but a main reason for not having externally escalated already is because it is not lost on me the extent to which this has the potential to embarass the industry. Yet I do not perceive to have a partner in deescalation. It stuns me sometimes.
 
-I have a statement for two major industry titans in my backyard and to which my storyline intersects in personal ways. You have both had a chance to play a mediating role given your influence on both sides. The3 extent to which that has been the case will be resolved by history. My personal advice is play a constructive role befitting the reflection that you would like to see if this ever broke out and one would be reading about it. 
+I have a statement for two major industry titans in my backyard and to which my storyline intersects in personal ways. You have both had a chance to play a mediating role given your influence on both sides. The3 extent to which that has been the case will be resolved by history. My personal advice is play a constructive role befitting the reflection that you would like to see if this ever broke out and one were reading about it.
 
 # Today I am going to give my side of the story re:The Securitization of American Consumer Reliance
 
