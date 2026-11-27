@@ -1,3 +1,10 @@
+# A Thought
+
+One of the things I most struggle with in this process is toeing the line between princpled, but pragmatic; foreign born, but as native-born; consumer, but pro-business; ethical, but not dogmatic or impractical; social good inspired, but not activism, qualitative, but not demonizing or without nuance.
+
+Nowhere is this more difficult than writing the below note ⬇
+
+
 # Today I am going to give my side of the story re:The Securitization of American Consumer Reliance
 
 Having completed a literature review, I am stunned by how transformative and unprecedented my Dataset is on the matter of the securitization of American consumer reliance. Because of this reason, I realized I cannot take anything for granted including assuming that the basis of my rationale for certain actions is widely known. 
