@@ -1,6 +1,6 @@
 # A Thought
 
-One of the things I most struggle with in this process is toeing the line between princpled, but pragmatic; foreign born, but as native-born; consumer, but pro-business; ethical, but not dogmatic or impractical; social good inspired, but not activism, qualitative, but not demonizing or without nuance.
+One of the things I most struggle with in this process is toeing the line between principled, but pragmatic; foreign born, but as native-born practically speaking; consumer, but pro-business; ethical, but not dogmatic or impractical; social good inspired, but not activism; qualitative, but not demonizing or without nuance.
 
 Nowhere is this more difficult than writing the below note ⬇
 
