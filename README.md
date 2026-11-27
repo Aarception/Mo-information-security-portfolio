@@ -1,3 +1,28 @@
+# The all has to do with the inference that I may have captured the possibility that the ATS is Strategic
+
+Let's clarify this.
+
+1. I made an inference from legitimate observation
+    1. That inference was never officially put to the institution so it cannot be considered a claim or an accusation
+    2. The materials for the observation have been freely shared with the institution as part of the longer engagement
+    3. So neither accusation nor unjustified incursion occurred. Everything was legitimate, legal, ethical, and even extraordinarily restrained
+  
+2. Suppose my inference has basis or even in need of more context
+    1. The response should be mature and responsible simply clarifying the process
+    2. And giving reassurance that a proper review has been directed for assuring the inquirer
+    3. And the process should conclude responsibly and procedurally
+hing
+
+3. My judgement and conduct speak to their own defense
+    1. I have ruled out ever apply with the institution, and yet have I escalated, engaged in prococateur behavior
+    2. Have I weaponized anything concerning this issue, improperly publicizing and/or even acting maliciously
+    3. I am still holding to this conduct despite clearly wishing I had been treated as I treated
+  
+This my last public comment on this issue.
+
+---
+
+
 # A Thought
 
 One of the things I most struggle with in this process is toeing the line between principled, but pragmatic; foreign born, but as native-born practically speaking; consumer, but pro-business; ethical, but not dogmatic or impractical; social good inspired, but not activism; qualitative, but not demonizing or without nuance.
@@ -76,4 +101,4 @@ This is an assymetrical security operation and the only value is what serves amb
 
 Why is that the case between an American consumer and American digital commerce?
 
-The Negative Space: This isn't emotion or fluff or for moralzing. There is no intent involved here. The system correction is what is being built.
+The Negative Space: This isn't emotion or fluff or for moralzing. There is no intent involved here. The system correction is what is being buil
