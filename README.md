@@ -7,7 +7,7 @@ Let's clarify this.
     2. The materials for the observation have been freely shared with the institution as part of the longer engagement
     3. So neither accusation nor unjustified incursion occurred. Everything was legitimate, legal, ethical, and even extraordinarily restrained
   
-2. Suppose my inference has basis or even in need of more context
+2. Suppose my inference has basis or even has lack thereof
     1. The response should be mature and responsible simply clarifying the process
     2. And giving reassurance that a proper review has been directed for assuring the inquirer
     3. And the process should conclude responsibly and procedurally
