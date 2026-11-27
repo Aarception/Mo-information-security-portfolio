@@ -13,9 +13,9 @@ Let's clarify this.
     3. And the process should conclude responsibly and procedurally
 
 3. My judgement and conduct speak to their own defense
-    1. I have ruled out ever apply with the institution, and yet have I escalated, engaged in prococateur behavior
-    2. Have I weaponized anything concerning this issue, improperly publicizing and/or even acting maliciously
-    3. I am still holding to this conduct despite clearly wishing I had been treated as I treated
+    1. I have ruled out ever apply with the institution, and yet have I escalated, engaged in prococateur behavior or lodged an accusation?
+    2. Have I weaponized anything concerning this issue, improperly publicizing and/or even acting maliciously claiming facts?
+    3. I am still holding to this conduct despite clearly wishing I had been treated as I had treated
   
 This my last public comment on this issue.
 
