@@ -10,6 +10,8 @@ https://app6.leg.wa.gov/rcw/default.aspx?cite=4.24.792
 
 It is important to appreciate just exactly what we are talking about.
 
+Finally, what the Dataset establishes is so extraordinary that I cannot imagine that this is either standard, or even maybe it circumstantial, but for legitimate reasons grounded in verifiabl substantion, I would like to state that this acts directed at me is so extraordinary, that I cannot rule out, with any possible level of confidence, as to the breadth and extent of all the factors pertaining to or animating its direction. This is now at a point where I can no longer claim to understand what is behind this. 
+
 ---
 
 
