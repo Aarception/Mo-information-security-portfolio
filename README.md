@@ -1,3 +1,13 @@
+# As A Human Being Who Has Expressed Legitimate Concerns About The Integrity of Their Data, Sharing of Personal Data Without Permission = Doxing
+
+I did not consent to a graph, let gave permission to have any aspect of my personal data used within a single organization in a matter not provisioned by law or accepted by me, much less have my data involuntarily ingested into any network sharing graph with any other entity without my permission.
+
+I would like to state clearly that such a thing would by me be considered as nothing short of doxing and doxing is illegal under the jurisdiction in which I am based.
+
+https://app6.leg.wa.gov/rcw/default.aspx?cite=4.24.792
+
+It is important to appreciate just exactly what we are talking about.
+
 # The all has to do with the inference that I may have captured the possibility that the ATS is Strategic
 
 Let's clarify this.
