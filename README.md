@@ -6,7 +6,7 @@ I was lucky to meet him once, in Nairobi, Kenya, where he was being treated for 
 
 Beside his death bed, he pulled my arm close and said "Wiil, Ould," Son.
 
-"Make any mistake you want in life, smoke, fornicate, committ blasphemy, but never eat from the orphan interested to you."
+"Make any mistake you want in life, smoke, fornicate, committ blasphemy, but never eat from the orphan entrusted to you."
 
 Somalia, widely known as "A Nation of Poets," and anyone who speaks the language introduced to what it means to naturally fuse speaking and art, I implicitly knew what he was transferring.
 
