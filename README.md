@@ -10,27 +10,6 @@ https://app6.leg.wa.gov/rcw/default.aspx?cite=4.24.792
 
 It is important to appreciate just exactly what we are talking about.
 
-# The all has to do with the inference that I may have captured the possibility that the ATS is Strategic
-
-Let's clarify this.
-
-1. I made an inference from legitimate observation
-    1. That inference was never officially put to the institution so it cannot be considered a claim or an accusation
-    2. The materials for the observation have been freely shared with the institution as part of the longer engagement
-    3. So neither accusation nor unjustified incursion occurred. Everything was legitimate, legal, ethical, and even extraordinarily restrained
-  
-2. Suppose my inference has basis or even has lack thereof
-    1. The response should be mature and responsible simply clarifying the process
-    2. And giving reassurance that a proper review has been directed for assuring the inquirer
-    3. And the process should conclude responsibly and procedurally
-
-3. My judgement and conduct speak to their own defense
-    1. I have ruled out ever applying with the institution, and yet have I escalated, engaged in provocateur behavior, or lodged an accusation?
-    2. Have I weaponized anything concerning this issue, improperly publicizing and/or even acting maliciously claiming facts?
-    3. I am still holding to this conduct despite clearly wishing I had been treated as I had treated
-  
-This my last public comment on this issue.
-
 ---
 
 
@@ -76,38 +55,6 @@ That will be the measure of whether Industry values justice or whether it works 
 
 ![](https://github.com/Aarception/Mo-information-security-portfolio/blob/main/IMG_20261126_152950.png)
 
-Since the day I found out, I committed to repair.
+Since the day I found out, I committed to repair. 
 
-The experience was documented along the way.
-
-What has that experience taught me?
-
-The entire incentive is upside-down. Which means intention, ethics, principals are all irrelevant. The system just does not view the consumer, the citizen, the public as the object of satisfaction, e.g. "The Customer Is Always Right." It organizes with ambivalence toward them.  This is why optics, actions, signaling are all controlled for 'plausible-deniability.' An output has to be plausibly-deniable, because the target is subject to ambivilence. Understand what this means. It means the system will perfectly reflect every compliance requirement, while doing everything against the spirit of that requirement that is not constrained. This produces a known injury while distributing the knowledge across components so that no component holds it. One of the most surreal discoveries through this experience is the degree of digital infrastructure used to respond to that ambivalence against the target. One sees nothing, no movement, no suspcion-triggering outcomes, nothing; except, having been documenting with contextual awareness, there is an entire operation in the negative space, in the source code, in the algorithim. It tells me there has to be a totally new understanding about how this impacts concerns of society in this age. Imagine everything I have talked about, everything underlying this engagement, everything that precipitated it, the goal is still how to 'overcome' me. And then you think how can that even be possible or rational, until you realize I am the target of ambivalence, so rationality is irrelevant, ambivalence toward me is the incentive.
-
-Data is the issue. Consumer Data. 
-
-There needs to be a new paradigm understanding about the role of Consumer Data in the Algorithmic economy.
-
-In the old economy, one enters a store, transacts with a business, buys an item, receive a copy of a receipt and then departed.
-
-Now there is data, cookies, telemetry, intrusive mechanism, controllership.
-
-Now one doesn't just depart with only a purchase and a copy of a receipt leaving behind a few bucks.
-
-This issue has been rising at every new development, but there seems to be an inflection point now with AI and training data.
-
-There is even a sense of covert escalation in how the platform is preparing to assert that 'ambivalence' toward the target.
-
-
-This is a deviation of culture being exhibited and it needs to be reincentivized positively.
-
-This is not about one entity. It remains to be seen the extent to which the unique particularities of the entity may have contributed to the discovery, but most unfortunately the Dataset presents a bleak case with two pofound insigbts for the American consumer:
-
-1. Dispose of trust. This is not the Mom and Pop shop. Even cooperation must be Zero Trust based for your security and the system's integrity.
-2. Never assume you are in a cooperative exchange and even assume as default that you are in a game where the goal is either remove you as a factor from the board or have the threat represented by the ambivalence toward you neutralized for legal liability purposes.
-
-This is not the Mom and Pop shop who cared about "red-cheeked Billy!"
-
-This is an assymetrical security operation and the only value is what serves ambivalence.
-
-Why is that the case between an American consumer and American digital commerce?
+This is not the Mom and Pop shop who  commerce?
