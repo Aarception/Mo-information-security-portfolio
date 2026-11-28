@@ -1,3 +1,35 @@
+# Post Script
+
+My paternal grandfather was something of a drake in his younger days. He had a wild reputation.
+
+I was lucky to meet him once, in Nairobi, Kenya, where he was being treated for kidney failure, which he would succumb too.
+
+Beside his death bed, he pulled my arm close and said "Wiil, Ould," Son.
+
+"Make any mistake you want in life, smoke, fornicate, committ blasphemy, but never eat from the orphan interested to you."
+
+Somalia, widely known as "A Nation of Poets," and anyone who speaks the language introduced to what it means to naturally fuse speaking and art, I implicitly knew what he was transferring.
+
+In Arabic they call it Amanah. Amin means trust-worthy, but Amanah is not just Trust, it is a state of pure stewardship.
+
+In the Somali context, my grndfather was transferring the idea that if an orphan is entrusted to you, the orphan must eat before your biological children.
+
+The orphan must be served first, must receive presents first, must receive the most valuable present everytime.
+
+The orphan gets first pick, gets first draw, gets first try.
+
+The orphan must be privileged over your own biological children, so your children understand Amanah, or pure stewardship.
+
+It means if an orphan is entrusted to one, they must guard that orphan more than their own. If material, or money, or memory is entrusted, one must guard that material, or money, or memory more than one's own materials, or money, or memories.
+
+I wanted to work for the institution even when I felt disaffected at every level of the engagement.
+
+I lost that desire when I lost confidence about the stewardship of my entrusted data.
+
+I was able to foreclose an application or affiliation, forever, the moment I lost confidence that the orphan could be entrusted.
+
+---
+
 This is really my last statement so let me give advice which shows the man I am.
 
 On March 17, the institution provided answers.
