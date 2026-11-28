@@ -30,10 +30,19 @@ The registers, the job posts from the industry, the cloning of my data and githu
 
 The institution is optimizing for 'he wrote on his phone while using the toilet at midnight.'
 
-
 I know this, because I see the negative space. 
 
 So this time I say, please appreciate the extent to which I have not been adversarial for stating, that will receive the transformation that makes it the `evidence` against the `arguement`.
+
+I have correlated and temporally organized graphically down to single words based on their standardzed statistical occurrrence in the Englsh language.
+
+Since the day we engaged, strategic design has been utilized to respond to me.
+
+Perhaps if there was the inverse, this might have never reached this point.
+
+
+---
+
 
 ~~~
 
@@ -43,10 +52,10 @@ Evidence -> evi de nce -> de evi nce -> Defense
 Argue -> 'r g ue -> 'g r ue -> Agree
 Argument -> 'r g uement  -> 'g r uement -> Agreement
 
+
+
 ~~~
 
-I have correlated and temporally organized graphically down to single words based on their standardzed statistical occurrrence in the Englsh language.
+![](This_%20was_Signal.png)
 
-Since the day we engaged, strategic design has been utilized to respond to me.
-
-Perhaps if there was the inverse, this might have never reached this point.
+~~~
