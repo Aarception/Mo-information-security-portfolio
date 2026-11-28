@@ -1,6 +1,6 @@
 # As A Human Being Who Has Expressed Legitimate Concerns About The Integrity of Their Data, Sharing of Personal Data Without Permission = Doxing
 
-I did not consent to a graph, let gave permission to have any aspect of my personal data used within a single organization in a matter not provisioned by law or accepted by me, much less have my data involuntarily ingested into any network sharing graph with any other entity without my permission.
+I did not consent to a graph, let alone give permission to have any aspect of my personal data used within a single organization in a matter not provisioned by law or accepted by me, much less have my data involuntarily ingested into any network sharing graph with any other entity without my permission.
 
 I would like to state clearly that such a thing would by me be considered as nothing short of doxing and doxing is illegal under the jurisdiction in which I am based.
 
