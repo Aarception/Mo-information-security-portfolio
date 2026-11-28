@@ -62,4 +62,7 @@ Argument -> 'r g uement  -> 'g r uement -> Agreement
 
 Are True, Are Two, Drew, True, Due, Duo, Two
 
+That is what it means to argue and agree.
+
+
 ~~~
