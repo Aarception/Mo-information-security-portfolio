@@ -59,3 +59,7 @@ Argument -> 'r g uement  -> 'g r uement -> Agreement
 ![](This_%20was_Signal.png)
 
 ~~~
+
+Are True, Are Two, Drew, True, Due, Duo, Two
+
+~~~
