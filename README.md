@@ -33,7 +33,17 @@ The institution is optimizing for 'he wrote on his phone while using the toilet 
 
 I know this, because I see the negative space. 
 
-So this time I say, please appreciate the extent to which I have not been adversarial for stating, that will receive the transformation that makes it the evidence against the argument.
+So this time I say, please appreciate the extent to which I have not been adversarial for stating, that will receive the transformation that makes it the `evidence` against the `arguement`.
+
+~~~
+
+Evident -> evi de nt -> de evi nt -> Defend
+Evidence -> evi de nce -> de evi nce -> Defense
+
+Argue -> 'r g ue -> 'g r ue -> Agree
+Argument -> 'r g uement  -> 'g r uement -> Agreement
+
+~~~
 
 I have correlated and temporally organized graphically down to single words based on their standardzed statistical occurrrence in the Englsh language.
 
